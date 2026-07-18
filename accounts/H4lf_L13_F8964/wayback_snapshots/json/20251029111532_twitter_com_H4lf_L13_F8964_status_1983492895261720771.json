@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1983492895261720771",
+    "created_at": "2025-10-29T11:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983492895261720771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412787007940481030",
+          "start": 3,
+          "username": "CutieRivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983492895261720771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983382840164397556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CutieRivers: 这是一个捐赠码，捐赠的钱我发誓只会用作基本生活需求和必须的药品，每个捐款的人都可以私信我询问钱款去向用途，我不会提供任何捐款之后的福利，如果你需要我的劳动力请私信我，并不是捐款之后100%我就会给你什么，我的赞赏码里最高款项也只是50元，我做不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1983381866418974721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZjTJHasAEAC0y.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1983492895261720771",
+        "created_at": "2025-10-29T11:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983492895261720771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412787007940481030",
+              "start": 3,
+              "username": "CutieRivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983492895261720771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983382840164397556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CutieRivers: 这是一个捐赠码，捐赠的钱我发誓只会用作基本生活需求和必须的药品，每个捐款的人都可以私信我询问钱款去向用途，我不会提供任何捐款之后的福利，如果你需要我的劳动力请私信我，并不是捐款之后100%我就会给你什么，我的赞赏码里最高款项也只是50元，我做不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983381866418974721"
+          ]
+        },
+        "author_id": "1412787007940481030",
+        "conversation_id": "1983382840164397556",
+        "created_at": "2025-10-29T03:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983382840164397556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbVKq2PI1o",
+              "end": 156,
+              "expanded_url": "https://x.com/CutieRivers/status/1983382840164397556/photo/1",
+              "media_key": "3_1983381866418974721",
+              "start": 133,
+              "url": "https://t.co/YbVKq2PI1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983382840164397556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个捐赠码，捐赠的钱我发誓只会用作基本生活需求和必须的药品，每个捐款的人都可以私信我询问钱款去向用途，我不会提供任何捐款之后的福利，如果你需要我的劳动力请私信我，并不是捐款之后100%我就会给你什么，我的赞赏码里最高款项也只是50元，我做不到拿去买什么奢侈品。 https://t.co/YbVKq2PI1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1269,
+          "like_count": 7506,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4881
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "俺是一只农村猫，最喜欢来看推特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/baichuan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/baichuan",
+                "start": 0,
+                "url": "https://t.co/NvDIuFFizZ"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "棺材里",
+        "name": "天川花",
+        "pinned_tweet_id": "1983382840164397556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971519683846373376/0rOzEW_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 77,
+          "like_count": 11084,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 8368
+        },
+        "url": "https://t.co/NvDIuFFizZ",
+        "username": "CutieRivers",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019702382331142144",
+        "3_2019702382335299584"
+      ],
+      "media_source_tweet_id": [
+        "2019702393525694630",
+        "2019702393525694630"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2020265516716449902",
+    "created_at": "2026-02-07T22:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T23:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020265516716449902"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "伪娘"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776895112104263680",
+          "start": 3,
+          "username": "AAAAPuQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Ho894aJRb",
+          "end": 47,
+          "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+          "media_key": "3_2019702382331142144",
+          "start": 24,
+          "url": "https://t.co/0Ho894aJRb"
+        },
+        {
+          "display_url": "pic.x.com/0Ho894aJRb",
+          "end": 47,
+          "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+          "media_key": "3_2019702382335299584",
+          "start": 24,
+          "url": "https://t.co/0Ho894aJRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020265516716449902",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019702393525694630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AAAAPuQ: 🏙️\n#伪娘 #男娘 https://t.co/0Ho894aJRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019702382331142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdsnarboAAbq6v.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019702382335299584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdsnasbEAADT16.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019702382331142144",
+            "3_2019702382335299584"
+          ],
+          "media_source_tweet_id": [
+            "2019702393525694630",
+            "2019702393525694630"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2020265516716449902",
+        "created_at": "2026-02-07T22:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020265516716449902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "伪娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776895112104263680",
+              "start": 3,
+              "username": "AAAAPuQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ho894aJRb",
+              "end": 47,
+              "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+              "media_key": "3_2019702382331142144",
+              "start": 24,
+              "url": "https://t.co/0Ho894aJRb"
+            },
+            {
+              "display_url": "pic.x.com/0Ho894aJRb",
+              "end": 47,
+              "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+              "media_key": "3_2019702382335299584",
+              "start": 24,
+              "url": "https://t.co/0Ho894aJRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020265516716449902",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019702393525694630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AAAAPuQ: 🏙️\n#伪娘 #男娘 https://t.co/0Ho894aJRb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019702382331142144",
+            "3_2019702382335299584"
+          ]
+        },
+        "author_id": "1776895112104263680",
+        "conversation_id": "2019702393525694630",
+        "created_at": "2026-02-06T09:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019702393525694630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "伪娘"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ho894aJRb",
+              "end": 34,
+              "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+              "media_key": "3_2019702382331142144",
+              "start": 11,
+              "url": "https://t.co/0Ho894aJRb"
+            },
+            {
+              "display_url": "pic.x.com/0Ho894aJRb",
+              "end": 34,
+              "expanded_url": "https://x.com/AAAAPuQ/status/2019702393525694630/photo/1",
+              "media_key": "3_2019702382335299584",
+              "start": 11,
+              "url": "https://t.co/0Ho894aJRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019702393525694630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4220,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🏙️\n#伪娘 #男娘 https://t.co/0Ho894aJRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1372,
+          "like_count": 8459,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 5326
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T08:49:59.000Z",
+        "description": "🫠拍着玩",
+        "id": "1776895112104263680",
+        "name": "超超超呱叫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796518901049888768/b6WOoFdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 179,
+          "like_count": 3582,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 89
+        },
+        "username": "AAAAPuQ",
+        "verified": false
+      }
+    ]
+  }
+}

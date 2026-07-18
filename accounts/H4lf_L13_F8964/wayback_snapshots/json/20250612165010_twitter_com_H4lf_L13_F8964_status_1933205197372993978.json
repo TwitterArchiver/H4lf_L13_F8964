@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933026813904564224"
+      ],
+      "media_source_tweet_id": [
+        "1933026824260620726"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933205197372993978",
+    "created_at": "2025-06-12T16:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T17:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933205197372993978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740248854975696896",
+          "start": 3,
+          "username": "Illusory_P"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXbLoy0THK",
+          "end": 39,
+          "expanded_url": "https://x.com/Illusory_P/status/1933026824260620726/photo/1",
+          "media_key": "3_1933026813904564224",
+          "start": 16,
+          "url": "https://t.co/uXbLoy0THK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933205197372993978",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933026824260620726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Illusory_P: https://t.co/uXbLoy0THK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1933026813904564224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtN9pUgWMAA-qDh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933026813904564224"
+          ],
+          "media_source_tweet_id": [
+            "1933026824260620726"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933205197372993978",
+        "created_at": "2025-06-12T16:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933205197372993978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740248854975696896",
+              "start": 3,
+              "username": "Illusory_P"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXbLoy0THK",
+              "end": 39,
+              "expanded_url": "https://x.com/Illusory_P/status/1933026824260620726/photo/1",
+              "media_key": "3_1933026813904564224",
+              "start": 16,
+              "url": "https://t.co/uXbLoy0THK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933205197372993978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933026824260620726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Illusory_P: https://t.co/uXbLoy0THK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933026813904564224"
+          ]
+        },
+        "author_id": "1740248854975696896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933026824260620726",
+        "created_at": "2025-06-12T05:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T06:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933026824260620726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXbLoy0THK",
+              "end": 23,
+              "expanded_url": "https://x.com/Illusory_P/status/1933026824260620726/photo/1",
+              "media_key": "3_1933026813904564224",
+              "start": 0,
+              "url": "https://t.co/uXbLoy0THK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933026824260620726",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 25756,
+          "like_count": 343,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uXbLoy0THK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1048,
+          "like_count": 5607,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3965
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "16YMtF/HRT.2023/生日4.17/持证含糖/女高生活中/反向深柜中/在逃lo娘/常驻武汉/不敢再发照片怕被认出/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧",
+        "pinned_tweet_id": "1884891403861336264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929445905402392576/KFCLocRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 314,
+          "like_count": 18039,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 2309
+        },
+        "username": "Illusory_P",
+        "verified": false
+      }
+    ]
+  }
+}

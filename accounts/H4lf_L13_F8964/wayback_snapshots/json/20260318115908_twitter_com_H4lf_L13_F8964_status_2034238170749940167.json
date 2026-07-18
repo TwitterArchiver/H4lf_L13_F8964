@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024169432914771969"
+      ],
+      "media_source_tweet_id": [
+        "2024169540041552154"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034238170749940167",
+    "created_at": "2026-03-18T11:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T12:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034238170749940167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834466455100030976",
+          "start": 3,
+          "username": "gama_oxsid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0SDr8tjQwx",
+          "end": 54,
+          "expanded_url": "https://x.com/gama_oxsid/status/2024169540041552154/photo/1",
+          "media_key": "3_2024169432914771969",
+          "start": 31,
+          "url": "https://t.co/0SDr8tjQwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034238170749940167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024169540041552154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gama_oxsid: 热情已经过了，各位，好好睡觉 https://t.co/0SDr8tjQwx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034238170749940167].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034238170749940167",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034238170749940167"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2024169432914771969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdLX-4WwAEeOcY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024169432914771969"
+          ]
+        },
+        "author_id": "1834466455100030976",
+        "conversation_id": "2024169540041552154",
+        "created_at": "2026-02-18T17:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024169540041552154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SDr8tjQwx",
+              "end": 38,
+              "expanded_url": "https://x.com/gama_oxsid/status/2024169540041552154/photo/1",
+              "media_key": "3_2024169432914771969",
+              "start": 15,
+              "url": "https://t.co/0SDr8tjQwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024169540041552154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "热情已经过了，各位，好好睡觉 https://t.co/0SDr8tjQwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1439,
+          "like_count": 8760,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5536
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T05:37:48.000Z",
+        "description": "",
+        "id": "1834466455100030976",
+        "name": "伽玛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834472510840340480/wbR1q7Ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 509,
+          "like_count": 13445,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 332
+        },
+        "username": "gama_oxsid",
+        "verified": false
+      }
+    ]
+  }
+}

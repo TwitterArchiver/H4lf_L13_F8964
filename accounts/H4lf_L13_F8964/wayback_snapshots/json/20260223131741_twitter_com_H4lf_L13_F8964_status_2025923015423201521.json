@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2025923015423201521",
+    "created_at": "2026-02-23T13:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025923015423201521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025923015423201521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025818063409459597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 不可否认 顺性别青春期对身心有严重不可逆的危害 所以我建议跨性别在条件允许的情况下 请不要去找什么狗屁专家接受骗人医疗 也不要听信下面这种顺直人的胡言乱语 应查阅相关资料并基于同类的相关经验自行用药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2025923015423201521",
+        "created_at": "2026-02-23T13:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025923015423201521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025923015423201521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025818063409459597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 不可否认 顺性别青春期对身心有严重不可逆的危害 所以我建议跨性别在条件允许的情况下 请不要去找什么狗屁专家接受骗人医疗 也不要听信下面这种顺直人的胡言乱语 应查阅相关资料并基于同类的相关经验自行用药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2025818063409459597",
+        "created_at": "2026-02-23T06:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025818063409459597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeihaku8964…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/bungeihaku8964/status/2025583383070581032",
+              "start": 100,
+              "url": "https://t.co/AcEfnK3RKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025818063409459597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3707,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025583383070581032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不可否认 顺性别青春期对身心有严重不可逆的危害 所以我建议跨性别在条件允许的情况下 请不要去找什么狗屁专家接受骗人医疗 也不要听信下面这种顺直人的胡言乱语 应查阅相关资料并基于同类的相关经验自行用药 https://t.co/AcEfnK3RKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1409,
+          "like_count": 8578,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5418
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ (she/her/她)",
+        "name": "amber ଳ⋆.ೃ࿔*",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22259,
+          "following_count": 2596,
+          "like_count": 36757,
+          "listed_count": 7,
+          "media_count": 453,
+          "tweet_count": 19328
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

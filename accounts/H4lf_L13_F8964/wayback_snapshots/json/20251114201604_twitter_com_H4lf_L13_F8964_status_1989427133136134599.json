@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984878886703022085"
+      ],
+      "media_source_tweet_id": [
+        "1984878964767408258"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1989427133136134599",
+    "created_at": "2025-11-14T20:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989427133136134599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849483839728689152",
+          "start": 3,
+          "username": "sezdraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/79HSBL3oK2",
+          "end": 71,
+          "expanded_url": "https://x.com/sezdraw/status/1984878964767408258/photo/1",
+          "media_key": "3_1984878886703022085",
+          "start": 48,
+          "url": "https://t.co/79HSBL3oK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989427133136134599",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984878964767408258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sezdraw: 2nd of November ... We are so over https://t.co/79HSBL3oK2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989427133136134599].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989427133136134599",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989427133136134599"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_1984878886703022085",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4u01MQbQAUC8bo.png",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984878886703022085"
+          ]
+        },
+        "author_id": "1849483839728689152",
+        "conversation_id": "1984878964767408258",
+        "created_at": "2025-11-02T07:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984878964767408258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79HSBL3oK2",
+              "end": 58,
+              "expanded_url": "https://x.com/sezdraw/status/1984878964767408258/photo/1",
+              "media_key": "3_1984878886703022085",
+              "start": 35,
+              "url": "https://t.co/79HSBL3oK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984878964767408258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2065,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "2nd of November ... We are so over https://t.co/79HSBL3oK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1282,
+          "like_count": 7645,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4945
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T16:11:31.000Z",
+        "description": "Love to share my Kink 🔞 \nI respect women, a lot. \n\nOngoing series: Root of the Golden Order ( ROG )\n\nDM open. 漢語 / English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sezdraw.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://sezdraw.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/bCqkZvhcnZ"
+              }
+            ]
+          }
+        },
+        "id": "1849483839728689152",
+        "location": "Lands Between",
+        "name": "Sezdraw 🔞",
+        "pinned_tweet_id": "1876897518807556423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986259883218677760/sL4WArm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 697,
+          "like_count": 2477,
+          "listed_count": 14,
+          "media_count": 180,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/bCqkZvhcnZ",
+        "username": "sezdraw",
+        "verified": false
+      }
+    ]
+  }
+}

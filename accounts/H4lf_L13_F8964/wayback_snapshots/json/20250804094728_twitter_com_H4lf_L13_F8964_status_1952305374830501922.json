@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1952002596564332986",
+    "created_at": "2025-08-04T09:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952305374830501922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952305374830501922",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952002596564332986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1952002596564332986",
+        "created_at": "2025-08-04T09:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952305374830501922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952305374830501922",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952002596564332986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430976467131842564",
+        "conversation_id": "1952002596564332986",
+        "created_at": "2025-08-03T13:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952002596564332986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_muguopick/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/_muguopick/status/1948755284270481730",
+              "start": 20,
+              "url": "https://t.co/OzPBICltPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952002596564332986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 166927,
+          "like_count": 668,
+          "quote_count": 2,
+          "reply_count": 262,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948755284270481730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结束了 她刚刚去世了 没能见到最后一面 https://t.co/OzPBICltPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1138,
+          "like_count": 6437,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 4358
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "跨🏳️‍⚧️ 非二元//vocaloidp 乐手 地下摇滚老鼠人 写歌编曲弹琴的 INTP-T//负能较多请谨慎关注⚠️⚠️//抑郁康复期//时间线有血图/磕药内容⚠️//音乐工作室接单中//作品账号在@Rubusjam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "Rubusjam"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "Beijing",
+        "name": "Ringoo Kino🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938971342235467776/riw-fHFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 322,
+          "like_count": 1893,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 2118
+        },
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

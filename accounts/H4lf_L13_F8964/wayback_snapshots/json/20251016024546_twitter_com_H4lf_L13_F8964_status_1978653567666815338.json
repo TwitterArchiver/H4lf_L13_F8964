@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978502016423936000"
+      ],
+      "media_source_tweet_id": [
+        "1978502173685092485"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1978653567666815338",
+    "created_at": "2025-10-16T02:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978653567666815338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2kCm4eJebs",
+          "end": 53,
+          "expanded_url": "https://x.com/amber_toffee/status/1978502173685092485/photo/1",
+          "media_key": "3_1978502016423936000",
+          "start": 30,
+          "url": "https://t.co/2kCm4eJebs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978653567666815338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978502173685092485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 本人常看的性别研究期刊 https://t.co/2kCm4eJebs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1978502016423936000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UNGfRXwAAWcEh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978502016423936000"
+          ],
+          "media_source_tweet_id": [
+            "1978502173685092485"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1978653567666815338",
+        "created_at": "2025-10-16T02:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978653567666815338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kCm4eJebs",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_toffee/status/1978502173685092485/photo/1",
+              "media_key": "3_1978502016423936000",
+              "start": 30,
+              "url": "https://t.co/2kCm4eJebs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978653567666815338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978502173685092485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 本人常看的性别研究期刊 https://t.co/2kCm4eJebs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978502016423936000"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1978502173685092485",
+        "created_at": "2025-10-15T16:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:43:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978502021897400534",
+          "1978502173685092485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kCm4eJebs",
+              "end": 35,
+              "expanded_url": "https://x.com/amber_toffee/status/1978502173685092485/photo/1",
+              "media_key": "3_1978502016423936000",
+              "start": 12,
+              "url": "https://t.co/2kCm4eJebs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978502173685092485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2886,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人常看的性别研究期刊 https://t.co/2kCm4eJebs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1252,
+          "like_count": 7376,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 4807
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18442,
+          "following_count": 2327,
+          "like_count": 33798,
+          "listed_count": 56,
+          "media_count": 696,
+          "tweet_count": 16681
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

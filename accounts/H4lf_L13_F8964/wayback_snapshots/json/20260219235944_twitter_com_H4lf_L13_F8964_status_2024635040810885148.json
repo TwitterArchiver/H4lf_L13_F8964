@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2024635040810885148",
+    "created_at": "2026-02-19T23:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T00:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024635040810885148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024635040810885148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024428017288609834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 威權最先懲罰的永遠是女性和性少數群體。這些遭遇不僅是Ta們獨有的壓迫經驗，而且是在其他普遍的審訊和酷刑之上。而在所有酷刑和懲罰之中，性羞辱是最接近威權體制原貌的那一種。看看這些嘴臉吧，這就是權力最原始的樣貌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2024635040810885148",
+        "created_at": "2026-02-19T23:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T00:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024635040810885148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024635040810885148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024428017288609834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 威權最先懲罰的永遠是女性和性少數群體。這些遭遇不僅是Ta們獨有的壓迫經驗，而且是在其他普遍的審訊和酷刑之上。而在所有酷刑和懲罰之中，性羞辱是最接近威權體制原貌的那一種。看看這些嘴臉吧，這就是權力最原始的樣貌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497481140915290115",
+        "conversation_id": "2024428017288609834",
+        "created_at": "2026-02-19T10:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024428017288609834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyue/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/liulingyue/status/2024152401465483573",
+              "start": 105,
+              "url": "https://t.co/PuMuG6uYrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024428017288609834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4109,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024152401465483573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "威權最先懲罰的永遠是女性和性少數群體。這些遭遇不僅是Ta們獨有的壓迫經驗，而且是在其他普遍的審訊和酷刑之上。而在所有酷刑和懲罰之中，性羞辱是最接近威權體制原貌的那一種。看看這些嘴臉吧，這就是權力最原始的樣貌。 https://t.co/PuMuG6uYrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1408,
+          "like_count": 8673,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5420
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26854,
+          "following_count": 1300,
+          "like_count": 9180,
+          "listed_count": 112,
+          "media_count": 500,
+          "tweet_count": 4993
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034554554294157312"
+      ],
+      "media_source_tweet_id": [
+        "2034554685760417864"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034566785874153563",
+    "created_at": "2026-03-19T09:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034566785874153563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332324680309506048",
+          "start": 3,
+          "username": "NIKUMALUYA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddTVyGqUuG",
+          "end": 53,
+          "expanded_url": "https://x.com/NIKUMALUYA/status/2034554685760417864/video/1",
+          "media_key": "13_2034554554294157312",
+          "start": 30,
+          "url": "https://t.co/ddTVyGqUuG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034566785874153563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034554685760417864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIKUMALUYA: コレ作った人絶対頭おかしい https://t.co/ddTVyGqUuG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034566785874153563].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034566785874153563",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034566785874153563"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66666,
+        "height": 720,
+        "media_key": "13_2034554554294157312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034554554294157312/img/y2jbLv4CQ5SIMJs8.jpg",
+        "public_metrics": {
+          "view_count": 3732
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034554554294157312/vid/avc1/480x270/iIWvjeMN3T1zxxbh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034554554294157312/vid/avc1/640x360/HiuFhth-JK_Ws4UO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034554554294157312/vid/avc1/1280x720/RB_dpMZ7VGqn9diL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034554554294157312/pl/uKE76tzjKdwpxARj.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034554554294157312"
+          ]
+        },
+        "author_id": "1332324680309506048",
+        "conversation_id": "2034554685760417864",
+        "created_at": "2026-03-19T08:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034554685760417864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddTVyGqUuG",
+              "end": 37,
+              "expanded_url": "https://x.com/NIKUMALUYA/status/2034554685760417864/video/1",
+              "media_key": "13_2034554554294157312",
+              "start": 14,
+              "url": "https://t.co/ddTVyGqUuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034554685760417864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 339,
+          "impression_count": 6104,
+          "like_count": 743,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "コレ作った人絶対頭おかしい https://t.co/ddTVyGqUuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1440,
+          "like_count": 8763,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5540
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T14:05:49.000Z",
+        "description": "メス男子🐈‍⬛💜✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/47415",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/47415",
+                "start": 0,
+                "url": "https://t.co/Plr6T6r0P8"
+              }
+            ]
+          }
+        },
+        "id": "1332324680309506048",
+        "name": "＊肉丸屋 ＊",
+        "pinned_tweet_id": "2029832656792498275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971394128224362496/GKyu3kGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200724,
+          "following_count": 1019,
+          "like_count": 67809,
+          "listed_count": 1332,
+          "media_count": 1202,
+          "tweet_count": 43620
+        },
+        "url": "https://t.co/Plr6T6r0P8",
+        "username": "NIKUMALUYA",
+        "verified": false
+      }
+    ]
+  }
+}

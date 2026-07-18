@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2027703486712881274",
+    "created_at": "2026-02-28T11:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027703486712881274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1913535505230442497",
+          "start": 3,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027703486712881274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027547954157105331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3638349600Ogas: 广济医院精神科的\"高级专家特需门诊\"，避雷这位医生。\nbpd是什么都不知道。把阿鹊的所有精神问题归结到trans上面。同时和老登完全站一边。鉴定为反跨劳保幽默⏰。\n\n听完所有陈诉，第一句话是\"你需要改变自己，先把头发剪了。\"阿鹊直接拒绝之…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027547944594116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNMHPqbEAAnPGp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2027703486712881274",
+        "created_at": "2026-02-28T11:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027703486712881274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1913535505230442497",
+              "start": 3,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027703486712881274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027547954157105331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3638349600Ogas: 广济医院精神科的\"高级专家特需门诊\"，避雷这位医生。\nbpd是什么都不知道。把阿鹊的所有精神问题归结到trans上面。同时和老登完全站一边。鉴定为反跨劳保幽默⏰。\n\n听完所有陈诉，第一句话是\"你需要改变自己，先把头发剪了。\"阿鹊直接拒绝之…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027547944594116608"
+          ]
+        },
+        "author_id": "1913535505230442497",
+        "conversation_id": "2027547954157105331",
+        "created_at": "2026-02-28T00:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027547954157105331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KF7XHEoMaI",
+              "end": 179,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2027547954157105331/photo/1",
+              "media_key": "3_2027547944594116608",
+              "start": 156,
+              "url": "https://t.co/KF7XHEoMaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027547954157105331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8234,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "广济医院精神科的\"高级专家特需门诊\"，避雷这位医生。\nbpd是什么都不知道。把阿鹊的所有精神问题归结到trans上面。同时和老登完全站一边。鉴定为反跨劳保幽默⏰。\n\n听完所有陈诉，第一句话是\"你需要改变自己，先把头发剪了。\"阿鹊直接拒绝之后直接对老登说\"跟她说不通的\"\n\nMan.what can I say? https://t.co/KF7XHEoMaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1417,
+          "like_count": 8618,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5446
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "记住我\n姐姐：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "🍥阿德利鹊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025236900873994245/a3w-USMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 531,
+          "like_count": 1023,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 477
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

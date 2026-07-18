@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1994764699574178063",
+    "created_at": "2025-11-30T03:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994979472807006518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        },
+        {
+          "end": 28,
+          "id": "1757616332240224256",
+          "start": 17,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994979472807006518",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994934271170195678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParanQidAndrQid @B_cat38324 因为解离所以事情看起来都很莫名其妙并不是自己在推动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1994764699574178063",
+        "created_at": "2025-11-30T03:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994979472807006518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            },
+            {
+              "end": 28,
+              "id": "1757616332240224256",
+              "start": 17,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994979472807006518",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994934271170195678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid @B_cat38324 因为解离所以事情看起来都很莫名其妙并不是自己在推动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498893713178644482",
+        "conversation_id": "1994764699574178063",
+        "created_at": "2025-11-30T00:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T01:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994934271170195678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994934271170195678",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994764699574178063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 那我问你 怎么阴差阳错就做手术了🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1308,
+          "like_count": 7922,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5041
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 ｜ 抒澄/Cassie ｜ She/They",
+        "id": "1498893713178644482",
+        "location": "在你背后！",
+        "name": "呆頭鵝Cassie🍭🏳️‍⚧️",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882996213088256/kBnA9xb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 501,
+          "like_count": 22407,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 4476
+        },
+        "username": "ParanQidAndrQid",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21800,
+          "following_count": 200,
+          "like_count": 683,
+          "listed_count": 75,
+          "media_count": 95,
+          "tweet_count": 21453
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

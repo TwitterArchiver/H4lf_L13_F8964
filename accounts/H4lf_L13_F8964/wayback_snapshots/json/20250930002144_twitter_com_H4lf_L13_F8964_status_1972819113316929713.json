@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1972648718609342667",
+    "created_at": "2025-09-30T00:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972819113316929713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1700038264781230080",
+          "start": 0,
+          "username": "RGW90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972819113316929713",
+    "in_reply_to_user_id": "1700038264781230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972648718609342667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RGW90 好羡慕呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43333,
+        "height": 720,
+        "media_key": "7_1972648668965793793",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972648668965793793/pu/img/wmSvB2419669wxlh.jpg",
+        "public_metrics": {
+          "view_count": 1431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972648668965793793/pu/vid/avc1/480x270/G-oS-tCC3RUZZMjw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972648668965793793/pu/vid/avc1/640x360/z8olSf2CjFUybk07.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972648668965793793/pu/vid/avc1/1280x720/Vrr8BnQgzhFgkNEq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972648668965793793/pu/pl/d5wS95utjBipuveI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1972648718609342667",
+        "created_at": "2025-09-30T00:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972819113316929713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1700038264781230080",
+              "start": 0,
+              "username": "RGW90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972819113316929713",
+        "in_reply_to_user_id": "1700038264781230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972648718609342667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RGW90 好羡慕呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972648668965793793"
+          ]
+        },
+        "author_id": "1700038264781230080",
+        "conversation_id": "1972648718609342667",
+        "created_at": "2025-09-29T13:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972648718609342667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t813yGcBcp",
+              "end": 23,
+              "expanded_url": "https://x.com/RGW90/status/1972648718609342667/video/1",
+              "media_key": "7_1972648668965793793",
+              "start": 0,
+              "url": "https://t.co/t813yGcBcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972648718609342667",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3849,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t813yGcBcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1223,
+          "like_count": 7157,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 4697
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T06:49:55.000Z",
+        "description": "♂ | @libertyelysium 的 🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "libertyelysium"
+              }
+            ]
+          }
+        },
+        "id": "1700038264781230080",
+        "name": "MATADOR",
+        "pinned_tweet_id": "1938972966777430213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915448137826918402/3MR5Gyur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11164,
+          "following_count": 564,
+          "like_count": 24508,
+          "listed_count": 52,
+          "media_count": 4231,
+          "tweet_count": 26586
+        },
+        "username": "RGW90",
+        "verified": true
+      }
+    ]
+  }
+}

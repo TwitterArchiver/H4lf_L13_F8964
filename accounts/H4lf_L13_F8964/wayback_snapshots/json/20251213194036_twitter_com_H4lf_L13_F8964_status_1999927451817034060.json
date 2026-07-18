@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1999927451817034060",
+    "created_at": "2025-12-13T19:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T20:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999927451817034060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999927451817034060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999788120972378286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 陆峥主张“性身份障碍”是一种性变态精神疾病，主要提及“男性幻想成为女性”的部分中的描述还十分不知所云，认为可以用雌激素治疗这种现象但“有胸部发育的副作用”，这种语言不知道是哪个国家的，它会说中文吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1999927451817034060",
+        "created_at": "2025-12-13T19:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999927451817034060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999927451817034060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999788120972378286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 陆峥主张“性身份障碍”是一种性变态精神疾病，主要提及“男性幻想成为女性”的部分中的描述还十分不知所云，认为可以用雌激素治疗这种现象但“有胸部发育的副作用”，这种语言不知道是哪个国家的，它会说中文吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "1999788120972378286",
+        "created_at": "2025-12-13T10:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999788120972378286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/windy_skyline/status/1999674872843370704",
+              "start": 99,
+              "url": "https://t.co/ZhaE2da7s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999788120972378286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "陆峥主张“性身份障碍”是一种性变态精神疾病，主要提及“男性幻想成为女性”的部分中的描述还十分不知所云，认为可以用雌激素治疗这种现象但“有胸部发育的副作用”，这种语言不知道是哪个国家的，它会说中文吗\n而且它还引用过一个不知名的学术垃圾人写的名字是“人际心理疗法对成人性别焦虑”，却提到“用人际心理疗法成功使患者一年未吸食可卡因”的论文，可以说这种不会讲地球话的现象可能是某种全球性臭味相投的疾病了，这种东西都敢发，人类这种就算咖啡因过量戒断反应都得服药的生物你来个心理疗法一年没吸食可卡因，这玩意发出来不怕人笑掉大牙，还有脸去继续做这行吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2822,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999674872843370704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陆峥主张“性身份障碍”是一种性变态精神疾病，主要提及“男性幻想成为女性”的部分中的描述还十分不知所云，认为可以用雌激素治疗这种现象但“有胸部发育的副作用”，这种语言不知道是哪个国家的，它会说中文吗 https://t.co/ZhaE2da7s6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1312,
+          "like_count": 8048,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5095
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 225,
+          "like_count": 2380,
+          "listed_count": 9,
+          "media_count": 3516,
+          "tweet_count": 12100
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

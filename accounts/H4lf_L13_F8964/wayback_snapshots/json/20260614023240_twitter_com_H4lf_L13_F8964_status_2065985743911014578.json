@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065822144102047744"
+      ],
+      "media_source_tweet_id": [
+        "2065822147717505089"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2065985743911014578",
+    "created_at": "2026-06-14T02:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065985743911014578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976406898976202753",
+          "start": 3,
+          "username": "HazelDimm"
+        },
+        {
+          "end": 28,
+          "id": "1978193904500699136",
+          "start": 15,
+          "username": "missingeidos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLTVIkZxP8",
+          "end": 52,
+          "expanded_url": "https://x.com/HazelDimm/status/2065822147717505089/photo/1",
+          "media_key": "3_2065822144102047744",
+          "start": 29,
+          "url": "https://t.co/kLTVIkZxP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065985743911014578",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065822147717505089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HazelDimm: @missingeidos https://t.co/kLTVIkZxP8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2065822144102047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtGS3xWoAAFuwj.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065822144102047744"
+          ],
+          "media_source_tweet_id": [
+            "2065822147717505089"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2065985743911014578",
+        "created_at": "2026-06-14T02:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065985743911014578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1976406898976202753",
+              "start": 3,
+              "username": "HazelDimm"
+            },
+            {
+              "end": 28,
+              "id": "1978193904500699136",
+              "start": 15,
+              "username": "missingeidos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLTVIkZxP8",
+              "end": 52,
+              "expanded_url": "https://x.com/HazelDimm/status/2065822147717505089/photo/1",
+              "media_key": "3_2065822144102047744",
+              "start": 29,
+              "url": "https://t.co/kLTVIkZxP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985743911014578",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065822147717505089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HazelDimm: @missingeidos https://t.co/kLTVIkZxP8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065822144102047744"
+          ]
+        },
+        "author_id": "1976406898976202753",
+        "conversation_id": "2065773607943569860",
+        "created_at": "2026-06-13T15:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065822147717505089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978193904500699136",
+              "start": 0,
+              "username": "missingeidos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLTVIkZxP8",
+              "end": 37,
+              "expanded_url": "https://x.com/HazelDimm/status/2065822147717505089/photo/1",
+              "media_key": "3_2065822144102047744",
+              "start": 14,
+              "url": "https://t.co/kLTVIkZxP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065822147717505089",
+        "in_reply_to_user_id": "1978193904500699136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 23543,
+          "like_count": 1958,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065773607943569860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@missingeidos https://t.co/kLTVIkZxP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1450,
+          "like_count": 8874,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5653
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T21:59:05.000Z",
+        "description": "https://t.co/KqPEVNgMkD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hazeldimm.straw.page",
+                "end": 23,
+                "expanded_url": "https://hazeldimm.straw.page",
+                "start": 0,
+                "url": "https://t.co/KqPEVNgMkD"
+              }
+            ]
+          }
+        },
+        "id": "1976406898976202753",
+        "name": "Hazel",
+        "pinned_tweet_id": "2043021839283200349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060383336657244161/mjL-oC2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 348
+        },
+        "username": "HazelDimm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T20:19:26.000Z",
+        "description": "Owner of @make_a_5cene clothing brand / Missingeidos@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "make_a_5cene"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makea5cene.com",
+                "end": 23,
+                "expanded_url": "http://makea5cene.com",
+                "start": 0,
+                "url": "https://t.co/tFrZHwxt7s"
+              }
+            ]
+          }
+        },
+        "id": "1978193904500699136",
+        "name": "Dea",
+        "pinned_tweet_id": "2063277672550305803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978194381950865408/SSH-JDtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7838,
+          "following_count": 50,
+          "like_count": 77,
+          "listed_count": 8,
+          "media_count": 155,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/tFrZHwxt7s",
+        "username": "missingeidos",
+        "verified": false
+      }
+    ]
+  }
+}

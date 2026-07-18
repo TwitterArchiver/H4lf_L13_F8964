@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023278031415263718",
+    "created_at": "2026-02-16T07:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023304520965771628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752344070385696768",
+          "start": 0,
+          "username": "date_reina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023304520965771628",
+    "in_reply_to_user_id": "1752344070385696768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023278031415263718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@date_reina 老师一定要安全啊😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023278031415263718",
+        "created_at": "2026-02-16T07:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023304520965771628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752344070385696768",
+              "start": 0,
+              "username": "date_reina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023304520965771628",
+        "in_reply_to_user_id": "1752344070385696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023278031415263718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@date_reina 老师一定要安全啊😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752344070385696768",
+        "conversation_id": "2023278031415263718",
+        "created_at": "2026-02-16T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023278031415263718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023278031415263718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这很有可能是这个账号最后一条推了。\n过年回家发现我之前放在家里的一套cos服被咖喱人丢掉了，即使我找了半天并且质问他们，他们也死不承认。\n\n这并非是一套衣服或者钱的事情，这一套也就600多我也不差这点，而且我也买了这套衣服整整5年了，它也没有停产绝版。\n\n其一是咖喱人的这种控制欲让我甚至连找不到工作在家躺平的选项都无法接受。\n\n其二是我曾经的一位朋友（熟悉我的推油可能都知道是谁）也是因为cos服被家里丢掉的原因从世界上离开了。\n\n大概就是这样，我已经把房子都翻了一遍也没有找到衣服，即使他们不承认我也只能认为确实除了咖喱人以外没有人动过它，而且我屋子里的东西每次都被完全动了一遍。\n\n我之前就已经完全逃离原生家庭出去干活过一阵子，即使攒不下钱也至少能在外面租房以及有地方放cos服和道具之类的东西，可是现在大环境太差，工作特别不好找，而我要求已经很低了即使只是最低限度生存但是有地方放我自己手机的东西就好，即使是如此也是很难的。\n\n感谢这么多粉丝的支持，不过我确实可能没有办法在这样的家庭和世界上生存下去了，如果以后没有办法更新了真的很抱歉很抱歉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 893,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这很有可能是这个账号最后一条推了。\n过年回家发现我之前放在家里的一套cos服被咖喱人丢掉了，即使我找了半天并且质问他们，他们也死不承认。\n\n这并非是一套衣服或者钱的事情，这一套也就600多我也不差这点，而且我也买了这套衣服整整5年了，它也没有停产绝版。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1400,
+          "like_count": 8630,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5392
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "TS Ladyboy 🚪88口令红包 / 江浙沪可空降，接寄拍地陪纯绿半绿等服务/ xp复杂 /穿孔/纹身/露出..\n\nLadyboy / Cosplay / Latex / Bondage / Piercing \n\nContact:  https://t.co/WZ0Y0Gg3QO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HibikiHut",
+                "end": 142,
+                "expanded_url": "https://t.me/HibikiHut",
+                "start": 119,
+                "url": "https://t.co/WZ0Y0Gg3QO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/Reina_Date/",
+                "end": 23,
+                "expanded_url": "https://fansly.com/Reina_Date/",
+                "start": 0,
+                "url": "https://t.co/egvMJ5yTeX"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "location": "Buy my content →",
+        "name": "伊达铃奈",
+        "pinned_tweet_id": "2023278031415263718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023264043424006144/SIgkoT7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13720,
+          "following_count": 1117,
+          "like_count": 5669,
+          "listed_count": 79,
+          "media_count": 222,
+          "tweet_count": 7684
+        },
+        "url": "https://t.co/egvMJ5yTeX",
+        "username": "date_reina",
+        "verified": true
+      }
+    ]
+  }
+}

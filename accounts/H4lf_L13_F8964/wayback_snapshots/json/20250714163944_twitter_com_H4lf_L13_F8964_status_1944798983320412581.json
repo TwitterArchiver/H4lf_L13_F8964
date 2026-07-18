@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944798983320412581",
+    "created_at": "2025-07-14T16:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944798983320412581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagurazakaazur…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/kagurazakaazure/status/1944698212532793653",
+          "start": 121,
+          "url": "https://t.co/T61fdtLTWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944798983320412581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944698212532793653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶，我是一只药娘！（摆尾巴）（od补佳乐）我是药娘 好耶（疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱）（割手手）好诶好诶好诶！！！！（援交）（露出屁眼子）（乳腺狂飙） https://t.co/T61fdtLTWK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1944798983320412581",
+        "created_at": "2025-07-14T16:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944798983320412581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1944698212532793653",
+              "start": 121,
+              "url": "https://t.co/T61fdtLTWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944798983320412581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944698212532793653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶，我是一只药娘！（摆尾巴）（od补佳乐）我是药娘 好耶（疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱）（割手手）好诶好诶好诶！！！！（援交）（露出屁眼子）（乳腺狂飙） https://t.co/T61fdtLTWK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1944698212532793653",
+        "created_at": "2025-07-14T09:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944698212532793653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944698212532793653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2844,
+          "like_count": 70,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好耶，我是一只药娘！（摆尾巴）（od补佳乐）我是药娘 好耶（疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱）（割手手）好诶好诶好诶！！！！（援交）（露出屁眼子）（乳腺狂飙）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1115,
+          "like_count": 6338,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4292
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7276,
+          "following_count": 1055,
+          "like_count": 35412,
+          "listed_count": 9,
+          "media_count": 2485,
+          "tweet_count": 19990
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

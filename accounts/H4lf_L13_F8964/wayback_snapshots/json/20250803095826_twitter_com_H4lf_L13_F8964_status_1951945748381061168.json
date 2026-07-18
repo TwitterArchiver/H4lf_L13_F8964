@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951927210845339648",
+        "3_1951927217417781248",
+        "3_1951927224569094144"
+      ],
+      "media_source_tweet_id": [
+        "1951927228549279960",
+        "1951927228549279960",
+        "1951927228549279960"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1951945748381061168",
+    "created_at": "2025-08-03T09:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T10:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951945748381061168"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "rbq"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "肉便器"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "露出"
+        },
+        {
+          "end": 50,
+          "start": 36,
+          "tag": "exhibitionism"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681842432269512707",
+          "start": 3,
+          "username": "TarsMark2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GaatgvZALJ",
+          "end": 103,
+          "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+          "media_key": "3_1951927210845339648",
+          "start": 80,
+          "url": "https://t.co/GaatgvZALJ"
+        },
+        {
+          "display_url": "pic.x.com/GaatgvZALJ",
+          "end": 103,
+          "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+          "media_key": "3_1951927217417781248",
+          "start": 80,
+          "url": "https://t.co/GaatgvZALJ"
+        },
+        {
+          "display_url": "pic.x.com/GaatgvZALJ",
+          "end": 103,
+          "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+          "media_key": "3_1951927224569094144",
+          "start": 80,
+          "url": "https://t.co/GaatgvZALJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951945748381061168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951927228549279960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TarsMark2: 是谁在比耶\n\n#rbq #肉便器 #露出 #exhibitionism \nM：小九 -qq：2375872477 欢迎去找小九玩 https://t.co/GaatgvZALJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951945748381061168].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951945748381061168",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951945748381061168"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1951927210845339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxajdN3bAAApcKz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1951927217417781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxajdmWagAAik2o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1951927224569094144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxajeA_a4AAUnOQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951927210845339648",
+            "3_1951927217417781248",
+            "3_1951927224569094144"
+          ]
+        },
+        "author_id": "1681842432269512707",
+        "conversation_id": "1951927228549279960",
+        "created_at": "2025-08-03T08:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951927228549279960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "rbq"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "肉便器"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "露出"
+            },
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "exhibitionism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaatgvZALJ",
+              "end": 88,
+              "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+              "media_key": "3_1951927210845339648",
+              "start": 65,
+              "url": "https://t.co/GaatgvZALJ"
+            },
+            {
+              "display_url": "pic.x.com/GaatgvZALJ",
+              "end": 88,
+              "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+              "media_key": "3_1951927217417781248",
+              "start": 65,
+              "url": "https://t.co/GaatgvZALJ"
+            },
+            {
+              "display_url": "pic.x.com/GaatgvZALJ",
+              "end": 88,
+              "expanded_url": "https://x.com/TarsMark2/status/1951927228549279960/photo/1",
+              "media_key": "3_1951927224569094144",
+              "start": 65,
+              "url": "https://t.co/GaatgvZALJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951927228549279960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 675,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "是谁在比耶\n\n#rbq #肉便器 #露出 #exhibitionism \nM：小九 -qq：2375872477 欢迎去找小九玩 https://t.co/GaatgvZALJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1139,
+          "like_count": 6425,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 4353
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:44:28.000Z",
+        "description": "指派男，如跨 | 主营：露出、犬化、物化 | 会一点绳子、摄影 | 欢迎找我拍瑟图 | 调教室全靠大家寄存玩具 | 表号 @brandon_shia | 本账号 NSFW  | 刺猬老婆 @HzShibari86  宠物小狗 @kurikawayuyu | 广告不胜其烦 私信已关 可评论 我回私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "brandon_shia"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "kurikawayuyu"
+              }
+            ]
+          }
+        },
+        "id": "1681842432269512707",
+        "location": "距您100m以内",
+        "name": "梓楚 Branka",
+        "pinned_tweet_id": "1947997491053687182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947999207664807936/sbyLX21p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20147,
+          "following_count": 1565,
+          "like_count": 98355,
+          "listed_count": 83,
+          "media_count": 220,
+          "tweet_count": 5890
+        },
+        "username": "TarsMark2",
+        "verified": false
+      }
+    ]
+  }
+}

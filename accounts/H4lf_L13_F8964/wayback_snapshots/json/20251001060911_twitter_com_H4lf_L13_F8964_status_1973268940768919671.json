@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1972691380385509768",
+    "created_at": "2025-10-01T06:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T07:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973268940768919671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973268940768919671",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972691380385509768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 那文科生人人喊打 连路边的狗都要骂两句的时候，老大哥有说什么？老大哥自己引导的再唱红白脸罢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_1972691341030346752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BoUqmaUAAZyss.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1972691380385509768",
+        "created_at": "2025-10-01T06:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973268940768919671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973268940768919671",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972691380385509768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 那文科生人人喊打 连路边的狗都要骂两句的时候，老大哥有说什么？老大哥自己引导的再唱红白脸罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972691341030346752"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1972691380385509768",
+        "created_at": "2025-09-29T15:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972691380385509768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9qDY8mU3a",
+              "end": 33,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1972691380385509768/photo/1",
+              "media_key": "3_1972691341030346752",
+              "start": 10,
+              "url": "https://t.co/j9qDY8mU3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972691380385509768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 1378364,
+          "like_count": 2207,
+          "quote_count": 21,
+          "reply_count": 312,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰的罪名定了。 https://t.co/j9qDY8mU3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1225,
+          "like_count": 7168,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 4704
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235405,
+          "following_count": 1845,
+          "like_count": 191,
+          "listed_count": 1232,
+          "media_count": 26879,
+          "tweet_count": 34242
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

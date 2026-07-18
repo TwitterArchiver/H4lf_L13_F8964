@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004299353100599545",
+    "created_at": "2025-12-26T01:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T02:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004362625766117575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004362625766117575",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004299353100599545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 ( ；´Д｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004299346733326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9CzovmWYAADzoy.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2004299353100599545",
+        "created_at": "2025-12-26T01:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T02:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004362625766117575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004362625766117575",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004299353100599545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 ( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004299346733326336"
+          ]
+        },
+        "author_id": "1840008766135103488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004299353100599545",
+        "created_at": "2025-12-25T21:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T22:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004299353100599545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPmIpkKFRR",
+              "end": 84,
+              "expanded_url": "https://x.com/nande198900/status/2004299353100599545/photo/1",
+              "media_key": "3_2004299346733326336",
+              "start": 61,
+              "url": "https://t.co/gPmIpkKFRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004299353100599545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 627,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想拍新色图了，群里看到的背景改了改成大概想拍的效果，所以有没有一米九两米往上的光头壮汉cos成葛朗台和卡班跟我拍这套🧐😳 https://t.co/gPmIpkKFRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1317,
+          "like_count": 8140,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 5137
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "1983518752793604213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923498092516573185/UQ5TgMeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17666,
+          "following_count": 2387,
+          "like_count": 5453,
+          "listed_count": 73,
+          "media_count": 1121,
+          "tweet_count": 14832
+        },
+        "username": "nande198900",
+        "verified": false
+      }
+    ]
+  }
+}

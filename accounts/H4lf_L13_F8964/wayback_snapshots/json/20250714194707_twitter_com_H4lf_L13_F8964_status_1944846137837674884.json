@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944846137837674884",
+    "created_at": "2025-07-14T19:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944846137837674884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "Anastasia195113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944846137837674884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944733407172583885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anastasia195113: 好耶，我是一只山东人！（摆大葱）（od大葱）我是山东人 好耶（疯狂儒叫）（磕大头）好耶 山东人我是山东人，好耶！！！！！（摆动大葱）（rua冠）（使劲打老婆孩子）（在地上磕头）（装正经）（割麦子）好诶好诶好诶！！！！（儒交）（鲁出）（子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1944846137837674884",
+        "created_at": "2025-07-14T19:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944846137837674884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "Anastasia195113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944846137837674884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944733407172583885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anastasia195113: 好耶，我是一只山东人！（摆大葱）（od大葱）我是山东人 好耶（疯狂儒叫）（磕大头）好耶 山东人我是山东人，好耶！！！！！（摆动大葱）（rua冠）（使劲打老婆孩子）（在地上磕头）（装正经）（割麦子）好诶好诶好诶！！！！（儒交）（鲁出）（子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "1944733407172583885",
+        "created_at": "2025-07-14T12:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944733407172583885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1944698212532793653",
+              "start": 124,
+              "url": "https://t.co/UYBsmhaPCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944733407172583885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944698212532793653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶，我是一只山东人！（摆大葱）（od大葱）我是山东人 好耶（疯狂儒叫）（磕大头）好耶 山东人我是山东人，好耶！！！！！（摆动大葱）（rua冠）（使劲打老婆孩子）（在地上磕头）（装正经）（割麦子）好诶好诶好诶！！！！（儒交）（鲁出）（子路酱狂飙） https://t.co/UYBsmhaPCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1118,
+          "like_count": 6365,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4300
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。04年mtx，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQnDQd 恋人@Sorsacerba ，家人@emiya436900，可爱的弟弟/妹妹@IhateHubeib",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "emiya436900"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "IhateHubeib"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 58,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 35,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 1634,
+          "like_count": 48147,
+          "listed_count": 8,
+          "media_count": 910,
+          "tweet_count": 28240
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

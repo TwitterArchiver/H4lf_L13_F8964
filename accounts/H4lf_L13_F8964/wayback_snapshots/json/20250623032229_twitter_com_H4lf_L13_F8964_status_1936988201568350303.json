@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1936016644452893161",
+    "created_at": "2025-06-23T03:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T04:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936988201568350303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724148046097743872",
+          "start": 0,
+          "username": "jyjd215056"
+        },
+        {
+          "end": 28,
+          "id": "1812217449338785792",
+          "start": 12,
+          "username": "beijieyoufengle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936988201568350303",
+    "in_reply_to_user_id": "1724148046097743872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936885781953651042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jyjd215056 @beijieyoufengle ಥ_ಥ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1936016644452893161",
+        "created_at": "2025-06-23T03:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936988201568350303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724148046097743872",
+              "start": 0,
+              "username": "jyjd215056"
+            },
+            {
+              "end": 28,
+              "id": "1812217449338785792",
+              "start": 12,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936988201568350303",
+        "in_reply_to_user_id": "1724148046097743872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936885781953651042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyjd215056 @beijieyoufengle ಥ_ಥ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724148046097743872",
+        "conversation_id": "1936016644452893161",
+        "created_at": "2025-06-22T20:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T21:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936885781953651042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            },
+            {
+              "end": 32,
+              "id": "1812217449338785792",
+              "start": 16,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936885781953651042",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936351706574655633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 @beijieyoufengle 抱抱你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1082,
+          "like_count": 5940,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4077
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T19:31:52.000Z",
+        "description": "03 / 160 /47kg？不道啊，去年11月称的，感觉没多大变化(，选择困难症，喜欢幻想，不太会聊天（口嗨一时爽，一直口嗨一直爽）",
+        "id": "1724148046097743872",
+        "location": "音乃木阪",
+        "name": "冰可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828274658971721728/rWUd37jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 242,
+          "like_count": 4576,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1318
+        },
+        "username": "jyjd215056",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T20:08:13.000Z",
+        "description": "北极的一只🦊～不是鹅！//已成年!//Coser//🇭🇰//🏳‍⚧mtf 大证//187/60kg/75B//infp//约拍 寄拍 互fo请私信//🚪100 不接单了，可以陪你聊聊天/扫主页置顶赞赏码或口令红包//经常被封 可加tg群指路//亲爱的@TudouCn24795",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "TudouCn24795"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EBBSE_Channel",
+                "end": 23,
+                "expanded_url": "https://t.me/EBBSE_Channel",
+                "start": 0,
+                "url": "https://t.co/U2rDCvTdX5"
+              }
+            ]
+          }
+        },
+        "id": "1812217449338785792",
+        "location": "距离你5.0cm/s",
+        "name": "鹅宝不是鹅🍥（三号机）",
+        "pinned_tweet_id": "1823997009357103518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874866528757444608/v6IE-reo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25232,
+          "following_count": 275,
+          "like_count": 1200,
+          "listed_count": 50,
+          "media_count": 247,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/U2rDCvTdX5",
+        "username": "beijieyoufengle",
+        "verified": false
+      }
+    ]
+  }
+}

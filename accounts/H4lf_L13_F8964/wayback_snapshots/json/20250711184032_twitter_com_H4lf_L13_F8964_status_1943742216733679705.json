@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943742101373563074",
+    "created_at": "2025-07-11T18:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T19:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943742216733679705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943742216733679705",
+    "in_reply_to_user_id": "1790275346899554304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943742101373563074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实例在冰岛服务器上跑，new出来的对象却在我屁股里面。有无数个备份和可更新的自由硬件，这是否是一种忒修斯之船？\n\n换个角度，我写这篇的时候颅内高潮，怎么就不是别人在云上操我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943742101373563074",
+        "created_at": "2025-07-11T18:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943742216733679705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943742216733679705",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943742101373563074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实例在冰岛服务器上跑，new出来的对象却在我屁股里面。有无数个备份和可更新的自由硬件，这是否是一种忒修斯之船？\n\n换个角度，我写这篇的时候颅内高潮，怎么就不是别人在云上操我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943742101373563074",
+        "created_at": "2025-07-11T18:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943742101373563074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943742101373563074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来写个内置AI的dildo。让我和这个dildo精灵结婚然后3p。\n\n我记得之前看过有人把内存条插进去，太蒂了。\n小时候不受欢迎，觉得只有AI能接纳我\n\n想被韩国的颗粒，台湾的防水pcb，美国的设计，冰岛的服务器的混血机器狂暴轰入（然后贴片电容掉在里面，噗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1114,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4278
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

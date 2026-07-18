@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2001995184075378851",
+    "created_at": "2025-12-19T12:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001995184075378851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "759251",
+          "start": 3,
+          "username": "CNN"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The House on Wednesday voted to pass a bill that could imprison health care providers for providing gender-affirming care for minors.",
+          "display_url": "cnn.it/4rZdEVv",
+          "end": 133,
+          "expanded_url": "https://cnn.it/4rZdEVv",
+          "images": [
+            {
+              "height": 450,
+              "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "House passes bill criminalizing gender-affirming care for minors | CNN Politics",
+          "unwound_url": "https://www.cnn.com/2025/12/17/politics/house-bill-criminalizing-gender-affirming-care-minors?Date=20251218&Profile=CNN&utm_content=1766018441&utm_medium=social&utm_source=twitter",
+          "url": "https://t.co/wcbrLuyjUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001995184075378851",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001452545638609104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CNN: House passes bill criminalizing gender-affirming care for minors. Its path in the Senate is unclear.\nhttps://t.co/wcbrLuyjUS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2001995184075378851",
+        "created_at": "2025-12-19T12:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001995184075378851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "759251",
+              "start": 3,
+              "username": "CNN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The House on Wednesday voted to pass a bill that could imprison health care providers for providing gender-affirming care for minors.",
+              "display_url": "cnn.it/4rZdEVv",
+              "end": 133,
+              "expanded_url": "https://cnn.it/4rZdEVv",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "House passes bill criminalizing gender-affirming care for minors | CNN Politics",
+              "unwound_url": "https://www.cnn.com/2025/12/17/politics/house-bill-criminalizing-gender-affirming-care-minors?Date=20251218&Profile=CNN&utm_content=1766018441&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/wcbrLuyjUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001995184075378851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001452545638609104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CNN: House passes bill criminalizing gender-affirming care for minors. Its path in the Senate is unclear.\nhttps://t.co/wcbrLuyjUS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2001452545638609104",
+        "created_at": "2025-12-18T00:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001452545638609104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The House on Wednesday voted to pass a bill that could imprison health care providers for providing gender-affirming care for minors.",
+              "display_url": "cnn.it/4rZdEVv",
+              "end": 124,
+              "expanded_url": "https://cnn.it/4rZdEVv",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001452547026853888/Sz315JOd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "House passes bill criminalizing gender-affirming care for minors | CNN Politics",
+              "unwound_url": "https://www.cnn.com/2025/12/17/politics/house-bill-criminalizing-gender-affirming-care-minors?Date=20251218&Profile=CNN&utm_content=1766018441&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/wcbrLuyjUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001452545638609104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 147617,
+          "like_count": 289,
+          "quote_count": 16,
+          "reply_count": 175,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "House passes bill criminalizing gender-affirming care for minors. Its path in the Senate is unclear.\nhttps://t.co/wcbrLuyjUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1312,
+          "like_count": 8095,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 5117
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-09T00:35:02.000Z",
+        "description": "It’s our job to #GoThere and tell the most difficult stories. For breaking news, follow @CNNBRK and download the CNN app ➡️ https://t.co/7PQD7o6fLw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "GoThere"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "CNNBRK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cnn.smart.link/mi381rv0w",
+                "end": 147,
+                "expanded_url": "https://cnn.smart.link/mi381rv0w",
+                "start": 124,
+                "url": "https://t.co/7PQD7o6fLw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "end": 23,
+                "expanded_url": "http://www.cnn.com",
+                "start": 0,
+                "url": "https://t.co/imGp4Ieixi"
+              }
+            ]
+          }
+        },
+        "id": "759251",
+        "name": "CNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669780523911110656/K9gaaM1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60900616,
+          "following_count": 1051,
+          "like_count": 1325,
+          "listed_count": 153891,
+          "media_count": 190741,
+          "tweet_count": 425509
+        },
+        "url": "https://t.co/imGp4Ieixi",
+        "username": "CNN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989904948679843840"
+      ],
+      "media_source_tweet_id": [
+        "1989905046994399634"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989927602270744633",
+    "created_at": "2025-11-16T05:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989927602270744633"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "latex"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "胶娃"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1356992575400337413",
+          "start": 3,
+          "username": "DearcheClaudia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubPtn3v9FJ",
+          "end": 80,
+          "expanded_url": "https://x.com/DearcheClaudia/status/1989905046994399634/video/1",
+          "media_key": "13_1989904948679843840",
+          "start": 57,
+          "url": "https://t.co/ubPtn3v9FJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989927602270744633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989905046994399634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DearcheClaudia: 坐地铁的时候被人控制开了100\n#kigurumi #latex #胶娃 https://t.co/ubPtn3v9FJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14164,
+        "height": 1280,
+        "media_key": "13_1989904948679843840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989904948679843840/img/QtMH9a--ve9wFyGi.jpg",
+        "public_metrics": {
+          "view_count": 285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989904948679843840/vid/avc1/320x568/0WNLQJOuRtN2w24w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989904948679843840/vid/avc1/480x852/xvE8marML58wIS2i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989904948679843840/vid/avc1/720x1280/hATSGybu9Dbc17gp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989904948679843840/pl/_1oS57EQVQO8S9xh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989904948679843840"
+          ],
+          "media_source_tweet_id": [
+            "1989905046994399634"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989927602270744633",
+        "created_at": "2025-11-16T05:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989927602270744633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "latex"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "胶娃"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1356992575400337413",
+              "start": 3,
+              "username": "DearcheClaudia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubPtn3v9FJ",
+              "end": 80,
+              "expanded_url": "https://x.com/DearcheClaudia/status/1989905046994399634/video/1",
+              "media_key": "13_1989904948679843840",
+              "start": 57,
+              "url": "https://t.co/ubPtn3v9FJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989927602270744633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989905046994399634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DearcheClaudia: 坐地铁的时候被人控制开了100\n#kigurumi #latex #胶娃 https://t.co/ubPtn3v9FJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989904948679843840"
+          ]
+        },
+        "author_id": "1356992575400337413",
+        "conversation_id": "1989905046994399634",
+        "created_at": "2025-11-16T03:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989905046994399634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "latex"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "胶娃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubPtn3v9FJ",
+              "end": 60,
+              "expanded_url": "https://x.com/DearcheClaudia/status/1989905046994399634/video/1",
+              "media_key": "13_1989904948679843840",
+              "start": 37,
+              "url": "https://t.co/ubPtn3v9FJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989905046994399634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 712,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "坐地铁的时候被人控制开了100\n#kigurumi #latex #胶娃 https://t.co/ubPtn3v9FJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1284,
+          "like_count": 7683,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 4966
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T15:47:07.000Z",
+        "description": "kig角色：迪亞琪·K·庫羅迪亞。 女王大人，王樣。 愛好烹飪，繪畫。 摸魚為主的日常記錄。角色有魅魔修女、绝死绝命、塞拉斯维多利亚、自设魅魔、枫糖、霍尔海雅、赤城。 欢迎扩列。",
+        "id": "1356992575400337413",
+        "name": "怕熱の女王樣",
+        "pinned_tweet_id": "1678282864276946945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716828990131109888/8V9WAtTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 1234,
+          "like_count": 488,
+          "listed_count": 48,
+          "media_count": 142,
+          "tweet_count": 703
+        },
+        "username": "DearcheClaudia",
+        "verified": false
+      }
+    ]
+  }
+}

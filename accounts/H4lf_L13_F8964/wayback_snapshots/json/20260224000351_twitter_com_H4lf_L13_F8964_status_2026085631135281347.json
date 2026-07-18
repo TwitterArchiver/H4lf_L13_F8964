@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2025522624072200666",
+    "created_at": "2026-02-24T00:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026085631135281347"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "建议考",
+          "probability": 0.6587,
+          "start": 8,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1379609664938143744",
+          "start": 0,
+          "username": "JkyDex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026085631135281347",
+    "in_reply_to_user_id": "1379609664938143744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025522624072200666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JkyDex 建议考公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2025522624072200666",
+        "created_at": "2026-02-24T00:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026085631135281347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "建议考",
+              "probability": 0.6587,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1379609664938143744",
+              "start": 0,
+              "username": "JkyDex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026085631135281347",
+        "in_reply_to_user_id": "1379609664938143744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025522624072200666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JkyDex 建议考公"
+      },
+      {
+        "article": {
+          "title": "是时候了, 让我们一起把社群拉回正轨 ---- 关于重塑社群风气的倡议书"
+        },
+        "attachments": {},
+        "author_id": "1379609664938143744",
+        "conversation_id": "2025522624072200666",
+        "created_at": "2026-02-22T10:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025522624072200666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2025…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2025517578979020800",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2025517578979020800",
+              "url": "https://t.co/W3VYL0j1VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025522624072200666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 26968,
+          "like_count": 77,
+          "quote_count": 30,
+          "reply_count": 35,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W3VYL0j1VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1410,
+          "like_count": 8578,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5420
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T01:39:59.000Z",
+        "description": "非二元 | 23岁 | 含糖🍥 | 行星级二阶\n贴子成分: 日常/经验/段子/梗图/吵架\n永不投降, 永不放弃. 我们不只是生存, 我们要胜利!\n\n(不常在线, 若想问我问题, 可回帖或私信)",
+        "id": "1379609664938143744",
+        "location": "银河系-猎户座旋臂",
+        "name": "银河仙子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841026277396135936/MV3p-LDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 68,
+          "like_count": 3551,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 390
+        },
+        "username": "JkyDex",
+        "verified": true
+      }
+    ]
+  }
+}

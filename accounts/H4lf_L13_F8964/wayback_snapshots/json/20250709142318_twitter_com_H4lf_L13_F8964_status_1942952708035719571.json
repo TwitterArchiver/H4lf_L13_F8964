@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942679571205349377"
+      ],
+      "media_source_tweet_id": [
+        "1942679574380413105"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942952708035719571",
+    "created_at": "2025-07-09T14:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T15:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942952708035719571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VIeXhWceVh",
+          "end": 59,
+          "expanded_url": "https://x.com/ratshelprats/status/1942679574380413105/photo/1",
+          "media_key": "3_1942679571205349377",
+          "start": 36,
+          "url": "https://t.co/VIeXhWceVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942952708035719571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942679574380413105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 如此重复三十年\n直到大厦崩塌。。。 https://t.co/VIeXhWceVh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942952708035719571].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942952708035719571",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942952708035719571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_1942679571205349377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXIxvoaYAEl4Sa.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942679571205349377"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "1942679574380413105",
+        "created_at": "2025-07-08T20:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T21:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942679574380413105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIeXhWceVh",
+              "end": 41,
+              "expanded_url": "https://x.com/ratshelprats/status/1942679574380413105/photo/1",
+              "media_key": "3_1942679571205349377",
+              "start": 18,
+              "url": "https://t.co/VIeXhWceVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942679574380413105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 17541,
+          "like_count": 268,
+          "quote_count": 4,
+          "reply_count": 42,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "如此重复三十年\n直到大厦崩塌。。。 https://t.co/VIeXhWceVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1106,
+          "like_count": 6266,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 4256
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1942565133345251408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79911,
+          "following_count": 486,
+          "like_count": 50652,
+          "listed_count": 121,
+          "media_count": 392,
+          "tweet_count": 949
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

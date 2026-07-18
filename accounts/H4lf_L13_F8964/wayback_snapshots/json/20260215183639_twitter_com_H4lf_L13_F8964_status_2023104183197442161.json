@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1652937921018867712",
+        "3_1652937920981106690"
+      ],
+      "media_source_tweet_id": [
+        "1652937938324561920",
+        "1652937938324561920"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023104183197442161",
+    "created_at": "2026-02-15T18:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023104183197442161"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "伪娘"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "女装子"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "男の娘"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "crossdresser"
+        },
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "sissy"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "cd"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1128247158203768832",
+          "start": 3,
+          "username": "tatuziddderm"
+        },
+        {
+          "end": 41,
+          "id": "1544720771808784385",
+          "start": 25,
+          "username": "gougouaihenaich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x8yuBHArbk",
+          "end": 116,
+          "expanded_url": "https://x.com/tatuziddderm/status/1652937938324561920/photo/1",
+          "media_key": "3_1652937921018867712",
+          "start": 93,
+          "url": "https://t.co/x8yuBHArbk"
+        },
+        {
+          "display_url": "pic.x.com/x8yuBHArbk",
+          "end": 116,
+          "expanded_url": "https://x.com/tatuziddderm/status/1652937938324561920/photo/1",
+          "media_key": "3_1652937920981106690",
+          "start": 93,
+          "url": "https://t.co/x8yuBHArbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023104183197442161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1652937938324561920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatuziddderm: 谢谢老师！！！@gougouaihenaich \n五一快乐！！！！！\n\n#伪娘 #女装子 ＃男の娘 #crossdresser #sissy #cd https://t.co/x8yuBHArbk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023104183197442161].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023104183197442161",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023104183197442161"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4055,
+        "media_key": "3_1652937921018867712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvBqSBIaMAAK0Zo.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2047,
+        "media_key": "3_1652937920981106690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvBqSA_aAAIMoek.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1652937921018867712",
+            "3_1652937920981106690"
+          ]
+        },
+        "author_id": "1128247158203768832",
+        "conversation_id": "1652937938324561920",
+        "created_at": "2023-05-01T07:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-01T07:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1652937938324561920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "伪娘"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "女装子"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "男の娘"
+            },
+            {
+              "end": 63,
+              "start": 50,
+              "tag": "crossdresser"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "sissy"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "cd"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1544720771808784385",
+              "start": 7,
+              "username": "gougouaihenaich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8yuBHArbk",
+              "end": 98,
+              "expanded_url": "https://x.com/tatuziddderm/status/1652937938324561920/photo/1",
+              "media_key": "3_1652937921018867712",
+              "start": 75,
+              "url": "https://t.co/x8yuBHArbk"
+            },
+            {
+              "display_url": "pic.x.com/x8yuBHArbk",
+              "end": 98,
+              "expanded_url": "https://x.com/tatuziddderm/status/1652937938324561920/photo/1",
+              "media_key": "3_1652937920981106690",
+              "start": 75,
+              "url": "https://t.co/x8yuBHArbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1652937938324561920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 326316,
+          "like_count": 2157,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢老师！！！@gougouaihenaich \n五一快乐！！！！！\n\n#伪娘 #女装子 ＃男の娘 #crossdresser #sissy #cd https://t.co/x8yuBHArbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1389,
+          "like_count": 8606,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5379
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T10:34:19.000Z",
+        "description": "长居横浜，里号（x小号）发布全部的内容，只需要99！请在本推特私信我口令红包投喂！或者爱赞助自助下单：https://t.co/sEPkOR9OyS 可看到全部内容！基本都在线！patreon ：https://t.co/8qbKEk0vag 不要传播！！可定制图片，小视频，不接推广！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "azz.net/Tutuzi",
+                "end": 74,
+                "expanded_url": "https://azz.net/Tutuzi",
+                "start": 51,
+                "url": "https://t.co/sEPkOR9OyS"
+              },
+              {
+                "display_url": "patreon.com/c/tuzi228/shop",
+                "end": 121,
+                "expanded_url": "https://www.patreon.com/c/tuzi228/shop",
+                "start": 98,
+                "url": "https://t.co/8qbKEk0vag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.g79W8wEmpQnB…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.g79W8wEmpQnBB0E?tk=pIPg3b4YeSy",
+                "start": 0,
+                "url": "https://t.co/xAd7EoJXkU"
+              }
+            ]
+          }
+        },
+        "id": "1128247158203768832",
+        "location": "Yokohama-shi Tsurumi, Kanagawa",
+        "name": "菟籽（我很便宜请买我里号🙉）",
+        "pinned_tweet_id": "1874422873991020594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518563675107250176/rnlpp7c6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337573,
+          "following_count": 2941,
+          "like_count": 21486,
+          "listed_count": 1692,
+          "media_count": 1457,
+          "tweet_count": 22788
+        },
+        "url": "https://t.co/xAd7EoJXkU",
+        "username": "tatuziddderm",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-07-06T16:31:59.000Z",
+        "description": "死掉了",
+        "id": "1544720771808784385",
+        "location": "狗窝T_T",
+        "name": "狗狗今天喝奶茶了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709861694279970816/meHL-MZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12505,
+          "following_count": 83,
+          "like_count": 526,
+          "listed_count": 73,
+          "media_count": 67,
+          "tweet_count": 192
+        },
+        "username": "gougouaihenaich",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

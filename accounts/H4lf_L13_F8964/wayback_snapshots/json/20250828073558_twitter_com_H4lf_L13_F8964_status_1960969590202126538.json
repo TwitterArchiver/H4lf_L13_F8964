@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1960334294993555583",
+    "created_at": "2025-08-28T07:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T08:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960969590202126538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855964593417486336",
+          "start": 0,
+          "username": "seraikuyuuha"
+        },
+        {
+          "end": 27,
+          "id": "1681846126608261120",
+          "start": 14,
+          "username": "masonnotfree"
+        },
+        {
+          "end": 36,
+          "id": "1433678976564662273",
+          "start": 28,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960969590202126538",
+    "in_reply_to_user_id": "1855964593417486336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960883562657538170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seraikuyuuha @masonnotfree @hsn8086 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1960334294993555583",
+        "created_at": "2025-08-28T07:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960969590202126538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855964593417486336",
+              "start": 0,
+              "username": "seraikuyuuha"
+            },
+            {
+              "end": 27,
+              "id": "1681846126608261120",
+              "start": 14,
+              "username": "masonnotfree"
+            },
+            {
+              "end": 36,
+              "id": "1433678976564662273",
+              "start": 28,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960969590202126538",
+        "in_reply_to_user_id": "1855964593417486336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960883562657538170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seraikuyuuha @masonnotfree @hsn8086 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855964593417486336",
+        "conversation_id": "1960334294993555583",
+        "created_at": "2025-08-28T01:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960883562657538170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            },
+            {
+              "end": 29,
+              "id": "1681846126608261120",
+              "start": 16,
+              "username": "masonnotfree"
+            },
+            {
+              "end": 38,
+              "id": "1433678976564662273",
+              "start": 30,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960883562657538170",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960802885274673318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 @masonnotfree @hsn8086 东湖？武汉的东湖吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1184,
+          "like_count": 6902,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 4586
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T13:24:12.000Z",
+        "description": "你管我什么性别｜可能会散发负能量｜不谈任何敏感话题｜不参与任何吵架｜不键政｜普通彩笔音游人｜音乐是精神食粮｜会随地fo人请勿介意｜中文 English OK 日本語 Français 学习中",
+        "id": "1855964593417486336",
+        "location": "弭刻日",
+        "name": "iphory",
+        "pinned_tweet_id": "1897938475556782271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881363978405982209/RQP5Y8Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 718,
+          "like_count": 9606,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 651
+        },
+        "username": "seraikuyuuha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:59:09.000Z",
+        "description": "",
+        "id": "1681846126608261120",
+        "location": "Japan",
+        "name": "梅松Mason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832313740764577792/X2MHWSby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 365,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1746
+        },
+        "username": "masonnotfree",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92532,
+          "following_count": 986,
+          "like_count": 43868,
+          "listed_count": 214,
+          "media_count": 15074,
+          "tweet_count": 22313
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996137959909945344",
+        "3_1996137959909978113"
+      ],
+      "media_source_tweet_id": [
+        "1996137992612909318",
+        "1996137992612909318"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996353341136462180",
+    "created_at": "2025-12-03T22:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T23:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996353341136462180"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 12,
+          "tag": "一般ウケはしないけど自分は好きだなと思って欲しい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1322936189381349379",
+          "start": 3,
+          "username": "hx_xux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yGZJWGPZa4",
+          "end": 61,
+          "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+          "media_key": "3_1996137959909945344",
+          "start": 38,
+          "url": "https://t.co/yGZJWGPZa4"
+        },
+        {
+          "display_url": "pic.x.com/yGZJWGPZa4",
+          "end": 61,
+          "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+          "media_key": "3_1996137959909978113",
+          "start": 38,
+          "url": "https://t.co/yGZJWGPZa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996353341136462180",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996137992612909318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hx_xux: #一般ウケはしないけど自分は好きだなと思って欲しい https://t.co/yGZJWGPZa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1996137959909945344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7O05gca8AAvhvv.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3519,
+        "media_key": "3_1996137959909978113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7O05gcbcAELHj9.jpg",
+        "width": 2640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996137959909945344",
+            "3_1996137959909978113"
+          ],
+          "media_source_tweet_id": [
+            "1996137992612909318",
+            "1996137992612909318"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996353341136462180",
+        "created_at": "2025-12-03T22:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996353341136462180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 12,
+              "tag": "一般ウケはしないけど自分は好きだなと思って欲しい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1322936189381349379",
+              "start": 3,
+              "username": "hx_xux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGZJWGPZa4",
+              "end": 61,
+              "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+              "media_key": "3_1996137959909945344",
+              "start": 38,
+              "url": "https://t.co/yGZJWGPZa4"
+            },
+            {
+              "display_url": "pic.x.com/yGZJWGPZa4",
+              "end": 61,
+              "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+              "media_key": "3_1996137959909978113",
+              "start": 38,
+              "url": "https://t.co/yGZJWGPZa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996353341136462180",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996137992612909318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hx_xux: #一般ウケはしないけど自分は好きだなと思って欲しい https://t.co/yGZJWGPZa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996137959909945344",
+            "3_1996137959909978113"
+          ]
+        },
+        "author_id": "1322936189381349379",
+        "conversation_id": "1996137992612909318",
+        "created_at": "2025-12-03T08:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996137992612909318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 0,
+              "tag": "一般ウケはしないけど自分は好きだなと思って欲しい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGZJWGPZa4",
+              "end": 49,
+              "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+              "media_key": "3_1996137959909945344",
+              "start": 26,
+              "url": "https://t.co/yGZJWGPZa4"
+            },
+            {
+              "display_url": "pic.x.com/yGZJWGPZa4",
+              "end": 49,
+              "expanded_url": "https://x.com/hx_xux/status/1996137992612909318/photo/1",
+              "media_key": "3_1996137959909978113",
+              "start": 26,
+              "url": "https://t.co/yGZJWGPZa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996137992612909318",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 18516,
+          "like_count": 1766,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "#一般ウケはしないけど自分は好きだなと思って欲しい https://t.co/yGZJWGPZa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1314,
+          "like_count": 7998,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5073
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-01T16:19:11.000Z",
+        "description": "心地良ヰ悪夢ヲ魅ｾマセｳ...❤︎†ﾍｯﾀﾞｰ@RIP2_様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 23,
+                "username": "RIP2_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Suikyou",
+                "end": 23,
+                "expanded_url": "https://lit.link/Suikyou",
+                "start": 0,
+                "url": "https://t.co/LVGhKDqzZb"
+              }
+            ]
+          }
+        },
+        "id": "1322936189381349379",
+        "location": "きゃんしろ12/6、12、13",
+        "name": "酔狂",
+        "pinned_tweet_id": "1670065360752750592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948768100683579394/ET1RZ101_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18107,
+          "following_count": 391,
+          "like_count": 28409,
+          "listed_count": 81,
+          "media_count": 383,
+          "tweet_count": 4753
+        },
+        "url": "https://t.co/LVGhKDqzZb",
+        "username": "hx_xux",
+        "verified": false
+      }
+    ]
+  }
+}

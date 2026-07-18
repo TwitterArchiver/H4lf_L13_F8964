@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942338987127103488"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1942339000616075406",
+    "created_at": "2025-07-07T21:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T22:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942339000616075406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eC9hI807Ng",
+          "end": 32,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1942339000616075406/photo/1",
+          "media_key": "3_1942338987127103488",
+          "start": 9,
+          "url": "https://t.co/eC9hI807Ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942339000616075406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两眼一睁还是进货 https://t.co/eC9hI807Ng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942338987127103488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSTBJEaYAA6Cs2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942338987127103488"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1942339000616075406",
+        "created_at": "2025-07-07T21:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942339000616075406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eC9hI807Ng",
+              "end": 32,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1942339000616075406/photo/1",
+              "media_key": "3_1942338987127103488",
+              "start": 9,
+              "url": "https://t.co/eC9hI807Ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942339000616075406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两眼一睁还是进货 https://t.co/eC9hI807Ng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1105,
+          "like_count": 6241,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 4240
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

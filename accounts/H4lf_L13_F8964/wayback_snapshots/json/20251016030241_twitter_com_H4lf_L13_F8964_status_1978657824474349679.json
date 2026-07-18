@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1978310463894016240",
+    "created_at": "2025-10-16T03:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978657824474349679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "592326946",
+          "start": 0,
+          "username": "paooo79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978657824474349679",
+    "in_reply_to_user_id": "592326946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978310463894016240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paooo79 评论区支黑收收味🤦‍♀️ pogo本来就是西方发明的，你们自己去搜搜外国的音乐节也这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31580,
+        "height": 1280,
+        "media_key": "7_1978310415336783872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978310415336783872/pu/img/QrXqtjDkz1yNlHYn.jpg",
+        "public_metrics": {
+          "view_count": 60802
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978310415336783872/pu/vid/avc1/320x568/ihVMv4bQdV9vpCzA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978310415336783872/pu/vid/avc1/480x852/qllQG44AoaIH4Oy7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978310415336783872/pu/vid/avc1/720x1280/Y9YiBQPZCAtOCgxM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978310415336783872/pu/pl/lBuHbFyWQxFxPCjl.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1978310463894016240",
+        "created_at": "2025-10-16T03:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978657824474349679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "592326946",
+              "start": 0,
+              "username": "paooo79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978657824474349679",
+        "in_reply_to_user_id": "592326946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978310463894016240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paooo79 评论区支黑收收味🤦‍♀️ pogo本来就是西方发明的，你们自己去搜搜外国的音乐节也这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978310415336783872"
+          ]
+        },
+        "author_id": "592326946",
+        "conversation_id": "1978310463894016240",
+        "created_at": "2025-10-15T04:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978310463894016240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWAxC2efvU",
+              "end": 33,
+              "expanded_url": "https://x.com/paooo79/status/1978310463894016240/video/1",
+              "media_key": "7_1978310415336783872",
+              "start": 10,
+              "url": "https://t.co/NWAxC2efvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978310463894016240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 94537,
+          "like_count": 213,
+          "quote_count": 6,
+          "reply_count": 67,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "一群快樂的中國人😅 https://t.co/NWAxC2efvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1252,
+          "like_count": 7377,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 4810
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-28T02:10:26.000Z",
+        "description": "生、台灣人，死、台灣魂",
+        "id": "592326946",
+        "location": "Taiwan",
+        "name": "ponpon",
+        "pinned_tweet_id": "1349755395644919811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/660451397343686656/SRL114Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20050,
+          "following_count": 1254,
+          "like_count": 66972,
+          "listed_count": 57,
+          "media_count": 12019,
+          "tweet_count": 25035
+        },
+        "username": "paooo79",
+        "verified": true
+      }
+    ]
+  }
+}

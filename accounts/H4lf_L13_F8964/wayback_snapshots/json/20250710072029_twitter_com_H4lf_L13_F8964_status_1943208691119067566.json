@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943208679689588737"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943208691119067566",
+    "created_at": "2025-07-10T07:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T08:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943208691119067566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xY5gyNFgoL",
+          "end": 36,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1943208691119067566/photo/1",
+          "media_key": "3_1943208679689588737",
+          "start": 13,
+          "url": "https://t.co/xY5gyNFgoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943208691119067566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“三年生产建设恢复时期” https://t.co/xY5gyNFgoL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1943208679689588737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvep_6VakAEf5T1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943208679689588737"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943208691119067566",
+        "created_at": "2025-07-10T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943208691119067566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xY5gyNFgoL",
+              "end": 36,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1943208691119067566/photo/1",
+              "media_key": "3_1943208679689588737",
+              "start": 13,
+              "url": "https://t.co/xY5gyNFgoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943208691119067566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“三年生产建设恢复时期” https://t.co/xY5gyNFgoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 1111,
+          "like_count": 6275,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 4262
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

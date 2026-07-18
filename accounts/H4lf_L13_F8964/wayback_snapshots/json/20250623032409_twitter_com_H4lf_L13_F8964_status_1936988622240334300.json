@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1476121747724255232",
+          "name": "その着せ替え人形は恋をする"
+        }
+      }
+    ],
+    "conversation_id": "1936988622240334300",
+    "created_at": "2025-06-23T03:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T04:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936988622240334300"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 95,
+          "normalized_text": "黒江雫ちゃん",
+          "probability": 0.6242,
+          "start": 90,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "C106"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476541324820385796",
+          "start": 3,
+          "username": "ayunochan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/TxwUK",
+          "end": 143,
+          "start": 125,
+          "url": "https://t.co/TxwUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936988622240334300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930926962752499931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayunochan_: ◎あなたのサークル「# あゆのちゃーじ！」は、\n\n「 日曜日 西地区 “あ” ブロック 24ab(西2ホール) 」\nに配置されました！\n\n着せ恋から黒江雫ちゃん写真集&amp;グッズ頒布予定です💜♡´-\n\n#C106 https://t.co/TxwUK…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3359,
+        "media_key": "3_1930926938308358144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GswH0eUaMAAtIpb.jpg",
+        "width": 2519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          }
+        ],
+        "conversation_id": "1936988622240334300",
+        "created_at": "2025-06-23T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936988622240334300"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "黒江雫ちゃん",
+              "probability": 0.6242,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "C106"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476541324820385796",
+              "start": 3,
+              "username": "ayunochan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/TxwUK",
+              "end": 143,
+              "start": 125,
+              "url": "https://t.co/TxwUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936988622240334300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930926962752499931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayunochan_: ◎あなたのサークル「# あゆのちゃーじ！」は、\n\n「 日曜日 西地区 “あ” ブロック 24ab(西2ホール) 」\nに配置されました！\n\n着せ恋から黒江雫ちゃん写真集&amp;グッズ頒布予定です💜♡´-\n\n#C106 https://t.co/TxwUK…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930926938308358144"
+          ]
+        },
+        "author_id": "1476541324820385796",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          }
+        ],
+        "conversation_id": "1930926962752499931",
+        "created_at": "2025-06-06T09:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T10:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930926962752499931"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "黒江雫ちゃん",
+              "probability": 0.6271,
+              "start": 74,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "C106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxwUKOA9XK",
+              "end": 132,
+              "expanded_url": "https://x.com/ayunochan_/status/1930926962752499931/photo/1",
+              "media_key": "3_1930926938308358144",
+              "start": 109,
+              "url": "https://t.co/TxwUKOA9XK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930926962752499931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 590,
+          "impression_count": 94177,
+          "like_count": 3223,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "◎あなたのサークル「# あゆのちゃーじ！」は、\n\n「 日曜日 西地区 “あ” ブロック 24ab(西2ホール) 」\nに配置されました！\n\n着せ恋から黒江雫ちゃん写真集&amp;グッズ頒布予定です💜♡´-\n\n#C106 https://t.co/TxwUKOA9XK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1083,
+          "like_count": 5940,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4078
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:11:18.000Z",
+        "description": "猫が好きな155cm cosplayer&グラビア🐈‍⬛ 【お仕事のご依頼はhttps://t.co/wCmDnKEkRl✉️】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gdl-entertainment.tokyo",
+                "end": 61,
+                "expanded_url": "http://gdl-entertainment.tokyo",
+                "start": 38,
+                "url": "https://t.co/wCmDnKEkRl"
+              }
+            ]
+          }
+        },
+        "id": "1476541324820385796",
+        "location": "お写真確認DMまで！無断転載× 🩵🐾",
+        "name": "あゆの 6/22Muse撮影会",
+        "pinned_tweet_id": "1930926962752499931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893909985517809664/_hIPHDMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431579,
+          "following_count": 123,
+          "like_count": 8489,
+          "listed_count": 1887,
+          "media_count": 428,
+          "tweet_count": 7882
+        },
+        "username": "ayunochan_",
+        "verified": true
+      }
+    ]
+  }
+}

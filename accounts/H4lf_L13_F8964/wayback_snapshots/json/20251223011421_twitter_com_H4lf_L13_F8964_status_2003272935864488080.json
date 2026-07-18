@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2003272935864488080",
+    "created_at": "2025-12-23T01:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T02:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003272935864488080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003272935864488080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002989631877603390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 之前网上很火一个所谓的「护送100个女生回家」挑战。\n\n很多网友看得津津有味，看得很起劲，却很少有人关心被尾随的女生到底有多恐惧。\n\n说白了，这根本不是“护送”，而是跟踪。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2003272935864488080",
+        "created_at": "2025-12-23T01:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T02:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003272935864488080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003272935864488080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002989631877603390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 之前网上很火一个所谓的「护送100个女生回家」挑战。\n\n很多网友看得津津有味，看得很起劲，却很少有人关心被尾随的女生到底有多恐惧。\n\n说白了，这根本不是“护送”，而是跟踪。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575765089030139905",
+        "conversation_id": "2002989631877603390",
+        "created_at": "2025-12-22T06:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:27:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002989368483664185",
+          "2002989631877603390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002989631877603390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前网上很火一个所谓的「护送100个女生回家」挑战。\n\n很多网友看得津津有味，看得很起劲，却很少有人关心被尾随的女生到底有多恐惧。\n\n说白了，这根本不是“护送”，而是跟踪。\n\n女生不知道你是谁、要干什么、会跟到哪里，她只能不断回头确认、加快脚步、提高警惕。这些原本是求生本能的反应，却被弹幕当成“剧情张力”“沉浸感”。\n\n更荒谬的是，视频里还清楚暴露了回家路线、楼栋环境，等于把女性的居住信息当成流量素材公开展示。\n\n今天你说是“善意”，明天就可能被有心人照着路线复刻。\n\n在很多国家，这种行为会被直接定义为 跟踪骚扰，轻则报警，重则入刑。而在中国互联网，它却能被包装成正能量挑战，成为一场男性自我感动的表演。\n\n真正让人不寒而栗的，从来不是某一个视频，而是：一个社会可以无视女性的恐惧，却对“看起来很善良”集体高潮。\n\n不问女生是否同意，不谈边界，不承认恐惧是合理的，只在乎“我是不是好人”。\n\n一旦你质疑，就会有人说：“你想太多了。”“人家是好心。”“你这样想世界太阴暗。”\n\n可真正阴暗的，是把女性的安全焦虑当成娱乐项目。\n\n如果真的关心女性安全，就应该反对尾随、反对偷拍、反对任何未经同意的“保护表演”，而不是把“我没有实质伤害你”\n当成道德勋章。\n\n这大概就是所谓的中国特色：把越界当善意，把恐惧当流量，把女性当素材。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 28399,
+          "like_count": 363,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "之前网上很火一个所谓的「护送100个女生回家」挑战。\n\n很多网友看得津津有味，看得很起劲，却很少有人关心被尾随的女生到底有多恐惧。\n\n说白了，这根本不是“护送”，而是跟踪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1308,
+          "like_count": 8105,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 5122
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25558,
+          "following_count": 514,
+          "like_count": 30738,
+          "listed_count": 87,
+          "media_count": 9106,
+          "tweet_count": 24390
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

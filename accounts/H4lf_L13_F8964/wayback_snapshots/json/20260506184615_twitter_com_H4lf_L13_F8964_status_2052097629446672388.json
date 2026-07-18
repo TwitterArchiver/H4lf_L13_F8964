@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2051580269430542390",
+    "created_at": "2026-05-06T18:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052097629446672388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1823986839461789696",
+          "start": 0,
+          "username": "khnh80044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052097629446672388",
+    "in_reply_to_user_id": "1823986839461789696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051580269430542390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khnh80044 规训到这种地步了？我们活在2026？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 183809,
+        "height": 972,
+        "media_key": "13_2051580141000880128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051580141000880128/img/LZjq06Pi1CAsr-7N.jpg",
+        "public_metrics": {
+          "view_count": 544452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/320x432/Bq0oJ3wBbyo6rHGl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/480x648/1RyJTYWIGD8SftLM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/720x972/By-wkjXcGzzCwIQy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/pl/UsmNfNb81MTPoWAN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2051580269430542390",
+        "created_at": "2026-05-06T18:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052097629446672388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1823986839461789696",
+              "start": 0,
+              "username": "khnh80044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052097629446672388",
+        "in_reply_to_user_id": "1823986839461789696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051580269430542390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khnh80044 规训到这种地步了？我们活在2026？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051580141000880128"
+          ]
+        },
+        "author_id": "1823986839461789696",
+        "conversation_id": "2051580269430542390",
+        "created_at": "2026-05-05T08:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051580269430542390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCBTLLvG4I",
+              "end": 57,
+              "expanded_url": "https://x.com/khnh80044/status/2051580269430542390/video/1",
+              "media_key": "13_2051580141000880128",
+              "start": 34,
+              "url": "https://t.co/jCBTLLvG4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051580269430542390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2405,
+          "impression_count": 951382,
+          "like_count": 4498,
+          "quote_count": 35,
+          "reply_count": 85,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "Posture makes a big difference.💕💖 https://t.co/jCBTLLvG4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1447,
+          "like_count": 8862,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 5632
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:36:23.000Z",
+        "description": "DM to image credit & removal.\n✨ Enjoy Music & Dance  together! ❤️🌟 \nPosting #Dance #Kindness #Classical #Music #Comedy #Film . 🌸🌷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "Dance"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "Kindness"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "tag": "Classical"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "Music"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "Comedy"
+              },
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "Film"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shenyuncreations.com",
+                "end": 23,
+                "expanded_url": "https://www.shenyuncreations.com/",
+                "start": 0,
+                "url": "https://t.co/rQxCxxiK29"
+              }
+            ]
+          }
+        },
+        "id": "1823986839461789696",
+        "location": "Vietnam",
+        "name": "Love Music",
+        "pinned_tweet_id": "1996861753419059425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838576340351750146/b4GJtODE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602738,
+          "following_count": 1822,
+          "like_count": 42719,
+          "listed_count": 553,
+          "media_count": 5812,
+          "tweet_count": 16174
+        },
+        "url": "https://t.co/rQxCxxiK29",
+        "username": "khnh80044",
+        "verified": true
+      }
+    ]
+  }
+}

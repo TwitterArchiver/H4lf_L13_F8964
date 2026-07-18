@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020964227780050944",
+        "3_2020964218665881600"
+      ],
+      "media_source_tweet_id": [
+        "2020964276459217386",
+        "2020964276459217386"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2021679277444407513",
+    "created_at": "2026-02-11T20:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T21:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021679277444407513"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "男娘露出"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "露出"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "femboy"
+        },
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "男の娘ᅠ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "932889255797440512",
+          "start": 3,
+          "username": "KaykaysTb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JWS7cmZq0h",
+          "end": 86,
+          "expanded_url": "https://x.com/KaykaysTb/status/2020964276459217386/photo/1",
+          "media_key": "3_2020964227780050944",
+          "start": 63,
+          "url": "https://t.co/JWS7cmZq0h"
+        },
+        {
+          "display_url": "pic.x.com/JWS7cmZq0h",
+          "end": 86,
+          "expanded_url": "https://x.com/KaykaysTb/status/2020964276459217386/photo/1",
+          "media_key": "3_2020964218665881600",
+          "start": 63,
+          "url": "https://t.co/JWS7cmZq0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021679277444407513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020964276459217386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KaykaysTb: -看看安全出口chudai\nWataa \n#男娘露出 #露出 #femboy #男の娘ᅠ  ᅠ https://t.co/JWS7cmZq0h"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021679277444407513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021679277444407513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021679277444407513"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2020964227780050944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAvoQfSaAAAnYka.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2020964218665881600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAvoP9Va0AAJZ00.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020964227780050944",
+            "3_2020964218665881600"
+          ]
+        },
+        "author_id": "932889255797440512",
+        "conversation_id": "2020964276459217386",
+        "created_at": "2026-02-09T20:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020964276459217386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "男娘露出"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "露出"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "femboy"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "男の娘ᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWS7cmZq0h",
+              "end": 71,
+              "expanded_url": "https://x.com/KaykaysTb/status/2020964276459217386/photo/1",
+              "media_key": "3_2020964227780050944",
+              "start": 48,
+              "url": "https://t.co/JWS7cmZq0h"
+            },
+            {
+              "display_url": "pic.x.com/JWS7cmZq0h",
+              "end": 71,
+              "expanded_url": "https://x.com/KaykaysTb/status/2020964276459217386/photo/1",
+              "media_key": "3_2020964218665881600",
+              "start": 48,
+              "url": "https://t.co/JWS7cmZq0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020964276459217386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 26936,
+          "like_count": 686,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "-看看安全出口chudai\nWataa \n#男娘露出 #露出 #femboy #男の娘ᅠ  ᅠ https://t.co/JWS7cmZq0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 1377,
+          "like_count": 8544,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5359
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T08:31:45.000Z",
+        "description": "🔞猛男 ↓DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kkkaykays",
+                "end": 23,
+                "expanded_url": "https://t.me/kkkaykays",
+                "start": 0,
+                "url": "https://t.co/gV7wD8Fkhx"
+              }
+            ]
+          }
+        },
+        "id": "932889255797440512",
+        "name": "Kaykays",
+        "pinned_tweet_id": "2017956007906070927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008347979426455553/UPeDGzCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30179,
+          "following_count": 317,
+          "like_count": 2869,
+          "listed_count": 154,
+          "media_count": 177,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/gV7wD8Fkhx",
+        "username": "KaykaysTb",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

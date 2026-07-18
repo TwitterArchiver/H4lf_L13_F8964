@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026699049307713536"
+      ],
+      "media_source_tweet_id": [
+        "2026699167582793835"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026817717932552677",
+    "created_at": "2026-02-26T00:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026817717932552677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DWlH7Cbtg",
+          "end": 55,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2026699167582793835/video/1",
+          "media_key": "13_2026699049307713536",
+          "start": 32,
+          "url": "https://t.co/0DWlH7Cbtg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026817717932552677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026699167582793835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 小帕的脱口秀非常棒。 https://t.co/0DWlH7Cbtg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 242308,
+        "height": 960,
+        "media_key": "13_2026699049307713536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026699049307713536/img/hVztyc2Zsbu1aFIo.jpg",
+        "public_metrics": {
+          "view_count": 23358
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026699049307713536/vid/avc1/320x426/K-hOIGR0tFb5Bj03.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026699049307713536/vid/avc1/480x640/flCVSzx6kARHcTYB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026699049307713536/vid/avc1/720x960/_EHO5vsuxURwAD6w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026699049307713536/pl/Rn-j-62fzr_YNpq9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026699049307713536"
+          ],
+          "media_source_tweet_id": [
+            "2026699167582793835"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026817717932552677",
+        "created_at": "2026-02-26T00:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026817717932552677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DWlH7Cbtg",
+              "end": 55,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2026699167582793835/video/1",
+              "media_key": "13_2026699049307713536",
+              "start": 32,
+              "url": "https://t.co/0DWlH7Cbtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026817717932552677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026699167582793835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 小帕的脱口秀非常棒。 https://t.co/0DWlH7Cbtg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026699049307713536"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2026699167582793835",
+        "created_at": "2026-02-25T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026699167582793835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DWlH7Cbtg",
+              "end": 34,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2026699167582793835/video/1",
+              "media_key": "13_2026699049307713536",
+              "start": 11,
+              "url": "https://t.co/0DWlH7Cbtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026699167582793835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 22445,
+          "like_count": 351,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "小帕的脱口秀非常棒。 https://t.co/0DWlH7Cbtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1412,
+          "like_count": 8584,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5425
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27313,
+          "following_count": 554,
+          "like_count": 32854,
+          "listed_count": 90,
+          "media_count": 9508,
+          "tweet_count": 25823
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

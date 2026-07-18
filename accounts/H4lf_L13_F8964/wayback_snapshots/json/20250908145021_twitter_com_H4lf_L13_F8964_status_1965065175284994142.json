@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1965065175284994142",
+    "created_at": "2025-09-08T14:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T15:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965065175284994142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1956338692802707456",
+          "start": 3,
+          "username": "idonotlikeddv"
+        },
+        {
+          "end": 35,
+          "id": "1843201902550634496",
+          "start": 19,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965065175284994142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964974159093698833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @idonotlikeddv: @LwrDHYyuxR22499 我还是建议你去买气瓶钢管巴拿马阀气室钢珠握把快排阀组装气枪，武力解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1965065175284994142",
+        "created_at": "2025-09-08T14:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965065175284994142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1956338692802707456",
+              "start": 3,
+              "username": "idonotlikeddv"
+            },
+            {
+              "end": 35,
+              "id": "1843201902550634496",
+              "start": 19,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965065175284994142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964974159093698833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @idonotlikeddv: @LwrDHYyuxR22499 我还是建议你去买气瓶钢管巴拿马阀气室钢珠握把快排阀组装气枪，武力解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956338692802707456",
+        "conversation_id": "1964778581286121961",
+        "created_at": "2025-09-08T08:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964974159093698833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964974159093698833",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964778581286121961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我还是建议你去买气瓶钢管巴拿马阀气室钢珠握把快排阀组装气枪，武力解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1201,
+          "like_count": 7000,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 4610
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T12:54:42.000Z",
+        "description": "",
+        "id": "1956338692802707456",
+        "name": "云梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956338763006976000/rC-5emQq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "idonotlikeddv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 593,
+          "like_count": 582,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 822
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

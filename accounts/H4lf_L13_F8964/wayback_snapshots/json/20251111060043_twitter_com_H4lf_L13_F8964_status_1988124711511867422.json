@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1987775958825230349",
+    "created_at": "2025-11-11T06:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988124711511867422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988124711511867422",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987775958825230349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 抱抱抱抱，羡慕哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1987775958825230349",
+        "created_at": "2025-11-11T06:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988124711511867422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988124711511867422",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987775958825230349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 抱抱抱抱，羡慕哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1987775958825230349",
+        "created_at": "2025-11-10T06:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987775958825230349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987775958825230349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8527,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天给PAI填医疗信息表，填到手术原因的时候莫名其妙就哭了起来…才意识到原来自己的性别焦虑真的已经憋了好多好多年，早就习惯背景音当中那一抹焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1280,
+          "like_count": 7630,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 4937
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥(休学ing)/一推就倒邪恶北方地牢主/穿胶写胶SM高手/接论文修改, 乳胶优化, idea咨询, 3D打印/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "🚪50/申根可飞",
+        "name": "Ted",
+        "pinned_tweet_id": "1985165031843995934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3401,
+          "following_count": 1391,
+          "like_count": 31944,
+          "listed_count": 5,
+          "media_count": 318,
+          "tweet_count": 6427
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

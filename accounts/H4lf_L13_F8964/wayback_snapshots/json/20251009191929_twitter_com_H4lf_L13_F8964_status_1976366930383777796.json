@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975761890010890240"
+      ],
+      "media_source_tweet_id": [
+        "1975779924238872868"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1976366930383777796",
+    "created_at": "2025-10-09T19:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T20:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976366930383777796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "350551595",
+          "start": 3,
+          "username": "KazePNW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JVKqNUurB",
+          "end": 51,
+          "expanded_url": "https://x.com/KazePNW/status/1975779924238872868/photo/1",
+          "media_key": "3_1975761890010890240",
+          "start": 28,
+          "url": "https://t.co/8JVKqNUurB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976366930383777796",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975779924238872868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KazePNW: New camo drip. https://t.co/8JVKqNUurB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1975761890010890240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tQ-I7agAA3PUZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975761890010890240"
+          ],
+          "media_source_tweet_id": [
+            "1975779924238872868"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1976366930383777796",
+        "created_at": "2025-10-09T19:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T20:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976366930383777796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "350551595",
+              "start": 3,
+              "username": "KazePNW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JVKqNUurB",
+              "end": 51,
+              "expanded_url": "https://x.com/KazePNW/status/1975779924238872868/photo/1",
+              "media_key": "3_1975761890010890240",
+              "start": 28,
+              "url": "https://t.co/8JVKqNUurB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976366930383777796",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975779924238872868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KazePNW: New camo drip. https://t.co/8JVKqNUurB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975761890010890240"
+          ]
+        },
+        "author_id": "350551595",
+        "conversation_id": "1975779924238872868",
+        "created_at": "2025-10-08T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975779924238872868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JVKqNUurB",
+              "end": 38,
+              "expanded_url": "https://x.com/KazePNW/status/1975779924238872868/photo/1",
+              "media_key": "3_1975761890010890240",
+              "start": 15,
+              "url": "https://t.co/8JVKqNUurB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975779924238872868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 557,
+          "impression_count": 59508,
+          "like_count": 3850,
+          "quote_count": 27,
+          "reply_count": 51,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "New camo drip. https://t.co/8JVKqNUurB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1237,
+          "like_count": 7261,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 4741
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-07T23:35:44.000Z",
+        "description": "USN Veteran, Nurse, 2nd Amendment Absolutist, Lifter Of Weights, Larper, Gamer. | Views are my own and do not represent any organization | Probably A Fed.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tacticalgaggle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tacticalgaggle",
+                "start": 0,
+                "url": "https://t.co/9ewcqG0UaA"
+              }
+            ]
+          }
+        },
+        "id": "350551595",
+        "location": "🔫🏔️🌲PNW ",
+        "name": "Kaze",
+        "pinned_tweet_id": "1504675842303016960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951672411184893952/bqag1DSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 679,
+          "like_count": 33999,
+          "listed_count": 11,
+          "media_count": 6090,
+          "tweet_count": 27938
+        },
+        "url": "https://t.co/9ewcqG0UaA",
+        "username": "KazePNW",
+        "verified": true
+      }
+    ]
+  }
+}

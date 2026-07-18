@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980597906890539008"
+      ],
+      "media_source_tweet_id": [
+        "1980597909902307736"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1980737747032629360",
+    "created_at": "2025-10-21T20:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T21:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980737747032629360"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3tIp5Fc3o6",
+          "end": 69,
+          "expanded_url": "https://x.com/HacchiTheMaid/status/1980597909902307736/photo/1",
+          "media_key": "3_1980597906890539008",
+          "start": 46,
+          "url": "https://t.co/3tIp5Fc3o6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980737747032629360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980597909902307736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 想发露牛子的照片】\n会有人喜欢嘛，请你吃奶哦\n#男娘 https://t.co/3tIp5Fc3o6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980737747032629360].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980737747032629360",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980737747032629360"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_1980597906890539008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3x_TXsXwAAw_lD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980597906890539008"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "1980597909902307736",
+        "created_at": "2025-10-21T11:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980597909902307736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tIp5Fc3o6",
+              "end": 50,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/1980597909902307736/photo/1",
+              "media_key": "3_1980597906890539008",
+              "start": 27,
+              "url": "https://t.co/3tIp5Fc3o6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980597909902307736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12955,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想发露牛子的照片】\n会有人喜欢嘛，请你吃奶哦\n#男娘 https://t.co/3tIp5Fc3o6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1267,
+          "like_count": 7477,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 4851
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba 姐姐@emiya436900 匿名提问https://t.co/FqhYHQnDQd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "emiya436900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 66,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 43,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6075,
+          "following_count": 1937,
+          "like_count": 50743,
+          "listed_count": 13,
+          "media_count": 1075,
+          "tweet_count": 33281
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

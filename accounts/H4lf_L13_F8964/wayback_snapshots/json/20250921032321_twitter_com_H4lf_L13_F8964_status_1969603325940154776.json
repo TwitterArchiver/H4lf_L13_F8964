@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969374771340288000",
+        "3_1969374776394465281"
+      ],
+      "media_source_tweet_id": [
+        "1969374780387443168",
+        "1969374780387443168"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1969603325940154776",
+    "created_at": "2025-09-21T03:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T04:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969603325940154776"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "新宿歌舞伎町",
+          "probability": 0.7773,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "歌舞伎町の日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1212617657003859968",
+          "start": 3,
+          "username": "tkzwgrs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZUL9JRkKn",
+          "end": 81,
+          "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+          "media_key": "3_1969374771340288000",
+          "start": 58,
+          "url": "https://t.co/jZUL9JRkKn"
+        },
+        {
+          "display_url": "pic.x.com/jZUL9JRkKn",
+          "end": 81,
+          "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+          "media_key": "3_1969374776394465281",
+          "start": 58,
+          "url": "https://t.co/jZUL9JRkKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969603325940154776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2027
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969374780387443168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkzwgrs: 【話題】新宿歌舞伎町で目撃された謎の三人組、西洋アートっぽいと話題に\n\n#歌舞伎町の日常 https://t.co/jZUL9JRkKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_1969374771340288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Sf65taoAAx3eh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2620,
+        "media_key": "3_1969374776394465281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Sf7MibQAEQ-6t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969374771340288000",
+            "3_1969374776394465281"
+          ],
+          "media_source_tweet_id": [
+            "1969374780387443168",
+            "1969374780387443168"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1969603325940154776",
+        "created_at": "2025-09-21T03:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969603325940154776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "新宿歌舞伎町",
+              "probability": 0.7773,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "歌舞伎町の日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1212617657003859968",
+              "start": 3,
+              "username": "tkzwgrs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZUL9JRkKn",
+              "end": 81,
+              "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+              "media_key": "3_1969374771340288000",
+              "start": 58,
+              "url": "https://t.co/jZUL9JRkKn"
+            },
+            {
+              "display_url": "pic.x.com/jZUL9JRkKn",
+              "end": 81,
+              "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+              "media_key": "3_1969374776394465281",
+              "start": 58,
+              "url": "https://t.co/jZUL9JRkKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969603325940154776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2027
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969374780387443168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkzwgrs: 【話題】新宿歌舞伎町で目撃された謎の三人組、西洋アートっぽいと話題に\n\n#歌舞伎町の日常 https://t.co/jZUL9JRkKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969374771340288000",
+            "3_1969374776394465281"
+          ]
+        },
+        "author_id": "1212617657003859968",
+        "conversation_id": "1969374780387443168",
+        "created_at": "2025-09-20T12:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969374780387443168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "新宿歌舞伎町",
+              "probability": 0.7747,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "歌舞伎町の日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZUL9JRkKn",
+              "end": 68,
+              "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+              "media_key": "3_1969374771340288000",
+              "start": 45,
+              "url": "https://t.co/jZUL9JRkKn"
+            },
+            {
+              "display_url": "pic.x.com/jZUL9JRkKn",
+              "end": 68,
+              "expanded_url": "https://x.com/tkzwgrs/status/1969374780387443168/photo/1",
+              "media_key": "3_1969374776394465281",
+              "start": 45,
+              "url": "https://t.co/jZUL9JRkKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969374780387443168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2618,
+          "impression_count": 3149150,
+          "like_count": 33443,
+          "quote_count": 205,
+          "reply_count": 284,
+          "retweet_count": 2027
+        },
+        "reply_settings": "everyone",
+        "text": "【話題】新宿歌舞伎町で目撃された謎の三人組、西洋アートっぽいと話題に\n\n#歌舞伎町の日常 https://t.co/jZUL9JRkKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1212,
+          "like_count": 7058,
+          "listed_count": 2,
+          "media_count": 485,
+          "tweet_count": 4651
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T06:12:41.000Z",
+        "description": "Twitterの“今”がわかる！話題の事件などを1ツイートでわかりやすくまとめます。タバコ休憩にちょうどいいアカウントを目指しています。タレコミやお仕事のご依頼はDMまで。\n専属フェミニズムアドバイザー:  @minorit403 避難垢:@subgare3 削除要請はgrsakujo@Gメールドットコムまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "minorit403"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "subgare3"
+              }
+            ]
+          }
+        },
+        "id": "1212617657003859968",
+        "name": "滝沢ガレソ",
+        "pinned_tweet_id": "1968846834333532486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908133544586817536/nmB3e5q3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931299,
+          "following_count": 3942,
+          "like_count": 12782,
+          "listed_count": 7003,
+          "media_count": 13079,
+          "tweet_count": 43471
+        },
+        "username": "tkzwgrs",
+        "verified": true
+      }
+    ]
+  }
+}

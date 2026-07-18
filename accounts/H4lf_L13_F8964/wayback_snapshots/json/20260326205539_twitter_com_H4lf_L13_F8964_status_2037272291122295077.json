@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2037272291122295077",
+    "created_at": "2026-03-26T20:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037272291122295077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1365955107473383426",
+          "start": 3,
+          "username": "Takina_Jimato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037272291122295077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037027052080300347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takina_Jimato: 什么叫大量服用补佳乐也能产生致幻效果？你告诉我ERα、ERβ这种受体能和5-HT2A这种受体一样？\n得罪了MTF暂且不说，这东西原本就属于妇科绝经期激素替代药物，超量服用也只会乳房胀痛、恶心呕吐、撤退出血、血栓风险\n右美沙芬，作用于 NMD…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2037027046917107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HET5TnlbcAAjiQD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2037272291122295077",
+        "created_at": "2026-03-26T20:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037272291122295077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1365955107473383426",
+              "start": 3,
+              "username": "Takina_Jimato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037272291122295077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037027052080300347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takina_Jimato: 什么叫大量服用补佳乐也能产生致幻效果？你告诉我ERα、ERβ这种受体能和5-HT2A这种受体一样？\n得罪了MTF暂且不说，这东西原本就属于妇科绝经期激素替代药物，超量服用也只会乳房胀痛、恶心呕吐、撤退出血、血栓风险\n右美沙芬，作用于 NMD…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037027046917107712"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "conversation_id": "2037027052080300347",
+        "created_at": "2026-03-26T04:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037027052080300347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4KfuUeduJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2037027052080300347/photo/1",
+              "media_key": "3_2037027046917107712",
+              "start": 151,
+              "url": "https://t.co/N4KfuUeduJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037027052080300347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9605,
+          "like_count": 139,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫大量服用补佳乐也能产生致幻效果？你告诉我ERα、ERβ这种受体能和5-HT2A这种受体一样？\n得罪了MTF暂且不说，这东西原本就属于妇科绝经期激素替代药物，超量服用也只会乳房胀痛、恶心呕吐、撤退出血、血栓风险\n右美沙芬，作用于 NMDA受体，对人而非致幻，而是解离\n本文来源于法治日报\n#MTF https://t.co/N4KfuUeduJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1454,
+          "like_count": 8857,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5591
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina+Jimato=Takijima｜CN&EN｜生产日期7/28/07｜无证含糖大只家里蹲ホルモン娘｜she/her/hers｜183/60｜HRT: 24.9.4-11.30 重启: 25.3.27｜里推: @Takina_7ove｜姐姐：@AsukaRyo559｜🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Takina_7ove"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "AsukaRyo559"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tWQwG7E",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tWQwG7E",
+                "start": 0,
+                "url": "https://t.co/3w2keeJKeD"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Pyongyang, DPR Korea",
+        "name": "Takina.JPN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954437389725630545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005610568015921152/5fZiNswq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 481,
+          "like_count": 595,
+          "listed_count": 11,
+          "media_count": 219,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/3w2keeJKeD",
+        "username": "Takina_Jimato",
+        "verified": false
+      }
+    ]
+  }
+}

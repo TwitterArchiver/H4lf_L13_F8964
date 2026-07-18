@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1991161012289204673",
+    "created_at": "2025-11-21T12:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991842731799519401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991842731799519401",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991406250001854485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 呜呜呜好羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1991161012289204673",
+        "created_at": "2025-11-21T12:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991842731799519401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991842731799519401",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991406250001854485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 呜呜呜好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845041900195282948",
+        "conversation_id": "1991161012289204673",
+        "created_at": "2025-11-20T07:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T08:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991406250001854485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991406250001854485",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991313589483778284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 不是是我的骨架小所以看起来大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1303,
+          "like_count": 7814,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5011
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJtwQS"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "location": "生命独特的坐标",
+        "name": "Niqiu-妮湫（泌乳版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1987192242516471927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 770,
+          "like_count": 1296,
+          "listed_count": 15,
+          "media_count": 95,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/nUqWCJtwQS",
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

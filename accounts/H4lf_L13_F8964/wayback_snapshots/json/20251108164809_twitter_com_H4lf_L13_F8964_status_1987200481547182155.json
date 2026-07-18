@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1986900329128968222",
+    "created_at": "2025-11-08T16:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987200481547182155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987200481547182155",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986900329128968222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 心疼小ted"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1986900329128968222",
+        "created_at": "2025-11-08T16:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987200481547182155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987200481547182155",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986900329128968222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 心疼小ted"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1986900329128968222",
+        "created_at": "2025-11-07T20:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986900329128968222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ted_yeet/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Ted_yeet/status/1939024568905007608",
+              "start": 25,
+              "url": "https://t.co/tknJbiQP9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986900329128968222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11341,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939024568905007608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果在这条推之后每次能够站直冲凉都是在推友家里🥲 https://t.co/tknJbiQP9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1277,
+          "like_count": 7576,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 4912
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥(休学ing)/一推就倒邪恶北方地牢主/穿胶写胶SM高手/接论文修改, 乳胶优化, idea咨询, 3D打印/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "🚪50/申根可飞",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 1384,
+          "like_count": 31728,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 6372
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

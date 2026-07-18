@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1930526004566692081",
+    "created_at": "2025-06-05T08:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T09:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930544329816240455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930544329816240455",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930526004566692081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 欢迎回家，主席"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930525977870061569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqbJgSb0AEJl11.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1930526004566692081",
+        "created_at": "2025-06-05T08:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T09:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930544329816240455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930544329816240455",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930526004566692081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 欢迎回家，主席"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930525977870061569"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1930526004566692081",
+        "created_at": "2025-06-05T07:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930526004566692081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PTaScOkRH",
+              "end": 29,
+              "expanded_url": "https://x.com/amber_toffee/status/1930526004566692081/photo/1",
+              "media_key": "3_1930525977870061569",
+              "start": 6,
+              "url": "https://t.co/0PTaScOkRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930526004566692081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 到家了 https://t.co/0PTaScOkRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1851784486293295547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 1020,
+          "like_count": 5404,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 3875
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1839456976008593788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10348,
+          "following_count": 2299,
+          "like_count": 31892,
+          "listed_count": 35,
+          "media_count": 475,
+          "tweet_count": 14971
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

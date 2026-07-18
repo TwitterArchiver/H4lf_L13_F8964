@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1986307020983837193",
+    "created_at": "2025-11-11T18:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T19:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988318725519667478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1359867393858703364",
+          "start": 0,
+          "username": "GALRita3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988318725519667478",
+    "in_reply_to_user_id": "1359867393858703364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986307020983837193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GALRita3 姐姐生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986307007276851202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DHsv-bIAI6iVq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1986307006987444231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DHsu5bIAcn99i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1986307020983837193",
+        "created_at": "2025-11-11T18:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988318725519667478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1359867393858703364",
+              "start": 0,
+              "username": "GALRita3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988318725519667478",
+        "in_reply_to_user_id": "1359867393858703364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986307020983837193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GALRita3 姐姐生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986307007276851202",
+            "3_1986307006987444231"
+          ]
+        },
+        "author_id": "1359867393858703364",
+        "conversation_id": "1986307020983837193",
+        "created_at": "2025-11-06T05:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986307020983837193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mg2UPzFPhF",
+              "end": 78,
+              "expanded_url": "https://x.com/GALRita3/status/1986307020983837193/photo/1",
+              "media_key": "3_1986307007276851202",
+              "start": 55,
+              "url": "https://t.co/Mg2UPzFPhF"
+            },
+            {
+              "display_url": "pic.x.com/Mg2UPzFPhF",
+              "end": 78,
+              "expanded_url": "https://x.com/GALRita3/status/1986307020983837193/photo/1",
+              "media_key": "3_1986307006987444231",
+              "start": 55,
+              "url": "https://t.co/Mg2UPzFPhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986307020983837193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4712,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "還是要宣傳一下🤫🔞\n年度特別活動-生日攝影見面會\n把握平時場次沒有的福利😈\n私訊我“生日會”領取報名資訊喔！ https://t.co/Mg2UPzFPhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1280,
+          "like_count": 7641,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 4944
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T14:10:37.000Z",
+        "description": "💜平日當教練 假日Cosplay💜\n ig : gal_rita_\n✨台湾のblack GAL cosplayer✨\n 更多照片👇more about me 🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/gal_rita",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/gal_rita",
+                "start": 0,
+                "url": "https://t.co/mHbWDRViuv"
+              }
+            ]
+          }
+        },
+        "id": "1359867393858703364",
+        "location": "Japan",
+        "name": "💜GALRITA💜 Black Gal cosplayer",
+        "pinned_tweet_id": "1837065843886432432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769814713800781824/v8cLKndh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29940,
+          "following_count": 332,
+          "like_count": 2421,
+          "listed_count": 87,
+          "media_count": 403,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/mHbWDRViuv",
+        "username": "GALRita3",
+        "verified": false
+      }
+    ]
+  }
+}

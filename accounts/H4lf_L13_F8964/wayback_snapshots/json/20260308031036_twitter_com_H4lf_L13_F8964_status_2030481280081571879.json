@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030481272800268288",
+        "3_2030481272833802240"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2030481280081571879",
+    "created_at": "2026-03-08T03:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030481280081571879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "903948690951348225",
+          "start": 8,
+          "username": "MAGNIFIERhuahua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O9T5eZXHMt",
+          "end": 48,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2030481280081571879/photo/1",
+          "media_key": "3_2030481272800268288",
+          "start": 25,
+          "url": "https://t.co/O9T5eZXHMt"
+        },
+        {
+          "display_url": "pic.x.com/O9T5eZXHMt",
+          "end": 48,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2030481280081571879/photo/1",
+          "media_key": "3_2030481272833802240",
+          "start": 25,
+          "url": "https://t.co/O9T5eZXHMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030481280081571879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有性繁殖导致的\n@MAGNIFIERhuahua https://t.co/O9T5eZXHMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2030481272800268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC239axX0AAzg_G.jpg",
+        "width": 1085
+      },
+      {
+        "height": 1613,
+        "media_key": "3_2030481272833802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC239a5XgAAZUYk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030481272800268288",
+            "3_2030481272833802240"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2030481280081571879",
+        "created_at": "2026-03-08T03:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030481280081571879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "903948690951348225",
+              "start": 8,
+              "username": "MAGNIFIERhuahua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9T5eZXHMt",
+              "end": 48,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2030481280081571879/photo/1",
+              "media_key": "3_2030481272800268288",
+              "start": 25,
+              "url": "https://t.co/O9T5eZXHMt"
+            },
+            {
+              "display_url": "pic.x.com/O9T5eZXHMt",
+              "end": 48,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2030481280081571879/photo/1",
+              "media_key": "3_2030481272833802240",
+              "start": 25,
+              "url": "https://t.co/O9T5eZXHMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030481280081571879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有性繁殖导致的\n@MAGNIFIERhuahua https://t.co/O9T5eZXHMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1428,
+          "like_count": 8694,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 5486
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-02T11:52:17.000Z",
+        "description": "有性繁殖笑话合集",
+        "id": "903948690951348225",
+        "location": "Melbourne, Victoria",
+        "name": "MAGNIFIER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 686,
+          "like_count": 9109,
+          "listed_count": 5,
+          "media_count": 1114,
+          "tweet_count": 15832
+        },
+        "username": "MAGNIFIERhuahua",
+        "verified": false
+      }
+    ]
+  }
+}

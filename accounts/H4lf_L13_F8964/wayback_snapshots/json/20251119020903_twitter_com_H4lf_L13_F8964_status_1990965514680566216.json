@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990965508007399424",
+        "3_1990965508007460864",
+        "3_1990965507986518016"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990965514680566216",
+    "created_at": "2025-11-19T02:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T03:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990965514680566216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "doi.org/10.1016/j.bbih…",
+          "end": 36,
+          "expanded_url": "http://doi.org/10.1016/j.bbih.2024.100800",
+          "start": 13,
+          "unwound_url": "https://www.sciencedirect.com/science/article/pii/S2666354624000784",
+          "url": "https://t.co/La2tK3KqyT"
+        },
+        {
+          "display_url": "pic.x.com/OsYnD2jl6H",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+          "media_key": "3_1990965508007399424",
+          "start": 37,
+          "url": "https://t.co/OsYnD2jl6H"
+        },
+        {
+          "display_url": "pic.x.com/OsYnD2jl6H",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+          "media_key": "3_1990965508007460864",
+          "start": 37,
+          "url": "https://t.co/OsYnD2jl6H"
+        },
+        {
+          "display_url": "pic.x.com/OsYnD2jl6H",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+          "media_key": "3_1990965507986518016",
+          "start": 37,
+          "url": "https://t.co/OsYnD2jl6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990965514680566216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神药物与反安慰剂效应\n\nhttps://t.co/La2tK3KqyT https://t.co/OsYnD2jl6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_1990965508007399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FUlLjWEAAS4AZ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1768,
+        "media_key": "3_1990965508007460864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FUlLjXAAAhJFg.jpg",
+        "width": 898
+      },
+      {
+        "height": 1768,
+        "media_key": "3_1990965507986518016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FUlLeXcAApHkB.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990965508007399424",
+            "3_1990965508007460864",
+            "3_1990965507986518016"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990965514680566216",
+        "created_at": "2025-11-19T02:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990965514680566216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "doi.org/10.1016/j.bbih…",
+              "end": 36,
+              "expanded_url": "http://doi.org/10.1016/j.bbih.2024.100800",
+              "start": 13,
+              "unwound_url": "https://www.sciencedirect.com/science/article/pii/S2666354624000784",
+              "url": "https://t.co/La2tK3KqyT"
+            },
+            {
+              "display_url": "pic.x.com/OsYnD2jl6H",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+              "media_key": "3_1990965508007399424",
+              "start": 37,
+              "url": "https://t.co/OsYnD2jl6H"
+            },
+            {
+              "display_url": "pic.x.com/OsYnD2jl6H",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+              "media_key": "3_1990965508007460864",
+              "start": 37,
+              "url": "https://t.co/OsYnD2jl6H"
+            },
+            {
+              "display_url": "pic.x.com/OsYnD2jl6H",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990965514680566216/photo/1",
+              "media_key": "3_1990965507986518016",
+              "start": 37,
+              "url": "https://t.co/OsYnD2jl6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990965514680566216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神药物与反安慰剂效应\n\nhttps://t.co/La2tK3KqyT https://t.co/OsYnD2jl6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1301,
+          "like_count": 7784,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 5002
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

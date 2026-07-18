@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1948265290518667570",
+    "created_at": "2025-07-24T06:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T07:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948265290518667570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "888172653881638912",
+          "start": 3,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948265290518667570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948067433446817998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yovartija_nattv: 我就是東北亞的孤兒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1948265290518667570",
+        "created_at": "2025-07-24T06:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948265290518667570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "888172653881638912",
+              "start": 3,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948265290518667570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948067433446817998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yovartija_nattv: 我就是東北亞的孤兒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888172653881638912",
+        "conversation_id": "1948067433446817998",
+        "created_at": "2025-07-23T17:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948067433446817998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948067433446817998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2005,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我就是東北亞的孤兒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1120,
+          "like_count": 6441,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 4324
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\AI创业中\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴🏳️‍⚧️",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10153,
+          "following_count": 780,
+          "like_count": 44053,
+          "listed_count": 40,
+          "media_count": 1207,
+          "tweet_count": 4947
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

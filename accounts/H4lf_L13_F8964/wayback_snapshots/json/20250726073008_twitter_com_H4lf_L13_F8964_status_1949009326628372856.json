@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1948763808471941125",
+        "13_1948763808505425920"
+      ],
+      "media_source_tweet_id": [
+        "1948763871616881019",
+        "1948763871616881019"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1949009326628372856",
+    "created_at": "2025-07-26T07:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T08:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949009326628372856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1loVkYxJ83",
+          "end": 70,
+          "expanded_url": "https://x.com/amber_toffee/status/1948763871616881019/video/1",
+          "media_key": "13_1948763808471941125",
+          "start": 47,
+          "url": "https://t.co/1loVkYxJ83"
+        },
+        {
+          "display_url": "pic.x.com/1loVkYxJ83",
+          "end": 70,
+          "expanded_url": "https://x.com/amber_toffee/status/1948763871616881019/video/1",
+          "media_key": "13_1948763808505425920",
+          "start": 47,
+          "url": "https://t.co/1loVkYxJ83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949009326628372856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948763871616881019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 其实狗是我最讨厌的动物 主要是因为它们当狗当得都不如我好 https://t.co/1loVkYxJ83"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1949009326628372856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1949009326628372856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1949009326628372856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2945,
+        "height": 1512,
+        "media_key": "13_1948763808471941125",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948763808471941125/img/lOWXXQF5Wtm8KpP2.jpg",
+        "public_metrics": {
+          "view_count": 15699
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808471941125/vid/avc1/1134x1512/_FgxMXwDz8axwXUb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948763808471941125/pl/TgBTZlbIX_11gYsj.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808471941125/vid/avc1/720x960/aU5MSX4Pzuh-2Elh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808471941125/vid/avc1/480x640/O4cWNBAuuL7t2bi9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808471941125/vid/avc1/320x426/6qIUvIUw-8xi4TTn.mp4"
+          }
+        ],
+        "width": 1134
+      },
+      {
+        "duration_ms": 2006,
+        "height": 1780,
+        "media_key": "13_1948763808505425920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948763808505425920/img/72uryWPMtdiecyCR.jpg",
+        "public_metrics": {
+          "view_count": 3242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808505425920/vid/avc1/720x958/5YRnHHu49fmlZmRL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808505425920/vid/avc1/480x638/of5YXfGW1FeVQjjc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808505425920/vid/avc1/1336x1780/1_6-TqDaNKHujRbu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948763808505425920/pl/GJxgT-sn4SdeZnwv.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948763808505425920/vid/avc1/320x426/XAsl7TWMfFIheY3-.mp4"
+          }
+        ],
+        "width": 1336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948763808471941125",
+            "13_1948763808505425920"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1948763871616881019",
+        "created_at": "2025-07-25T15:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948763871616881019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1loVkYxJ83",
+              "end": 52,
+              "expanded_url": "https://x.com/amber_toffee/status/1948763871616881019/video/1",
+              "media_key": "13_1948763808471941125",
+              "start": 29,
+              "url": "https://t.co/1loVkYxJ83"
+            },
+            {
+              "display_url": "pic.x.com/1loVkYxJ83",
+              "end": 52,
+              "expanded_url": "https://x.com/amber_toffee/status/1948763871616881019/video/1",
+              "media_key": "13_1948763808505425920",
+              "start": 29,
+              "url": "https://t.co/1loVkYxJ83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948763871616881019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 36953,
+          "like_count": 474,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "其实狗是我最讨厌的动物 主要是因为它们当狗当得都不如我好 https://t.co/1loVkYxJ83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 1125,
+          "like_count": 6454,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 4328
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / mtf / intp / ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🚪¥128 / 256",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947181057348165686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15579,
+          "following_count": 2333,
+          "like_count": 33016,
+          "listed_count": 51,
+          "media_count": 530,
+          "tweet_count": 15580
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

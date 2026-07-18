@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966623708325240833"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1966466610517909715",
+    "created_at": "2025-09-12T22:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T23:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966623712964145368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1474030573228376077",
+          "start": 0,
+          "username": "Gewehr_G36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ANFlcDEFRt",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1966623712964145368/photo/1",
+          "media_key": "3_1966623708325240833",
+          "start": 37,
+          "url": "https://t.co/ANFlcDEFRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966623712964145368",
+    "in_reply_to_user_id": "1474030573228376077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966466610517909715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gewehr_G36 (╥﹏╥)只要5r吗，大家都没法开张这么不景气吗 https://t.co/ANFlcDEFRt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_1966623708325240833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rZ19WWYAEc4u4.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2195,
+        "media_key": "3_1966466606407757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pK9bGaMAAr4kS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 936,
+        "media_key": "3_1966466593787150337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pK8sFbAAEtkkf.jpg",
+        "width": 1260
+      },
+      {
+        "height": 654,
+        "media_key": "3_1966466599214628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pK9ATbwAAwmG3.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966623708325240833"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1966466610517909715",
+        "created_at": "2025-09-12T22:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T23:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966623712964145368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474030573228376077",
+              "start": 0,
+              "username": "Gewehr_G36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANFlcDEFRt",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1966623712964145368/photo/1",
+              "media_key": "3_1966623708325240833",
+              "start": 37,
+              "url": "https://t.co/ANFlcDEFRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966623712964145368",
+        "in_reply_to_user_id": "1474030573228376077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966466610517909715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gewehr_G36 (╥﹏╥)只要5r吗，大家都没法开张这么不景气吗 https://t.co/ANFlcDEFRt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966466606407757824",
+            "3_1966466593787150337",
+            "3_1966466599214628864"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1966466610517909715",
+        "created_at": "2025-09-12T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966466610517909715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmnM4Pjr67",
+              "end": 143,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1966466610517909715/photo/1",
+              "media_key": "3_1966466606407757824",
+              "start": 120,
+              "url": "https://t.co/tmnM4Pjr67"
+            },
+            {
+              "display_url": "pic.x.com/tmnM4Pjr67",
+              "end": 143,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1966466610517909715/photo/1",
+              "media_key": "3_1966466593787150337",
+              "start": 120,
+              "url": "https://t.co/tmnM4Pjr67"
+            },
+            {
+              "display_url": "pic.x.com/tmnM4Pjr67",
+              "end": 143,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1966466610517909715/photo/1",
+              "media_key": "3_1966466599214628864",
+              "start": 120,
+              "url": "https://t.co/tmnM4Pjr67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966466610517909715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1302,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "图包更新上线啦，本期内容明日方舟终末地的女管理员杂图，丝袜足图为主外加and微量巨大娘TAG，附带一些小赠品 置顶赞助码5R拿截图即可解锁哦！同步获得本人好友位+扩列  Q号发放：3512676920（解锁隐藏内容可以提高赞助门槛解锁哦（ https://t.co/tmnM4Pjr67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1204,
+          "like_count": 7032,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4615
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "江苏地区随机刷新｜在校大学生｜非药/无糖｜cos日推营业中｜可接线上约拍委托或者赞助，欢迎投喂｜如果混熟的话会很好交流？｜\n主子：@RLappland 她超棒的大家多去看看她.jpg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "RLappland"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "ChauchatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916204209621635076/NUQ4-0yJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7095,
+          "following_count": 316,
+          "like_count": 427,
+          "listed_count": 25,
+          "media_count": 398,
+          "tweet_count": 2256
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

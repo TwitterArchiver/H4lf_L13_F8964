@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1931785787923648742",
+    "created_at": "2025-06-09T06:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T07:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931966578247303235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859757935267807235",
+          "start": 0,
+          "username": "kafka_ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931966578247303235",
+    "in_reply_to_user_id": "1859757935267807235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931785787923648742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafka_ww 不喝酒的话要不要吃点消炎药，我前阵子天天换钉子也增生严重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1931785787923648742",
+        "created_at": "2025-06-09T06:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T07:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931966578247303235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859757935267807235",
+              "start": 0,
+              "username": "kafka_ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931966578247303235",
+        "in_reply_to_user_id": "1859757935267807235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931785787923648742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_ww 不喝酒的话要不要吃点消炎药，我前阵子天天换钉子也增生严重了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859757935267807235",
+        "conversation_id": "1931785787923648742",
+        "created_at": "2025-06-08T18:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T19:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931785787923648742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931785787923648742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃了为什么右边的嘴角钉莫名其妙增生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1037,
+          "like_count": 5513,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 3928
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T00:37:08.000Z",
+        "description": "被爱滋养的人",
+        "id": "1859757935267807235",
+        "name": "小小卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859758215161851904/TSZqd2oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 41,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 151
+        },
+        "username": "kafka_ww",
+        "verified": false
+      }
+    ]
+  }
+}

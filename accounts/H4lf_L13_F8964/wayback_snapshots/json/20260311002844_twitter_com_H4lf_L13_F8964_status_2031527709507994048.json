@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031527705624072192"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031527709507994048",
+    "created_at": "2026-03-11T00:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T01:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031527709507994048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmop1Ur2EQ",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2031527709507994048/photo/1",
+          "media_key": "3_2031527705624072192",
+          "start": 0,
+          "url": "https://t.co/xmop1Ur2EQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031527709507994048",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xmop1Ur2EQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_2031527705624072192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDFvr00WUAA1qjV.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031527705624072192"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031527709507994048",
+        "created_at": "2026-03-11T00:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031527709507994048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmop1Ur2EQ",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2031527709507994048/photo/1",
+              "media_key": "3_2031527705624072192",
+              "start": 0,
+              "url": "https://t.co/xmop1Ur2EQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031527709507994048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xmop1Ur2EQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1427,
+          "like_count": 8717,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 5499
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

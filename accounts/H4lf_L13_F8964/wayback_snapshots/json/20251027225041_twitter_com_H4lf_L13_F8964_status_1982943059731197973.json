@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982943053938638848",
+        "3_1982943053984698368"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1982943059731197973",
+    "created_at": "2025-10-27T22:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T23:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982943059731197973"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 6,
+          "normalized_text": "天佑提图斯二世",
+          "probability": 0.2783,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1353206248057892864",
+          "start": 8,
+          "username": "thelastgreeks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJbLBZr8F1",
+          "end": 46,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1982943059731197973/photo/1",
+          "media_key": "3_1982943053938638848",
+          "start": 23,
+          "url": "https://t.co/EJbLBZr8F1"
+        },
+        {
+          "display_url": "pic.x.com/EJbLBZr8F1",
+          "end": 46,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1982943059731197973/photo/1",
+          "media_key": "3_1982943053984698368",
+          "start": 23,
+          "url": "https://t.co/EJbLBZr8F1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982943059731197973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天佑提图斯二世\n@thelastgreeks https://t.co/EJbLBZr8F1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1982943053938638848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TUM5PXQAAUzua.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1242,
+        "media_key": "3_1982943053984698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TUM5aWEAA2QMr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982943053938638848",
+            "3_1982943053984698368"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1982943059731197973",
+        "created_at": "2025-10-27T22:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982943059731197973"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "天佑提图斯二世",
+              "probability": 0.2783,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1353206248057892864",
+              "start": 8,
+              "username": "thelastgreeks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJbLBZr8F1",
+              "end": 46,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1982943059731197973/photo/1",
+              "media_key": "3_1982943053938638848",
+              "start": 23,
+              "url": "https://t.co/EJbLBZr8F1"
+            },
+            {
+              "display_url": "pic.x.com/EJbLBZr8F1",
+              "end": 46,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1982943059731197973/photo/1",
+              "media_key": "3_1982943053984698368",
+              "start": 23,
+              "url": "https://t.co/EJbLBZr8F1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982943059731197973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天佑提图斯二世\n@thelastgreeks https://t.co/EJbLBZr8F1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1269,
+          "like_count": 7501,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4875
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝。English/日本語。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 148,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 125,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24720,
+          "following_count": 910,
+          "like_count": 111599,
+          "listed_count": 86,
+          "media_count": 3385,
+          "tweet_count": 41707
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

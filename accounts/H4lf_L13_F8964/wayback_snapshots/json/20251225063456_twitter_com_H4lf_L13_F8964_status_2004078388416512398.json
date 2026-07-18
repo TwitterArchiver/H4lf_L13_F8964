@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003847912120586240"
+      ],
+      "media_source_tweet_id": [
+        "2003848150235431334"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004078388416512398",
+    "created_at": "2025-12-25T06:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T07:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004078388416512398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DWyMGVubW5",
+          "end": 66,
+          "expanded_url": "https://x.com/iMoeAya/status/2003848150235431334/video/1",
+          "media_key": "13_2003847912120586240",
+          "start": 43,
+          "url": "https://t.co/DWyMGVubW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004078388416512398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003848150235431334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 萌绫今天的角色是成为主人sama平安夜的醒酒器\n主人请打酒 https://t.co/DWyMGVubW5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004078388416512398].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004078388416512398",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004078388416512398"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29482,
+        "height": 1280,
+        "media_key": "13_2003847912120586240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003847912120586240/img/9mpXUFcHy54VnXIH.jpg",
+        "public_metrics": {
+          "view_count": 2602
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003847912120586240/vid/avc1/320x568/nIpFq4VINH5mA5GO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003847912120586240/vid/avc1/480x852/aKLVfr0r4IBuww5a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003847912120586240/vid/avc1/720x1280/jgsJYUVSIegpjuqo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003847912120586240/pl/UagwwVuykEWKp2LC.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003847912120586240"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "2003848150235431334",
+        "created_at": "2025-12-24T15:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003848150235431334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWyMGVubW5",
+              "end": 53,
+              "expanded_url": "https://x.com/iMoeAya/status/2003848150235431334/video/1",
+              "media_key": "13_2003847912120586240",
+              "start": 30,
+              "url": "https://t.co/DWyMGVubW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003848150235431334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 8271,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "萌绫今天的角色是成为主人sama平安夜的醒酒器\n主人请打酒 https://t.co/DWyMGVubW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1315,
+          "like_count": 8113,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 5126
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39210,
+          "following_count": 4753,
+          "like_count": 172904,
+          "listed_count": 137,
+          "media_count": 1136,
+          "tweet_count": 35261
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

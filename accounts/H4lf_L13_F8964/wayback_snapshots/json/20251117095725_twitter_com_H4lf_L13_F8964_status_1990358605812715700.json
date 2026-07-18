@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990261783718940725",
+    "created_at": "2025-11-17T09:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990358605812715700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1303654848467021825",
+          "start": 0,
+          "username": "orwell_benjamin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990358605812715700",
+    "in_reply_to_user_id": "1303654848467021825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990261783718940725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orwell_benjamin 这是第三次战争时期，二王 马尔加尼斯诱惑二傻子拔剑作出父马可亲的决定，但是因为DK太多所以只能批发霜之哀伤  的碎片  铸成的符文之剑，留下的视频。感谢原博主让这段视频重见于世🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17089,
+        "height": 1280,
+        "media_key": "7_1990261587748499456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990261587748499456/pu/img/L01EEFahpMkoCA6q.jpg",
+        "public_metrics": {
+          "view_count": 28473
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990261587748499456/pu/vid/avc1/320x568/NdLA7m4Sw9fzvAzZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990261587748499456/pu/vid/avc1/480x852/E1Ze-od8ZCGZGiBN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990261587748499456/pu/vid/avc1/720x1280/gbvpSgQ1sXCJGyyP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990261587748499456/pu/pl/JVdZRqvxUqWIBi1H.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990261783718940725",
+        "created_at": "2025-11-17T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990358605812715700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1303654848467021825",
+              "start": 0,
+              "username": "orwell_benjamin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990358605812715700",
+        "in_reply_to_user_id": "1303654848467021825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990261783718940725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orwell_benjamin 这是第三次战争时期，二王 马尔加尼斯诱惑二傻子拔剑作出父马可亲的决定，但是因为DK太多所以只能批发霜之哀伤  的碎片  铸成的符文之剑，留下的视频。感谢原博主让这段视频重见于世🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990261587748499456"
+          ]
+        },
+        "author_id": "1303654848467021825",
+        "conversation_id": "1990261783718940725",
+        "created_at": "2025-11-17T03:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990261783718940725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ui8sPzPlrC",
+              "end": 50,
+              "expanded_url": "https://x.com/orwell_benjamin/status/1990261783718940725/video/1",
+              "media_key": "7_1990261587748499456",
+              "start": 27,
+              "url": "https://t.co/ui8sPzPlrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990261783718940725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 52335,
+          "like_count": 170,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "国内一个抖音网红在美国街道给无家可归的人免费发砍刀。 https://t.co/ui8sPzPlrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1293,
+          "like_count": 7750,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4983
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T11:22:12.000Z",
+        "description": "一个借尸还魂的人",
+        "id": "1303654848467021825",
+        "location": "Mariana Trench",
+        "name": "Benjamin Orwell-From☎️XiaoMi 16 Pro max",
+        "pinned_tweet_id": "1987864413748273196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303655335744413696/vqxmH5u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 3832,
+          "like_count": 41688,
+          "listed_count": 21,
+          "media_count": 2238,
+          "tweet_count": 36011
+        },
+        "username": "orwell_benjamin",
+        "verified": false
+      }
+    ]
+  }
+}

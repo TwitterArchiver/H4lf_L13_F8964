@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1974833386146742369",
+    "created_at": "2025-10-05T13:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T14:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974834708203638887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1474030573228376077",
+          "start": 0,
+          "username": "Gewehr_G36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974834708203638887",
+    "in_reply_to_user_id": "1474030573228376077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974833386146742369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gewehr_G36 啊啊啊啊这身绝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3696,
+        "media_key": "3_1974833382535352320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2gEf5CaUAA9jVz.jpg",
+        "width": 2076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1974833386146742369",
+        "created_at": "2025-10-05T13:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974834708203638887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474030573228376077",
+              "start": 0,
+              "username": "Gewehr_G36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974834708203638887",
+        "in_reply_to_user_id": "1474030573228376077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974833386146742369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gewehr_G36 啊啊啊啊这身绝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974833382535352320"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "conversation_id": "1974833386146742369",
+        "created_at": "2025-10-05T13:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974833386146742369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSbxYrZMf6",
+              "end": 23,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1974833386146742369/photo/1",
+              "media_key": "3_1974833382535352320",
+              "start": 0,
+              "url": "https://t.co/pSbxYrZMf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974833386146742369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pSbxYrZMf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1231,
+          "like_count": 7213,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 4719
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "性别男，江苏及周边地区随机刷新｜在校大学生，非药/无糖｜cos日推营业中｜接线上约拍寄拍委托，不接线下｜有点怕生，混熟的话会很好交流？｜\n主子：@RLappland 她超棒的大家多去看看她.jpg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "RLappland"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "ChauchatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967169182304493568/u1YZaVRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7083,
+          "following_count": 329,
+          "like_count": 430,
+          "listed_count": 25,
+          "media_count": 436,
+          "tweet_count": 2394
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

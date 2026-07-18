@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938034163954987343",
+    "created_at": "2025-06-26T04:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938098168446783804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "817556537505771520",
+          "start": 0,
+          "username": "trekkerliu"
+        },
+        {
+          "end": 28,
+          "id": "1249525383797456898",
+          "start": 12,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938098168446783804",
+    "in_reply_to_user_id": "817556537505771520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938057653596639392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trekkerliu @jakobsonradical 那毕竟是安壬先驱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938034163954987343",
+        "created_at": "2025-06-26T04:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938098168446783804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "817556537505771520",
+              "start": 0,
+              "username": "trekkerliu"
+            },
+            {
+              "end": 28,
+              "id": "1249525383797456898",
+              "start": 12,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938098168446783804",
+        "in_reply_to_user_id": "817556537505771520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938057653596639392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trekkerliu @jakobsonradical 那毕竟是安壬先驱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "817556537505771520",
+        "conversation_id": "1938034163954987343",
+        "created_at": "2025-06-26T02:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T03:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938057653596639392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938057653596639392",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938034163954987343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 这个巴桔宁简直就是个先知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1087,
+          "like_count": 5994,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 4115
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-07T02:20:42.000Z",
+        "description": "😀wildcard邀请链接：https://t.co/NdTRtnMgTM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bewildcard.com/i/DGTDL08Y",
+                "end": 37,
+                "expanded_url": "https://bewildcard.com/i/DGTDL08Y",
+                "start": 14,
+                "url": "https://t.co/NdTRtnMgTM"
+              }
+            ]
+          }
+        },
+        "id": "817556537505771520",
+        "name": "Monoceros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907633558285565952/-cA06EhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 712,
+          "like_count": 44682,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 6105
+        },
+        "username": "trekkerliu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241529,
+          "following_count": 1474,
+          "like_count": 41396,
+          "listed_count": 974,
+          "media_count": 18610,
+          "tweet_count": 25801
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

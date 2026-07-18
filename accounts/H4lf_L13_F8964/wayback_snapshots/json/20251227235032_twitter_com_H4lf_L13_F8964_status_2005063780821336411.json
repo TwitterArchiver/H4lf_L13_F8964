@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2005063780821336411",
+    "created_at": "2025-12-27T23:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T00:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005063780821336411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2004688679386992788",
+          "start": 139,
+          "url": "https://t.co/jdbAT6D69t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005063780821336411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004688679386992788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸就这样，然后给我撕了作业让我重新写。小学就天天写一通宵直接去上课，反复撕了，反复重写。初中没时间管我，把我扔到姨家寄宿好几年，也是一个样。到头来还得逆练网上学来的句子，说自己第一次当父母，凭什么要有经验？天天骂网上的年轻人思想不正，居然敢骂原生家庭，你要是敢在网上骂你试试 https://t.co/jdbAT6D69t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23500,
+        "height": 1280,
+        "media_key": "13_2004473299930353664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004473299930353664/img/DZVhWf8BjUJYclNs.jpg",
+        "public_metrics": {
+          "view_count": 461285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004473299930353664/vid/avc1/320x568/sRX-i0acwTXW5jPO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004473299930353664/vid/avc1/480x852/6uctrODoK4y_Qi78.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004473299930353664/vid/avc1/720x1280/r1aQAr3UUCOAQGEq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004473299930353664/pl/6Uk1n5pNO3-cVvQ5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2005063780821336411",
+        "created_at": "2025-12-27T23:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005063780821336411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2004688679386992788",
+              "start": 139,
+              "url": "https://t.co/jdbAT6D69t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005063780821336411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004688679386992788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸就这样，然后给我撕了作业让我重新写。小学就天天写一通宵直接去上课，反复撕了，反复重写。初中没时间管我，把我扔到姨家寄宿好几年，也是一个样。到头来还得逆练网上学来的句子，说自己第一次当父母，凭什么要有经验？天天骂网上的年轻人思想不正，居然敢骂原生家庭，你要是敢在网上骂你试试 https://t.co/jdbAT6D69t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004473299930353664"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004688679386992788",
+        "created_at": "2025-12-26T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004688679386992788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcs4Rx2oy1",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2004688679386992788/video/1",
+              "media_key": "13_2004473299930353664",
+              "start": 100,
+              "url": "https://t.co/qcs4Rx2oy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004688679386992788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "12月25日，湖南一对父母为了生计长期在外务工，把女儿留在老家由奶奶照顾。女孩某晚写作业写到凌晨1点，因极度疲惫趴在桌上睡着。奶奶看到孙女“进度太慢”、竟然情绪失控，按住孩子头部连续掌掴（扇耳光）。\n父母通过家中安装的监控摄像头实时看到了这一幕，母亲当场崩溃大哭，父亲则连夜决定要改变现状，准备把孩子接出去自己抚养。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 604037,
+          "like_count": 1434,
+          "quote_count": 33,
+          "reply_count": 253,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "12月25日，湖南一对父母为了生计长期在外务工，把女儿留在老家由奶奶照顾。女孩某晚写作业写到凌晨1点，因极度疲惫趴在桌上睡着。奶奶看到孙女“进度太慢”、竟然情绪失控，按住孩子头部连续掌掴（扇耳光）。 https://t.co/qcs4Rx2oy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1329,
+          "like_count": 8177,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 5159
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2001620917701501364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170527,
+          "following_count": 988,
+          "like_count": 8531,
+          "listed_count": 8460,
+          "media_count": 39132,
+          "tweet_count": 46047
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

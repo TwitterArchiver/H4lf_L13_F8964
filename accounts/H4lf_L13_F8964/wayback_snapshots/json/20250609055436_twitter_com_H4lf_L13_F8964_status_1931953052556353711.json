@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1925133142496891140",
+    "created_at": "2025-06-09T05:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T06:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931953052556353711"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931953052556353711",
+    "in_reply_to_user_id": "1790275346899554304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925133142496891140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十月就要关了，政府施压让房东停止续租，大家十月前多去玩玩吧。\n\n我们的未来在何方？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1925132897431986176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdyK6DaIAAgcuW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925132897473994752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdyK6NbIAA2co9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925132897423683586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdyK6BbcAIiX7W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925132897444626432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdyK6GbAAA8YCE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1925133142496891140",
+        "created_at": "2025-06-09T05:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T06:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931953052556353711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931953052556353711",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925133142496891140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十月就要关了，政府施压让房东停止续租，大家十月前多去玩玩吧。\n\n我们的未来在何方？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925132897431986176",
+            "3_1925132897473994752",
+            "3_1925132897423683586",
+            "3_1925132897444626432"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925133142496891140",
+        "created_at": "2025-05-21T10:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925133142496891140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pl6yOnY7vz",
+              "end": 33,
+              "expanded_url": "https://x.com/H4lf_L13_f/status/1925133142496891140/photo/1",
+              "media_key": "3_1925132897431986176",
+              "start": 10,
+              "url": "https://t.co/Pl6yOnY7vz"
+            },
+            {
+              "display_url": "pic.x.com/Pl6yOnY7vz",
+              "end": 33,
+              "expanded_url": "https://x.com/H4lf_L13_f/status/1925133142496891140/photo/1",
+              "media_key": "3_1925132897473994752",
+              "start": 10,
+              "url": "https://t.co/Pl6yOnY7vz"
+            },
+            {
+              "display_url": "pic.x.com/Pl6yOnY7vz",
+              "end": 33,
+              "expanded_url": "https://x.com/H4lf_L13_f/status/1925133142496891140/photo/1",
+              "media_key": "3_1925132897423683586",
+              "start": 10,
+              "url": "https://t.co/Pl6yOnY7vz"
+            },
+            {
+              "display_url": "pic.x.com/Pl6yOnY7vz",
+              "end": 33,
+              "expanded_url": "https://x.com/H4lf_L13_f/status/1925133142496891140/photo/1",
+              "media_key": "3_1925132897444626432",
+              "start": 10,
+              "url": "https://t.co/Pl6yOnY7vz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925133142496891140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 170,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MUCH ROOM https://t.co/Pl6yOnY7vz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1036,
+          "like_count": 5501,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 3925
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

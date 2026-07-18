@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967608667609698304"
+      ],
+      "media_source_tweet_id": [
+        "1967608675625033856"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1967658856269615527",
+    "created_at": "2025-09-15T18:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967658856269615527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474030573228376077",
+          "start": 3,
+          "username": "Gewehr_G36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/peAVvD5p4Q",
+          "end": 39,
+          "expanded_url": "https://x.com/Gewehr_G36/status/1967608675625033856/photo/1",
+          "media_key": "3_1967608667609698304",
+          "start": 16,
+          "url": "https://t.co/peAVvD5p4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967658856269615527",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967608675625033856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gewehr_G36: https://t.co/peAVvD5p4Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967658856269615527].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967658856269615527",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967658856269615527"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_1967608667609698304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05ZqInbEAAf4OM.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967608667609698304"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1967608675625033856",
+        "created_at": "2025-09-15T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967608675625033856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peAVvD5p4Q",
+              "end": 23,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1967608675625033856/photo/1",
+              "media_key": "3_1967608667609698304",
+              "start": 0,
+              "url": "https://t.co/peAVvD5p4Q"
+            },
+            {
+              "display_url": "x.com/Gewehr_G36/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Gewehr_G36/status/1966466610517909715",
+              "start": 24,
+              "url": "https://t.co/Y6buTmYLUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967608675625033856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 603,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966466610517909715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/peAVvD5p4Q https://t.co/Y6buTmYLUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1203,
+          "like_count": 7048,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 4625
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "性别男，江苏及周边地区随机刷新｜在校大学生，非药/无糖｜cos日推营业中｜接线上约拍寄拍委托，不接线下｜有点怕生，混熟的话会很好交流？｜\n主子：@RLappland 她超棒的大家多去看看她.jpg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "RLappland"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "ChauchatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967169182304493568/u1YZaVRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7112,
+          "following_count": 317,
+          "like_count": 427,
+          "listed_count": 25,
+          "media_count": 401,
+          "tweet_count": 2260
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

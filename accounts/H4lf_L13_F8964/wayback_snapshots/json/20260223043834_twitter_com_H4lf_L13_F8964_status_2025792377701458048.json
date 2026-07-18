@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427352573401452555",
+          "name": "Crisis in Afghanistan"
+        }
+      }
+    ],
+    "conversation_id": "2025792377701458048",
+    "created_at": "2026-02-23T04:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T05:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025792377701458048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/braedensorbo/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/braedensorbo/status/2022108794072052032",
+          "start": 13,
+          "url": "https://t.co/8Htz2dr6v6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025792377701458048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022108794072052032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真去献忠了你又不这么说了 https://t.co/8Htz2dr6v6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 123691,
+        "height": 1080,
+        "media_key": "13_1952437210801963008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952437210801963008/img/SDvTVmpbmIyIreQY.jpg",
+        "public_metrics": {
+          "view_count": 4547531
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952437210801963008/vid/avc1/1920x1080/ZnXb08JYW-v6IY9g.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952437210801963008/vid/avc1/480x270/PeQ4HlT2sFPIzIii.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952437210801963008/pl/5XcRdD1EteKDS6jw.m3u8?v=1bc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952437210801963008/vid/avc1/1280x720/J2KiHdgKUFdKjPZS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952437210801963008/vid/avc1/640x360/g9xSTtWrY_GNBqxv.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2025792377701458048",
+        "created_at": "2026-02-23T04:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025792377701458048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/braedensorbo/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/braedensorbo/status/2022108794072052032",
+              "start": 13,
+              "url": "https://t.co/8Htz2dr6v6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025792377701458048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022108794072052032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真去献忠了你又不这么说了 https://t.co/8Htz2dr6v6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952437210801963008"
+          ],
+          "media_source_tweet_id": [
+            "1952437754169786876"
+          ]
+        },
+        "author_id": "2896139348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2022108794072052032",
+        "created_at": "2026-02-13T00:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022108794072052032"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Alex Stein",
+              "probability": 0.9761,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Taliban",
+              "probability": 0.9184,
+              "start": 152,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N75dJIy4G3",
+              "end": 208,
+              "expanded_url": "https://x.com/camhigby/status/1952437754169786876/video/1",
+              "media_key": "13_1952437210801963008",
+              "start": 185,
+              "url": "https://t.co/N75dJIy4G3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022108794072052032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6911,
+          "impression_count": 3019935,
+          "like_count": 39288,
+          "quote_count": 859,
+          "reply_count": 1044,
+          "retweet_count": 4186
+        },
+        "reply_settings": "everyone",
+        "text": "Alex Stein says “We SHOULD have trans in the military. The suiclde rate is so incredibly high among transgender people… we could just use them like the Taliban uses suiclde bombers!”\n\n https://t.co/N75dJIy4G3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1409,
+          "like_count": 8669,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5422
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-11T03:45:44.000Z",
+        "description": "Unchivalrous Catholic ✞ | American nationalist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Braedensorbo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Braedensorbo",
+                "start": 0,
+                "url": "https://t.co/6jhSVlvo4k"
+              }
+            ]
+          }
+        },
+        "id": "2896139348",
+        "location": "America",
+        "name": "Braeden",
+        "pinned_tweet_id": "2022108794072052032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018834960996532224/p7nEaWKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21393,
+          "following_count": 1355,
+          "like_count": 25207,
+          "listed_count": 307,
+          "media_count": 4301,
+          "tweet_count": 25813
+        },
+        "url": "https://t.co/6jhSVlvo4k",
+        "username": "BraedenSorbo",
+        "verified": true
+      }
+    ]
+  }
+}

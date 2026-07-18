@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932520391093989600",
+    "created_at": "2025-06-10T19:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932520391093989600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1241866379684220928",
+          "start": 3,
+          "username": "Cristia14318062"
+        },
+        {
+          "end": 34,
+          "id": "1782932905419046912",
+          "start": 21,
+          "username": "ratshelprats"
+        },
+        {
+          "end": 44,
+          "id": "1790370144755351552",
+          "start": 35,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932520391093989600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932096030968791539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cristia14318062: @ratshelprats @FurinaDF 鼠王非但没有同情鼠民，居然还产生了交配的欲望，太让我们失望啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932520391093989600",
+        "created_at": "2025-06-10T19:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932520391093989600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1241866379684220928",
+              "start": 3,
+              "username": "Cristia14318062"
+            },
+            {
+              "end": 34,
+              "id": "1782932905419046912",
+              "start": 21,
+              "username": "ratshelprats"
+            },
+            {
+              "end": 44,
+              "id": "1790370144755351552",
+              "start": 35,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932520391093989600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932096030968791539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cristia14318062: @ratshelprats @FurinaDF 鼠王非但没有同情鼠民，居然还产生了交配的欲望，太让我们失望啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241866379684220928",
+        "conversation_id": "1932039346426888652",
+        "created_at": "2025-06-09T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932096030968791539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            },
+            {
+              "end": 23,
+              "id": "1790370144755351552",
+              "start": 14,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932096030968791539",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932043978779898195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats @FurinaDF 鼠王非但没有同情鼠民，居然还产生了交配的欲望，太让我们失望啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1045,
+          "like_count": 5576,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3948
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-22T23:16:45.000Z",
+        "description": "点赞机器😶｜观点中立 性别中立｜互fo❤️｜反对极端主义😡｜岁月静好｜",
+        "id": "1241866379684220928",
+        "location": "B612",
+        "name": "Macintosh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771155429990727680/yBUBisgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 588,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 919
+        },
+        "username": "Cristia14318062",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1890285410628375009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79556,
+          "following_count": 500,
+          "like_count": 48034,
+          "listed_count": 117,
+          "media_count": 446,
+          "tweet_count": 1004
+        },
+        "username": "ratshelprats",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "天生万物以养人  世人犹怨天不仁  不知蝗蠹遍天下  苦尽苍生尽王臣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1918716154610323574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30856,
+          "following_count": 2169,
+          "like_count": 26194,
+          "listed_count": 85,
+          "media_count": 5052,
+          "tweet_count": 9201
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

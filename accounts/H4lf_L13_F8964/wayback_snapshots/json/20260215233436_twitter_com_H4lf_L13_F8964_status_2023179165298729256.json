@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023179165298729256",
+    "created_at": "2026-02-15T23:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T00:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023179165298729256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1484488362182467584",
+          "start": 3,
+          "username": "f_fannie427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023179165298729256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016824025088217198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @f_fannie427: 也许最初的和尚只是一群有分离障碍的人，于是这些坏种想让别人也得解离症（玩笑话啦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023179165298729256",
+        "created_at": "2026-02-15T23:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T00:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023179165298729256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1484488362182467584",
+              "start": 3,
+              "username": "f_fannie427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023179165298729256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016824025088217198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @f_fannie427: 也许最初的和尚只是一群有分离障碍的人，于是这些坏种想让别人也得解离症（玩笑话啦）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "2016824025088217198",
+        "created_at": "2026-01-29T10:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016824025088217198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016824025088217198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "也许最初的和尚只是一群有分离障碍的人，于是这些坏种想让别人也得解离症（玩笑话啦）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 1394,
+          "like_count": 8616,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5385
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定，可能傻与冒失\n丑 穷 可以称呼为427",
+        "id": "1484488362182467584",
+        "location": "云",
+        "name": "云匿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813214060995092480/kRdI87E2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 751,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 580
+        },
+        "username": "f_fannie427",
+        "verified": false
+      }
+    ]
+  }
+}

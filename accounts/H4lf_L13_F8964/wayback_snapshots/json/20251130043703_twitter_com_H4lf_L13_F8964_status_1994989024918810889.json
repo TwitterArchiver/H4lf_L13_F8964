@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1994875118024040860",
+    "created_at": "2025-11-30T04:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994989024918810889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994989024918810889",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994875118024040860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw 我记得给你安利过jiluka，但是那个编曲有点土是真的……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994875114572181504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G684WO9XcAAAK5h.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994875114576343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G684WO-W8AA78OV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1994875118024040860",
+        "created_at": "2025-11-30T04:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994989024918810889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994989024918810889",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994875118024040860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw 我记得给你安利过jiluka，但是那个编曲有点土是真的……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994875114572181504",
+            "3_1994875114576343040"
+          ]
+        },
+        "author_id": "1880109814241746944",
+        "conversation_id": "1994875118024040860",
+        "created_at": "2025-11-29T21:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T22:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994875118024040860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzvOQMSh9X",
+              "end": 144,
+              "expanded_url": "https://x.com/fallenleavesw/status/1994875118024040860/photo/1",
+              "media_key": "3_1994875114572181504",
+              "start": 121,
+              "url": "https://t.co/lzvOQMSh9X"
+            },
+            {
+              "display_url": "pic.x.com/lzvOQMSh9X",
+              "end": 144,
+              "expanded_url": "https://x.com/fallenleavesw/status/1994875118024040860/photo/1",
+              "media_key": "3_1994875114576343040",
+              "start": 121,
+              "url": "https://t.co/lzvOQMSh9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994875118024040860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我偶尔会想现在带点哥特/冷感的衣服/妆容/某种非二元性别表达的选择到底是 “我更适合成熟感的造型，这让我感到安心也贴性格” 还是 “我骨架实在走不了可爱风，于是妥协+找到舒适圈+逐步建立自信”\n\n直到我最近刷到了sean和jiluka。。。\n\n我觉得我的审美要从五六岁时我的架子鼓老师给我安利x-japan开始，然后小学开始听重金属一直到高中转funk转爵、然后转jpop之类\n\n我现在还记得一个入门小孩被说“你solo一下《红》试试”的满头问号\n\n卧槽重型哥特视觉系哥特（嗯杀马特嗯）太他妈酷了吧我也要这样\n\n妈妈、哥、姐、老公、老婆awwwwwwww（xhs尖叫）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我偶尔会想现在带点哥特/冷感的衣服/妆容/某种非二元性别表达的选择到底是 “我更适合成熟感的造型，这让我感到安心也贴性格” 还是 “我骨架实在走不了可爱风，于是妥协+找到舒适圈+逐步建立自信”\n\n直到我最近刷到了sean和jiluka。。。 https://t.co/lzvOQMSh9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1308,
+          "like_count": 7923,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5045
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "非二元pear/坐标多伦多/最爱的人❤️@VentusUta/云 波点 光 也许那里有什么…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993024820426985473/tnWOr9SV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 569,
+          "like_count": 25769,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 4887
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

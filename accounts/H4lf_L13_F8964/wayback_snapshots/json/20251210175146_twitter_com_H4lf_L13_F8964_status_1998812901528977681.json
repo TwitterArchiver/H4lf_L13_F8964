@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998638857664053248"
+      ],
+      "media_source_tweet_id": [
+        "1998638860553847220"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1998812901528977681",
+    "created_at": "2025-12-10T17:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T18:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998812901528977681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825860031855865856",
+          "start": 3,
+          "username": "assdent3258"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mtwrxhu6ip",
+          "end": 79,
+          "expanded_url": "https://x.com/assdent3258/status/1998638860553847220/photo/1",
+          "media_key": "3_1998638857664053248",
+          "start": 56,
+          "url": "https://t.co/mtwrxhu6ip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998812901528977681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998638860553847220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @assdent3258: @whyyoutouzhele 西洋人的圣诞帽我不戴，因为中国人有中式圣诞帽 https://t.co/mtwrxhu6ip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_1998638857664053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yXc6lbwAA8AvL.jpg",
+        "width": 493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998638857664053248"
+          ],
+          "media_source_tweet_id": [
+            "1998638860553847220"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1998812901528977681",
+        "created_at": "2025-12-10T17:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998812901528977681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825860031855865856",
+              "start": 3,
+              "username": "assdent3258"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtwrxhu6ip",
+              "end": 79,
+              "expanded_url": "https://x.com/assdent3258/status/1998638860553847220/photo/1",
+              "media_key": "3_1998638857664053248",
+              "start": 56,
+              "url": "https://t.co/mtwrxhu6ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998812901528977681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998638860553847220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @assdent3258: @whyyoutouzhele 西洋人的圣诞帽我不戴，因为中国人有中式圣诞帽 https://t.co/mtwrxhu6ip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998638857664053248"
+          ]
+        },
+        "author_id": "1825860031855865856",
+        "conversation_id": "1998543184050401688",
+        "created_at": "2025-12-10T06:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998638860553847220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtwrxhu6ip",
+              "end": 62,
+              "expanded_url": "https://x.com/assdent3258/status/1998638860553847220/photo/1",
+              "media_key": "3_1998638857664053248",
+              "start": 39,
+              "url": "https://t.co/mtwrxhu6ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998638860553847220",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2396,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998543184050401688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 西洋人的圣诞帽我不戴，因为中国人有中式圣诞帽 https://t.co/mtwrxhu6ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1318,
+          "like_count": 8016,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5084
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "pinned_tweet_id": "1984629699516252296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 493,
+          "like_count": 9836,
+          "listed_count": 3,
+          "media_count": 1237,
+          "tweet_count": 9116
+        },
+        "username": "assdent3258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157241,
+          "following_count": 984,
+          "like_count": 8435,
+          "listed_count": 8415,
+          "media_count": 38360,
+          "tweet_count": 45258
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

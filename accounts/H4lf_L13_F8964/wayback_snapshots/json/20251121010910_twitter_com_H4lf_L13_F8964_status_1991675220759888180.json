@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1991434938009481260",
+    "created_at": "2025-11-21T01:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T02:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991675220759888180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991675220759888180",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991434938009481260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka 看情况不对就跑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991434927074865154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6L_g92acAIfwCr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991434928538677250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6L_hDTacAITVrW.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1991434938009481260",
+        "created_at": "2025-11-21T01:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991675220759888180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991675220759888180",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991434938009481260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 看情况不对就跑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991434927074865154",
+            "3_1991434928538677250"
+          ]
+        },
+        "author_id": "1947564512984567808",
+        "conversation_id": "1991434938009481260",
+        "created_at": "2025-11-20T09:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T10:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991434938009481260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVHXkdluSX",
+              "end": 57,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/1991434938009481260/photo/1",
+              "media_key": "3_1991434927074865154",
+              "start": 34,
+              "url": "https://t.co/fVHXkdluSX"
+            },
+            {
+              "display_url": "pic.x.com/fVHXkdluSX",
+              "end": 57,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/1991434938009481260/photo/1",
+              "media_key": "3_1991434928538677250",
+              "start": 34,
+              "url": "https://t.co/fVHXkdluSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991434938009481260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 31234,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "完了，我要被关起来了，我要被关起来了。。。\n。。。。。\n。。。。。 https://t.co/fVHXkdluSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1303,
+          "like_count": 7813,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5009
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "VTuber预备中｜废萌诗人｜笨蛋｜overdose｜ADHD｜渴望社交｜同类互fo｜渴望成为小天使👼🏻",
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "Linking阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 696,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 384
+        },
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

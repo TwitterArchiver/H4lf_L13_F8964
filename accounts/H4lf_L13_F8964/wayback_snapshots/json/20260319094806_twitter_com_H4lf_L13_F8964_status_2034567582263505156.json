@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034507608384573762",
+    "created_at": "2026-03-19T09:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034567582263505156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581209973094109185",
+          "start": 0,
+          "username": "hhh84672361"
+        },
+        {
+          "end": 26,
+          "id": "1424779836938022913",
+          "start": 13,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034567582263505156",
+    "in_reply_to_user_id": "1581209973094109185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034528927541346369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh84672361 @amber_toffee 没有，我也是从衡水模式长起来的，但是我不想低头，我不想被噤声"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2034507608384573762",
+        "created_at": "2026-03-19T09:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034567582263505156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581209973094109185",
+              "start": 0,
+              "username": "hhh84672361"
+            },
+            {
+              "end": 26,
+              "id": "1424779836938022913",
+              "start": 13,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034567582263505156",
+        "in_reply_to_user_id": "1581209973094109185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034528927541346369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh84672361 @amber_toffee 没有，我也是从衡水模式长起来的，但是我不想低头，我不想被噤声"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581209973094109185",
+        "conversation_id": "2034507608384573762",
+        "created_at": "2026-03-19T07:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034528927541346369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528927541346369",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034507608384573762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 更多原因是跑加拿大本科听社科文科课的是一般意义上的富哥富姐，从小上国际学校，没有被衡水模式打磨的性格，其它从小上课不敢说话的中国孩子出国也是STEM专业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1440,
+          "like_count": 8764,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5542
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T09:06:57.000Z",
+        "description": "",
+        "id": "1581209973094109185",
+        "name": "eabab🍥💙💛🇵🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289246164684806/cr4zfItR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1696,
+          "like_count": 5776,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1100
+        },
+        "username": "hhh84672361",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "wgsi"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23013,
+          "following_count": 2662,
+          "like_count": 38702,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 20641
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

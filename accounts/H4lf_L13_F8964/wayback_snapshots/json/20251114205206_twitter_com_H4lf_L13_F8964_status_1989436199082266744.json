@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1988952176220336478",
+    "created_at": "2025-11-14T20:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989436199082266744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515208665330237442",
+          "start": 0,
+          "username": "happyending8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989436199082266744",
+    "in_reply_to_user_id": "1515208665330237442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988952176220336478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyending8964 bbc拿着个伪命题狗哨故意抹黑也太恶心了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1988952172873281543",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5otdptacAcCQq7.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1988952176220336478",
+        "created_at": "2025-11-14T20:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989436199082266744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515208665330237442",
+              "start": 0,
+              "username": "happyending8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989436199082266744",
+        "in_reply_to_user_id": "1515208665330237442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988952176220336478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyending8964 bbc拿着个伪命题狗哨故意抹黑也太恶心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988952172873281543"
+          ]
+        },
+        "author_id": "1515208665330237442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1988952176220336478",
+        "created_at": "2025-11-13T12:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988952176220336478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXDLcxPzvD",
+              "end": 23,
+              "expanded_url": "https://x.com/happyending8964/status/1988952176220336478/photo/1",
+              "media_key": "3_1988952172873281543",
+              "start": 0,
+              "url": "https://t.co/UXDLcxPzvD"
+            },
+            {
+              "display_url": "x.com/yeshuaformosa/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yeshuaformosa/status/1988717629058740371",
+              "start": 24,
+              "url": "https://t.co/Q81MW64F98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988952176220336478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15350,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988717629058740371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/UXDLcxPzvD https://t.co/Q81MW64F98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1282,
+          "like_count": 7653,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4950
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T06:01:35.000Z",
+        "description": "叫我欣就行",
+        "id": "1515208665330237442",
+        "name": "香欣料（欣🧂",
+        "pinned_tweet_id": "1947645667117306339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 654,
+          "like_count": 4314,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 3509
+        },
+        "username": "happyending8964",
+        "verified": false
+      }
+    ]
+  }
+}

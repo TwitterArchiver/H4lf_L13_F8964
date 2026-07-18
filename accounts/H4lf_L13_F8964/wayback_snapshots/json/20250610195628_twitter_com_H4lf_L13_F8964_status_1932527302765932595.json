@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932410473993130218",
+    "created_at": "2025-06-10T19:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932527302765932595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526443326437658624",
+          "start": 0,
+          "username": "thanks9874"
+        }
+      ],
+      "urls": [
+        {
+          "description": "孕激素是会促进、还是会抑制乳房发育？过早暴露于孕激素会导致乳房发育不良吗？本文尝试梳理孕激素的作用，提供建设性见解。",
+          "display_url": "tfsci.mtf.wiki/zh-cn/articles…",
+          "end": 63,
+          "expanded_url": "https://tfsci.mtf.wiki/zh-cn/articles/progestogens-breast-dev/",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/1922931735462920192/pbFy1tyR?format=png&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1922931735462920192/pbFy1tyR?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "有关孕激素在女性倾向跨性别者中促进乳房发育之潜力的全面综述 - 女性倾向跨性别者科学",
+          "unwound_url": "https://tfsci.mtf.wiki/zh-cn/articles/progestogens-breast-dev/",
+          "url": "https://t.co/l4SYgtFtra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932527302765932595",
+    "in_reply_to_user_id": "1526443326437658624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932410473993130218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thanks9874 tfsci去年刚发了一篇关于黄体酮与乳房发育潜力的论文\nhttps://t.co/l4SYgtFtra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2895,
+        "media_key": "3_1932410470713200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFNFbMbEAASNjh.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932410473993130218",
+        "created_at": "2025-06-10T19:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932527302765932595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526443326437658624",
+              "start": 0,
+              "username": "thanks9874"
+            }
+          ],
+          "urls": [
+            {
+              "description": "孕激素是会促进、还是会抑制乳房发育？过早暴露于孕激素会导致乳房发育不良吗？本文尝试梳理孕激素的作用，提供建设性见解。",
+              "display_url": "tfsci.mtf.wiki/zh-cn/articles…",
+              "end": 63,
+              "expanded_url": "https://tfsci.mtf.wiki/zh-cn/articles/progestogens-breast-dev/",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1922931735462920192/pbFy1tyR?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1922931735462920192/pbFy1tyR?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "有关孕激素在女性倾向跨性别者中促进乳房发育之潜力的全面综述 - 女性倾向跨性别者科学",
+              "unwound_url": "https://tfsci.mtf.wiki/zh-cn/articles/progestogens-breast-dev/",
+              "url": "https://t.co/l4SYgtFtra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932527302765932595",
+        "in_reply_to_user_id": "1526443326437658624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932410473993130218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thanks9874 tfsci去年刚发了一篇关于黄体酮与乳房发育潜力的论文\nhttps://t.co/l4SYgtFtra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932410470713200640"
+          ]
+        },
+        "author_id": "1526443326437658624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932410473993130218",
+        "created_at": "2025-06-10T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932410473993130218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oL4PahY6el",
+              "end": 29,
+              "expanded_url": "https://x.com/thanks9874/status/1932410473993130218/photo/1",
+              "media_key": "3_1932410470713200640",
+              "start": 6,
+              "url": "https://t.co/oL4PahY6el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932410473993130218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以及地图炮 https://t.co/oL4PahY6el"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1046,
+          "like_count": 5577,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3955
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T06:04:14.000Z",
+        "description": "🏳️‍⚧️mtf‖长沙‖免费提供医学咨询‖爱人@miku_tofacegirl‖讨厌sex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "miku_tofacegirl"
+              }
+            ]
+          }
+        },
+        "id": "1526443326437658624",
+        "location": "NGC 2237",
+        "name": "🐾闭关型瓜瓜࿐",
+        "pinned_tweet_id": "1830663056109773108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914922548858368000/O4ytHHr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 377,
+          "like_count": 4445,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 13024
+        },
+        "username": "thanks9874",
+        "verified": false
+      }
+    ]
+  }
+}

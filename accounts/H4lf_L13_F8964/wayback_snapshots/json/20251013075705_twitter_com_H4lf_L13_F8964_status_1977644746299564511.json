@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1977644746299564511",
+    "created_at": "2025-10-13T07:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T08:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977644746299564511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1313307135766392833",
+          "start": 3,
+          "username": "NailoongBlair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977644746299564511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977526199158296931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NailoongBlair: 你知道吗\n1.《资本论》导读删了一堆辱骂闹钟是官僚资本主义的.\n2.《反俄狄浦斯》因为涉及伟大同志出版被拖延的许久，奈格利和哈特的《诸众》更是基本确认翻译但是无法出版\n3.建制同左这下左籍人人有了\n4将理论归结于外部条件的七步讲，我不知道这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1977644746299564511",
+        "created_at": "2025-10-13T07:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977644746299564511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1313307135766392833",
+              "start": 3,
+              "username": "NailoongBlair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977644746299564511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977526199158296931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NailoongBlair: 你知道吗\n1.《资本论》导读删了一堆辱骂闹钟是官僚资本主义的.\n2.《反俄狄浦斯》因为涉及伟大同志出版被拖延的许久，奈格利和哈特的《诸众》更是基本确认翻译但是无法出版\n3.建制同左这下左籍人人有了\n4将理论归结于外部条件的七步讲，我不知道这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313307135766392833",
+        "conversation_id": "1977526199158296931",
+        "created_at": "2025-10-13T00:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977526199158296931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TherPalebluedo…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/TherPalebluedot/status/1977472169304309998",
+              "start": 130,
+              "url": "https://t.co/HaWD0rgQ9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977526199158296931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1842,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977472169304309998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你知道吗\n1.《资本论》导读删了一堆辱骂闹钟是官僚资本主义的.\n2.《反俄狄浦斯》因为涉及伟大同志出版被拖延的许久，奈格利和哈特的《诸众》更是基本确认翻译但是无法出版\n3.建制同左这下左籍人人有了\n4将理论归结于外部条件的七步讲，我不知道这是不是某种怨恨精神 https://t.co/HaWD0rgQ9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1242,
+          "like_count": 7328,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4772
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1900513150744838398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 2550,
+          "like_count": 183489,
+          "listed_count": 23,
+          "media_count": 2131,
+          "tweet_count": 42142
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      }
+    ]
+  }
+}

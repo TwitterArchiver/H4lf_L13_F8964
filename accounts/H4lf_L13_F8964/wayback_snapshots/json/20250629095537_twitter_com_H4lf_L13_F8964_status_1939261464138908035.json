@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410726858014945283",
+          "name": "Wuxia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410728010462859268",
+          "name": "Xianxia"
+        }
+      }
+    ],
+    "conversation_id": "1939261464138908035",
+    "created_at": "2025-06-29T09:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T10:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939261464138908035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h4lf_l13_f8964…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/h4lf_l13_f8964/status/1934160550881313008",
+          "start": 17,
+          "url": "https://t.co/dHQfiEVr8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939261464138908035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934160550881313008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以吃仙丹实际上是跨种族激素治疗 https://t.co/dHQfiEVr8j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410726858014945283",
+              "name": "Wuxia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410728010462859268",
+              "name": "Xianxia"
+            }
+          }
+        ],
+        "conversation_id": "1939261464138908035",
+        "created_at": "2025-06-29T09:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939261464138908035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h4lf_l13_f8964…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/h4lf_l13_f8964/status/1934160550881313008",
+              "start": 17,
+              "url": "https://t.co/dHQfiEVr8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939261464138908035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934160550881313008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以吃仙丹实际上是跨种族激素治疗 https://t.co/dHQfiEVr8j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410726858014945283",
+              "name": "Wuxia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410728010462859268",
+              "name": "Xianxia"
+            }
+          }
+        ],
+        "conversation_id": "1934160550881313008",
+        "created_at": "2025-06-15T08:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934160550881313008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934160550881313008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以武侠/仙侠小说在这里有HRT的隐喻。\n\n都是寻医、问药、求长生，都是逆天改命\n都是黄皮子讨封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 1092,
+          "like_count": 6078,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 4175
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

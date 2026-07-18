@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937814978649800704"
+      ],
+      "media_source_tweet_id": [
+        "1937814988703588491"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938096348009746694",
+    "created_at": "2025-06-26T04:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938096348009746694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "989792932533223424",
+          "start": 3,
+          "username": "Kinodar_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MdUIV1B0dB",
+          "end": 90,
+          "expanded_url": "https://x.com/Kinodar_/status/1937814988703588491/photo/1",
+          "media_key": "3_1937814978649800704",
+          "start": 67,
+          "url": "https://t.co/MdUIV1B0dB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938096348009746694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937814988703588491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinodar_: 上学的时候觉得这种散文很酷，但是总是写不好\n\n后来发现无病呻吟确实是写不出这种东西的\n\n少年不知愁滋味呀 https://t.co/MdUIV1B0dB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1937814978649800704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSAdMLaQAAjFaO.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937814978649800704"
+          ],
+          "media_source_tweet_id": [
+            "1937814988703588491"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938096348009746694",
+        "created_at": "2025-06-26T04:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938096348009746694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "989792932533223424",
+              "start": 3,
+              "username": "Kinodar_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdUIV1B0dB",
+              "end": 90,
+              "expanded_url": "https://x.com/Kinodar_/status/1937814988703588491/photo/1",
+              "media_key": "3_1937814978649800704",
+              "start": 67,
+              "url": "https://t.co/MdUIV1B0dB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938096348009746694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937814988703588491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinodar_: 上学的时候觉得这种散文很酷，但是总是写不好\n\n后来发现无病呻吟确实是写不出这种东西的\n\n少年不知愁滋味呀 https://t.co/MdUIV1B0dB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937814978649800704"
+          ]
+        },
+        "author_id": "989792932533223424",
+        "conversation_id": "1937814988703588491",
+        "created_at": "2025-06-25T10:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937814988703588491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdUIV1B0dB",
+              "end": 76,
+              "expanded_url": "https://x.com/Kinodar_/status/1937814988703588491/photo/1",
+              "media_key": "3_1937814978649800704",
+              "start": 53,
+              "url": "https://t.co/MdUIV1B0dB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937814988703588491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 59940,
+          "like_count": 692,
+          "quote_count": 12,
+          "reply_count": 35,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "上学的时候觉得这种散文很酷，但是总是写不好\n\n后来发现无病呻吟确实是写不出这种东西的\n\n少年不知愁滋味呀 https://t.co/MdUIV1B0dB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1087,
+          "like_count": 5990,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 4111
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/37岁 日记推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3fmqS"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674684426016677889/4ziJHXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 121,
+          "like_count": 10007,
+          "listed_count": 3,
+          "media_count": 1531,
+          "tweet_count": 6658
+        },
+        "url": "https://t.co/DtKsP3fmqS",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

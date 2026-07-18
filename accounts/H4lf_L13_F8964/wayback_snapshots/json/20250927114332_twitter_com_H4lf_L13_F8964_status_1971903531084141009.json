@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1971903531084141009",
+    "created_at": "2025-09-27T11:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971903531084141009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "HomeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971903531084141009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971582847246086489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HomeCollider: 早些时候在他们几个群里。时间节点可能存在差异，但是都是基本事实。我与事件任何一方都没有任何利益相关。\n\n0. 多年以前，X 已经在律师协助下完成学历更新。\n1. 约 2025 年 4 月，X…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1971903531084141009",
+        "created_at": "2025-09-27T11:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971903531084141009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "HomeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971903531084141009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971582847246086489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HomeCollider: 早些时候在他们几个群里。时间节点可能存在差异，但是都是基本事实。我与事件任何一方都没有任何利益相关。\n\n0. 多年以前，X 已经在律师协助下完成学历更新。\n1. 约 2025 年 4 月，X…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "conversation_id": "1971582847246086489",
+        "created_at": "2025-09-26T14:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971582847246086489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1971537484736770527",
+              "start": 96,
+              "url": "https://t.co/nFEQjLIfPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971582847246086489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "早些时候在他们几个群里。时间节点可能存在差异，但是都是基本事实。我与事件任何一方都没有任何利益相关。\n\n0. 多年以前，X 已经在律师协助下完成学历更新。\n1. 约 2025 年 4 月，X 提议社群成员以写信方式向政府部门反映学历问题，并建议将信件寄送至特定部门。期间曾短暂给予写信成员一定现金奖励，引发部分质疑。\n2. X 亦撰写过信件，主要内容为个人经历和情况陈述。\n3. 有成员询问 X 使用「这次一定能解决问题」等语气的原因。X 回应认为写信数量增加可能会引起工作人员关注，并在公众号表达了积极预期。同时推荐了电影《哪吒》，称从中获得启发。\n4. 在等待回应期间，X 曾提出「制造」一起「伪造学历案件」以引起社会关注的设想，但未付诸实施。\n5. X 未获得积极回信。\n6. X 转而提出以当前身份「补办学历」的思路，认为可避免涉及档案修改。\n7. X 咨询过公益律师，但反馈有限。后续似乎有同为 Trans 群体且具法律资格者提供过意见。\n8. 仍未获得积极回信。\n9. X 开始使用 LLM 工具（如 DeepSeek、腾讯元宝）辅助思考，并在社群中推荐。但因问题复杂，工具输出存在不完全准确的情况。\n10. X 据称通过网络获取部分政府工作人员（MPS、MOE）私人联系方式，表达了诉求，得到的回复多为「建议通过公开渠道反映」。X 在社群中表示已经获得相关部门工作人员的支持。\n11. 在呼吁写信的公众号文章下出现过极端评论，X 将其列为精选评论后遭到约谈；警察表示需要考虑公众号的广泛受众。同时，X 开始收集群体因学历问题遇到的具体情况，并准备「打动」警察为其上报到 MPS；该事项超过了警察的职能范围，后续无疾而终。\n12. X 获取到部分 NHC 工作人员联系方式，对方建议其通过官方网站留言。X 据称已留言，但未收到反馈。\n13. X 提及考虑赴首都与 NHC、MOE 工作人员当面沟通，并在群中询问是否有人同行，据称是「陪同旅行不会无聊」。部分响应者称收到当地派出所电话提示「维权方式需规范」。一部分因担心受到处罚退出了群聊，另有一部分反对者不愿辩论直接退出群聊。\n14. X 被约谈，对方提示其需更好理解体制运作方式，并在表述上注意语气和受众。\n15. X 在群内表示获得 MPS 的回应和支持，但仍需 MOE 方面进一步对接，需要社群牵线对接。\n16. X 继续在公众号以委婉方式发文，并在群内鼓励成员互助，推动「技能互换」。\n17. X 创建了个人公众号，与公益性质的「跨儿说」区分，用于表达个人观点。18. 社群内有人质疑 X 的撰文，X 回应时以理解和同情的语气提及该成员可能存在「精神障碍」需及早诊疗。部分群成员随后发表了批评言论。该质疑者随之退出群聊。\n19. 迄今，X 尚未获得积极回信。政府部门对大量内容类似的信件一般较为谨慎。\n20. X 也会在社群内分享个人思考和情绪，客观上对部分成员的情绪有一定影响。\n21. X 开始阅读公众号文章、思政课类的历史和伟人事迹，并在社群内推荐。X 亦表示意识到之前警察约谈她不要发什么、不要什么时候发，是真的在保护她。\n22. X 通过「跨儿说」公众号推荐社群学习党史。\n23. 「跨儿说」公众号被永久封禁。X 在其个人公众号发起投票：是否仍愿意参加原定的线下聚会。\n24. 之后，X 在社群内表示，希望找到方法帮助账号恢复，如「撤销举报」，并反思「只考虑到了体制内的问题，没有全面考虑社群内部矛盾」且强调「有表达情绪的权利」。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4362,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971537484736770527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早些时候在他们几个群里。时间节点可能存在差异，但是都是基本事实。我与事件任何一方都没有任何利益相关。\n\n0. 多年以前，X 已经在律师协助下完成学历更新。\n1. 约 2025 年 4 月，X https://t.co/nFEQjLIfPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1219,
+          "like_count": 7103,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4670
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | Platform Architect",
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171275329789956/jCp7EKJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 139,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 63
+        },
+        "username": "HomeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

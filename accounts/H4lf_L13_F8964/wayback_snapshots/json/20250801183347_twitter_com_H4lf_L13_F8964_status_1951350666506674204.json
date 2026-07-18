@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951179112485109761"
+      ],
+      "media_source_tweet_id": [
+        "1951179127685251567"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1951350666506674204",
+    "created_at": "2025-08-01T18:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T19:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951350666506674204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1523722973085061120",
+          "start": 3,
+          "username": "kuroakaix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2QlKrECLrD",
+          "end": 38,
+          "expanded_url": "https://x.com/kuroakaix/status/1951179127685251567/photo/1",
+          "media_key": "3_1951179112485109761",
+          "start": 15,
+          "url": "https://t.co/2QlKrECLrD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951350666506674204",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951179127685251567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroakaix: https://t.co/2QlKrECLrD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_1951179112485109761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxP7EKTWQAEmEtV.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951179112485109761"
+          ],
+          "media_source_tweet_id": [
+            "1951179127685251567"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1951350666506674204",
+        "created_at": "2025-08-01T18:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T19:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951350666506674204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1523722973085061120",
+              "start": 3,
+              "username": "kuroakaix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QlKrECLrD",
+              "end": 38,
+              "expanded_url": "https://x.com/kuroakaix/status/1951179127685251567/photo/1",
+              "media_key": "3_1951179112485109761",
+              "start": 15,
+              "url": "https://t.co/2QlKrECLrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951350666506674204",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951179127685251567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroakaix: https://t.co/2QlKrECLrD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951179112485109761"
+          ]
+        },
+        "author_id": "1523722973085061120",
+        "conversation_id": "1951179127685251567",
+        "created_at": "2025-08-01T07:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T08:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951179127685251567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QlKrECLrD",
+              "end": 23,
+              "expanded_url": "https://x.com/kuroakaix/status/1951179127685251567/photo/1",
+              "media_key": "3_1951179112485109761",
+              "start": 0,
+              "url": "https://t.co/2QlKrECLrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951179127685251567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 16770,
+          "like_count": 578,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2QlKrECLrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1127,
+          "like_count": 6494,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 4343
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T17:55:09.000Z",
+        "description": "⚡︎⚡︎howa,angura,punk,underworld,subculture\n/\n/\n/\n/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kuroakaix",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/kuroakaix",
+                "start": 0,
+                "url": "https://t.co/RyVhdsp9AN"
+              }
+            ]
+          }
+        },
+        "id": "1523722973085061120",
+        "name": "処女ブレーカ",
+        "pinned_tweet_id": "1755883423778955473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918246645763854336/HOoSERG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23821,
+          "following_count": 1108,
+          "like_count": 38485,
+          "listed_count": 103,
+          "media_count": 7492,
+          "tweet_count": 13617
+        },
+        "url": "https://t.co/RyVhdsp9AN",
+        "username": "kuroakaix",
+        "verified": true
+      }
+    ]
+  }
+}

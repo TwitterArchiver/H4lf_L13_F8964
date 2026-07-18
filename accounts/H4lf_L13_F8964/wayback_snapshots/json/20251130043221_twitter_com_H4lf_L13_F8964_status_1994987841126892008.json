@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1994987841126892008",
+    "created_at": "2025-11-30T04:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994987841126892008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1128171981214343170",
+          "start": 3,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994987841126892008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994839823027507595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phosphas: 狐和朋友们做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1994987841126892008",
+        "created_at": "2025-11-30T04:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994987841126892008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1128171981214343170",
+              "start": 3,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994987841126892008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994839823027507595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phosphas: 狐和朋友们做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128171981214343170",
+        "conversation_id": "1994839823027507595",
+        "created_at": "2025-11-29T18:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994839823027507595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1994834918778781978",
+              "start": 8,
+              "url": "https://t.co/AjmFW8k65j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994839823027507595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5815,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994834918778781978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐和朋友们做的 https://t.co/AjmFW8k65j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1308,
+          "like_count": 7922,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5042
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "塗塗狐🟨⬜️🟪⬛️",
+        "pinned_tweet_id": "1779802684092194893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956901195538120704/IiMwDPIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 572,
+          "like_count": 17459,
+          "listed_count": 7,
+          "media_count": 342,
+          "tweet_count": 2893
+        },
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

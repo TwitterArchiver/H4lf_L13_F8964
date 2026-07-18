@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1979790216438403099",
+    "created_at": "2025-10-19T09:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979838371049668845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783421192181039104",
+          "start": 0,
+          "username": "Lily_nothin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979838371049668845",
+    "in_reply_to_user_id": "1783421192181039104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979817888916939146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_nothin 第五代导演早年都挺好的，后面事业起色拉就是另一回事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1979790216438403099",
+        "created_at": "2025-10-19T09:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979838371049668845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783421192181039104",
+              "start": 0,
+              "username": "Lily_nothin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979838371049668845",
+        "in_reply_to_user_id": "1783421192181039104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979817888916939146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_nothin 第五代导演早年都挺好的，后面事业起色拉就是另一回事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783421192181039104",
+        "conversation_id": "1979790216438403099",
+        "created_at": "2025-10-19T07:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979817888916939146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979817888916939146",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979790216438403099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 张艺谋2000年前死了的话，艺术史上也能留下一笔不小的美名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1256,
+          "like_count": 7451,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 4840
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:02:09.000Z",
+        "description": "",
+        "id": "1783421192181039104",
+        "name": "小茶",
+        "pinned_tweet_id": "1974862176809796028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975851892636069888/SSEQfo4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 749,
+          "like_count": 10754,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 6249
+        },
+        "username": "Lily_nothin",
+        "verified": false
+      }
+    ]
+  }
+}

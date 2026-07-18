@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996322409385742374",
+    "created_at": "2025-12-03T20:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T21:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996322409385742374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hulgahulia4009…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/hulgahulia40099/status/1996157198087663942",
+          "start": 62,
+          "url": "https://t.co/I91nUNaMOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996322409385742374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996157198087663942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "风向实际上肉眼可见的变得很快，本以为老大哥又一次没处理好被粉红的舆论反噬，但是墙内舆论很快矛头被引导到严查武大法律系上面了 https://t.co/I91nUNaMOT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996322409385742374",
+        "created_at": "2025-12-03T20:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996322409385742374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hulgahulia4009…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/hulgahulia40099/status/1996157198087663942",
+              "start": 62,
+              "url": "https://t.co/I91nUNaMOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996322409385742374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996157198087663942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "风向实际上肉眼可见的变得很快，本以为老大哥又一次没处理好被粉红的舆论反噬，但是墙内舆论很快矛头被引导到严查武大法律系上面了 https://t.co/I91nUNaMOT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757856240862900224",
+        "conversation_id": "1996083900725301570",
+        "created_at": "2025-12-03T09:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996157198087663942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996157198087663942",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996083900725301570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 这个都不算是中国娱乐性药物滥用非罪化的进步，这是我匪在“停止迫害药物滥用者”这一层面迈出的一小步。\n\n最让人感到无力和痛苦的不是我匪改革意愿极低、进展极慢，而是中国底层人对这些改革的反应，齐刷刷的负反馈。\n\n粉红们甚至不惜跟它亲妈唱反调🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1313,
+          "like_count": 7979,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5066
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T19:56:16.000Z",
+        "description": "不用费力气查成分，直接告诉你我就是来看黄＆键政的。正在寻找漂亮男娘。\n\n如果你觉得发色图玩淫趴磕rush就被判刑几年甚至十年是合理的，那你我之间无话可说。",
+        "id": "1757856240862900224",
+        "location": "君士坦丁堡",
+        "name": "不想取名字",
+        "pinned_tweet_id": "1772952790303662446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995946821206556672/4zIVhnh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 547,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 2123
+        },
+        "username": "HulgaHulia40099",
+        "verified": false
+      }
+    ]
+  }
+}

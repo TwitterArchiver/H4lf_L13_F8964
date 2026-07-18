@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1968899592528765072",
+    "created_at": "2025-09-19T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968900356701610483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968900356701610483",
+    "in_reply_to_user_id": "1790275346899554304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968899592528765072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（3/N）在去年11月，有一位加沙的艺术家在我们大学的美术馆办展览。学校已经通过了，但是警察赶来给叫停了。学校内的institutional reactionary因为担心引火上身，只能顺从政府和警察的旨意，并答应在之后加大审查力度。这一行为带来了广泛的抵制。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1968899592528765072",
+        "created_at": "2025-09-19T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968900356701610483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968900356701610483",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968899592528765072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（3/N）在去年11月，有一位加沙的艺术家在我们大学的美术馆办展览。学校已经通过了，但是警察赶来给叫停了。学校内的institutional reactionary因为担心引火上身，只能顺从政府和警察的旨意，并答应在之后加大审查力度。这一行为带来了广泛的抵制。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1968899592528765072",
+        "created_at": "2025-09-19T04:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968899592528765072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968899592528765072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（1/N）在探索美术馆这个场域的时候，我们谈到一个我们最不想发生的作用。去年十月，在亲巴勒斯坦学生抗议学校之时，有三名学生被捕。警察在没有得到搜查证和大学许可的情况下，突然占领了大学的美术馆用来扣留被捕的学生，把所有的艺术家和场馆工作人员都赶了出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1209,
+          "like_count": 7053,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 4639
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

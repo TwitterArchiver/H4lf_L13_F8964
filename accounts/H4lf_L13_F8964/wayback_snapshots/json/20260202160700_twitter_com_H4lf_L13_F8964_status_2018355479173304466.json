@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2018315108469051630",
+    "created_at": "2026-02-02T16:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018355479173304466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018355479173304466",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018315108469051630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 找个挂靠学籍的学校然后去机构上学吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_2018314856810860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJ-qzUa0AADxGt.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2018315108469051630",
+        "created_at": "2026-02-02T16:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018355479173304466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018355479173304466",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018315108469051630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 找个挂靠学籍的学校然后去机构上学吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018314856810860544"
+          ]
+        },
+        "author_id": "1830775691375218688",
+        "conversation_id": "2018315108469051630",
+        "created_at": "2026-02-02T13:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018315108469051630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rpQT5SiC7",
+              "end": 152,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2018315108469051630/photo/1",
+              "media_key": "3_2018314856810860544",
+              "start": 129,
+              "url": "https://t.co/7rpQT5SiC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018315108469051630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼，我就知道我复学还有沟槽的学校领导会从中作梗，要我住宿是真没吸取前些年有人在宿舍楼跳楼的教训；还有你妈的建议中职？我他妈要是读了职中以后想读大学还得专升本，那我还复你吗啊，那头发短了只要我不死还有机会留长，这点忍一忍我能做到，就他妈上面两点忍不了一点😅 https://t.co/7rpQT5SiC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1359,
+          "like_count": 8410,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 5287
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜随心记录日常(随机负能量 慎入)💤｜看我的帖不喜勿喷，喷我也要发😋｜小@luo_240110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "luo_240110"
+              }
+            ]
+          }
+        },
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 524,
+          "like_count": 2198,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 5759
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

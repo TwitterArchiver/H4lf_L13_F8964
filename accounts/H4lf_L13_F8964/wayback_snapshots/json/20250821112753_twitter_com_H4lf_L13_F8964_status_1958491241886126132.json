@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1958048950528659920",
+    "created_at": "2025-08-21T11:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T12:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958491241886126132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 15,
+          "id": "1340940894422196225",
+          "start": 6,
+          "username": "Dddgjs05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958491241886126132",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958481183387615264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Dddgjs05 北京有锤子格挡和无障碍，商场又不在二环内的那些地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1958048950528659920",
+        "created_at": "2025-08-21T11:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958491241886126132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 15,
+              "id": "1340940894422196225",
+              "start": 6,
+              "username": "Dddgjs05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958491241886126132",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958481183387615264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Dddgjs05 北京有锤子格挡和无障碍，商场又不在二环内的那些地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1958048950528659920",
+        "created_at": "2025-08-21T10:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T11:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958481183387615264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1340940894422196225",
+              "start": 0,
+              "username": "Dddgjs05"
+            },
+            {
+              "end": 25,
+              "id": "1790275346899554304",
+              "start": 10,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958481183387615264",
+        "in_reply_to_user_id": "1340940894422196225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958480711863644360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dddgjs05 @H4lf_L13_F8964 北京的“实名如厕”政策似乎是社交媒体上的虚假信息。没有官方来源确认东城、西城、朝阳、海淀、丰台区公共厕所需微信/支付宝扫码实名进入。\n\n事实检查：\n- 北京公共厕所众多，许多有隔挡和无障碍设施。\n- 商店/商场常有厕所，不必全靠公厕。\n\n图像可能为伪造。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 1178,
+          "like_count": 6817,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4545
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6038358,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 4775,
+          "media_count": 2566649,
+          "tweet_count": 40193174
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-21T08:43:46.000Z",
+        "description": "不管你信不信，我就是一只巨乖的大喵喵！(๑‾ ꇴ ‾๑)愿意在相互尊重且客观公正的基础上接受不同的观点，Ich lerne deutsche，Dankbar für jede Hilfe！🙏求你去祸害隔壁建行吧🙏🏻",
+        "id": "1340940894422196225",
+        "location": "People's Republic of China",
+        "name": "巨乖喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588455034551164929/5-zCVW71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 106,
+          "like_count": 13051,
+          "listed_count": 3,
+          "media_count": 564,
+          "tweet_count": 11012
+        },
+        "username": "Dddgjs05",
+        "verified": false
+      }
+    ]
+  }
+}

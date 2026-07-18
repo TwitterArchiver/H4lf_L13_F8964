@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1991978708341805317",
+    "created_at": "2025-11-22T20:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992331651083653121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992331651083653121",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991978708341805317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 抱抱后藤老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1991978708341805317",
+        "created_at": "2025-11-22T20:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992331651083653121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992331651083653121",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991978708341805317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 抱抱后藤老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1991978708341805317",
+        "created_at": "2025-11-21T21:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T22:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991978708341805317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/lin_dialog/status/1991563304054190450",
+              "start": 124,
+              "url": "https://t.co/XqEAnLVD89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991978708341805317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3511,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991563304054190450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不知道为什么我要活下去\n我活下去的原因只是我觉得我暂时没有死的必要\n所以稀里糊涂地颓废地或者\n偶尔我会想结束这一切，但那样的想法很快就过去了，偶尔我也觉得活着挺好的，但也一样，第二天又觉得我活着毫无意义\n\n事实上我感觉没人爱我 我一点也不幸福 https://t.co/XqEAnLVD89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1303,
+          "like_count": 7844,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5016
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12458,
+          "following_count": 1012,
+          "like_count": 45009,
+          "listed_count": 44,
+          "media_count": 1625,
+          "tweet_count": 23402
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1977233231931195392"
+      ],
+      "media_source_tweet_id": [
+        "1977233760333832333"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977641222891360517",
+    "created_at": "2025-10-13T07:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T08:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977641222891360517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1639861465183322117",
+          "start": 3,
+          "username": "Chromeedgeonion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YP5ScXOgej",
+          "end": 84,
+          "expanded_url": "https://x.com/Chromeedgeonion/status/1977233760333832333/video/1",
+          "media_key": "13_1977233231931195392",
+          "start": 61,
+          "url": "https://t.co/YP5ScXOgej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977641222891360517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977233760333832333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chromeedgeonion: /躺平？不可取!/\n------转载自b站up主：木糖醇Q\n原视频已\"被消失\" https://t.co/YP5ScXOgej"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40966,
+        "height": 576,
+        "media_key": "13_1977233231931195392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977233231931195392/img/46AgMJYzYNdA8SoY.jpg",
+        "public_metrics": {
+          "view_count": 205883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977233231931195392/vid/avc1/600x270/-AWqWkwxb_Wc_nZj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977233231931195392/vid/avc1/800x360/we8NnF1nPLSdIS2y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977233231931195392/vid/avc1/1280x576/20y-iem_6jHngZZ1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977233231931195392/pl/Gfx_6bifdUBuDNFB.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977233231931195392"
+          ],
+          "media_source_tweet_id": [
+            "1977233760333832333"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977641222891360517",
+        "created_at": "2025-10-13T07:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977641222891360517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1639861465183322117",
+              "start": 3,
+              "username": "Chromeedgeonion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YP5ScXOgej",
+              "end": 84,
+              "expanded_url": "https://x.com/Chromeedgeonion/status/1977233760333832333/video/1",
+              "media_key": "13_1977233231931195392",
+              "start": 61,
+              "url": "https://t.co/YP5ScXOgej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977641222891360517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977233760333832333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chromeedgeonion: /躺平？不可取!/\n------转载自b站up主：木糖醇Q\n原视频已\"被消失\" https://t.co/YP5ScXOgej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977233231931195392"
+          ]
+        },
+        "author_id": "1639861465183322117",
+        "conversation_id": "1977233760333832333",
+        "created_at": "2025-10-12T04:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977233760333832333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YP5ScXOgej",
+              "end": 63,
+              "expanded_url": "https://x.com/Chromeedgeonion/status/1977233760333832333/video/1",
+              "media_key": "13_1977233231931195392",
+              "start": 40,
+              "url": "https://t.co/YP5ScXOgej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977233760333832333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 825,
+          "impression_count": 300366,
+          "like_count": 2999,
+          "quote_count": 23,
+          "reply_count": 62,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "/躺平？不可取!/\n------转载自b站up主：木糖醇Q\n原视频已\"被消失\" https://t.co/YP5ScXOgej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1240,
+          "like_count": 7319,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4769
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T05:27:03.000Z",
+        "description": "自由民主\n普世价值\n个人权利与自由\n\n朋友@Nyarsalt @Someone2077 @Algernon_114514 @aomimiao152",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Nyarsalt"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Someone2077"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "Algernon_114514"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "aomimiao152"
+              }
+            ]
+          }
+        },
+        "id": "1639861465183322117",
+        "name": "Gmail",
+        "pinned_tweet_id": "1976993160581857476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969315700314685440/bo5VKQdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 234,
+          "like_count": 2064,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1045
+        },
+        "username": "Chromeedgeonion",
+        "verified": false
+      }
+    ]
+  }
+}

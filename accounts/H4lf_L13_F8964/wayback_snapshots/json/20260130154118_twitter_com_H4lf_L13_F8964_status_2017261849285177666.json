@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017111393900908544",
+        "3_2017111584125177857",
+        "3_2017111648868433920",
+        "3_2017111721815789571"
+      ],
+      "media_source_tweet_id": [
+        "2017111741084430376",
+        "2017111741084430376",
+        "2017111741084430376",
+        "2017111741084430376"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017261849285177666",
+    "created_at": "2026-01-30T15:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017261849285177666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "164224930",
+          "start": 3,
+          "username": "MinakoOikawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jRCp1XKb7X",
+          "end": 62,
+          "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+          "media_key": "3_2017111393900908544",
+          "start": 39,
+          "url": "https://t.co/jRCp1XKb7X"
+        },
+        {
+          "display_url": "pic.x.com/jRCp1XKb7X",
+          "end": 62,
+          "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+          "media_key": "3_2017111584125177857",
+          "start": 39,
+          "url": "https://t.co/jRCp1XKb7X"
+        },
+        {
+          "display_url": "pic.x.com/jRCp1XKb7X",
+          "end": 62,
+          "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+          "media_key": "3_2017111648868433920",
+          "start": 39,
+          "url": "https://t.co/jRCp1XKb7X"
+        },
+        {
+          "display_url": "pic.x.com/jRCp1XKb7X",
+          "end": 62,
+          "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+          "media_key": "3_2017111721815789571",
+          "start": 39,
+          "url": "https://t.co/jRCp1XKb7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017261849285177666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017111741084430376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinakoOikawa: 。。。墙内营销号能不能放过我们。。。。（ https://t.co/jRCp1XKb7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2017111393900908544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_44ICnbUAA_qrn.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2017111584125177857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_44THQbUAE-tSQ.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2017111648868433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_44W4cbAAAuoeL.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2017111721815789571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_44bIMbUAMRM7F.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017111393900908544",
+            "3_2017111584125177857",
+            "3_2017111648868433920",
+            "3_2017111721815789571"
+          ],
+          "media_source_tweet_id": [
+            "2017111741084430376",
+            "2017111741084430376",
+            "2017111741084430376",
+            "2017111741084430376"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017261849285177666",
+        "created_at": "2026-01-30T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017261849285177666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "164224930",
+              "start": 3,
+              "username": "MinakoOikawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 62,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111393900908544",
+              "start": 39,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 62,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111584125177857",
+              "start": 39,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 62,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111648868433920",
+              "start": 39,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 62,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111721815789571",
+              "start": 39,
+              "url": "https://t.co/jRCp1XKb7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017261849285177666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017111741084430376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinakoOikawa: 。。。墙内营销号能不能放过我们。。。。（ https://t.co/jRCp1XKb7X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017111393900908544",
+            "3_2017111584125177857",
+            "3_2017111648868433920",
+            "3_2017111721815789571"
+          ]
+        },
+        "author_id": "164224930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017111741084430376",
+        "created_at": "2026-01-30T05:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017111741084430376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 44,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111393900908544",
+              "start": 21,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 44,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111584125177857",
+              "start": 21,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 44,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111648868433920",
+              "start": 21,
+              "url": "https://t.co/jRCp1XKb7X"
+            },
+            {
+              "display_url": "pic.x.com/jRCp1XKb7X",
+              "end": 44,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2017111741084430376/photo/1",
+              "media_key": "3_2017111721815789571",
+              "start": 21,
+              "url": "https://t.co/jRCp1XKb7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017111741084430376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10613,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "。。。墙内营销号能不能放过我们。。。。（ https://t.co/jRCp1XKb7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1342,
+          "like_count": 8366,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 5264
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel / 空手道應酬 / Xoogler / OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9210,
+          "following_count": 6108,
+          "like_count": 83046,
+          "listed_count": 115,
+          "media_count": 2804,
+          "tweet_count": 56195
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      }
+    ]
+  }
+}

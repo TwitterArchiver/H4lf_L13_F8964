@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1987204412826108000",
+    "created_at": "2025-11-08T17:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987204412826108000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/greenfish_111/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/greenfish_111/status/1987117353071747294",
+          "start": 6,
+          "url": "https://t.co/w6yky7pvQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987204412826108000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987117353071747294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "舍利子说是 https://t.co/w6yky7pvQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1987117344293068803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OoskmbIAMrlHZ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1987204412826108000",
+        "created_at": "2025-11-08T17:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987204412826108000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/greenfish_111/status/1987117353071747294",
+              "start": 6,
+              "url": "https://t.co/w6yky7pvQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987204412826108000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987117353071747294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舍利子说是 https://t.co/w6yky7pvQ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987117344293068803"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987117353071747294",
+        "created_at": "2025-11-08T11:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987117353071747294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3AWiIhfFE",
+              "end": 28,
+              "expanded_url": "https://x.com/Greenfish_111/status/1987117353071747294/photo/1",
+              "media_key": "3_1987117344293068803",
+              "start": 5,
+              "url": "https://t.co/e3AWiIhfFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987117353071747294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2476,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请牢记！ https://t.co/e3AWiIhfFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1278,
+          "like_count": 7580,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 4915
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历 微信之前因某些原因删除了全部列表不介意可以加回来呀 🚪100000000",
+        "id": "1244543552652054528",
+        "location": "瓦纳海姆",
+        "name": "冰冷電子魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 563,
+          "like_count": 12899,
+          "listed_count": 8,
+          "media_count": 1276,
+          "tweet_count": 13237
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

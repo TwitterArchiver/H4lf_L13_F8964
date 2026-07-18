@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1937730932078968843",
+    "created_at": "2025-06-25T11:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937841090159432152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937841090159432152",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937730932078968843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1937730932078968843",
+        "created_at": "2025-06-25T11:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937841090159432152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937841090159432152",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937730932078968843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667851059346427914",
+        "conversation_id": "1937730932078968843",
+        "created_at": "2025-06-25T04:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T05:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937730932078968843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshi_Asuka008…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hoshi_Asuka0089/status/1937697228023562551",
+              "start": 5,
+              "url": "https://t.co/jMrI8mTois"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937730932078968843",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937697228023562551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢😢😢😢 https://t.co/jMrI8mTois"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1084,
+          "like_count": 5938,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 4087
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "哈！已上天堂了！\n                                                                                亲友 @xyspgUwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "xyspgUwU"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "你被子里",
+        "name": "🍍飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1916046648725377256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 988,
+          "like_count": 70199,
+          "listed_count": 6,
+          "media_count": 726,
+          "tweet_count": 10467
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": true
+      }
+    ]
+  }
+}

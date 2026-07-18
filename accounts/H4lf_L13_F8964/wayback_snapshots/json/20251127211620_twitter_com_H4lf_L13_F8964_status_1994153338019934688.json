@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1993869962629546441",
+    "created_at": "2025-11-27T21:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T22:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994153338019934688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "kami07322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994153338019934688",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993869962629546441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami07322 🧎‍♀️🧎‍♀️🧎‍♀️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993869954278678528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6umKNEa4AAzqet.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1993869962629546441",
+        "created_at": "2025-11-27T21:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T22:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994153338019934688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994153338019934688",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993869962629546441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 🧎‍♀️🧎‍♀️🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993869954278678528"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1993869962629546441",
+        "created_at": "2025-11-27T02:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993869962629546441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wNT0wpitI",
+              "end": 40,
+              "expanded_url": "https://x.com/kami07322/status/1993869962629546441/photo/1",
+              "media_key": "3_1993869954278678528",
+              "start": 17,
+              "url": "https://t.co/6wNT0wpitI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993869962629546441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10071,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我早就說過了\n有些感覺只有我能給 https://t.co/6wNT0wpitI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1307,
+          "like_count": 7911,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 5036
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33660,
+          "following_count": 16,
+          "like_count": 7465,
+          "listed_count": 36,
+          "media_count": 159,
+          "tweet_count": 2699
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

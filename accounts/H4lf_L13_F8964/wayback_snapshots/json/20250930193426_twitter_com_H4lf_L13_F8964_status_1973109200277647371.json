@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1973109200277647371",
+    "created_at": "2025-09-30T19:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T20:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973109200277647371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/airtuous/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/airtuous/status/1972244813581025626",
+          "start": 7,
+          "url": "https://t.co/hvbwcqizox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973109200277647371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972244813581025626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇啊，好羡慕 https://t.co/hvbwcqizox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3937,
+        "media_key": "3_1972243696503717888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17RMUybgAADw_C.jpg",
+        "width": 2953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1973109200277647371",
+        "created_at": "2025-09-30T19:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T20:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973109200277647371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/airtuous/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/airtuous/status/1972244813581025626",
+              "start": 7,
+              "url": "https://t.co/hvbwcqizox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973109200277647371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972244813581025626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇啊，好羡慕 https://t.co/hvbwcqizox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972243696503717888"
+          ]
+        },
+        "author_id": "1621449703882895360",
+        "conversation_id": "1972244813581025626",
+        "created_at": "2025-09-28T10:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972244813581025626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuqsSmIIKt",
+              "end": 78,
+              "expanded_url": "https://x.com/Airtuous/status/1972244813581025626/photo/1",
+              "media_key": "3_1972243696503717888",
+              "start": 55,
+              "url": "https://t.co/tuqsSmIIKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972244813581025626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 411363,
+          "like_count": 2837,
+          "quote_count": 7,
+          "reply_count": 97,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "1k粉整活之吊水桶！（我也来拍一个\n水桶重量差不多2.5kg左右吧\n附带一张负重训练，建议拿去群里给群主施压 https://t.co/tuqsSmIIKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1225,
+          "like_count": 7160,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 4700
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T10:05:21.000Z",
+        "description": "04年mtf/x  Sugar poisoning patients\n称呼我为air就行 \n 喜欢的话可以点个关注哟❤️\n（希望世界爆炸版）\n60入🚪 \n线下🚪120",
+        "id": "1621449703882895360",
+        "location": "paradise in illusion",
+        "name": "Air酱的外卖到不了（努力赚钱版）",
+        "pinned_tweet_id": "1972244813581025626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839632842109943808/Bu_15k4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6905,
+          "following_count": 301,
+          "like_count": 3164,
+          "listed_count": 26,
+          "media_count": 101,
+          "tweet_count": 739
+        },
+        "username": "Airtuous",
+        "verified": false
+      }
+    ]
+  }
+}

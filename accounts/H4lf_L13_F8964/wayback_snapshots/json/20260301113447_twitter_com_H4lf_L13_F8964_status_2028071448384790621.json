@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028029615944699904",
+        "3_2028029631060971525"
+      ],
+      "media_source_tweet_id": [
+        "2028029633908904092",
+        "2028029633908904092"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2028071448384790621",
+    "created_at": "2026-03-01T11:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028071448384790621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "男の娘"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "伪娘ts"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "伪娘"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "男娘cd"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "黑皮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4803526874",
+          "start": 3,
+          "username": "Teddybearbear66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PRr6J1kEw",
+          "end": 94,
+          "expanded_url": "https://x.com/Teddybearbear66/status/2028029633908904092/photo/1",
+          "media_key": "3_2028029615944699904",
+          "start": 71,
+          "url": "https://t.co/5PRr6J1kEw"
+        },
+        {
+          "display_url": "pic.x.com/5PRr6J1kEw",
+          "end": 94,
+          "expanded_url": "https://x.com/Teddybearbear66/status/2028029633908904092/photo/1",
+          "media_key": "3_2028029631060971525",
+          "start": 71,
+          "url": "https://t.co/5PRr6J1kEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028071448384790621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028029633908904092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teddybearbear66: 光着站着的也是英雄 但我是坏蛋！\n#男の娘 #可爱的男孩子 #伪娘ts #伪娘 #男娘cd #黑皮 https://t.co/5PRr6J1kEw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028071448384790621].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028071448384790621",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028071448384790621"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2028029615944699904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUCMNRbEAAMnqU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2028029631060971525",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUCNFlbEAUHIuB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028029615944699904",
+            "3_2028029631060971525"
+          ]
+        },
+        "author_id": "4803526874",
+        "conversation_id": "2028029633908904092",
+        "created_at": "2026-03-01T08:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028029633908904092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "男の娘"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "伪娘ts"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "伪娘"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "男娘cd"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "黑皮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PRr6J1kEw",
+              "end": 73,
+              "expanded_url": "https://x.com/Teddybearbear66/status/2028029633908904092/photo/1",
+              "media_key": "3_2028029615944699904",
+              "start": 50,
+              "url": "https://t.co/5PRr6J1kEw"
+            },
+            {
+              "display_url": "pic.x.com/5PRr6J1kEw",
+              "end": 73,
+              "expanded_url": "https://x.com/Teddybearbear66/status/2028029633908904092/photo/1",
+              "media_key": "3_2028029631060971525",
+              "start": 50,
+              "url": "https://t.co/5PRr6J1kEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028029633908904092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3530,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "光着站着的也是英雄 但我是坏蛋！\n#男の娘 #可爱的男孩子 #伪娘ts #伪娘 #男娘cd #黑皮 https://t.co/5PRr6J1kEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1421,
+          "like_count": 8619,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5447
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-23T15:53:16.000Z",
+        "description": "男的/咸鱼发推 /当做第二个pyq来发发/爱笑/boom/🚪288/ 孤寡老人死宅geek过自己普普通通生活 没有tg 也不玩tg  小号:@dummybearbear",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "dummybearbear"
+              }
+            ]
+          }
+        },
+        "id": "4803526874",
+        "name": "juicebear小熊999",
+        "pinned_tweet_id": "1742520631856418862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715557135075921920/ffUiz2Mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40680,
+          "following_count": 362,
+          "like_count": 4053,
+          "listed_count": 282,
+          "media_count": 1037,
+          "tweet_count": 2945
+        },
+        "username": "Teddybearbear66",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942141801755783168",
+        "3_1942141801600843776"
+      ],
+      "media_source_tweet_id": [
+        "1942141814087283182",
+        "1942141814087283182"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942242877540884690",
+    "created_at": "2025-07-07T15:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942242877540884690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271278454537744384",
+          "start": 3,
+          "username": "Rabbit_Pussy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1DN9BrJhUS",
+          "end": 63,
+          "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+          "media_key": "3_1942141801755783168",
+          "start": 40,
+          "url": "https://t.co/1DN9BrJhUS"
+        },
+        {
+          "display_url": "pic.x.com/1DN9BrJhUS",
+          "end": 63,
+          "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+          "media_key": "3_1942141801600843776",
+          "start": 40,
+          "url": "https://t.co/1DN9BrJhUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942242877540884690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942141814087283182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbit_Pussy: 表面上装的像个好孩子\n可惜内心深处是个婊子 https://t.co/1DN9BrJhUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942141801755783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPfrcUXMAAy33l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942141801600843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPfrbvbAAAW7lC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942141801755783168",
+            "3_1942141801600843776"
+          ],
+          "media_source_tweet_id": [
+            "1942141814087283182",
+            "1942141814087283182"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942242877540884690",
+        "created_at": "2025-07-07T15:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942242877540884690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271278454537744384",
+              "start": 3,
+              "username": "Rabbit_Pussy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DN9BrJhUS",
+              "end": 63,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+              "media_key": "3_1942141801755783168",
+              "start": 40,
+              "url": "https://t.co/1DN9BrJhUS"
+            },
+            {
+              "display_url": "pic.x.com/1DN9BrJhUS",
+              "end": 63,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+              "media_key": "3_1942141801600843776",
+              "start": 40,
+              "url": "https://t.co/1DN9BrJhUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942242877540884690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942141814087283182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbit_Pussy: 表面上装的像个好孩子\n可惜内心深处是个婊子 https://t.co/1DN9BrJhUS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942141801755783168",
+            "3_1942141801600843776"
+          ]
+        },
+        "author_id": "1271278454537744384",
+        "conversation_id": "1942141814087283182",
+        "created_at": "2025-07-07T08:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942141814087283182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DN9BrJhUS",
+              "end": 45,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+              "media_key": "3_1942141801755783168",
+              "start": 22,
+              "url": "https://t.co/1DN9BrJhUS"
+            },
+            {
+              "display_url": "pic.x.com/1DN9BrJhUS",
+              "end": 45,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1942141814087283182/photo/1",
+              "media_key": "3_1942141801600843776",
+              "start": 22,
+              "url": "https://t.co/1DN9BrJhUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942141814087283182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 456,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "表面上装的像个好孩子\n可惜内心深处是个婊子 https://t.co/1DN9BrJhUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6236,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4236
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子/182cm/木桶饭🏳️‍⚧️/逃生舱@ttt235711/我的女仆@I_Xinnnnn /tg群：https://t.co/h5xkaaTV2V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ttt235711"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "I_Xinnnnn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Vs8TpJq44o0wZ…",
+                "end": 78,
+                "expanded_url": "https://t.me/+Vs8TpJq44o0wZmJl",
+                "start": 55,
+                "url": "https://t.co/h5xkaaTV2V"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛",
+        "pinned_tweet_id": "1942156708715085994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894473422018940928/WEMTzahA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 1656,
+          "like_count": 22234,
+          "listed_count": 7,
+          "media_count": 876,
+          "tweet_count": 5712
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2012306702167588889",
+    "created_at": "2026-01-16T23:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T00:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012306702167588889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1861449351328854016",
+          "start": 3,
+          "username": "win1688888888"
+        },
+        {
+          "end": 34,
+          "id": "1260553941714186241",
+          "start": 19,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012306702167588889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012006625599767007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @win1688888888: @whyyoutouzhele 为什么系统显示的不是身份证而是学号和宿舍？因为在权力的食谱上，学生是比社会人更好下嘴的猎物。身份证对应的惩罚仅仅是罚款，但“学号+宿舍”对应的是连坐、通报批评、扣学分甚至影响毕业。这就是精准打击软肋。系统智能…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2012306702167588889",
+        "created_at": "2026-01-16T23:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T00:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012306702167588889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1861449351328854016",
+              "start": 3,
+              "username": "win1688888888"
+            },
+            {
+              "end": 34,
+              "id": "1260553941714186241",
+              "start": 19,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012306702167588889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012006625599767007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @win1688888888: @whyyoutouzhele 为什么系统显示的不是身份证而是学号和宿舍？因为在权力的食谱上，学生是比社会人更好下嘴的猎物。身份证对应的惩罚仅仅是罚款，但“学号+宿舍”对应的是连坐、通报批评、扣学分甚至影响毕业。这就是精准打击软肋。系统智能…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861449351328854016",
+        "conversation_id": "2012004382876057930",
+        "created_at": "2026-01-16T03:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012006625599767007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012006625599767007",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么系统显示的不是身份证而是学号和宿舍？因为在权力的食谱上，学生是比社会人更好下嘴的猎物。身份证对应的惩罚仅仅是罚款，但“学号+宿舍”对应的是连坐、通报批评、扣学分甚至影响毕业。这就是精准打击软肋。系统智能地选择了对该个体威慑力最大的数据维度进行展示。这是一种驯化测试，验证的是把一个人不仅作为一个公民，而是作为一个被机构圈养的从属物进行管理的效率。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 53469,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012004382876057930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 为什么系统显示的不是身份证而是学号和宿舍？因为在权力的食谱上，学生是比社会人更好下嘴的猎物。身份证对应的惩罚仅仅是罚款，但“学号+宿舍”对应的是连坐、通报批评、扣学分甚至影响毕业。这就是精准打击软肋。系统智能地选择了对该个体威慑力最大的数据维度进行展示。这是一种驯化测试，验证的是把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1339,
+          "like_count": 8310,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 5238
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T16:38:22.000Z",
+        "description": "站在场外看市场，站在未来看现在。观察价值，忽略噪音。",
+        "id": "1861449351328854016",
+        "name": "Vincent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 172,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 953
+        },
+        "username": "win1688888888",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183213,
+          "following_count": 1000,
+          "like_count": 8760,
+          "listed_count": 8517,
+          "media_count": 40202,
+          "tweet_count": 47152
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

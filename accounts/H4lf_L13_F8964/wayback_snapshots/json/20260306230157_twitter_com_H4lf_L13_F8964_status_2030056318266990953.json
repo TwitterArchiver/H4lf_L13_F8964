@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2029588326303351240",
+    "created_at": "2026-03-06T23:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030056318266990953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1396822870119038984",
+          "start": 0,
+          "username": "newchinesevoice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030056318266990953",
+    "in_reply_to_user_id": "1396822870119038984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029588326303351240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newchinesevoice 外囊泡和腺病毒又不提了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26215,
+        "height": 720,
+        "media_key": "13_2029505566066782208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029505566066782208/img/bM77rt25JJLJW5Gm.jpg",
+        "public_metrics": {
+          "view_count": 722235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029505566066782208/vid/avc1/480x270/g0v5LtaKkuMichuT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029505566066782208/vid/avc1/640x360/agUYDybcyJdVa8n4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029505566066782208/vid/avc1/1280x720/xjfH7XkwMCLZbCJb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029505566066782208/pl/GLljcB9pJn5uRhdC.m3u8?v=8a7"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2029588326303351240",
+        "created_at": "2026-03-06T23:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030056318266990953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1396822870119038984",
+              "start": 0,
+              "username": "newchinesevoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030056318266990953",
+        "in_reply_to_user_id": "1396822870119038984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029588326303351240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newchinesevoice 外囊泡和腺病毒又不提了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029505566066782208"
+          ],
+          "media_source_tweet_id": [
+            "2029520549203046714"
+          ]
+        },
+        "author_id": "1396822870119038984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2029588326303351240",
+        "created_at": "2026-03-05T16:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029588326303351240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diiyEbuv8y",
+              "end": 108,
+              "expanded_url": "https://x.com/Coinvo/status/2029520549203046714/video/1",
+              "media_key": "13_2029505566066782208",
+              "start": 85,
+              "url": "https://t.co/diiyEbuv8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029588326303351240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 177874,
+          "like_count": 1488,
+          "quote_count": 14,
+          "reply_count": 55,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "🇺🇸 川普总统：\n\n“无论你做多少次手术，或者往体内注射多少化学物质，都无关紧要。”\n\n“如果你出生时身体每一个细胞里都是男性的 DNA，你就永远不可能成为女性。”\n\n https://t.co/diiyEbuv8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1424,
+          "like_count": 8685,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 5476
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T13:38:31.000Z",
+        "description": "Take Down the CCP | New Federal State of China | Trust But Verify | Web3 & DeFi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gettr.com/user/vivian0007",
+                "end": 23,
+                "expanded_url": "https://gettr.com/user/vivian0007",
+                "start": 0,
+                "url": "https://t.co/1dyb5FfOBF"
+              }
+            ]
+          }
+        },
+        "id": "1396822870119038984",
+        "location": "New Fedreal State of China",
+        "name": "无欲则刚🔥🔥🔥",
+        "pinned_tweet_id": "1865174167399624999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668660920371781632/-szU8vT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8332,
+          "following_count": 1490,
+          "like_count": 63848,
+          "listed_count": 25,
+          "media_count": 6314,
+          "tweet_count": 21386
+        },
+        "url": "https://t.co/1dyb5FfOBF",
+        "username": "newchinesevoice",
+        "verified": true
+      }
+    ]
+  }
+}

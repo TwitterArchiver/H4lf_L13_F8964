@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975342200612438016",
+        "3_1975342201015066625",
+        "3_1975342200587186176",
+        "3_1975342200566190080"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975342204500799959",
+    "created_at": "2025-10-06T23:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T00:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975342204500799959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9OPhGQ9B6v",
+          "end": 35,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+          "media_key": "3_1975342200612438016",
+          "start": 12,
+          "url": "https://t.co/9OPhGQ9B6v"
+        },
+        {
+          "display_url": "pic.x.com/9OPhGQ9B6v",
+          "end": 35,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+          "media_key": "3_1975342201015066625",
+          "start": 12,
+          "url": "https://t.co/9OPhGQ9B6v"
+        },
+        {
+          "display_url": "pic.x.com/9OPhGQ9B6v",
+          "end": 35,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+          "media_key": "3_1975342200587186176",
+          "start": 12,
+          "url": "https://t.co/9OPhGQ9B6v"
+        },
+        {
+          "display_url": "pic.x.com/9OPhGQ9B6v",
+          "end": 35,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+          "media_key": "3_1975342200566190080",
+          "start": 12,
+          "url": "https://t.co/9OPhGQ9B6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975342204500799959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "向前敲瘦骨，犹自带铜声 https://t.co/9OPhGQ9B6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_1975342200612438016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nTRAFXwAAx6E0.jpg",
+        "width": 600
+      },
+      {
+        "height": 480,
+        "media_key": "3_1975342201015066625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nTRBlXYAEo7pJ.jpg",
+        "width": 640
+      },
+      {
+        "height": 686,
+        "media_key": "3_1975342200587186176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nTQ__WcAAC1GQ.jpg",
+        "width": 1033
+      },
+      {
+        "height": 265,
+        "media_key": "3_1975342200566190080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nTQ_6WEAA3l1G.jpg",
+        "width": 336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975342200612438016",
+            "3_1975342201015066625",
+            "3_1975342200587186176",
+            "3_1975342200566190080"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975342204500799959",
+        "created_at": "2025-10-06T23:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975342204500799959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OPhGQ9B6v",
+              "end": 35,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+              "media_key": "3_1975342200612438016",
+              "start": 12,
+              "url": "https://t.co/9OPhGQ9B6v"
+            },
+            {
+              "display_url": "pic.x.com/9OPhGQ9B6v",
+              "end": 35,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+              "media_key": "3_1975342201015066625",
+              "start": 12,
+              "url": "https://t.co/9OPhGQ9B6v"
+            },
+            {
+              "display_url": "pic.x.com/9OPhGQ9B6v",
+              "end": 35,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+              "media_key": "3_1975342200587186176",
+              "start": 12,
+              "url": "https://t.co/9OPhGQ9B6v"
+            },
+            {
+              "display_url": "pic.x.com/9OPhGQ9B6v",
+              "end": 35,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1975342204500799959/photo/1",
+              "media_key": "3_1975342200566190080",
+              "start": 12,
+              "url": "https://t.co/9OPhGQ9B6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975342204500799959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "向前敲瘦骨，犹自带铜声 https://t.co/9OPhGQ9B6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1230,
+          "like_count": 7216,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 4722
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

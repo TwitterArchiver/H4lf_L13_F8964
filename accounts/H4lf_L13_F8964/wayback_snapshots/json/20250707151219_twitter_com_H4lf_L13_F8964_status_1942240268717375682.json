@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942236414579441846",
+    "created_at": "2025-07-07T15:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942240268717375682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942240268717375682",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942236414579441846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw 你调色怎么被我传染了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_1942236346497552385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ1qq7W0AEtNGw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942236346795307009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ1qsCWMAEuCCD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942236414579441846",
+        "created_at": "2025-07-07T15:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942240268717375682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942240268717375682",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942236414579441846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw 你调色怎么被我传染了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942236346497552385",
+            "3_1942236346795307009"
+          ]
+        },
+        "author_id": "1880109814241746944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          }
+        ],
+        "conversation_id": "1942236414579441846",
+        "created_at": "2025-07-07T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942236414579441846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IaLdSFnEoA",
+              "end": 164,
+              "expanded_url": "https://x.com/fallenleavesw/status/1942236414579441846/photo/1",
+              "media_key": "3_1942236346497552385",
+              "start": 141,
+              "url": "https://t.co/IaLdSFnEoA"
+            },
+            {
+              "display_url": "pic.x.com/IaLdSFnEoA",
+              "end": 164,
+              "expanded_url": "https://x.com/fallenleavesw/status/1942236414579441846/photo/1",
+              "media_key": "3_1942236346795307009",
+              "start": 141,
+              "url": "https://t.co/IaLdSFnEoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942236414579441846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "特调、苏威+蜜瓜利口酒（不知道具体）+盐，配了一块儿蜜瓜+火腿。\n\n很棒的组合，像在火炉边闻着淡淡的泥煤喝小甜水。盐放的很妙，把厚重的泥煤与果味儿做了过渡与融合。\n\n试了店里自制的冷萃酒，菠萝+话梅+gin/迷迭香+rum。迷迭香那款柔和清冷超喜欢，适合佐黄油味儿又有肉酸的牛排。\n\n临走还送了一点mortis（？），没搜到虽然。但花香很重，像百合那种清甜香、印象超深www"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特调、苏威+蜜瓜利口酒（不知道具体）+盐，配了一块儿蜜瓜+火腿。\n\n很棒的组合，像在火炉边闻着淡淡的泥煤喝小甜水。盐放的很妙，把厚重的泥煤与果味儿做了过渡与融合。\n\n试了店里自制的冷萃酒，菠萝+话梅+gin/迷迭香+rum。迷迭香那款柔和清冷超喜欢，适合佐黄油味儿又有肉酸的牛排。 https://t.co/IaLdSFnEoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6235,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4234
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "约克在读mtx(mt什么啊我真不知道)🍥/位置多伦多，欢迎扩列w/爱人❤️@VentusUta/ 闲云推月，静风拂尘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍥",
+        "pinned_tweet_id": "1881601897531875776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 464,
+          "like_count": 18575,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 3470
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

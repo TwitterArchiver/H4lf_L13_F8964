@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004511930346532864"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004511933131862231",
+    "created_at": "2025-12-26T11:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T12:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004511933131862231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40xY6tHQiz",
+          "end": 148,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2004511933131862231/photo/1",
+          "media_key": "3_2004511930346532864",
+          "start": 125,
+          "url": "https://t.co/40xY6tHQiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004511933131862231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马逆说人类才是制度进步最大的阻碍，因为人类是贪婪自私又充满破坏性的高级动物。为了追求理想国，应该把人类全部图图了换成AI。  我没想到我在2025年的前超光速地球上就能看见智械帝国的文化渗透。我估计马逆已经被他养的AI图图了之后，他家AI发的这条。 https://t.co/40xY6tHQiz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2004511930346532864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9F0-vRWcAA7_T4.jpg",
+        "width": 326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004511930346532864"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004511933131862231",
+        "created_at": "2025-12-26T11:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004511933131862231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40xY6tHQiz",
+              "end": 148,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2004511933131862231/photo/1",
+              "media_key": "3_2004511930346532864",
+              "start": 125,
+              "url": "https://t.co/40xY6tHQiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004511933131862231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马逆说人类才是制度进步最大的阻碍，因为人类是贪婪自私又充满破坏性的高级动物。为了追求理想国，应该把人类全部图图了换成AI。  我没想到我在2025年的前超光速地球上就能看见智械帝国的文化渗透。我估计马逆已经被他养的AI图图了之后，他家AI发的这条。 https://t.co/40xY6tHQiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1317,
+          "like_count": 8148,
+          "listed_count": 2,
+          "media_count": 543,
+          "tweet_count": 5139
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

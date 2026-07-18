@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986076543408640002"
+      ],
+      "media_source_tweet_id": [
+        "1986076568960340112"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1986195512748343615",
+    "created_at": "2025-11-05T22:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T23:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986195512748343615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1646574175375724544",
+          "start": 3,
+          "username": "shark77nanami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bzKe3puEvJ",
+          "end": 42,
+          "expanded_url": "https://x.com/shark77nanami/status/1986076568960340112/photo/1",
+          "media_key": "3_1986076543408640002",
+          "start": 19,
+          "url": "https://t.co/bzKe3puEvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986195512748343615",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986076568960340112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shark77nanami: https://t.co/bzKe3puEvJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986195512748343615].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986195512748343615",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986195512748343615"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1986076543408640002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_2F_KbkAIKCnU.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986076543408640002"
+          ]
+        },
+        "author_id": "1646574175375724544",
+        "conversation_id": "1986076568960340112",
+        "created_at": "2025-11-05T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986076568960340112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzKe3puEvJ",
+              "end": 23,
+              "expanded_url": "https://x.com/shark77nanami/status/1986076568960340112/photo/1",
+              "media_key": "3_1986076543408640002",
+              "start": 0,
+              "url": "https://t.co/bzKe3puEvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986076568960340112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3666,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bzKe3puEvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1277,
+          "like_count": 7553,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 4906
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T18:02:16.000Z",
+        "description": "男娘/English OK/图包、定制、闲置请私信/坐标深圳 \n\n备用号：@little777shark\n订阅：https://t.co/4fRgtCcYID",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "little777shark"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/c/octanenanami",
+                "end": 79,
+                "expanded_url": "https://www.patreon.com/c/octanenanami",
+                "start": 56,
+                "url": "https://t.co/4fRgtCcYID"
+              }
+            ]
+          }
+        },
+        "id": "1646574175375724544",
+        "name": "🦈小鲨鱼ovo",
+        "pinned_tweet_id": "1952412742033592496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985313964750979072/-faGt2X8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15336,
+          "following_count": 302,
+          "like_count": 2559,
+          "listed_count": 84,
+          "media_count": 56,
+          "tweet_count": 206
+        },
+        "username": "shark77nanami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1965064298713239761",
+    "created_at": "2025-09-08T14:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T15:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965064298713239761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880109814241746944",
+          "start": 3,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965064298713239761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964933833041531277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fallenleavesw: 小时候练过钢琴、鼓。虽然技能也都丢的差不多了，琴更是完全动不了左手了。\n\n父亲偶尔拿着鼓棒在我边上守着，其实并不记得什么原因。可能是我弹错了或者打错了，也可能是顶嘴一类的，会被拿鼓棒在身上乱打。很多次都是直接把棍子打断，有一次把钢琴白键打飞…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1965064298713239761",
+        "created_at": "2025-09-08T14:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965064298713239761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880109814241746944",
+              "start": 3,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965064298713239761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964933833041531277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fallenleavesw: 小时候练过钢琴、鼓。虽然技能也都丢的差不多了，琴更是完全动不了左手了。\n\n父亲偶尔拿着鼓棒在我边上守着，其实并不记得什么原因。可能是我弹错了或者打错了，也可能是顶嘴一类的，会被拿鼓棒在身上乱打。很多次都是直接把棍子打断，有一次把钢琴白键打飞…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880109814241746944",
+        "conversation_id": "1964933833041531277",
+        "created_at": "2025-09-08T06:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:05:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964932984898728122",
+          "1964933833041531277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964933833041531277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小时候练过钢琴、鼓。虽然技能也都丢的差不多了，琴更是完全动不了左手了。\n\n父亲偶尔拿着鼓棒在我边上守着，其实并不记得什么原因。可能是我弹错了或者打错了，也可能是顶嘴一类的，会被拿鼓棒在身上乱打。很多次都是直接把棍子打断，有一次把钢琴白键打飞了一块儿出去。\n\n印象深的是有一次，他边打我边逃。但是又不敢跑，在家里也不可能跑。踉跄地边挨打边到厕所，鼻子一酸后颈一凉，突然就失禁了。以至于如今膀胱憋着时的那种“危机感”，倒不是羞耻之类的，反而是别的什么感觉。今天吃完饭闲逛找厕所时突然想到这些。\n\n我与父亲的关系就算放到现在也不差，想到过去挨打的日子也没那么“创伤感”。可能是我本来也不是太乖的孩子，从小挨打习惯了，可能是我心大，也可能是高中他再动手的时候，我擒住他的手撞回去了。他确实有力，也确实是一双经过风霜，爬上了厚茧的手；但我也得撞回去。\n\n即便关系不差，我还是觉得，“就保持距离好”。我很感谢家里人能供我上学，养育一类；但我也确实没有想法或者，至少我认为“义务”去“传宗接代”。不只是说性一类的，更是说我并不觉得活着是一件开心的事情。我在找价值和意义，快乐一类的，能撑着我活的、我也必不可能想让另一个生命来到这里，再寻一遍这些飘渺的东西，也许还是大败而归。我也并不有信心养好谁或者带好谁，做一个“好榜样”，当一个“好家长”这样。\n\n越长大越觉着自己的行为，思想，容貌，习惯；几乎一切都能从家人身上窥见些影子出来。我并不抗拒但，我也定然不会因此自豪，只是“发生了”，这样的感觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小时候练过钢琴、鼓。虽然技能也都丢的差不多了，琴更是完全动不了左手了。\n\n父亲偶尔拿着鼓棒在我边上守着，其实并不记得什么原因。可能是我弹错了或者打错了，也可能是顶嘴一类的，会被拿鼓棒在身上乱打。很多次都是直接把棍子打断，有一次把钢琴白键打飞了一块儿出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1200,
+          "like_count": 6998,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 4608
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "非二元pear/坐标多伦多/最爱的人❤️@VentusUta/云 波点 光 也许那里有什么…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 509,
+          "like_count": 22143,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 4120
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

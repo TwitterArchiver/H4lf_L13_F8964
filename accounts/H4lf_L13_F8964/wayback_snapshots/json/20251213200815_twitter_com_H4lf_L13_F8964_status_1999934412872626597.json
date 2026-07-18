@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1999934412872626597",
+    "created_at": "2025-12-13T20:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T21:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999934412872626597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660598418409127937",
+          "start": 3,
+          "username": "GitHub_Daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999934412872626597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997878833685696657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GitHub_Daily: 大家平时习惯用 BT 下载，下完即走。而在进阶的 PT（私有种子）圈子里，规则完全不同：必须贡献上传量才能生存，一旦“分享率”不达标就会被封号。\n\n为了刷数据保号，我们常想把同一份资源发布到多个站点，但手动一个个去搜种、校验，效率极低。\n\n恰…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_1997878820578471936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nkM7zbMAApLzI.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1999934412872626597",
+        "created_at": "2025-12-13T20:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T21:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999934412872626597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660598418409127937",
+              "start": 3,
+              "username": "GitHub_Daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999934412872626597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997878833685696657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GitHub_Daily: 大家平时习惯用 BT 下载，下完即走。而在进阶的 PT（私有种子）圈子里，规则完全不同：必须贡献上传量才能生存，一旦“分享率”不达标就会被封号。\n\n为了刷数据保号，我们常想把同一份资源发布到多个站点，但手动一个个去搜种、校验，效率极低。\n\n恰…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997878820578471936"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "conversation_id": "1997878833685696657",
+        "created_at": "2025-12-08T04:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997878833685696657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfagiQS4vz",
+              "end": 159,
+              "expanded_url": "https://x.com/GitHub_Daily/status/1997878833685696657/photo/1",
+              "media_key": "3_1997878820578471936",
+              "start": 136,
+              "url": "https://t.co/MfagiQS4vz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997878833685696657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/cross-seed/cro…",
+                "end": 304,
+                "expanded_url": "http://github.com/cross-seed/cross-seed",
+                "start": 281,
+                "url": "https://t.co/Dn0NZXANGu"
+              }
+            ]
+          },
+          "text": "大家平时习惯用 BT 下载，下完即走。而在进阶的 PT（私有种子）圈子里，规则完全不同：必须贡献上传量才能生存，一旦“分享率”不达标就会被封号。\n\n为了刷数据保号，我们常想把同一份资源发布到多个站点，但手动一个个去搜种、校验，效率极低。\n\n恰巧发现 cross-seed 这个开源项目，能帮我们实现“一份资源，多站自动辅种”。\n\n自动扫描本地已有的资源，去其他站点匹配相同的种子。一旦匹配成功，直接在下载器中添加做种任务，完全无需重新下载文件。\n\n识别能力很强，即便我们对本地文件改名或整理过目录，也能通过 IMDb/TMDB ID 精准匹配。\n\nGitHub：https://t.co/Dn0NZXANGu\n\n支持 qBittorrent、Transmission 等主流客户端，还能配合 autobrr 实现秒级辅种。\n\n通过 Docker 容器化部署，用最小的硬盘成本，最大化利用带宽赚取上传量，是 PT 玩家提升账号等级的捷径。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 22358,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "大家平时习惯用 BT 下载，下完即走。而在进阶的 PT（私有种子）圈子里，规则完全不同：必须贡献上传量才能生存，一旦“分享率”不达标就会被封号。\n\n为了刷数据保号，我们常想把同一份资源发布到多个站点，但手动一个个去搜种、校验，效率极低。\n\n恰巧发现 cross-seed https://t.co/MfagiQS4vz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1312,
+          "like_count": 8054,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5098
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "1874830144826995036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57670,
+          "following_count": 139,
+          "like_count": 36,
+          "listed_count": 558,
+          "media_count": 1639,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

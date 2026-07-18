@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959166291627163792",
+    "created_at": "2025-08-23T14:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959262761495765059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1660708799374843905",
+          "start": 0,
+          "username": "ggininder64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959262761495765059",
+    "in_reply_to_user_id": "1660708799374843905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959166291627163792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggininder64 无害的神像这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_1959166289408401413",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBbXDAboAUvjNP.jpg",
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1959166291627163792",
+        "created_at": "2025-08-23T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959262761495765059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660708799374843905",
+              "start": 0,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959262761495765059",
+        "in_reply_to_user_id": "1660708799374843905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959166291627163792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggininder64 无害的神像这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959166289408401413"
+          ]
+        },
+        "author_id": "1660708799374843905",
+        "conversation_id": "1959166291627163792",
+        "created_at": "2025-08-23T08:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959166291627163792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThjTCEqcOX",
+              "end": 65,
+              "expanded_url": "https://x.com/ggininder64/status/1959166291627163792/photo/1",
+              "media_key": "3_1959166289408401413",
+              "start": 42,
+              "url": "https://t.co/ThjTCEqcOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959166291627163792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2128,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼切格瓦拉能成為左派右派都不反感的左派\n\n反而斯大林 臘肉 波波 都被黑出翔了 https://t.co/ThjTCEqcOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1178,
+          "like_count": 6825,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4555
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "Republic of China (Taiwan) 🇹🇼\n\nAnti the CCP and pink\n\nAnti maga and alt right\n\npro🏳️‍🌈🏳️‍⚧️",
+        "id": "1660708799374843905",
+        "name": "史密斯🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948317003850428416/aUi012y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 6554,
+          "like_count": 61695,
+          "listed_count": 27,
+          "media_count": 2419,
+          "tweet_count": 28760
+        },
+        "username": "ggininder64",
+        "verified": false
+      }
+    ]
+  }
+}

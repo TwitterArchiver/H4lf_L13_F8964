@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2017666697365422544",
+    "created_at": "2026-02-04T00:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018841367720448488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1605833115473100801",
+          "start": 0,
+          "username": "Momose_Ritsu"
+        },
+        {
+          "end": 27,
+          "id": "1680998297203511296",
+          "start": 14,
+          "username": "duduteng_ing"
+        },
+        {
+          "end": 39,
+          "id": "1873197968570077184",
+          "start": 28,
+          "username": "pulsex_top"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018841367720448488",
+    "in_reply_to_user_id": "1605833115473100801",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017666697365422544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Momose_Ritsu @duduteng_ing @pulsex_top awsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2017666496126984192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAw_PjbIAA1STE.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2017666697365422544",
+        "created_at": "2026-02-04T00:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018841367720448488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1605833115473100801",
+              "start": 0,
+              "username": "Momose_Ritsu"
+            },
+            {
+              "end": 27,
+              "id": "1680998297203511296",
+              "start": 14,
+              "username": "duduteng_ing"
+            },
+            {
+              "end": 39,
+              "id": "1873197968570077184",
+              "start": 28,
+              "username": "pulsex_top"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018841367720448488",
+        "in_reply_to_user_id": "1605833115473100801",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017666697365422544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Momose_Ritsu @duduteng_ing @pulsex_top awsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017666496126984192"
+          ]
+        },
+        "author_id": "1605833115473100801",
+        "conversation_id": "2017666697365422544",
+        "created_at": "2026-01-31T18:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017666697365422544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "戴锁"
+            },
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "femboy"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1873197968570077184",
+              "start": 81,
+              "username": "pulsex_top"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pulsex.top/?coupon=Momose…",
+              "end": 74,
+              "expanded_url": "https://pulsex.top/?coupon=Momose_Ritsu",
+              "start": 51,
+              "status": 200,
+              "title": "Plsex",
+              "unwound_url": "https://www.pulsexlab.com/?coupon=Momose_Ritsu",
+              "url": "https://t.co/q3rh49tIaJ"
+            },
+            {
+              "display_url": "pic.x.com/uzJDqqPOPx",
+              "end": 133,
+              "expanded_url": "https://x.com/Momose_Ritsu/status/2017666697365422544/photo/1",
+              "media_key": "3_2017666496126984192",
+              "start": 110,
+              "url": "https://t.co/uzJDqqPOPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017666697365422544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 35881,
+          "like_count": 952,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "非常好用🐮🐮🔒，老头见到了给我站落地镜前凿得直甩籽，亲戚朋友用了都说好👍🏻👍🏻👍🏻🌹🌹🌹\n🥕购买链接→https://t.co/q3rh49tIaJ\n🥕产品来自→@pulsex_top\n\n#戴锁 #femboy #男娘 https://t.co/uzJDqqPOPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1364,
+          "like_count": 8418,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 5295
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T07:50:38.000Z",
+        "description": "🔞叫我小律就可以/1m63/46kg/電波系/ENFP/♂美少女的年纪少打听/喜欢三国杀和弓道/男友君@HotWwyyzz/🚫不线下/WeChat🚪50/🐱接原味之类，具体私信问咪/\n点击媒体选项查看我的作品/\n你的支持是我更新的最大动力Thanks for following✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "HotWwyyzz"
+              }
+            ]
+          }
+        },
+        "id": "1605833115473100801",
+        "location": "我将从此一去不复返",
+        "name": "百濑律",
+        "pinned_tweet_id": "1973092655820091406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012211750368673793/SREolV7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18032,
+          "following_count": 288,
+          "like_count": 119,
+          "listed_count": 81,
+          "media_count": 173,
+          "tweet_count": 824
+        },
+        "username": "Momose_Ritsu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T17:50:08.000Z",
+        "description": "无糖清水 | 176/56 | 窝批 | 上学ing | 互推扩列 | 文案别信 | 仅此一号 | 勿转墙内谢谢喵~",
+        "id": "1680998297203511296",
+        "location": "Hong Kong",
+        "name": "嘟嘟疼的きち栗（互推版",
+        "pinned_tweet_id": "2018609265628639234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810185237219180544/m1aVGBRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11345,
+          "following_count": 2330,
+          "like_count": 17757,
+          "listed_count": 58,
+          "media_count": 156,
+          "tweet_count": 3124
+        },
+        "username": "duduteng_ing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T02:43:07.000Z",
+        "description": "所有产品，已申请全球外观专利！\n抄袭必起诉，不和解，不撤诉\n\n购买地址：https://t.co/3qsH47htBj\n交流群：https://t.co/QBNQoFMz9V\n\n寄拍，送测，欢迎私信!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pulsexlab.com",
+                "end": 59,
+                "expanded_url": "https://www.pulsexlab.com/",
+                "start": 36,
+                "url": "https://t.co/3qsH47htBj"
+              },
+              {
+                "display_url": "t.me/pulsex_top",
+                "end": 87,
+                "expanded_url": "https://t.me/pulsex_top",
+                "start": 64,
+                "url": "https://t.co/QBNQoFMz9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pulsexlab.com",
+                "end": 23,
+                "expanded_url": "https://www.pulsexlab.com/",
+                "start": 0,
+                "url": "https://t.co/3qsH47htBj"
+              }
+            ]
+          }
+        },
+        "id": "1873197968570077184",
+        "name": "Pulse X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873198032566796289/O4RrBux3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6595,
+          "following_count": 360,
+          "like_count": 351,
+          "listed_count": 22,
+          "media_count": 74,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/3qsH47htBj",
+        "username": "pulsex_top",
+        "verified": true
+      }
+    ]
+  }
+}

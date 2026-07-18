@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932039346426888652",
+    "created_at": "2025-06-10T19:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932520809534534125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932520809534534125",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932039346426888652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 2k时期震旦对抗斯卡文入侵珍贵录像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1932039237001752576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_7cx2bMAAVzk2.jpg",
+        "width": 471
+      },
+      {
+        "duration_ms": 26480,
+        "height": 960,
+        "media_key": "7_1932039262603816960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932039262603816960/pu/img/DznAiY0TiIQkzEhA.jpg",
+        "public_metrics": {
+          "view_count": 169073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932039262603816960/pu/vid/avc1/320x426/GTty6lHdCLWeqmTT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932039262603816960/pu/vid/avc1/480x640/euvvhfge1pfT3Wc6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932039262603816960/pu/vid/avc1/720x960/8JBuDnYWZJksZkc-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932039262603816960/pu/pl/nn20DQwQ3hymwnPs.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1932039267502731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_7ejebMAAKtJ7.jpg",
+        "width": 619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932039346426888652",
+        "created_at": "2025-06-10T19:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932520809534534125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932520809534534125",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932039346426888652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 2k时期震旦对抗斯卡文入侵珍贵录像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932039237001752576",
+            "7_1932039262603816960",
+            "3_1932039267502731264"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1932039346426888652",
+        "created_at": "2025-06-09T11:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T12:36:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932039117480812790",
+          "1932039346426888652"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "南方鼠王",
+              "probability": 0.3249,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGk3UEkSJb",
+              "end": 30,
+              "expanded_url": "https://x.com/FurinaDF/status/1932039346426888652/video/1",
+              "media_key": "3_1932039237001752576",
+              "start": 7,
+              "url": "https://t.co/FGk3UEkSJb"
+            },
+            {
+              "display_url": "pic.x.com/FGk3UEkSJb",
+              "end": 30,
+              "expanded_url": "https://x.com/FurinaDF/status/1932039346426888652/video/1",
+              "media_key": "7_1932039262603816960",
+              "start": 7,
+              "url": "https://t.co/FGk3UEkSJb"
+            },
+            {
+              "display_url": "pic.x.com/FGk3UEkSJb",
+              "end": 30,
+              "expanded_url": "https://x.com/FurinaDF/status/1932039346426888652/video/1",
+              "media_key": "3_1932039267502731264",
+              "start": 7,
+              "url": "https://t.co/FGk3UEkSJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932039346426888652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 540160,
+          "like_count": 2024,
+          "quote_count": 20,
+          "reply_count": 194,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "《南方鼠王》 https://t.co/FGk3UEkSJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1045,
+          "like_count": 5576,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3949
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "天生万物以养人  世人犹怨天不仁  不知蝗蠹遍天下  苦尽苍生尽王臣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1918716154610323574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30856,
+          "following_count": 2169,
+          "like_count": 26193,
+          "listed_count": 85,
+          "media_count": 5052,
+          "tweet_count": 9201
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

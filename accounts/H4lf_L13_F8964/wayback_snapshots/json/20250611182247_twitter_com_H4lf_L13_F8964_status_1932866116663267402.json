@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932866108610260994"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932866116663267402",
+    "created_at": "2025-06-11T18:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T19:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932866116663267402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qO4yXXsCXU",
+          "end": 31,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1932866116663267402/photo/1",
+          "media_key": "3_1932866108610260994",
+          "start": 8,
+          "url": "https://t.co/qO4yXXsCXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932866116663267402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最酷儿的一集！ https://t.co/qO4yXXsCXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 428,
+        "media_key": "3_1932866108610260994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLrfCobMAIGWz8.jpg",
+        "width": 305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932866108610260994"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932866116663267402",
+        "created_at": "2025-06-11T18:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932866116663267402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qO4yXXsCXU",
+              "end": 31,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1932866116663267402/photo/1",
+              "media_key": "3_1932866108610260994",
+              "start": 8,
+              "url": "https://t.co/qO4yXXsCXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932866116663267402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最酷儿的一集！ https://t.co/qO4yXXsCXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1046,
+          "like_count": 5586,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 3959
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

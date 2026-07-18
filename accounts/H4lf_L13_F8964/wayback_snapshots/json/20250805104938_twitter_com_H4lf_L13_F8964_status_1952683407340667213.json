@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1952683407340667213",
+    "created_at": "2025-08-05T10:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T11:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952683407340667213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952683407340667213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952662346771632220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 涩涩的时候没有四肢真的很色情\n\n但是平常又很麻烦。。\n\n嗯啊可惜人类不是可拆卸的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1952683407340667213",
+        "created_at": "2025-08-05T10:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952683407340667213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952683407340667213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952662346771632220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaAzure: 涩涩的时候没有四肢真的很色情\n\n但是平常又很麻烦。。\n\n嗯啊可惜人类不是可拆卸的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1952662346771632220",
+        "created_at": "2025-08-05T09:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952662346771632220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952662346771632220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 326,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "涩涩的时候没有四肢真的很色情\n\n但是平常又很麻烦。。\n\n嗯啊可惜人类不是可拆卸的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 1140,
+          "like_count": 6458,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 4372
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊洞燭の摩耶薛定諤態男娘🏳️‍⚧️｜🇨🇳🇬🇧&🇭🇰🇯🇵🇹🇼學習中｜牆外弱智吧管理&梗圖bot｜líng ｜MtX｜hrt24.4.20｜持證ADHD&ASD｜179cm54kg｜08｜川渝｜Arcaea&maimaiでらっくす｜推薦雌二醇藥商@minokakay｜對象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "minokakay"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "爱我的人的怀里",
+        "name": "「翎」かめりあ⛩️-RESURRECTION-",
+        "pinned_tweet_id": "1951705973128933694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 1306,
+          "like_count": 42374,
+          "listed_count": 10,
+          "media_count": 3008,
+          "tweet_count": 24401
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

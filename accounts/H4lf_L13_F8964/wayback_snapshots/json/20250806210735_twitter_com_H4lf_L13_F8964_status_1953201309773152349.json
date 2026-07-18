@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1953011199941198068",
+    "created_at": "2025-08-06T21:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953201309773152349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953201309773152349",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953011199941198068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 不知道的还以为是迷笛露营区呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_1953011194538934272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxp9VXzawAA4O6N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1953011197009379330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxp9VhAawAI_Hd5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1953011199941198068",
+        "created_at": "2025-08-06T21:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953201309773152349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953201309773152349",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953011199941198068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 不知道的还以为是迷笛露营区呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953011194538934272",
+            "3_1953011197009379330"
+          ]
+        },
+        "author_id": "1667851059346427914",
+        "conversation_id": "1953011199941198068",
+        "created_at": "2025-08-06T08:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953011199941198068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHq5JXD0uL",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshi_Asuka0089/status/1953011199941198068/photo/1",
+              "media_key": "3_1953011194538934272",
+              "start": 15,
+              "url": "https://t.co/JHq5JXD0uL"
+            },
+            {
+              "display_url": "pic.x.com/JHq5JXD0uL",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshi_Asuka0089/status/1953011199941198068/photo/1",
+              "media_key": "3_1953011197009379330",
+              "start": 15,
+              "url": "https://t.co/JHq5JXD0uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953011199941198068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西雅图和很恶心的西雅图口香墙 https://t.co/JHq5JXD0uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1146,
+          "like_count": 6463,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 4382
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "Heartbeat. Heartbreak.",
+        "id": "1667851059346427914",
+        "name": "🍍飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 986,
+          "like_count": 73515,
+          "listed_count": 4,
+          "media_count": 798,
+          "tweet_count": 11460
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": true
+      }
+    ]
+  }
+}

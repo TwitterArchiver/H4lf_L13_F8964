@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1993206332535849290",
+    "created_at": "2025-11-25T07:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993214816690036913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690721268373581824",
+          "start": 0,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993214816690036913",
+    "in_reply_to_user_id": "1690721268373581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993206332535849290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celsius233C 没事，我教你跳磅（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1993206332535849290",
+        "created_at": "2025-11-25T07:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993214816690036913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993214816690036913",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993206332535849290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C 没事，我教你跳磅（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "1993206332535849290",
+        "created_at": "2025-11-25T06:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993206332535849290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993206332535849290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在不敢上称 我感觉我得上地磅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1302,
+          "like_count": 7881,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5028
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 891,
+          "like_count": 21710,
+          "listed_count": 23,
+          "media_count": 134,
+          "tweet_count": 2360
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

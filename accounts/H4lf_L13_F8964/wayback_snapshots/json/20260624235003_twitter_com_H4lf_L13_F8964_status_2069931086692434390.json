@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2069736482693152883",
+    "created_at": "2026-06-24T23:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069931086692434390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1230865251903533056",
+          "start": 0,
+          "username": "Shizuka66"
+        },
+        {
+          "end": 21,
+          "id": "67875921",
+          "start": 11,
+          "username": "_ilestlor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069931086692434390",
+    "in_reply_to_user_id": "1230865251903533056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069916187136524772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shizuka66 @_ilestlor 北京夏天能到40度，please"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2069736482693152883",
+        "created_at": "2026-06-24T23:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069931086692434390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1230865251903533056",
+              "start": 0,
+              "username": "Shizuka66"
+            },
+            {
+              "end": 21,
+              "id": "67875921",
+              "start": 11,
+              "username": "_ilestlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069931086692434390",
+        "in_reply_to_user_id": "1230865251903533056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069916187136524772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shizuka66 @_ilestlor 北京夏天能到40度，please"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1230865251903533056",
+        "conversation_id": "2069736482693152883",
+        "created_at": "2026-06-24T22:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069916187136524772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "67875921",
+              "start": 0,
+              "username": "_ilestlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069916187136524772",
+        "in_reply_to_user_id": "67875921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069736482693152883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ilestlor I've lived in Beijing nearly 20 yrs. My family's net worth &gt;$4M, yet we have no air conditioning at home. The highest temp only hits 35 degrees, and it lasts less than two months.just Jul and Aug. Rest of year stays below 28. So AC isn't about rich or poor.just not necessary"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 1452,
+          "like_count": 8893,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 5662
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-21T14:42:08.000Z",
+        "description": "",
+        "id": "1230865251903533056",
+        "location": "Shanghai",
+        "name": "stelzm 🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1236702263269158912/vGG4ibUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 421,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Shizuka66",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-22T12:12:36.000Z",
+        "description": "Tout ce que vous écrirez ici vous survivra, soyez-en digne. Bosse à l’usine.",
+        "id": "67875921",
+        "location": "Strasbourg",
+        "name": "Il est l’or 🌱🚲",
+        "pinned_tweet_id": "1950660079939915944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542126394204905478/k45s_Yti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 3346,
+          "like_count": 188801,
+          "listed_count": 7,
+          "media_count": 6268,
+          "tweet_count": 39042
+        },
+        "url": "",
+        "username": "_ilestlor",
+        "verified": false
+      }
+    ]
+  }
+}

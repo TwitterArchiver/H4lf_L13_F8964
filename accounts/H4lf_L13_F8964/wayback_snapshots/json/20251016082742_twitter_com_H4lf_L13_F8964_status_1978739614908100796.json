@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1978739614908100796",
+    "created_at": "2025-10-16T08:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978739614908100796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489872233984311301",
+          "start": 3,
+          "username": "Aoncshagriuneo"
+        },
+        {
+          "end": 34,
+          "id": "1934706208989913088",
+          "start": 20,
+          "username": "ibelulo192147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978739614908100796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978707812634026378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoncshagriuneo: @ibelulo192147 他者的凝视客体化下的蛮夷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1978739614908100796",
+        "created_at": "2025-10-16T08:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978739614908100796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489872233984311301",
+              "start": 3,
+              "username": "Aoncshagriuneo"
+            },
+            {
+              "end": 34,
+              "id": "1934706208989913088",
+              "start": 20,
+              "username": "ibelulo192147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978739614908100796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978707812634026378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoncshagriuneo: @ibelulo192147 他者的凝视客体化下的蛮夷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489872233984311301",
+        "conversation_id": "1978651640090579003",
+        "created_at": "2025-10-16T06:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978707812634026378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934706208989913088",
+              "start": 0,
+              "username": "ibelulo192147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978707812634026378",
+        "in_reply_to_user_id": "1934706208989913088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978651640090579003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibelulo192147 他者的凝视客体化下的蛮夷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1255,
+          "like_count": 7401,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 4814
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:03:23.000Z",
+        "description": "they/she/he/any",
+        "id": "1489872233984311301",
+        "location": "世界",
+        "name": "άnjo(壥) nala㊤",
+        "pinned_tweet_id": "1973548987635605858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973551276580634624/0FZHH5zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 4388,
+          "like_count": 199565,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 54468
+        },
+        "username": "Aoncshagriuneo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T20:15:05.000Z",
+        "description": "毁灭与重生",
+        "id": "1934706208989913088",
+        "name": "ibelulo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940362442954973185/f3qy907o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 84,
+          "like_count": 12229,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 435
+        },
+        "username": "ibelulo192147",
+        "verified": false
+      }
+    ]
+  }
+}

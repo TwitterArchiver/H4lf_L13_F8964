@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938833404721590273",
+        "3_1938833404750888960",
+        "3_1938833404591779841"
+      ],
+      "media_source_tweet_id": [
+        "1938833415366910149",
+        "1938833415366910149",
+        "1938833415366910149"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "1938927670534001134",
+    "created_at": "2025-06-28T11:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938927670534001134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "816433686413357056",
+          "start": 3,
+          "username": "aruo04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZqIr1Vsq8",
+          "end": 66,
+          "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+          "media_key": "3_1938833404721590273",
+          "start": 43,
+          "url": "https://t.co/PZqIr1Vsq8"
+        },
+        {
+          "display_url": "pic.x.com/PZqIr1Vsq8",
+          "end": 66,
+          "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+          "media_key": "3_1938833404750888960",
+          "start": 43,
+          "url": "https://t.co/PZqIr1Vsq8"
+        },
+        {
+          "display_url": "pic.x.com/PZqIr1Vsq8",
+          "end": 66,
+          "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+          "media_key": "3_1938833404591779841",
+          "start": 43,
+          "url": "https://t.co/PZqIr1Vsq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938927670534001134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938833415366910149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aruo04: 特大パフェで映え写真撮ってる人の前でミルク単体で頑張るヲンナ https://t.co/PZqIr1Vsq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938833404721590273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugetY8XcAE9oaN.jpg",
+        "width": 1548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938833404750888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugetZDWgAA_9Tx.jpg",
+        "width": 1544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938833404591779841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugetYdasAE5tjc.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938833404721590273",
+            "3_1938833404750888960",
+            "3_1938833404591779841"
+          ],
+          "media_source_tweet_id": [
+            "1938833415366910149",
+            "1938833415366910149",
+            "1938833415366910149"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "1938927670534001134",
+        "created_at": "2025-06-28T11:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938927670534001134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "816433686413357056",
+              "start": 3,
+              "username": "aruo04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 66,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404721590273",
+              "start": 43,
+              "url": "https://t.co/PZqIr1Vsq8"
+            },
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 66,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404750888960",
+              "start": 43,
+              "url": "https://t.co/PZqIr1Vsq8"
+            },
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 66,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404591779841",
+              "start": 43,
+              "url": "https://t.co/PZqIr1Vsq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938927670534001134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938833415366910149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aruo04: 特大パフェで映え写真撮ってる人の前でミルク単体で頑張るヲンナ https://t.co/PZqIr1Vsq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938833404721590273",
+            "3_1938833404750888960",
+            "3_1938833404591779841"
+          ]
+        },
+        "author_id": "816433686413357056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "1938833415366910149",
+        "created_at": "2025-06-28T05:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938833415366910149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 54,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404721590273",
+              "start": 31,
+              "url": "https://t.co/PZqIr1Vsq8"
+            },
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 54,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404750888960",
+              "start": 31,
+              "url": "https://t.co/PZqIr1Vsq8"
+            },
+            {
+              "display_url": "pic.x.com/PZqIr1Vsq8",
+              "end": 54,
+              "expanded_url": "https://x.com/aruo04/status/1938833415366910149/photo/1",
+              "media_key": "3_1938833404591779841",
+              "start": 31,
+              "url": "https://t.co/PZqIr1Vsq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938833415366910149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3025,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "特大パフェで映え写真撮ってる人の前でミルク単体で頑張るヲンナ https://t.co/PZqIr1Vsq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1094,
+          "like_count": 6057,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 4160
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-03T23:58:54.000Z",
+        "description": "ボクがボクを殺す前に見つけて。サブ【@aru_sub04】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "aru_sub04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aruo04",
+                "end": 23,
+                "expanded_url": "https://lit.link/aruo04",
+                "start": 0,
+                "url": "https://t.co/GHwanZnq3g"
+              }
+            ]
+          }
+        },
+        "id": "816433686413357056",
+        "location": "希死念慮",
+        "name": "或縷(ある)",
+        "pinned_tweet_id": "1865916323001417739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919612654383202309/k0eBpzAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9422,
+          "following_count": 50,
+          "like_count": 15238,
+          "listed_count": 34,
+          "media_count": 281,
+          "tweet_count": 7092
+        },
+        "url": "https://t.co/GHwanZnq3g",
+        "username": "aruo04",
+        "verified": false
+      }
+    ]
+  }
+}

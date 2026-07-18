@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973013452785373184"
+      ],
+      "media_source_tweet_id": [
+        "1973013467599900739"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1973109463755243739",
+    "created_at": "2025-09-30T19:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T20:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973109463755243739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292356550351175680",
+          "start": 3,
+          "username": "JasonHu_2001"
+        },
+        {
+          "end": 34,
+          "id": "1586332050528915457",
+          "start": 18,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wMuTFtBQBL",
+          "end": 63,
+          "expanded_url": "https://x.com/JasonHu_2001/status/1973013467599900739/photo/1",
+          "media_key": "3_1973013452785373184",
+          "start": 40,
+          "url": "https://t.co/wMuTFtBQBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973109463755243739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973013467599900739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JasonHu_2001: @lilaoshizuikeai 经典重温 https://t.co/wMuTFtBQBL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1973013452785373184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2GNSCZW0AAiiai.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973013452785373184"
+          ],
+          "media_source_tweet_id": [
+            "1973013467599900739"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1973109463755243739",
+        "created_at": "2025-09-30T19:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T20:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973109463755243739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292356550351175680",
+              "start": 3,
+              "username": "JasonHu_2001"
+            },
+            {
+              "end": 34,
+              "id": "1586332050528915457",
+              "start": 18,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMuTFtBQBL",
+              "end": 63,
+              "expanded_url": "https://x.com/JasonHu_2001/status/1973013467599900739/photo/1",
+              "media_key": "3_1973013452785373184",
+              "start": 40,
+              "url": "https://t.co/wMuTFtBQBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973109463755243739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973013467599900739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JasonHu_2001: @lilaoshizuikeai 经典重温 https://t.co/wMuTFtBQBL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973013452785373184"
+          ]
+        },
+        "author_id": "1292356550351175680",
+        "conversation_id": "1973002541228003456",
+        "created_at": "2025-09-30T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973013467599900739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMuTFtBQBL",
+              "end": 45,
+              "expanded_url": "https://x.com/JasonHu_2001/status/1973013467599900739/photo/1",
+              "media_key": "3_1973013452785373184",
+              "start": 22,
+              "url": "https://t.co/wMuTFtBQBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973013467599900739",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 10047,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973002541228003456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai 经典重温 https://t.co/wMuTFtBQBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1225,
+          "like_count": 7160,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 4701
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T07:06:42.000Z",
+        "description": "deja vu",
+        "id": "1292356550351175680",
+        "name": "Jason_2001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663262726645514240/jpQR3oWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 166,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 213
+        },
+        "username": "JasonHu_2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247776,
+          "following_count": 671,
+          "like_count": 5485,
+          "listed_count": 1302,
+          "media_count": 1373,
+          "tweet_count": 7056
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

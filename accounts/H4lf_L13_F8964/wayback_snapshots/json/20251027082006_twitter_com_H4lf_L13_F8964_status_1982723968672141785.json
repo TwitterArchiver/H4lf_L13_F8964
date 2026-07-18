@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1982723968672141785",
+    "created_at": "2025-10-27T08:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982723968672141785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412787007940481030",
+          "start": 3,
+          "username": "CutieRivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982723968672141785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982682261364589039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CutieRivers: 你说的对，但是《没满16》是由吴相泽自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「推特」的幻想世界，在这里，被神选中的人将被授予「吃不起饭」，导引元素之力。你将扮演一位名为「池鱼鱼」的神秘角色，在自由的旅行中邂逅性格各异能力独特的同…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1982723968672141785",
+        "created_at": "2025-10-27T08:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982723968672141785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412787007940481030",
+              "start": 3,
+              "username": "CutieRivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982723968672141785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982682261364589039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CutieRivers: 你说的对，但是《没满16》是由吴相泽自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「推特」的幻想世界，在这里，被神选中的人将被授予「吃不起饭」，导引元素之力。你将扮演一位名为「池鱼鱼」的神秘角色，在自由的旅行中邂逅性格各异能力独特的同…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412787007940481030",
+        "conversation_id": "1982682261364589039",
+        "created_at": "2025-10-27T05:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982682261364589039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LumiCatRoll/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/LumiCatRoll/status/1982529727178084770",
+              "start": 142,
+              "url": "https://t.co/peSooKYkUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982682261364589039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 936,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982529727178084770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说的对，但是《没满16》是由吴相泽自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「推特」的幻想世界，在这里，被神选中的人将被授予「吃不起饭」，导引元素之力。你将扮演一位名为「池鱼鱼」的神秘角色，在自由的旅行中邂逅性格各异能力独特的同伴们，和他们一起击败强敌找回失散的亲人 https://t.co/peSooKYkUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1269,
+          "like_count": 7500,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 4873
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "俺是一只农村猫，最喜欢来看推特\n@popcat1234566",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "popcat1234566"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "『數據刪除』.wiki",
+                "end": 23,
+                "expanded_url": "http://xn--36jc603xzvptwab16s.wiki",
+                "start": 0,
+                "url": "https://t.co/3p9FOeYkOU"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "棺材里",
+        "name": "天川花",
+        "pinned_tweet_id": "1982667360135004585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971519683846373376/0rOzEW_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 77,
+          "like_count": 11073,
+          "listed_count": 1,
+          "media_count": 511,
+          "tweet_count": 8341
+        },
+        "url": "https://t.co/3p9FOeYkOU",
+        "username": "CutieRivers",
+        "verified": false
+      }
+    ]
+  }
+}

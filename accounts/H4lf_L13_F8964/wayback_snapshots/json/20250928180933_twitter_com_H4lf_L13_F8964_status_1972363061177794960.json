@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1972248567051112660",
+    "created_at": "2025-09-28T18:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T19:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972363061177794960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972363061177794960",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972248567051112660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick (╥﹏╥)sry"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1972248567051112660",
+        "created_at": "2025-09-28T18:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T19:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972363061177794960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972363061177794960",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972248567051112660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick (╥﹏╥)sry"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430976467131842564",
+        "conversation_id": "1972248567051112660",
+        "created_at": "2025-09-28T10:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972248567051112660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972248567051112660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天大学室友还有各种朋友都来找我玩 无非就是那些活动 已经不太想做任何娱乐了 完全从吃喝玩乐中感受不到任何乐趣了 只有干活和创作能稍微让我好过一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1222,
+          "like_count": 7130,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4683
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "跨🏳️‍⚧️ 非二元//vocaloidp 乐手 地下摇滚老鼠人 排练室主理人 INTP-T//我是精神病 时间线有血图嗑药内容⚠️⚠️不适请拉黑 别来找骂//音乐工作室乐器教学商演接单中 需要乐队排练请私信//作品账号在@Rubusjam//有对象@Gray_spectrum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Rubusjam"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Gray_spectrum"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "Beijing",
+        "name": "Ringoo Kino🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 351,
+          "like_count": 2097,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 2367
+        },
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

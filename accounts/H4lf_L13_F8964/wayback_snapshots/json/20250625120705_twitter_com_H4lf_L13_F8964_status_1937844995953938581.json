@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1937428530314510519",
+    "created_at": "2025-06-25T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937844995953938581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1650168480388493313",
+          "start": 0,
+          "username": "Ttukilr"
+        },
+        {
+          "end": 24,
+          "id": "1713526774158819328",
+          "start": 9,
+          "username": "l4960106383455"
+        },
+        {
+          "end": 56,
+          "id": "1275843547606904835",
+          "start": 42,
+          "username": "wanhuajing123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937844995953938581",
+    "in_reply_to_user_id": "1650168480388493313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937546366299045968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttukilr @l4960106383455 主人好爱我 我好幸福(╥﹏╥)  @wanhuajing123"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1937428530314510519",
+        "created_at": "2025-06-25T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937844995953938581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1650168480388493313",
+              "start": 0,
+              "username": "Ttukilr"
+            },
+            {
+              "end": 24,
+              "id": "1713526774158819328",
+              "start": 9,
+              "username": "l4960106383455"
+            },
+            {
+              "end": 56,
+              "id": "1275843547606904835",
+              "start": 42,
+              "username": "wanhuajing123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937844995953938581",
+        "in_reply_to_user_id": "1650168480388493313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937546366299045968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttukilr @l4960106383455 主人好爱我 我好幸福(╥﹏╥)  @wanhuajing123"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650168480388493313",
+        "conversation_id": "1937428530314510519",
+        "created_at": "2025-06-24T16:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937546366299045968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713526774158819328",
+              "start": 0,
+              "username": "l4960106383455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937546366299045968",
+        "in_reply_to_user_id": "1713526774158819328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6098,
+          "like_count": 284,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937428530314510519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l4960106383455 有的人虽然说着性癖是dirty talk被叫什么小狗小骚货，实际上和爱的人做被紧紧抱着听见他贴在耳边一遍又一遍说爱自己的时候，开心得眼泪都掉出几滴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1086,
+          "like_count": 5945,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 4092
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T16:03:27.000Z",
+        "description": "",
+        "id": "1650168480388493313",
+        "name": "Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936815117124972544/iHv87dFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Ttukilr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T12:06:39.000Z",
+        "description": "女性向音声博主 / 电子幽灵 / Switch / 直男/贩售音频见盒岛：19136W / 公开音频合集在fanbox/希望你感受到音频里的人在爱你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/19136W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/19136W",
+                "start": 0,
+                "url": "https://t.co/j9aqQnue1k"
+              }
+            ]
+          }
+        },
+        "id": "1713526774158819328",
+        "location": "更多音频见盒岛",
+        "name": "凌芝Violet",
+        "pinned_tweet_id": "1823808320131752381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744015613658583040/rLUAUHV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32643,
+          "following_count": 77,
+          "like_count": 450,
+          "listed_count": 64,
+          "media_count": 108,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/j9aqQnue1k",
+        "username": "l4960106383455",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-24T17:29:55.000Z",
+        "description": "我已褪下蛇皮，升华成龙了",
+        "id": "1275843547606904835",
+        "location": "Osaka City Hirano Ward, Osaka",
+        "name": "万华镜",
+        "pinned_tweet_id": "1719156441653653980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818768752324096000/NFHB18cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1704,
+          "like_count": 5272,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2538
+        },
+        "username": "wanhuajing123",
+        "verified": false
+      }
+    ]
+  }
+}

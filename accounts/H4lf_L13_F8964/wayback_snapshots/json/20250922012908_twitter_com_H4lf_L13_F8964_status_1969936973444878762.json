@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969936911876665344",
+        "3_1969936911876665345",
+        "3_1969936911851483136",
+        "3_1969936911872462848"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1969936096294478332",
+    "created_at": "2025-09-22T01:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T02:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969936973444878762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GEPGaKIa8",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+          "media_key": "13_1969936911876665344",
+          "start": 0,
+          "url": "https://t.co/0GEPGaKIa8"
+        },
+        {
+          "display_url": "pic.x.com/0GEPGaKIa8",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+          "media_key": "3_1969936911876665345",
+          "start": 0,
+          "url": "https://t.co/0GEPGaKIa8"
+        },
+        {
+          "display_url": "pic.x.com/0GEPGaKIa8",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+          "media_key": "3_1969936911851483136",
+          "start": 0,
+          "url": "https://t.co/0GEPGaKIa8"
+        },
+        {
+          "display_url": "pic.x.com/0GEPGaKIa8",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+          "media_key": "3_1969936911872462848",
+          "start": 0,
+          "url": "https://t.co/0GEPGaKIa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969936973444878762",
+    "in_reply_to_user_id": "1790275346899554304",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969936096294478332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/0GEPGaKIa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11198,
+        "height": 1280,
+        "media_key": "13_1969936911876665344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969936911876665344/img/8YZe817fTwYc0wuF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936911876665344/vid/avc1/320x568/H8hcCYI-p6gKRGJw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936911876665344/vid/avc1/480x852/hYQtucSRsz2DwapY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936911876665344/vid/avc1/720x1280/fLhuwaO9Mxq2pFTe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969936911876665344/pl/d7a6qokohR90U0Uf.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1969936911876665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1afLyZWsAE56up.jpg",
+        "width": 2048
+      },
+      {
+        "height": 878,
+        "media_key": "3_1969936911851483136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1afLyTWcAAgHL7.jpg",
+        "width": 584
+      },
+      {
+        "height": 767,
+        "media_key": "3_1969936911872462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1afLyYWkAA7WCG.jpg",
+        "width": 1170
+      },
+      {
+        "height": 769,
+        "media_key": "3_1969936019479744512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aeX19WUAApBA1.jpg",
+        "width": 1170
+      },
+      {
+        "height": 775,
+        "media_key": "3_1969936019441995776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aeX10WUAAWOco.jpg",
+        "width": 1170
+      },
+      {
+        "height": 878,
+        "media_key": "3_1969936019458793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aeX14WoAA0kwh.jpg",
+        "width": 584
+      },
+      {
+        "duration_ms": 32711,
+        "height": 542,
+        "media_key": "13_1969936019492347905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969936019492347905/img/cbN8RlCzzj43GWNV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936019492347905/vid/avc1/442x270/KgxWBnSoZFNb183g.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936019492347905/vid/avc1/588x360/SF3AqYu-Tj1zOVk4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969936019492347905/vid/avc1/888x542/QROopUq9giXSJn2I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969936019492347905/pl/lHCCCtfcW4ct-st0.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969936911876665344",
+            "3_1969936911876665345",
+            "3_1969936911851483136",
+            "3_1969936911872462848"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1969936096294478332",
+        "created_at": "2025-09-22T01:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969936973444878762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GEPGaKIa8",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+              "media_key": "13_1969936911876665344",
+              "start": 0,
+              "url": "https://t.co/0GEPGaKIa8"
+            },
+            {
+              "display_url": "pic.x.com/0GEPGaKIa8",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+              "media_key": "3_1969936911876665345",
+              "start": 0,
+              "url": "https://t.co/0GEPGaKIa8"
+            },
+            {
+              "display_url": "pic.x.com/0GEPGaKIa8",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+              "media_key": "3_1969936911851483136",
+              "start": 0,
+              "url": "https://t.co/0GEPGaKIa8"
+            },
+            {
+              "display_url": "pic.x.com/0GEPGaKIa8",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936973444878762/video/1",
+              "media_key": "3_1969936911872462848",
+              "start": 0,
+              "url": "https://t.co/0GEPGaKIa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969936973444878762",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969936096294478332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0GEPGaKIa8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969936019479744512",
+            "3_1969936019441995776",
+            "3_1969936019458793472",
+            "13_1969936019492347905"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969936096294478332",
+        "created_at": "2025-09-22T01:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969936096294478332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1487318664797831170",
+              "start": 10,
+              "username": "oneamong_us"
+            },
+            {
+              "end": 39,
+              "id": "897881871425654794",
+              "start": 24,
+              "username": "MontrealAntifa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8mgYCUBnm",
+              "end": 63,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936096294478332/video/1",
+              "media_key": "3_1969936019479744512",
+              "start": 40,
+              "url": "https://t.co/o8mgYCUBnm"
+            },
+            {
+              "display_url": "pic.x.com/o8mgYCUBnm",
+              "end": 63,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936096294478332/video/1",
+              "media_key": "3_1969936019441995776",
+              "start": 40,
+              "url": "https://t.co/o8mgYCUBnm"
+            },
+            {
+              "display_url": "pic.x.com/o8mgYCUBnm",
+              "end": 63,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936096294478332/video/1",
+              "media_key": "3_1969936019458793472",
+              "start": 40,
+              "url": "https://t.co/o8mgYCUBnm"
+            },
+            {
+              "display_url": "pic.x.com/o8mgYCUBnm",
+              "end": 63,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1969936096294478332/video/1",
+              "media_key": "13_1969936019492347905",
+              "start": 40,
+              "url": "https://t.co/o8mgYCUBnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969936096294478332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们办事，就是这样\n@oneamong_us \n@MontrealAntifa https://t.co/o8mgYCUBnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1211,
+          "like_count": 7054,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4653
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

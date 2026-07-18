@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017537945885138944"
+      ],
+      "media_source_tweet_id": [
+        "2017537948997325169"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2026085243992563953",
+    "created_at": "2026-02-24T00:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026085243992563953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551342229016305666",
+          "start": 3,
+          "username": "_negau_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUoK6VPqZ2",
+          "end": 40,
+          "expanded_url": "https://x.com/_negau_2/status/2017537948997325169/photo/1",
+          "media_key": "3_2017537945885138944",
+          "start": 17,
+          "url": "https://t.co/CUoK6VPqZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026085243992563953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017537948997325169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_2: 再掲 https://t.co/CUoK6VPqZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017537945885138944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-8Eola4AAxven.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017537945885138944"
+          ],
+          "media_source_tweet_id": [
+            "2017537948997325169"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2026085243992563953",
+        "created_at": "2026-02-24T00:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026085243992563953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551342229016305666",
+              "start": 3,
+              "username": "_negau_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUoK6VPqZ2",
+              "end": 40,
+              "expanded_url": "https://x.com/_negau_2/status/2017537948997325169/photo/1",
+              "media_key": "3_2017537945885138944",
+              "start": 17,
+              "url": "https://t.co/CUoK6VPqZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026085243992563953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017537948997325169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_negau_2: 再掲 https://t.co/CUoK6VPqZ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017537945885138944"
+          ]
+        },
+        "author_id": "1551342229016305666",
+        "conversation_id": "2017537948997325169",
+        "created_at": "2026-01-31T09:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017537948997325169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUoK6VPqZ2",
+              "end": 26,
+              "expanded_url": "https://x.com/_negau_2/status/2017537948997325169/photo/1",
+              "media_key": "3_2017537945885138944",
+              "start": 3,
+              "url": "https://t.co/CUoK6VPqZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017537948997325169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 48277,
+          "like_count": 5549,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/CUoK6VPqZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1410,
+          "like_count": 8577,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5419
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T23:03:21.000Z",
+        "description": "心の絵日記 / メインアカウント→@_negau_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_negau_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/TinpCMbPmz"
+              }
+            ]
+          }
+        },
+        "id": "1551342229016305666",
+        "location": "⚠裸体.傷",
+        "name": "願U/negaU の 深淵",
+        "pinned_tweet_id": "2022106947269656836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971572915138420736/Iy1FDUef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10170,
+          "following_count": 0,
+          "like_count": 43,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/TinpCMbPmz",
+        "username": "_negau_2",
+        "verified": false
+      }
+    ]
+  }
+}

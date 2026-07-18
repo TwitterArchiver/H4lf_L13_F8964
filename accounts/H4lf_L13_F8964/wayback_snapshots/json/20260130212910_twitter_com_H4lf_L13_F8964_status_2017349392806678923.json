@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2017349392806678923",
+    "created_at": "2026-01-30T21:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T22:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017349392806678923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248482493663023107",
+          "start": 3,
+          "username": "CatusNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017349392806678923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017188292173918504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatusNeko: 现在大伙能看清真正的政治正确大棒是由谁挥下的了吗？虚拟游戏、文学影视作品中可以有外星人，可以有异物种，可以有魔法，但是绝对不能出现跳脱出二元性别的非标准形象，全世界都一定要围着他们臆想中“科学”的二元生殖器和附着在上面的一整套性别秩序转，令人忍俊不禁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2017349392806678923",
+        "created_at": "2026-01-30T21:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017349392806678923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248482493663023107",
+              "start": 3,
+              "username": "CatusNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017349392806678923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017188292173918504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatusNeko: 现在大伙能看清真正的政治正确大棒是由谁挥下的了吗？虚拟游戏、文学影视作品中可以有外星人，可以有异物种，可以有魔法，但是绝对不能出现跳脱出二元性别的非标准形象，全世界都一定要围着他们臆想中“科学”的二元生殖器和附着在上面的一整套性别秩序转，令人忍俊不禁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248482493663023107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2017188292173918504",
+        "created_at": "2026-01-30T10:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017188292173918504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eleanoranatida…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/eleanoranatidae/status/2017168870650663253",
+              "start": 126,
+              "url": "https://t.co/befzV4XmFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017188292173918504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 15507,
+          "like_count": 323,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017168870650663253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在大伙能看清真正的政治正确大棒是由谁挥下的了吗？虚拟游戏、文学影视作品中可以有外星人，可以有异物种，可以有魔法，但是绝对不能出现跳脱出二元性别的非标准形象，全世界都一定要围着他们臆想中“科学”的二元生殖器和附着在上面的一整套性别秩序转，令人忍俊不禁 https://t.co/befzV4XmFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1348,
+          "like_count": 8375,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 5269
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T05:26:43.000Z",
+        "description": "Love will keep us alive🏳️‍🌈/Non-binary/高浓度怪话碎碎念，见谅",
+        "id": "1248482493663023107",
+        "location": "瓦楞纸箱",
+        "name": "Catus",
+        "pinned_tweet_id": "1664468140317888513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010779695072309248/a_t721VK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 695,
+          "like_count": 16617,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1165
+        },
+        "username": "CatusNeko",
+        "verified": false
+      }
+    ]
+  }
+}

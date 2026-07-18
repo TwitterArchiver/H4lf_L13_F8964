@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008148827052658688"
+      ],
+      "media_source_tweet_id": [
+        "2008327660649255376"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008606691676614791",
+    "created_at": "2026-01-06T18:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T19:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008606691676614791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1825078571515211776",
+          "start": 3,
+          "username": "RealestMemes_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHNwEaTs40",
+          "end": 42,
+          "expanded_url": "https://x.com/RealestMemes_/status/2008327660649255376/video/1",
+          "media_key": "13_2008148827052658688",
+          "start": 19,
+          "url": "https://t.co/YHNwEaTs40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008606691676614791",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008327660649255376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealestMemes_: https://t.co/YHNwEaTs40"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25450,
+        "height": 640,
+        "media_key": "13_2008148827052658688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008148827052658688/img/BKVR4FVZ23TTGw5u.jpg",
+        "public_metrics": {
+          "view_count": 753259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008148827052658688/vid/avc1/320x568/-kSemQ4RDD3WsqGs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008148827052658688/vid/avc1/360x640/2HlcWxAstJid3mVM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008148827052658688/pl/eK8NQr_B954iz4Ne.m3u8?v=f94"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008148827052658688"
+          ],
+          "media_source_tweet_id": [
+            "2008327660649255376"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008606691676614791",
+        "created_at": "2026-01-06T18:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T19:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008606691676614791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1825078571515211776",
+              "start": 3,
+              "username": "RealestMemes_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHNwEaTs40",
+              "end": 42,
+              "expanded_url": "https://x.com/RealestMemes_/status/2008327660649255376/video/1",
+              "media_key": "13_2008148827052658688",
+              "start": 19,
+              "url": "https://t.co/YHNwEaTs40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008606691676614791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008327660649255376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealestMemes_: https://t.co/YHNwEaTs40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008148827052658688"
+          ]
+        },
+        "author_id": "1825078571515211776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008327660649255376",
+        "created_at": "2026-01-06T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008327660649255376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHNwEaTs40",
+              "end": 23,
+              "expanded_url": "https://x.com/RealestMemes_/status/2008327660649255376/video/1",
+              "media_key": "13_2008148827052658688",
+              "start": 0,
+              "url": "https://t.co/YHNwEaTs40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008327660649255376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8169,
+          "impression_count": 1188168,
+          "like_count": 46502,
+          "quote_count": 169,
+          "reply_count": 104,
+          "retweet_count": 4385
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YHNwEaTs40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1328,
+          "like_count": 8251,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 5199
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T07:53:41.000Z",
+        "description": "Only the realest memes\n\nDM for credit/removal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RealestMemes2…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@RealestMemes20?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/wsClBL2MpG"
+              }
+            ]
+          }
+        },
+        "id": "1825078571515211776",
+        "name": "RealestMemes",
+        "pinned_tweet_id": "1893088315655757974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992687399223132160/Bqe88dzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76624,
+          "following_count": 30,
+          "like_count": 8067,
+          "listed_count": 86,
+          "media_count": 6701,
+          "tweet_count": 8092
+        },
+        "url": "https://t.co/wsClBL2MpG",
+        "username": "RealestMemes_",
+        "verified": true
+      }
+    ]
+  }
+}

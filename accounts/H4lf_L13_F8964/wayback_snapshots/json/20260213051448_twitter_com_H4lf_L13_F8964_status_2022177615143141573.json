@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021935639370117126"
+      ],
+      "media_source_tweet_id": [
+        "2021935695322132733"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2022177615143141573",
+    "created_at": "2026-02-13T05:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022177615143141573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/icQtliKXKl",
+          "end": 109,
+          "expanded_url": "https://x.com/Windy_Skyline/status/2021935695322132733/video/1",
+          "media_key": "13_2021935639370117126",
+          "start": 86,
+          "url": "https://t.co/icQtliKXKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022177615143141573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021935695322132733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 我这个推文又没说潘柏林怎么样，明明是在说图二那条评论的混乱逻辑，为什么大量互动都像是我在喷潘柏林、说潘柏林是身不由己？\n互动就像是： https://t.co/icQtliKXKl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 560,
+        "media_key": "13_2021935639370117126",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021935639370117126/img/aycxzledkTaHJerE.jpg",
+        "public_metrics": {
+          "view_count": 346
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/vid/avc1/320x320/pirDlUG-VWIF0C3q.mp4?tag=24"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/vid/avc1/560x560/jrFaYKsIq2Y8ijSc.mp4?tag=24"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/pl/5VewYWk1gu0nIl_o.m3u8?tag=24"
+          }
+        ],
+        "width": 560
+      },
+      {
+        "duration_ms": 6041,
+        "height": 560,
+        "media_key": "13_2021935639370117126",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021935639370117126/img/aycxzledkTaHJerE.jpg",
+        "public_metrics": {
+          "view_count": 349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/vid/avc1/320x320/pirDlUG-VWIF0C3q.mp4?tag=24"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/vid/avc1/560x560/jrFaYKsIq2Y8ijSc.mp4?tag=24"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021935639370117126/pl/5VewYWk1gu0nIl_o.m3u8?tag=24"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021935639370117126"
+          ],
+          "media_source_tweet_id": [
+            "2021935695322132733"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2022177615143141573",
+        "created_at": "2026-02-13T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022177615143141573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/icQtliKXKl",
+              "end": 109,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2021935695322132733/video/1",
+              "media_key": "13_2021935639370117126",
+              "start": 86,
+              "url": "https://t.co/icQtliKXKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022177615143141573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021935695322132733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 我这个推文又没说潘柏林怎么样，明明是在说图二那条评论的混乱逻辑，为什么大量互动都像是我在喷潘柏林、说潘柏林是身不由己？\n互动就像是： https://t.co/icQtliKXKl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021935639370117126"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2021935695322132733",
+        "created_at": "2026-02-12T13:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021935695322132733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/icQtliKXKl",
+              "end": 90,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2021935695322132733/video/1",
+              "media_key": "13_2021935639370117126",
+              "start": 67,
+              "url": "https://t.co/icQtliKXKl"
+            },
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/windy_skyline/status/2021698844551954924",
+              "start": 91,
+              "url": "https://t.co/RVqn8Uvf2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021935695322132733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021698844551954924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这个推文又没说潘柏林怎么样，明明是在说图二那条评论的混乱逻辑，为什么大量互动都像是我在喷潘柏林、说潘柏林是身不由己？\n互动就像是： https://t.co/icQtliKXKl https://t.co/RVqn8Uvf2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1380,
+          "like_count": 8553,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5361
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 231,
+          "like_count": 2384,
+          "listed_count": 9,
+          "media_count": 3669,
+          "tweet_count": 12531
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

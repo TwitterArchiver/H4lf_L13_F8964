@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990447526533878188",
+    "created_at": "2025-11-18T01:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990599403548340695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990599403548340695",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990447526533878188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 我要拿你头盖骨当碗使"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1990447521001263104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G599eXlWUAAQo4q.jpg",
+        "width": 400
+      },
+      {
+        "height": 1836,
+        "media_key": "3_1990447520971988992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G599eXeXoAAOdWd.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990447526533878188",
+        "created_at": "2025-11-18T01:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990599403548340695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990599403548340695",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990447526533878188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 我要拿你头盖骨当碗使"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990447521001263104",
+            "3_1990447520971988992"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "1990447526533878188",
+        "created_at": "2025-11-17T15:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990447526533878188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrStCDSBER",
+              "end": 27,
+              "expanded_url": "https://x.com/bubblepipe42/status/1990447526533878188/photo/1",
+              "media_key": "3_1990447521001263104",
+              "start": 4,
+              "url": "https://t.co/BrStCDSBER"
+            },
+            {
+              "display_url": "pic.x.com/BrStCDSBER",
+              "end": 27,
+              "expanded_url": "https://x.com/bubblepipe42/status/1990447526533878188/photo/1",
+              "media_key": "3_1990447520971988992",
+              "start": 4,
+              "url": "https://t.co/BrStCDSBER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990447526533878188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 707,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像 https://t.co/BrStCDSBER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1299,
+          "like_count": 7762,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4992
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个笑话。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "1988262671716643078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990447725880520704/1VQNGW5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 782,
+          "like_count": 5169,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 1235
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

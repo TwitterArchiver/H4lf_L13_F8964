@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2026241667087630782",
+    "created_at": "2026-02-26T00:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026816536548184373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026816536548184373",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026241667087630782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 🫡 salute"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2026241667087630782",
+        "created_at": "2026-02-26T00:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026816536548184373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026816536548184373",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026241667087630782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 🫡 salute"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2026241667087630782",
+        "created_at": "2026-02-24T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026241667087630782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n552aan552aa/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/n552aan552aa/status/2025886023688049023",
+              "start": 117,
+              "url": "https://t.co/XBmypcB9Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026241667087630782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 37934,
+          "like_count": 243,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025886023688049023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你了解N55的过去，你就会知道N55不是一个喜欢暴力和违法的人，N55彬彬有礼，有颗金子般的心，经常能让别人开怀大笑，N55是个好药娘，好精神病人，好小姑娘，我无法想象会发生这种事，N55只是被吓坏了，这一切本不该如此，后面忘了 https://t.co/XBmypcB9Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1412,
+          "like_count": 8584,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5424
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "⚠️ cylinder misfire",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷 @CatRoll",
+        "pinned_tweet_id": "2025485352354640337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 834,
+          "like_count": 2515,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

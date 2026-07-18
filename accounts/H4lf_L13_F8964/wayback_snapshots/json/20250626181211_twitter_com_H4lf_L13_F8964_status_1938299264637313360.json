@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938299264637313360",
+    "created_at": "2025-06-26T18:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T19:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938299264637313360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964miku39yyds…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/8964miku39yyds1/status/1938261840968262109",
+          "start": 6,
+          "url": "https://t.co/NRLDTo1d2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938299264637313360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938261840968262109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们是谁？ https://t.co/NRLDTo1d2A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938299264637313360",
+        "created_at": "2025-06-26T18:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938299264637313360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964miku39yyds…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/8964miku39yyds1/status/1938261840968262109",
+              "start": 6,
+              "url": "https://t.co/NRLDTo1d2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938299264637313360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938261840968262109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们是谁？ https://t.co/NRLDTo1d2A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810244469415104512",
+        "conversation_id": "1938223526756159634",
+        "created_at": "2025-06-26T15:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938261840968262109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938261840968262109",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938223526756159634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 我们是谁？十四亿还是九千万还是一个人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1087,
+          "like_count": 6005,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4124
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T09:28:18.000Z",
+        "description": "8+31=39\n39=Miku\n支国在狱学生\n支女没有一个无辜的（8964）你永远是中国人\n🇨🇳🇭🇰🇲🇴🇹🇼🇺🇦🇵🇸",
+        "id": "1810244469415104512",
+        "location": "墙国中南海四通桥天安门秦城监狱乌鲁木齐中路",
+        "name": "我推的Hatsune Miku吊炸天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810245531006091264/m0q25zny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 187,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 176
+        },
+        "username": "8964MIKU39yyds1",
+        "verified": false
+      }
+    ]
+  }
+}

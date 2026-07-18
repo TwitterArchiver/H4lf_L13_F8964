@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2006545124613120036",
+    "created_at": "2026-01-01T01:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T02:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006545124613120036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/madsposting/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/madsposting/status/2006336794770411968",
+          "start": 7,
+          "url": "https://t.co/NRStJgFdWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006545124613120036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006336794770411968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伟大的胜利！ https://t.co/NRStJgFdWA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18451,
+        "height": 1024,
+        "media_key": "13_2006336737216172032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006336737216172032/img/KBCMqK5ScjTRotqA.jpg",
+        "public_metrics": {
+          "view_count": 2730276
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006336737216172032/vid/avc1/320x568/H5pakOIdGXn1Yk0t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006336737216172032/vid/avc1/480x852/WTFfmyJMqNTwk16x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006336737216172032/vid/avc1/576x1024/II-M6AsyMg56kHaq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006336737216172032/pl/kaxBLJKSpwqKXj5Q.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2006545124613120036",
+        "created_at": "2026-01-01T01:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T02:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006545124613120036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/madsposting/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/madsposting/status/2006336794770411968",
+              "start": 7,
+              "url": "https://t.co/NRStJgFdWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006545124613120036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006336794770411968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伟大的胜利！ https://t.co/NRStJgFdWA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006336737216172032"
+          ]
+        },
+        "author_id": "2598018877",
+        "conversation_id": "2006336794770411968",
+        "created_at": "2025-12-31T12:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006336794770411968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOvloDhV07",
+              "end": 58,
+              "expanded_url": "https://x.com/MadsPosting/status/2006336794770411968/video/1",
+              "media_key": "13_2006336737216172032",
+              "start": 35,
+              "url": "https://t.co/BOvloDhV07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006336794770411968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14335,
+          "impression_count": 5956585,
+          "like_count": 319314,
+          "quote_count": 510,
+          "reply_count": 355,
+          "retweet_count": 16773
+        },
+        "reply_settings": "everyone",
+        "text": "better than watching the ball drop https://t.co/BOvloDhV07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1334,
+          "like_count": 8215,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 5178
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "I AM NOT MADS MIKKELSEN. Europemaxxer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/madsposting",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/madsposting",
+                "start": 0,
+                "url": "https://t.co/JZgEc5RYzr"
+              }
+            ]
+          }
+        },
+        "id": "2598018877",
+        "location": "Denmark",
+        "name": "Mads",
+        "pinned_tweet_id": "2006336794770411968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873316862378889216/V3fMYFzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98329,
+          "following_count": 265,
+          "like_count": 64720,
+          "listed_count": 231,
+          "media_count": 9163,
+          "tweet_count": 13891
+        },
+        "url": "https://t.co/JZgEc5RYzr",
+        "username": "MadsPosting",
+        "verified": true
+      }
+    ]
+  }
+}

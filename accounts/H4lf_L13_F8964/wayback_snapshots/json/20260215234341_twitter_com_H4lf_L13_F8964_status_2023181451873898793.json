@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023155704006316088",
+    "created_at": "2026-02-15T23:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T00:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023181451873898793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4803526874",
+          "start": 0,
+          "username": "Teddybearbear66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023181451873898793",
+    "in_reply_to_user_id": "4803526874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023155704006316088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teddybearbear66 日焼跡 大好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023155701514932224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOxZDIakAA6pcr.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023155704006316088",
+        "created_at": "2026-02-15T23:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T00:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023181451873898793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4803526874",
+              "start": 0,
+              "username": "Teddybearbear66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023181451873898793",
+        "in_reply_to_user_id": "4803526874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023155704006316088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teddybearbear66 日焼跡 大好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023155701514932224"
+          ]
+        },
+        "author_id": "4803526874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023155704006316088",
+        "created_at": "2026-02-15T22:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023155704006316088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TJ2CZk1FU",
+              "end": 29,
+              "expanded_url": "https://x.com/Teddybearbear66/status/2023155704006316088/photo/1",
+              "media_key": "3_2023155701514932224",
+              "start": 6,
+              "url": "https://t.co/1TJ2CZk1FU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023155704006316088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1166,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐吧 https://t.co/1TJ2CZk1FU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1398,
+          "like_count": 8621,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 5389
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-23T15:53:16.000Z",
+        "description": "男的/咸鱼发推 /当做第二个pyq来发发/爱笑/boom/🚪288/ 孤寡老人死宅geek过自己普普通通生活 没有tg 也不玩tg  小号:@dummybearbear",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "dummybearbear"
+              }
+            ]
+          }
+        },
+        "id": "4803526874",
+        "name": "juicebear小熊999",
+        "pinned_tweet_id": "1742520631856418862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715557135075921920/ffUiz2Mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39967,
+          "following_count": 363,
+          "like_count": 4029,
+          "listed_count": 281,
+          "media_count": 1031,
+          "tweet_count": 2931
+        },
+        "username": "Teddybearbear66",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1985410925256495107",
+    "created_at": "2025-11-03T18:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T19:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985410925256495107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 95,
+          "id": "1745799972576968705",
+          "start": 82,
+          "username": "bubblepipe42"
+        },
+        {
+          "end": 114,
+          "id": "1899023817378508801",
+          "start": 99,
+          "username": "Ted_noncommute"
+        },
+        {
+          "end": 135,
+          "id": "1688439420",
+          "start": 119,
+          "username": "BlackMarieChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985410925256495107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985165031843995934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 因为是第一次, 所以不会下床的小狗...\nFirst time... she can't get off the bed...\n\n📷: @bubblepipe42\n🐕: @Ted_noncommute\nK9: @BlackMarieChina htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985410925256495107].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985410925256495107",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985410925256495107"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1985010715367747584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wsuoTWsAA2KM1.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985010715367747584"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "1985165031843995934",
+        "created_at": "2025-11-03T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985165031843995934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1745799972576968705",
+              "start": 68,
+              "username": "bubblepipe42"
+            },
+            {
+              "end": 100,
+              "id": "1899023817378508801",
+              "start": 85,
+              "username": "Ted_noncommute"
+            },
+            {
+              "end": 121,
+              "id": "1688439420",
+              "start": 105,
+              "username": "BlackMarieChina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/918LpdBTZU",
+              "end": 145,
+              "expanded_url": "https://x.com/Ted_yeet/status/1985165031843995934/photo/1",
+              "media_key": "3_1985010715367747584",
+              "start": 122,
+              "url": "https://t.co/918LpdBTZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985165031843995934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4898,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "因为是第一次, 所以不会下床的小狗...\nFirst time... she can't get off the bed...\n\n📷: @bubblepipe42\n🐕: @Ted_noncommute\nK9: @BlackMarieChina https://t.co/918LpdBTZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1274,
+          "like_count": 7533,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 4893
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 at UCPH/一推就倒邪恶北方地牢主/穿胶写胶SM高手/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1374,
+          "like_count": 31404,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 6310
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个笑话。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "1976880265319661703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786969387137990656/K-JPSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 730,
+          "like_count": 4501,
+          "listed_count": 4,
+          "media_count": 246,
+          "tweet_count": 1074
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T09:06:07.000Z",
+        "description": "域ℍ上的小Ted /🩵🩷🤍🩷🩵",
+        "id": "1899023817378508801",
+        "name": "非交换Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899024063512584192/6CiAhCGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 102,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 159
+        },
+        "username": "Ted_noncommute",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:37:07.000Z",
+        "description": "A bondage toy shop located in Shanghai. PayPal is now available for wherever SF EXPRESS can reach. 上海sm道具小店，卖自己设计的sm道具。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackmarie.taobao.com",
+                "end": 23,
+                "expanded_url": "http://blackmarie.taobao.com",
+                "start": 0,
+                "url": "https://t.co/PGISUByddI"
+              }
+            ]
+          }
+        },
+        "id": "1688439420",
+        "location": "Shanghai",
+        "name": "BlackMarie",
+        "pinned_tweet_id": "1983804852850524179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104062944038522880/7WiwpANC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71561,
+          "following_count": 1142,
+          "like_count": 7897,
+          "listed_count": 267,
+          "media_count": 512,
+          "tweet_count": 5103
+        },
+        "url": "https://t.co/PGISUByddI",
+        "username": "BlackMarieChina",
+        "verified": false
+      }
+    ]
+  }
+}

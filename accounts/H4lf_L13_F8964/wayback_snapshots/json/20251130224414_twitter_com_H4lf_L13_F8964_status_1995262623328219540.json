@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994942359566782464",
+        "3_1994942359449341959",
+        "3_1994942361701683203"
+      ],
+      "media_source_tweet_id": [
+        "1994942364503478374",
+        "1994942364503478374",
+        "1994942364503478374"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995262623328219540",
+    "created_at": "2025-11-30T22:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T23:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995262623328219540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "912623216899715072",
+          "start": 3,
+          "username": "Xianzhong_1953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HbNif4cNl7",
+          "end": 59,
+          "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+          "media_key": "3_1994942359566782464",
+          "start": 36,
+          "url": "https://t.co/HbNif4cNl7"
+        },
+        {
+          "display_url": "pic.x.com/HbNif4cNl7",
+          "end": 59,
+          "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+          "media_key": "3_1994942359449341959",
+          "start": 36,
+          "url": "https://t.co/HbNif4cNl7"
+        },
+        {
+          "display_url": "pic.x.com/HbNif4cNl7",
+          "end": 59,
+          "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+          "media_key": "3_1994942361701683203",
+          "start": 36,
+          "url": "https://t.co/HbNif4cNl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995262623328219540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994942364503478374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xianzhong_1953: 运动了，运动了，禁止情绪不好！ https://t.co/HbNif4cNl7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1994942359566782464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G691gaFbkAAxeY4.jpg",
+        "width": 800
+      },
+      {
+        "height": 398,
+        "media_key": "3_1994942359449341959",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G691gZpbkAcQVoW.jpg",
+        "width": 600
+      },
+      {
+        "height": 720,
+        "media_key": "3_1994942361701683203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G691giCbkAMmQTJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994942359566782464",
+            "3_1994942359449341959",
+            "3_1994942361701683203"
+          ],
+          "media_source_tweet_id": [
+            "1994942364503478374",
+            "1994942364503478374",
+            "1994942364503478374"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995262623328219540",
+        "created_at": "2025-11-30T22:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T23:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995262623328219540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "912623216899715072",
+              "start": 3,
+              "username": "Xianzhong_1953"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 59,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942359566782464",
+              "start": 36,
+              "url": "https://t.co/HbNif4cNl7"
+            },
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 59,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942359449341959",
+              "start": 36,
+              "url": "https://t.co/HbNif4cNl7"
+            },
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 59,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942361701683203",
+              "start": 36,
+              "url": "https://t.co/HbNif4cNl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995262623328219540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994942364503478374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xianzhong_1953: 运动了，运动了，禁止情绪不好！ https://t.co/HbNif4cNl7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994942359566782464",
+            "3_1994942359449341959",
+            "3_1994942361701683203"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994942364503478374",
+        "created_at": "2025-11-30T01:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994942364503478374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 39,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942359566782464",
+              "start": 16,
+              "url": "https://t.co/HbNif4cNl7"
+            },
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 39,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942359449341959",
+              "start": 16,
+              "url": "https://t.co/HbNif4cNl7"
+            },
+            {
+              "display_url": "pic.x.com/HbNif4cNl7",
+              "end": 39,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994942364503478374/photo/1",
+              "media_key": "3_1994942361701683203",
+              "start": 16,
+              "url": "https://t.co/HbNif4cNl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994942364503478374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 61608,
+          "like_count": 374,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "运动了，运动了，禁止情绪不好！ https://t.co/HbNif4cNl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 1310,
+          "like_count": 7954,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5057
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105447,
+          "following_count": 810,
+          "like_count": 240748,
+          "listed_count": 342,
+          "media_count": 22689,
+          "tweet_count": 43978
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

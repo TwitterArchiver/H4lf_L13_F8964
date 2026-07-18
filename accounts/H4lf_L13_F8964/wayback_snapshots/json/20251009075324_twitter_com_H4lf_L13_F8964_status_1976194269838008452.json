@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975851490272251904"
+      ],
+      "media_source_tweet_id": [
+        "1975851496475591147"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1976194269838008452",
+    "created_at": "2025-10-09T07:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976194269838008452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HI2BaE1YAR",
+          "end": 39,
+          "expanded_url": "https://x.com/amecandy_x/status/1975851496475591147/photo/1",
+          "media_key": "3_1975851490272251904",
+          "start": 16,
+          "url": "https://t.co/HI2BaE1YAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976194269838008452",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975851496475591147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: https://t.co/HI2BaE1YAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1975851490272251904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uidj6akAABsv6.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975851490272251904"
+          ],
+          "media_source_tweet_id": [
+            "1975851496475591147"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1976194269838008452",
+        "created_at": "2025-10-09T07:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976194269838008452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI2BaE1YAR",
+              "end": 39,
+              "expanded_url": "https://x.com/amecandy_x/status/1975851496475591147/photo/1",
+              "media_key": "3_1975851490272251904",
+              "start": 16,
+              "url": "https://t.co/HI2BaE1YAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976194269838008452",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975851496475591147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: https://t.co/HI2BaE1YAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975851490272251904"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1975851496475591147",
+        "created_at": "2025-10-08T09:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975851496475591147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI2BaE1YAR",
+              "end": 23,
+              "expanded_url": "https://x.com/amecandy_x/status/1975851496475591147/photo/1",
+              "media_key": "3_1975851490272251904",
+              "start": 0,
+              "url": "https://t.co/HI2BaE1YAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975851496475591147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4984,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HI2BaE1YAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1234,
+          "like_count": 7251,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 4736
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "叫我小雨//休学在家，互联网是我的一切🌏//旅游区博主//家长党MtF🏳️‍⚧️//HRT 2022.07//双相//我会写东西搞oc！文章网站https://t.co/Ul32kqG4uh 欢迎找我讨论！！//去过🇯🇵🇷🇺🇰🇷🧳//术曲🎧//私信扩列聊天欢迎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 95,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 72,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "武汉",
+        "name": "超絕最可愛 Rain 🏳️‍⚧️🧬（求fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 1349,
+          "like_count": 20111,
+          "listed_count": 9,
+          "media_count": 665,
+          "tweet_count": 6448
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

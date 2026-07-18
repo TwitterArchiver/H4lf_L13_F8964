@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1991858102338269367",
+    "created_at": "2025-11-25T07:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993215857259114818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271295081144696833",
+          "start": 0,
+          "username": "Hyperglycemia26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993215857259114818",
+    "in_reply_to_user_id": "1271295081144696833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991858102338269367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperglycemia26 怎么这么大🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3833,
+        "height": 720,
+        "media_key": "13_1991858038740058112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991858038740058112/img/QnVu1nVLPOFcSWJI.jpg",
+        "public_metrics": {
+          "view_count": 295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991858038740058112/vid/avc1/480x270/0RU9gTrBVI2Y3Zs8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991858038740058112/vid/avc1/640x360/ORaE_vAKL2Bgnap_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991858038740058112/vid/avc1/1280x720/HB76isbFIMNHS5vz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991858038740058112/pl/cw1FrEe-xed2PtI2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1991858102338269367",
+        "created_at": "2025-11-25T07:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993215857259114818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271295081144696833",
+              "start": 0,
+              "username": "Hyperglycemia26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993215857259114818",
+        "in_reply_to_user_id": "1271295081144696833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991858102338269367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperglycemia26 怎么这么大🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991858038740058112"
+          ]
+        },
+        "author_id": "1271295081144696833",
+        "conversation_id": "1991858102338269367",
+        "created_at": "2025-11-21T13:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991858102338269367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJU44t23LX",
+              "end": 49,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/1991858102338269367/video/1",
+              "media_key": "13_1991858038740058112",
+              "start": 26,
+              "url": "https://t.co/UJU44t23LX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991858102338269367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1195,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道自己在拍摄什么但又拍点了什么的Shizumi https://t.co/UJU44t23LX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1303,
+          "like_count": 7883,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5029
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T04:15:49.000Z",
+        "description": "批判性使用雌激素的友跨顺男 hrt2023.11.28 117.5kg→65kg→83kg→80kg减肥中。 不踩雷的都会回fo哟 ❤@Hosiren1999 2024.7.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "Hosiren1999"
+              }
+            ]
+          }
+        },
+        "id": "1271295081144696833",
+        "location": "宛平南路600号",
+        "name": "Shizumi",
+        "pinned_tweet_id": "1931729435985908163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844733200876417024/F283A_FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 1517,
+          "like_count": 4888,
+          "listed_count": 8,
+          "media_count": 1123,
+          "tweet_count": 4473
+        },
+        "username": "Hyperglycemia26",
+        "verified": false
+      }
+    ]
+  }
+}

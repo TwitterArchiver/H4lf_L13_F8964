@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1988000711968498151",
+    "created_at": "2026-05-09T20:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T21:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053215585480147382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1561753484512612353",
+          "start": 0,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053215585480147382",
+    "in_reply_to_user_id": "1561753484512612353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988000711968498151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moutai_H_Maple 老生常谈的关于身份政治究竟是身份还是政治，以及实践上的狗哨带来的有罪推定和预防性治理，但是看到现实案例还是令人恐慌。国内的部分酷儿团体也是一样的偏见相当于暗中强调被指派性别的原罪。右人打着左人旗去重塑社会和抹黑，再引来了反弹，快别逗(torturing)我了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1988000437681983488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bL3X1bEAAs7sV.jpg",
+        "width": 1210
+      },
+      {
+        "height": 800,
+        "media_key": "3_1988000468669493249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bL5LRa8AEr2nX.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1988000711968498151",
+        "created_at": "2026-05-09T20:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053215585480147382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561753484512612353",
+              "start": 0,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053215585480147382",
+        "in_reply_to_user_id": "1561753484512612353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988000711968498151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moutai_H_Maple 老生常谈的关于身份政治究竟是身份还是政治，以及实践上的狗哨带来的有罪推定和预防性治理，但是看到现实案例还是令人恐慌。国内的部分酷儿团体也是一样的偏见相当于暗中强调被指派性别的原罪。右人打着左人旗去重塑社会和抹黑，再引来了反弹，快别逗(torturing)我了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988000437681983488",
+            "3_1988000468669493249"
+          ]
+        },
+        "author_id": "1561753484512612353",
+        "conversation_id": "1988000711968498151",
+        "created_at": "2025-11-10T21:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988000711968498151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8B9mgy58Xg",
+              "end": 76,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/1988000711968498151/photo/1",
+              "media_key": "3_1988000437681983488",
+              "start": 53,
+              "url": "https://t.co/8B9mgy58Xg"
+            },
+            {
+              "display_url": "pic.x.com/8B9mgy58Xg",
+              "end": 76,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/1988000711968498151/photo/1",
+              "media_key": "3_1988000468669493249",
+              "start": 53,
+              "url": "https://t.co/8B9mgy58Xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988000711968498151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 40077,
+          "like_count": 98,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "顺便说一句，如果你们男同性恋者要移民。\n你们在加拿大的地位，在白人心目中，远不如一个顺直女小粉红富二代。 https://t.co/8B9mgy58Xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1447,
+          "like_count": 8881,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 5636
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。｜\n秘祈人途径，现在是放牧“古代学者”和“观众”的“牧羊人”｜古代学者的友情链接https://t.co/2bC44aQn9c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/katon53615",
+                "end": 89,
+                "expanded_url": "https://x.com/katon53615",
+                "start": 66,
+                "url": "https://t.co/2bC44aQn9c"
+              }
+            ]
+          }
+        },
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2052772054076997932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 261,
+          "like_count": 1778,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 1983
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

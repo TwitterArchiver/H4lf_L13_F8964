@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1941759114755113108",
+    "created_at": "2025-07-07T15:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942243535245447372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942243535245447372",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941759114755113108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 体验过，相当于白睡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_1941759108874485760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKDnyPXwAArg33.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1941759114755113108",
+        "created_at": "2025-07-07T15:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942243535245447372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942243535245447372",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941759114755113108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 体验过，相当于白睡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941759108874485760"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941759114755113108",
+        "created_at": "2025-07-06T07:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941759114755113108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIq8EMswRY",
+              "end": 33,
+              "expanded_url": "https://x.com/DanJack67524194/status/1941759114755113108/photo/1",
+              "media_key": "3_1941759108874485760",
+              "start": 10,
+              "url": "https://t.co/DIq8EMswRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941759114755113108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 145643,
+          "like_count": 3678,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "這才是最絕望的困境 https://t.co/DIq8EMswRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6237,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4237
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\n棉花糖：https://t.co/Kc3Sive5zs\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v1uq470chztz12…",
+                "end": 67,
+                "expanded_url": "https://marshmallow-qa.com/v1uq470chztz122?t=yjLkkv&u",
+                "start": 44,
+                "url": "https://t.co/Kc3Sive5zs"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 100,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 77,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊北科大登陸作戰——展開！！",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6659,
+          "following_count": 1755,
+          "like_count": 29700,
+          "listed_count": 19,
+          "media_count": 6811,
+          "tweet_count": 30627
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

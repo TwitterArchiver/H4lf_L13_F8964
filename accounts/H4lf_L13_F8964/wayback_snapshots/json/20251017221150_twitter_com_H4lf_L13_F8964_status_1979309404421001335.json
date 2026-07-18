@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1979166092493742418",
+    "created_at": "2025-10-17T22:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T23:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979309404421001335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515208665330237442",
+          "start": 0,
+          "username": "happyending8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979309404421001335",
+    "in_reply_to_user_id": "1515208665330237442",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979166092493742418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyending8964 😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1979166092493742418",
+        "created_at": "2025-10-17T22:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T23:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979309404421001335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515208665330237442",
+              "start": 0,
+              "username": "happyending8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979309404421001335",
+        "in_reply_to_user_id": "1515208665330237442",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979166092493742418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyending8964 😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515208665330237442",
+        "conversation_id": "1979166092493742418",
+        "created_at": "2025-10-17T12:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979166092493742418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979166092493742418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又想起来那个虾头人了，真恶心，当着我们一堆人的面，跟我的对话：\n\n来亲我一下\n我不想\n亲我一下嘛，我知道你其实很想\n我不想\n亲我一下\n我不想！\n\n真他妈的恶心，谁他妈想亲你，真鸡巴恶心，草，妈的，真想yue想到这个人就想yue，妈的煞笔，纯鸡巴脑瘫玩意儿献祭了亲爹才能想出来这么恶心的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1259,
+          "like_count": 7437,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4834
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T06:01:35.000Z",
+        "description": "叫我欣就行",
+        "id": "1515208665330237442",
+        "name": "香欣料（欣🧂",
+        "pinned_tweet_id": "1947645667117306339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 656,
+          "like_count": 4299,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 3475
+        },
+        "username": "happyending8964",
+        "verified": false
+      }
+    ]
+  }
+}

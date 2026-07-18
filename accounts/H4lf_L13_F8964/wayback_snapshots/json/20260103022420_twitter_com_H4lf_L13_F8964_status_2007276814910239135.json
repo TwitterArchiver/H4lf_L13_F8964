@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007276810422091776",
+        "3_2007276810426314752",
+        "3_2007276810426253312",
+        "3_2007276810422059008"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2007276814910239135",
+    "created_at": "2026-01-03T02:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T03:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007276814910239135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5Sik3QrUy",
+          "end": 158,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+          "media_key": "3_2007276810422091776",
+          "start": 135,
+          "url": "https://t.co/A5Sik3QrUy"
+        },
+        {
+          "display_url": "pic.x.com/A5Sik3QrUy",
+          "end": 158,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+          "media_key": "3_2007276810426314752",
+          "start": 135,
+          "url": "https://t.co/A5Sik3QrUy"
+        },
+        {
+          "display_url": "pic.x.com/A5Sik3QrUy",
+          "end": 158,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+          "media_key": "3_2007276810426253312",
+          "start": 135,
+          "url": "https://t.co/A5Sik3QrUy"
+        },
+        {
+          "display_url": "pic.x.com/A5Sik3QrUy",
+          "end": 158,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+          "media_key": "3_2007276810422059008",
+          "start": 135,
+          "url": "https://t.co/A5Sik3QrUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007276814910239135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经济学人：品行可疑的人更可能进入公共部门\n进入公共部门的人，其抄袭评分比平均水平高出15.6%。其中，海关和税务官员的情况最为严重，其抄袭评分分别比私营部门的同行高出25%和26%。在公务员体系内部，那些“作弊者”在职业生涯前五年中的晋升速度，比更为诚实的同事快9%。 https://t.co/A5Sik3QrUy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2007276810422091776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tHn8MWgAAHu7Y.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1543,
+        "media_key": "3_2007276810426314752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tHn8NW8AAjzYU.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1596,
+        "media_key": "3_2007276810426253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tHn8NWAAAbXXE.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1502,
+        "media_key": "3_2007276810422059008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tHn8MWAAAea-S.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007276810422091776",
+            "3_2007276810426314752",
+            "3_2007276810426253312",
+            "3_2007276810422059008"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2007276814910239135",
+        "created_at": "2026-01-03T02:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007276814910239135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5Sik3QrUy",
+              "end": 158,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+              "media_key": "3_2007276810422091776",
+              "start": 135,
+              "url": "https://t.co/A5Sik3QrUy"
+            },
+            {
+              "display_url": "pic.x.com/A5Sik3QrUy",
+              "end": 158,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+              "media_key": "3_2007276810426314752",
+              "start": 135,
+              "url": "https://t.co/A5Sik3QrUy"
+            },
+            {
+              "display_url": "pic.x.com/A5Sik3QrUy",
+              "end": 158,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+              "media_key": "3_2007276810426253312",
+              "start": 135,
+              "url": "https://t.co/A5Sik3QrUy"
+            },
+            {
+              "display_url": "pic.x.com/A5Sik3QrUy",
+              "end": 158,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2007276814910239135/photo/1",
+              "media_key": "3_2007276810422059008",
+              "start": 135,
+              "url": "https://t.co/A5Sik3QrUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007276814910239135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经济学人：品行可疑的人更可能进入公共部门\n进入公共部门的人，其抄袭评分比平均水平高出15.6%。其中，海关和税务官员的情况最为严重，其抄袭评分分别比私营部门的同行高出25%和26%。在公务员体系内部，那些“作弊者”在职业生涯前五年中的晋升速度，比更为诚实的同事快9%。 https://t.co/A5Sik3QrUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1333,
+          "like_count": 8223,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 5181
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

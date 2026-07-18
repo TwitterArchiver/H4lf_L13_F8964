@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1965304150058742145",
+    "created_at": "2025-09-10T19:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T20:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965865504796774534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        },
+        {
+          "end": 29,
+          "id": "1492455622633086980",
+          "start": 14,
+          "username": "GeorgianaAurum"
+        },
+        {
+          "end": 41,
+          "id": "1757616332240224256",
+          "start": 30,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965865504796774534",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965402938203128106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 @GeorgianaAurum @B_cat38324 笑拥了。\n但是转念一想我每次在家都能发现家里人和我混着穿内裤，把我内裤穿走了就好恶心🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1965304150058742145",
+        "created_at": "2025-09-10T19:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T20:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965865504796774534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            },
+            {
+              "end": 29,
+              "id": "1492455622633086980",
+              "start": 14,
+              "username": "GeorgianaAurum"
+            },
+            {
+              "end": 41,
+              "id": "1757616332240224256",
+              "start": 30,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965865504796774534",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965402938203128106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 @GeorgianaAurum @B_cat38324 笑拥了。\n但是转念一想我每次在家都能发现家里人和我混着穿内裤，把我内裤穿走了就好恶心🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "1965304150058742145",
+        "created_at": "2025-09-09T13:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965402938203128106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492455622633086980",
+              "start": 0,
+              "username": "GeorgianaAurum"
+            },
+            {
+              "end": 27,
+              "id": "1757616332240224256",
+              "start": 16,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965402938203128106",
+        "in_reply_to_user_id": "1492455622633086980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965401294124056632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeorgianaAurum @B_cat38324 我高中我妈给我买儿童内裤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1200,
+          "like_count": 7027,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 4614
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️（戒酒已0天）",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1083,
+          "like_count": 11457,
+          "listed_count": 1,
+          "media_count": 899,
+          "tweet_count": 5321
+        },
+        "username": "Martim036145",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "She｜Her｜INFP-T｜30⬆️還很孩子氣的中年少女｜個性是珍珠烏龍🧋｜作息爆炸｜生活｜日記｜碎碎唸｜網路怪人｜謝謝大家｜主推：🧪🥁🍬🤥▲🐺｜主視覺：clibo-你要不要吃哈密呱｜頭像：@gua910625｜🔞偶爾會有NSFW發言和圖文🔞｜這裡是個普通動漫電玩宅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "gua910625"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/imGeorgiana",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/imGeorgiana",
+                "start": 0,
+                "url": "https://t.co/tjVyqE57UX"
+              }
+            ]
+          }
+        },
+        "id": "1492455622633086980",
+        "location": "About Myself➡️",
+        "name": "✨喬治亞娜🔮怪人系個人不勢Vtuber",
+        "pinned_tweet_id": "1926715495887048970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960411097904922624/8Ww7DYyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 409,
+          "like_count": 18608,
+          "listed_count": 3,
+          "media_count": 684,
+          "tweet_count": 24250
+        },
+        "url": "https://t.co/tjVyqE57UX",
+        "username": "GeorgianaAurum",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19919,
+          "following_count": 194,
+          "like_count": 615,
+          "listed_count": 69,
+          "media_count": 90,
+          "tweet_count": 19537
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980762704299094016"
+      ],
+      "media_source_tweet_id": [
+        "1980763423131725953"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265664739276763136",
+          "name": "Beach life"
+        }
+      }
+    ],
+    "conversation_id": "1980953915530395821",
+    "created_at": "2025-10-22T11:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980953915530395821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "831644521",
+          "start": 3,
+          "username": "Sapphira_Nyx"
+        },
+        {
+          "end": 43,
+          "id": "1583503516017958914",
+          "start": 33,
+          "username": "_IvaraXIV"
+        },
+        {
+          "end": 63,
+          "id": "1202770323482955776",
+          "start": 50,
+          "username": "MidnightOven"
+        },
+        {
+          "end": 89,
+          "id": "3673466010",
+          "start": 73,
+          "username": "_seventeencrows"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0X9YteaDP",
+          "end": 113,
+          "expanded_url": "https://x.com/Sapphira_Nyx/status/1980763423131725953/photo/1",
+          "media_key": "3_1980762704299094016",
+          "start": 90,
+          "url": "https://t.co/c0X9YteaDP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980953915530395821",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980763423131725953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sapphira_Nyx: Beach Babes💦\nw/@_IvaraXIV &amp; @MidnightOven \n\nArt by @_seventeencrows https://t.co/c0X9YteaDP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980953915530395821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980953915530395821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980953915530395821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_1980762704299094016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30VL14W8AAYFJv.jpg",
+        "width": 3976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980762704299094016"
+          ]
+        },
+        "author_id": "831644521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1980763423131725953",
+        "created_at": "2025-10-21T22:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T23:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980763423131725953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1583503516017958914",
+              "start": 15,
+              "username": "_IvaraXIV"
+            },
+            {
+              "end": 45,
+              "id": "1202770323482955776",
+              "start": 32,
+              "username": "MidnightOven"
+            },
+            {
+              "end": 71,
+              "id": "3673466010",
+              "start": 55,
+              "username": "_seventeencrows"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0X9YteaDP",
+              "end": 95,
+              "expanded_url": "https://x.com/Sapphira_Nyx/status/1980763423131725953/photo/1",
+              "media_key": "3_1980762704299094016",
+              "start": 72,
+              "url": "https://t.co/c0X9YteaDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980763423131725953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 8426,
+          "like_count": 901,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "Beach Babes💦\nw/@_IvaraXIV &amp; @MidnightOven \n\nArt by @_seventeencrows https://t.co/c0X9YteaDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1270,
+          "like_count": 7493,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 4861
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-18T18:40:01.000Z",
+        "description": "FF14 player from only Sargatanas server | Art Commissioner\n🔞Content 🎨 Highlights tab for Art\nDo not use my character/commissioned art\nI don't RP",
+        "id": "831644521",
+        "location": "United States",
+        "name": "Sapphira Nyx",
+        "pinned_tweet_id": "1977048852374208854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930885777275101184/ejal_9Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32966,
+          "following_count": 3966,
+          "like_count": 61587,
+          "listed_count": 127,
+          "media_count": 3347,
+          "tweet_count": 10692
+        },
+        "username": "Sapphira_Nyx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-21T17:00:53.000Z",
+        "description": "Very NSFW🔞\nI make lewds of my Tomboy Highlander\nDon't mind the red cat\nNo ERP🛑\nI also do commissions: https://t.co/U5tncQOQiU\nbanner by @MdTurbine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "MdTurbine"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ivara-comms.carrd.co",
+                "end": 125,
+                "expanded_url": "http://ivara-comms.carrd.co",
+                "start": 102,
+                "url": "https://t.co/U5tncQOQiU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/ivy72",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/ivy72",
+                "start": 0,
+                "url": "https://t.co/bHaBuJJB6L"
+              }
+            ]
+          }
+        },
+        "id": "1583503516017958914",
+        "name": "Ivara (Comms Closed)",
+        "pinned_tweet_id": "1841123337889779870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936734686388088833/HN8gBzFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6419,
+          "following_count": 637,
+          "like_count": 17836,
+          "listed_count": 38,
+          "media_count": 319,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/bHaBuJJB6L",
+        "username": "_IvaraXIV",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T02:02:56.000Z",
+        "description": "It's me your favorite baker! Just trying to find a place where I belong. \n   \nN/SFW stuff posted.",
+        "id": "1202770323482955776",
+        "name": "Baeker Bun",
+        "pinned_tweet_id": "1478931640072097802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980765897829523456/_Bumi1qh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12946,
+          "following_count": 1011,
+          "like_count": 13646,
+          "listed_count": 28,
+          "media_count": 3903,
+          "tweet_count": 13155
+        },
+        "username": "MidnightOven",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-24T19:30:25.000Z",
+        "description": "art experimentalist\n\ndm for commission inquiries/request\npixiv: https://t.co/UEGabEnvC5\ncommissions : https://t.co/9SqGihupaR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/seventeencrows…",
+                "end": 87,
+                "expanded_url": "http://pixiv.me/seventeencrows17",
+                "start": 64,
+                "url": "https://t.co/UEGabEnvC5"
+              },
+              {
+                "display_url": "artistree.io/seventeencrows",
+                "end": 125,
+                "expanded_url": "http://artistree.io/seventeencrows",
+                "start": 102,
+                "url": "https://t.co/9SqGihupaR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artistree.io/request/sevent…",
+                "end": 23,
+                "expanded_url": "https://artistree.io/request/seventeencrows",
+                "start": 0,
+                "url": "https://t.co/R12i22GYXZ"
+              }
+            ]
+          }
+        },
+        "id": "3673466010",
+        "location": "-",
+        "name": "seventeencrows",
+        "pinned_tweet_id": "1899074385937670579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303342512648548355/sKW4r704_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25167,
+          "following_count": 254,
+          "like_count": 5285,
+          "listed_count": 179,
+          "media_count": 323,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/R12i22GYXZ",
+        "username": "_seventeencrows",
+        "verified": true
+      }
+    ]
+  }
+}

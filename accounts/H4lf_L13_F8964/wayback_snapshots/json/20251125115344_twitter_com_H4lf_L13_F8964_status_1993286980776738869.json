@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1993286980776738869",
+    "created_at": "2025-11-25T11:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993286980776738869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620367275273633792",
+          "start": 3,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993286980776738869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993234027537682943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alina_Medverova: 民办史塔西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1993286980776738869",
+        "created_at": "2025-11-25T11:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993286980776738869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620367275273633792",
+              "start": 3,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993286980776738869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993234027537682943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alina_Medverova: 民办史塔西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1993234027537682943",
+        "created_at": "2025-11-25T08:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993234027537682943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DeRoss2778/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DeRoss2778/status/1992610833969651871",
+              "start": 6,
+              "url": "https://t.co/dPtS9Bivlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993234027537682943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1717,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992610833969651871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民办史塔西 https://t.co/dPtS9Bivlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1304,
+          "like_count": 7896,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5031
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Здравствуйте, меня зовут Kiperina",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1992181005306974594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 1581,
+          "like_count": 81835,
+          "listed_count": 7,
+          "media_count": 1097,
+          "tweet_count": 17639
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

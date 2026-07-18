@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1977646092381737388",
+    "created_at": "2025-10-13T08:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977648351148724630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "48251061",
+          "start": 0,
+          "username": "kiddckho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977648351148724630",
+    "in_reply_to_user_id": "48251061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977647126827106791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiddckho 作家是梦者，他以审美的形式替代神经症患者的妄想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1977646092381737388",
+        "created_at": "2025-10-13T08:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977648351148724630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "48251061",
+              "start": 0,
+              "username": "kiddckho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977648351148724630",
+        "in_reply_to_user_id": "48251061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977647126827106791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiddckho 作家是梦者，他以审美的形式替代神经症患者的妄想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "48251061",
+        "conversation_id": "1977646092381737388",
+        "created_at": "2025-10-13T08:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977647126827106791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977647126827106791",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977646092381737388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 一個成功的角色是不需要想他們怎樣做，只要想一件事件，他們就會按自己的想法去行動。還要作者想怎樣做就不是一個有血有肉的角色了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1243,
+          "like_count": 7335,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4774
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-18T04:55:43.000Z",
+        "description": "貧窮但又多野想敗既阿宅大叔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kiddotakutrav…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kiddotakutravelblog?si=g5oNjR6RLjl4GHFN",
+                "start": 0,
+                "url": "https://t.co/FwP8ffHJoU"
+              }
+            ]
+          }
+        },
+        "id": "48251061",
+        "name": "傑特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848577581400133636/YtRlvH0J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1116,
+          "like_count": 56965,
+          "listed_count": 35,
+          "media_count": 1467,
+          "tweet_count": 60371
+        },
+        "url": "https://t.co/FwP8ffHJoU",
+        "username": "kiddckho",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938834626224467968"
+      ],
+      "media_source_tweet_id": [
+        "1938834629148250434"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938869240456716512",
+    "created_at": "2025-06-28T07:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T08:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938869240456716512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734996903555911682",
+          "start": 3,
+          "username": "huyeixin3690"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bx5sCiWLQC",
+          "end": 59,
+          "expanded_url": "https://x.com/huyeixin3690/status/1938834629148250434/photo/1",
+          "media_key": "3_1938834626224467968",
+          "start": 36,
+          "url": "https://t.co/Bx5sCiWLQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938869240456716512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938834629148250434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huyeixin3690: 招笑terf之亲自下场支持女厕偷拍 https://t.co/Bx5sCiWLQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1938834626224467968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gugf0fZWMAADttK.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938834626224467968"
+          ],
+          "media_source_tweet_id": [
+            "1938834629148250434"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938869240456716512",
+        "created_at": "2025-06-28T07:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938869240456716512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734996903555911682",
+              "start": 3,
+              "username": "huyeixin3690"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bx5sCiWLQC",
+              "end": 59,
+              "expanded_url": "https://x.com/huyeixin3690/status/1938834629148250434/photo/1",
+              "media_key": "3_1938834626224467968",
+              "start": 36,
+              "url": "https://t.co/Bx5sCiWLQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938869240456716512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938834629148250434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huyeixin3690: 招笑terf之亲自下场支持女厕偷拍 https://t.co/Bx5sCiWLQC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938834626224467968"
+          ]
+        },
+        "author_id": "1734996903555911682",
+        "conversation_id": "1938834629148250434",
+        "created_at": "2025-06-28T05:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938834629148250434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bx5sCiWLQC",
+              "end": 41,
+              "expanded_url": "https://x.com/huyeixin3690/status/1938834629148250434/photo/1",
+              "media_key": "3_1938834626224467968",
+              "start": 18,
+              "url": "https://t.co/Bx5sCiWLQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938834629148250434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 555,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "招笑terf之亲自下场支持女厕偷拍 https://t.co/Bx5sCiWLQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1092,
+          "like_count": 6039,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4150
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T18:01:25.000Z",
+        "description": "🏳️‍🌈  爱顺TV / 支持独立两个地球，三个太阳系，四个平行宇宙 /\nPS此账号是情绪输出账号，你想要什么理中客原创心情文字精英主义观点啥的，抱歉我没有，我的立场就是地球人无药可救",
+        "id": "1734996903555911682",
+        "location": "十八层地狱",
+        "name": "★胡叶新don't kill my vibe★",
+        "pinned_tweet_id": "1937792190677471299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930377783982829568/9l-uglxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 56,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1236
+        },
+        "username": "huyeixin3690",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998499273915379712"
+      ],
+      "media_source_tweet_id": [
+        "1998499280588534131"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2054819361030893970",
+    "created_at": "2026-05-14T07:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054819361030893970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1219242315102871554",
+          "start": 3,
+          "username": "geist43195783"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/93IlZJKsW5",
+          "end": 42,
+          "expanded_url": "https://x.com/geist43195783/status/1998499280588534131/photo/1",
+          "media_key": "3_1998499273915379712",
+          "start": 19,
+          "url": "https://t.co/93IlZJKsW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054819361030893970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1796
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998499280588534131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geist43195783: https://t.co/93IlZJKsW5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054819361030893970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054819361030893970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054819361030893970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1998499273915379712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7wYgEmaMAAT6y2.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998499273915379712"
+          ]
+        },
+        "author_id": "1219242315102871554",
+        "conversation_id": "1998499280588534131",
+        "created_at": "2025-12-09T21:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T22:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998499280588534131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93IlZJKsW5",
+              "end": 23,
+              "expanded_url": "https://x.com/geist43195783/status/1998499280588534131/photo/1",
+              "media_key": "3_1998499273915379712",
+              "start": 0,
+              "url": "https://t.co/93IlZJKsW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998499280588534131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206082,
+          "like_count": 14537,
+          "quote_count": 17,
+          "reply_count": 28,
+          "retweet_count": 1796
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/93IlZJKsW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1450,
+          "like_count": 8897,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 5641
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T12:58:05.000Z",
+        "description": "Bluesky https://t.co/cCruwtBw3b\nmisskey https://t.co/ZLubkGfkIm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/geist0…",
+                "end": 31,
+                "expanded_url": "http://bsky.app/profile/geist0001.bsky.social",
+                "start": 8,
+                "url": "https://t.co/cCruwtBw3b"
+              },
+              {
+                "display_url": "misskey.io/@geist0000",
+                "end": 63,
+                "expanded_url": "http://misskey.io/@geist0000",
+                "start": 40,
+                "url": "https://t.co/ZLubkGfkIm"
+              }
+            ]
+          }
+        },
+        "id": "1219242315102871554",
+        "name": "geist",
+        "pinned_tweet_id": "1754233346421563850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008584828867014656/70s-FscP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59793,
+          "following_count": 85,
+          "like_count": 5418,
+          "listed_count": 325,
+          "media_count": 585,
+          "tweet_count": 2703
+        },
+        "username": "geist43195783",
+        "verified": false
+      }
+    ]
+  }
+}

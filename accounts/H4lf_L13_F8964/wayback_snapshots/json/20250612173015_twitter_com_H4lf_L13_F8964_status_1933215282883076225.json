@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1933215282883076225",
+    "created_at": "2025-06-12T17:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T18:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933215282883076225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933215282883076225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青少年暑假必读书目\n转发给你的孩子让他这个暑假赢在起跑线上\n1:药理学\n2:药物毒理学\n3:精神药理学\n4:成瘾神经科学\n5:天然药物化学\n6:药用化学\n7:精神病学\n8:精神科住院医师培训手册\n9:自杀行为神经科学\n10:成瘾医学精要\n11:精神科药物临床手册\n12:实用临床药物治疗学\n13:药代动力学\n14:药物分析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1933215282883076225",
+        "created_at": "2025-06-12T17:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T18:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933215282883076225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933215282883076225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青少年暑假必读书目\n转发给你的孩子让他这个暑假赢在起跑线上\n1:药理学\n2:药物毒理学\n3:精神药理学\n4:成瘾神经科学\n5:天然药物化学\n6:药用化学\n7:精神病学\n8:精神科住院医师培训手册\n9:自杀行为神经科学\n10:成瘾医学精要\n11:精神科药物临床手册\n12:实用临床药物治疗学\n13:药代动力学\n14:药物分析"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1048,
+          "like_count": 5611,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3967
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

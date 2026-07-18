@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2020262506422481218",
+    "created_at": "2026-02-07T22:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T23:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020262506422481218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4807940119",
+          "start": 3,
+          "username": "v1_758039330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020262506422481218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020185220142789097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @v1_758039330: 去年已经明显感觉从未明子的视频、俱乐部线上宣传，包括线下的人际关系容易发展到过于黏腻甚至互相监视中看到如果女成员一直待在俱乐部，之后会越来越被架在那里。去年他们的叙事彻底开始走向俱乐部里的人只能和俱乐部里的人谈，那之后可想而知，注定要求女性必…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2020185216585986050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkjwEcacAInD3c.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1211,
+        "media_key": "3_2020185216971948032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkjwF4bwAA0CqB.jpg",
+        "width": 913
+      },
+      {
+        "height": 1377,
+        "media_key": "3_2020185217441660928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkjwHobAAACQiH.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2020262506422481218",
+        "created_at": "2026-02-07T22:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020262506422481218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4807940119",
+              "start": 3,
+              "username": "v1_758039330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020262506422481218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020185220142789097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @v1_758039330: 去年已经明显感觉从未明子的视频、俱乐部线上宣传，包括线下的人际关系容易发展到过于黏腻甚至互相监视中看到如果女成员一直待在俱乐部，之后会越来越被架在那里。去年他们的叙事彻底开始走向俱乐部里的人只能和俱乐部里的人谈，那之后可想而知，注定要求女性必…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020185216585986050",
+            "3_2020185216971948032",
+            "3_2020185217441660928"
+          ]
+        },
+        "author_id": "4807940119",
+        "conversation_id": "2020185220142789097",
+        "created_at": "2026-02-07T17:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020185220142789097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra1T9ua8yX",
+              "end": 163,
+              "expanded_url": "https://x.com/v1_758039330/status/2020185220142789097/photo/1",
+              "media_key": "3_2020185216585986050",
+              "start": 140,
+              "url": "https://t.co/Ra1T9ua8yX"
+            },
+            {
+              "display_url": "pic.x.com/Ra1T9ua8yX",
+              "end": 163,
+              "expanded_url": "https://x.com/v1_758039330/status/2020185220142789097/photo/1",
+              "media_key": "3_2020185216971948032",
+              "start": 140,
+              "url": "https://t.co/Ra1T9ua8yX"
+            },
+            {
+              "display_url": "pic.x.com/Ra1T9ua8yX",
+              "end": 163,
+              "expanded_url": "https://x.com/v1_758039330/status/2020185220142789097/photo/1",
+              "media_key": "3_2020185217441660928",
+              "start": 140,
+              "url": "https://t.co/Ra1T9ua8yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020185220142789097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年已经明显感觉从未明子的视频、俱乐部线上宣传，包括线下的人际关系容易发展到过于黏腻甚至互相监视中看到如果女成员一直待在俱乐部，之后会越来越被架在那里。去年他们的叙事彻底开始走向俱乐部里的人只能和俱乐部里的人谈，那之后可想而知，注定要求女性必须在俱乐部里和俱乐部里的男成员＂实现 https://t.co/Ra1T9ua8yX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1370,
+          "like_count": 8452,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 5324
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-24T14:11:55.000Z",
+        "description": "",
+        "id": "4807940119",
+        "location": "People's Republic of China",
+        "name": "脑肛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019598105981960192/5YYI8nRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 12
+        },
+        "username": "v1_758039330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2019337070934655475",
+    "created_at": "2026-02-05T09:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019337070934655475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019337070934655475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018966857626374493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 另提一句昨日组员潜入该校进行实时现场记录时，遭到当地警察阻拦，并被暴力抢夺手机、强行查看隐私，\n \n在这一过程中组员亲眼证实该校所谓“空校”“已整改”完全是假象一百多名学员被集体藏匿在一间狭小的屋子里\n像猪狗一样挤在一起专门用来应付上级…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018966830430502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATPoqUbQAAipZq.jpg",
+        "width": 448
+      },
+      {
+        "duration_ms": 4607,
+        "height": 960,
+        "media_key": "7_2018966835442679808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018966835442679808/pu/img/FQNgxJO_0oebAucK.jpg",
+        "public_metrics": {
+          "view_count": 9074
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966835442679808/pu/vid/avc1/320x568/Ve89KWiyl40IGURf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966835442679808/pu/vid/avc1/480x852/2hAyAx4-DkSZbEgO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966835442679808/pu/vid/avc1/540x960/PfqIF-wOwez1MEBT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018966835442679808/pu/pl/oc4JrXLDPQNIPVv_.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2019337070934655475",
+        "created_at": "2026-02-05T09:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019337070934655475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019337070934655475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018966857626374493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 另提一句昨日组员潜入该校进行实时现场记录时，遭到当地警察阻拦，并被暴力抢夺手机、强行查看隐私，\n \n在这一过程中组员亲眼证实该校所谓“空校”“已整改”完全是假象一百多名学员被集体藏匿在一间狭小的屋子里\n像猪狗一样挤在一起专门用来应付上级…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018966830430502912",
+            "7_2018966835442679808"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018966857626374493",
+        "created_at": "2026-02-04T08:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018966857626374493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaU4ewOZhI",
+              "end": 152,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966857626374493/video/1",
+              "media_key": "3_2018966830430502912",
+              "start": 129,
+              "url": "https://t.co/EaU4ewOZhI"
+            },
+            {
+              "display_url": "pic.x.com/EaU4ewOZhI",
+              "end": 152,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966857626374493/video/1",
+              "media_key": "7_2018966835442679808",
+              "start": 129,
+              "url": "https://t.co/EaU4ewOZhI"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018964142041039324",
+              "start": 153,
+              "url": "https://t.co/lmX5MgoeUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018966857626374493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 33753,
+          "like_count": 312,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018964142041039324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另提一句昨日组员潜入该校进行实时现场记录时，遭到当地警察阻拦，并被暴力抢夺手机、强行查看隐私，\n \n在这一过程中组员亲眼证实该校所谓“空校”“已整改”完全是假象一百多名学员被集体藏匿在一间狭小的屋子里\n像猪狗一样挤在一起专门用来应付上级检查可惜该数据被删除 https://t.co/EaU4ewOZhI https://t.co/lmX5MgoeUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1365,
+          "like_count": 8430,
+          "listed_count": 2,
+          "media_count": 563,
+          "tweet_count": 5302
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 1730,
+          "like_count": 1451,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 2036
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

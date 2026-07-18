@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2020643977289228576",
+    "created_at": "2026-02-08T23:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T00:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020643977289228576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "888172653881638912",
+          "start": 3,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020643977289228576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020401169852670251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yovartija_nattv: 我曾经提到过中国的跨性别改证这一行为本身只是个“技术性”的操作：身份证号可以在一瞬间完成更换并生效，所以理论上肯定存在一些绕开司法鉴定直接通过打通派出所关系来完成改证的操作。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2020643977289228576",
+        "created_at": "2026-02-08T23:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T00:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020643977289228576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "888172653881638912",
+              "start": 3,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020643977289228576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020401169852670251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yovartija_nattv: 我曾经提到过中国的跨性别改证这一行为本身只是个“技术性”的操作：身份证号可以在一瞬间完成更换并生效，所以理论上肯定存在一些绕开司法鉴定直接通过打通派出所关系来完成改证的操作。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888172653881638912",
+        "conversation_id": "2020401169852670251",
+        "created_at": "2026-02-08T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020401169852670251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020401169852670251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我曾经提到过中国的跨性别改证这一行为本身只是个“技术性”的操作：身份证号可以在一瞬间完成更换并生效，所以理论上肯定存在一些绕开司法鉴定直接通过打通派出所关系来完成改证的操作。\n\n这么一来，真正的难点在于新身份的扩散广播，以老生常谈的学历问题为例，学信网一共会收集两次信息，第一次是入学的时候，第二次是毕业之前，毕业之前收集的信息很明显是更加重要一些的，因为它伴随了学位证毕业证这些信息，而一旦超过这个时间节点再改证，已经录入的信息就会成为麻烦的难以修改的历史文件。\n\n除了学信网之外，人事档案在这里起到的作用也值得考虑，在学校的时候档案也同样保管在学校，理论上学校是可以同步完成对档案的更改的，但是一旦档案被迁出学校回到户籍所在地的档案管理部门，新身份能否同步到档案中就也成了一个问题。（这一点有待更多信息）\n\n但是身份证号还有另外的功能就是个人税号，如果说上面这些国家机器相关领域的信息还能做到在修改前后保持相对的一致，那么金融机构那里的情况则更加晦暗不明：一个新的税号到底能否和先前的税号构成继承关系是完全不知道的，诸多案例表明改证之后以先前的身份KYC过的支付金融等服务仍然可以正常运行，并且可以和新税号所使用的支付金融等服务同时存在，这样一来的话，我倾向于认为在支付金融等服务那里，新的税号等于新的税务身份，以前的信用记录全部清零，需要重新开始积累，风控也会更加严格。\n\n所以这就是为什么渣打银行把我的户口关了😭😭😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 15113,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经提到过中国的跨性别改证这一行为本身只是个“技术性”的操作：身份证号可以在一瞬间完成更换并生效，所以理论上肯定存在一些绕开司法鉴定直接通过打通派出所关系来完成改证的操作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1372,
+          "like_count": 8481,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 5336
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10251,
+          "following_count": 811,
+          "like_count": 44113,
+          "listed_count": 43,
+          "media_count": 1394,
+          "tweet_count": 5405
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

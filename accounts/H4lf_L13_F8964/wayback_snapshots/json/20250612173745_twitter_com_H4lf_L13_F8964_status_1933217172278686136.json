@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      }
+    ],
+    "conversation_id": "1933217172278686136",
+    "created_at": "2025-06-12T17:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T18:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933217172278686136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "8.NOW",
+          "end": 104,
+          "expanded_url": "http://8.NOW",
+          "start": 81,
+          "unwound_url": "http://8.NOW",
+          "url": "https://t.co/ej5aJPXwHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933217172278686136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青少年暑假必读书目\n转发给你的孩子让他这个暑假赢在起跑线上\n1.梦的解析\n2.导读拉康\n3. Écrits\n4.千高原\n5.反俄狄浦斯\n6.内战导论\n7.致朋友\nhttps://t.co/ej5aJPXwHm\n9.纯粹理性批判\n10.精神现象学\n11.法哲学原理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          }
+        ],
+        "conversation_id": "1933217172278686136",
+        "created_at": "2025-06-12T17:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T18:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933217172278686136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "8.NOW",
+              "end": 104,
+              "expanded_url": "http://8.NOW",
+              "start": 81,
+              "unwound_url": "http://8.NOW",
+              "url": "https://t.co/ej5aJPXwHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933217172278686136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青少年暑假必读书目\n转发给你的孩子让他这个暑假赢在起跑线上\n1.梦的解析\n2.导读拉康\n3. Écrits\n4.千高原\n5.反俄狄浦斯\n6.内战导论\n7.致朋友\nhttps://t.co/ej5aJPXwHm\n9.纯粹理性批判\n10.精神现象学\n11.法哲学原理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1048,
+          "like_count": 5611,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3968
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

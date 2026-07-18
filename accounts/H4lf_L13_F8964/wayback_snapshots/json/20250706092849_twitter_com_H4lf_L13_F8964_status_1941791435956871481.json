@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1941791435956871481",
+    "created_at": "2025-07-06T09:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941791435956871481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401733664682102786",
+          "start": 3,
+          "username": "mukdengise"
+        },
+        {
+          "end": 28,
+          "id": "1862018067691413504",
+          "start": 16,
+          "username": "baka8964qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941791435956871481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941685389196185949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mukdengise: @baka8964qwq 把“女”作为特定标出项真羞耻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1941791435956871481",
+        "created_at": "2025-07-06T09:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941791435956871481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401733664682102786",
+              "start": 3,
+              "username": "mukdengise"
+            },
+            {
+              "end": 28,
+              "id": "1862018067691413504",
+              "start": 16,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941791435956871481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941685389196185949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mukdengise: @baka8964qwq 把“女”作为特定标出项真羞耻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1941431976009007235",
+        "created_at": "2025-07-06T02:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T03:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941685389196185949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862018067691413504",
+              "start": 0,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941685389196185949",
+        "in_reply_to_user_id": "1862018067691413504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941431976009007235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baka8964qwq 把“女”作为特定标出项真羞耻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6215,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 4221
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/满洲语bot：@manju_gisun/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453,
+          "following_count": 737,
+          "like_count": 133626,
+          "listed_count": 48,
+          "media_count": 1575,
+          "tweet_count": 20262
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T06:18:03.000Z",
+        "description": "00後男生【左翼三民主義🇹🇼】【進步主義/社會民主主義🌹】【社會自由主義🗽】【對🏳️‍🌈🏳️‍⚧️友好】【自由泛亞主義🇰🇷🇹🇼🇯🇵】【中立主義⚖️（偏自由派）】【和平主義🌍🌏🌎🇺🇦❤️🇵🇸🤝🇮🇱】【繁體/簡體/English/日本語】 日常號及逃生艙：@Milkqwq666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "Milkqwq666"
+              }
+            ]
+          }
+        },
+        "id": "1862018067691413504",
+        "location": "Australia",
+        "name": "baka（互fo）🇹🇼🇯🇵🇦🇺🇺🇦🌹🚩",
+        "pinned_tweet_id": "1937123300263801058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926493715050213376/BEWaspK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1160,
+          "like_count": 4923,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1500
+        },
+        "username": "baka8964qwq",
+        "verified": false
+      }
+    ]
+  }
+}

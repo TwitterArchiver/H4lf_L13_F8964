@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1994994822592249965",
+    "created_at": "2025-11-30T05:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994994822592249965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wengenguyi4/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/wengenguyi4/status/1994677836737908926",
+          "start": 15,
+          "url": "https://t.co/NSVKDND7v1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994994822592249965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994677836737908926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们甚至都不会去拍真正的工人 https://t.co/NSVKDND7v1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994677827682324480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66E6oBaUAAnfix.jpg",
+        "width": 922
+      },
+      {
+        "height": 1447,
+        "media_key": "3_1994677827715899392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66E6oJaoAA_HVu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1994994822592249965",
+        "created_at": "2025-11-30T05:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994994822592249965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wengenguyi4/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wengenguyi4/status/1994677836737908926",
+              "start": 15,
+              "url": "https://t.co/NSVKDND7v1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994994822592249965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994677836737908926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们甚至都不会去拍真正的工人 https://t.co/NSVKDND7v1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994677827682324480",
+            "3_1994677827715899392"
+          ]
+        },
+        "author_id": "1811398941969367040",
+        "conversation_id": "1994677836737908926",
+        "created_at": "2025-11-29T08:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994677836737908926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLELWtAvZi",
+              "end": 33,
+              "expanded_url": "https://x.com/wengenguyi4/status/1994677836737908926/photo/1",
+              "media_key": "3_1994677827682324480",
+              "start": 10,
+              "url": "https://t.co/hLELWtAvZi"
+            },
+            {
+              "display_url": "pic.x.com/hLELWtAvZi",
+              "end": 33,
+              "expanded_url": "https://x.com/wengenguyi4/status/1994677836737908926/photo/1",
+              "media_key": "3_1994677827715899392",
+              "start": 10,
+              "url": "https://t.co/hLELWtAvZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994677836737908926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 424773,
+          "like_count": 1545,
+          "quote_count": 21,
+          "reply_count": 127,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "这该死的阶级割裂感 https://t.co/hLELWtAvZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1308,
+          "like_count": 7937,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5049
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T13:55:43.000Z",
+        "description": "马应龙，我操你妈！",
+        "id": "1811398941969367040",
+        "name": "文亘古遗🐒四代目（马应龙猎妈版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984949945951252480/kkqw3kBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30572,
+          "following_count": 813,
+          "like_count": 27639,
+          "listed_count": 85,
+          "media_count": 1262,
+          "tweet_count": 7220
+        },
+        "username": "wengenguyi4",
+        "verified": false
+      }
+    ]
+  }
+}

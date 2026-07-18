@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2022175910888370288",
+    "created_at": "2026-02-13T05:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022175910888370288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022175910888370288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022145746859176319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 我真的觉得诸位要在战略上彻底放弃「只要我足够乖警察叔叔就会帮我们的」的幻想，看看跨儿说上次投诚的下场就知道了。警察一定服务于顺直社会主导力量。没了当地条子帮忙，各种扭转学校和劳保家长也是根本不可能苟活到现在。你不一定非要像冰棍一样给条子免费s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2022175910888370288",
+        "created_at": "2026-02-13T05:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022175910888370288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022175910888370288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022145746859176319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 我真的觉得诸位要在战略上彻底放弃「只要我足够乖警察叔叔就会帮我们的」的幻想，看看跨儿说上次投诚的下场就知道了。警察一定服务于顺直社会主导力量。没了当地条子帮忙，各种扭转学校和劳保家长也是根本不可能苟活到现在。你不一定非要像冰棍一样给条子免费s…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2022145746859176319",
+        "created_at": "2026-02-13T03:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022145746859176319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/bghtnya/status/2021246252290027728",
+              "start": 136,
+              "url": "https://t.co/riHu4CFlRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022145746859176319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 530,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021246252290027728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的觉得诸位要在战略上彻底放弃「只要我足够乖警察叔叔就会帮我们的」的幻想，看看跨儿说上次投诚的下场就知道了。警察一定服务于顺直社会主导力量。没了当地条子帮忙，各种扭转学校和劳保家长也是根本不可能苟活到现在。你不一定非要像冰棍一样给条子免费srs，但至少不要主动帮助对方 https://t.co/riHu4CFlRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1380,
+          "like_count": 8552,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5360
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭",
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20282,
+          "following_count": 2567,
+          "like_count": 36043,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 18824
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

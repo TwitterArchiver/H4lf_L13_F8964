@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988136337661452288"
+      ],
+      "media_source_tweet_id": [
+        "1988136340450615396"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1988317199636066749",
+    "created_at": "2025-11-11T18:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T19:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988317199636066749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/euJakDfzMA",
+          "end": 51,
+          "expanded_url": "https://x.com/qqqqqf5/status/1988136340450615396/photo/1",
+          "media_key": "3_1988136337661452288",
+          "start": 28,
+          "url": "https://t.co/euJakDfzMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988317199636066749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988136340450615396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 抑郁症送叛逆学校，死的快👍🏻 https://t.co/euJakDfzMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988136337661452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dHdytbYAAUB-f.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988136337661452288"
+          ],
+          "media_source_tweet_id": [
+            "1988136340450615396"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1988317199636066749",
+        "created_at": "2025-11-11T18:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988317199636066749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euJakDfzMA",
+              "end": 51,
+              "expanded_url": "https://x.com/qqqqqf5/status/1988136340450615396/photo/1",
+              "media_key": "3_1988136337661452288",
+              "start": 28,
+              "url": "https://t.co/euJakDfzMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988317199636066749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988136340450615396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 抑郁症送叛逆学校，死的快👍🏻 https://t.co/euJakDfzMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988136337661452288"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "1988136340450615396",
+        "created_at": "2025-11-11T06:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988136340450615396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euJakDfzMA",
+              "end": 38,
+              "expanded_url": "https://x.com/qqqqqf5/status/1988136340450615396/photo/1",
+              "media_key": "3_1988136337661452288",
+              "start": 15,
+              "url": "https://t.co/euJakDfzMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988136340450615396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26165,
+          "like_count": 222,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症送叛逆学校，死的快👍🏻 https://t.co/euJakDfzMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1280,
+          "like_count": 7641,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 4942
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "15岁MTF\n拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1984726981779603959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3896,
+          "following_count": 1941,
+          "like_count": 7522,
+          "listed_count": 9,
+          "media_count": 896,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

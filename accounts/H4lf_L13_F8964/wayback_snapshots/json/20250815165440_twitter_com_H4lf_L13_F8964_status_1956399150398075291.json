@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1956399150398075291",
+    "created_at": "2025-08-15T16:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T17:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956399150398075291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956399150398075291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956058368340287788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 是上个世纪一些白人跨女为了把自己和那些卖屁股的人妖区分开 能找到工作成为独立大女主 和警察医生一起琢磨出来的叙事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1956399150398075291",
+        "created_at": "2025-08-15T16:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T17:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956399150398075291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956399150398075291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956058368340287788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 是上个世纪一些白人跨女为了把自己和那些卖屁股的人妖区分开 能找到工作成为独立大女主 和警察医生一起琢磨出来的叙事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1956058368340287788",
+        "created_at": "2025-08-14T18:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956058368340287788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HacchiTheMaid/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/HacchiTheMaid/status/1955848287723868452",
+              "start": 57,
+              "url": "https://t.co/lkL4tke1GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956058368340287788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5532,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955848287723868452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是上个世纪一些白人跨女为了把自己和那些卖屁股的人妖区分开 能找到工作成为独立大女主 和警察医生一起琢磨出来的叙事 https://t.co/lkL4tke1GR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1173,
+          "like_count": 6665,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 4484
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / mtf / intp / ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🚪¥128 / 256",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947181057348165686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16209,
+          "following_count": 2286,
+          "like_count": 33129,
+          "listed_count": 51,
+          "media_count": 565,
+          "tweet_count": 15888
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

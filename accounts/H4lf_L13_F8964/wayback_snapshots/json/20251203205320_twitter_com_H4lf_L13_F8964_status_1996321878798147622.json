@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996321878798147622",
+    "created_at": "2025-12-03T20:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T21:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996321878798147622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757856240862900224",
+          "start": 3,
+          "username": "HulgaHulia40099"
+        },
+        {
+          "end": 30,
+          "id": "1459453832",
+          "start": 21,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996321878798147622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996157198087663942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HulgaHulia40099: @sauricat 这个都不算是中国娱乐性药物滥用非罪化的进步，这是我匪在“停止迫害药物滥用者”这一层面迈出的一小步。\n\n最让人感到无力和痛苦的不是我匪改革意愿极低、进展极慢，而是中国底层人对这些改革的反应，齐刷刷的负反馈。\n\n粉红们甚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996321878798147622",
+        "created_at": "2025-12-03T20:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996321878798147622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757856240862900224",
+              "start": 3,
+              "username": "HulgaHulia40099"
+            },
+            {
+              "end": 30,
+              "id": "1459453832",
+              "start": 21,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996321878798147622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996157198087663942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HulgaHulia40099: @sauricat 这个都不算是中国娱乐性药物滥用非罪化的进步，这是我匪在“停止迫害药物滥用者”这一层面迈出的一小步。\n\n最让人感到无力和痛苦的不是我匪改革意愿极低、进展极慢，而是中国底层人对这些改革的反应，齐刷刷的负反馈。\n\n粉红们甚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757856240862900224",
+        "conversation_id": "1996083900725301570",
+        "created_at": "2025-12-03T09:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996157198087663942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996157198087663942",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996083900725301570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 这个都不算是中国娱乐性药物滥用非罪化的进步，这是我匪在“停止迫害药物滥用者”这一层面迈出的一小步。\n\n最让人感到无力和痛苦的不是我匪改革意愿极低、进展极慢，而是中国底层人对这些改革的反应，齐刷刷的负反馈。\n\n粉红们甚至不惜跟它亲妈唱反调🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1313,
+          "like_count": 7979,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5066
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T19:56:16.000Z",
+        "description": "不用费力气查成分，直接告诉你我就是来看黄＆键政的。正在寻找漂亮男娘。\n\n如果你觉得发色图玩淫趴磕rush就被判刑几年甚至十年是合理的，那你我之间无话可说。",
+        "id": "1757856240862900224",
+        "location": "君士坦丁堡",
+        "name": "不想取名字",
+        "pinned_tweet_id": "1772952790303662446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995946821206556672/4zIVhnh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 547,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 2123
+        },
+        "username": "HulgaHulia40099",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11152,
+          "following_count": 942,
+          "like_count": 34310,
+          "listed_count": 36,
+          "media_count": 604,
+          "tweet_count": 11820
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

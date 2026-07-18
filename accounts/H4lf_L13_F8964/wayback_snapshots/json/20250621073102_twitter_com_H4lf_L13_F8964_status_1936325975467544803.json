@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936296360346587136",
+        "3_1936296360438849536"
+      ],
+      "media_source_tweet_id": [
+        "1936296371667239361",
+        "1936296371667239361"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1936325975467544803",
+    "created_at": "2025-06-21T07:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T08:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936325975467544803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554424317483655175",
+          "start": 3,
+          "username": "yuu00401"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmVu2DV6cK",
+          "end": 51,
+          "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+          "media_key": "3_1936296360346587136",
+          "start": 28,
+          "url": "https://t.co/PmVu2DV6cK"
+        },
+        {
+          "display_url": "pic.x.com/PmVu2DV6cK",
+          "end": 51,
+          "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+          "media_key": "3_1936296360438849536",
+          "start": 28,
+          "url": "https://t.co/PmVu2DV6cK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936325975467544803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936296371667239361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu00401: 采茶女:我来看了，然后呢？ https://t.co/PmVu2DV6cK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1936296360346587136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8bR-JXEAAEXeE.jpg",
+        "width": 838
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1936296360438849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8bR-fW4AAWkWf.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936296360346587136",
+            "3_1936296360438849536"
+          ],
+          "media_source_tweet_id": [
+            "1936296371667239361",
+            "1936296371667239361"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936325975467544803",
+        "created_at": "2025-06-21T07:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936325975467544803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554424317483655175",
+              "start": 3,
+              "username": "yuu00401"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmVu2DV6cK",
+              "end": 51,
+              "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+              "media_key": "3_1936296360346587136",
+              "start": 28,
+              "url": "https://t.co/PmVu2DV6cK"
+            },
+            {
+              "display_url": "pic.x.com/PmVu2DV6cK",
+              "end": 51,
+              "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+              "media_key": "3_1936296360438849536",
+              "start": 28,
+              "url": "https://t.co/PmVu2DV6cK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936325975467544803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936296371667239361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu00401: 采茶女:我来看了，然后呢？ https://t.co/PmVu2DV6cK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936296360346587136",
+            "3_1936296360438849536"
+          ]
+        },
+        "author_id": "1554424317483655175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936296371667239361",
+        "created_at": "2025-06-21T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936296371667239361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmVu2DV6cK",
+              "end": 37,
+              "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+              "media_key": "3_1936296360346587136",
+              "start": 14,
+              "url": "https://t.co/PmVu2DV6cK"
+            },
+            {
+              "display_url": "pic.x.com/PmVu2DV6cK",
+              "end": 37,
+              "expanded_url": "https://x.com/yuu00401/status/1936296371667239361/photo/1",
+              "media_key": "3_1936296360438849536",
+              "start": 14,
+              "url": "https://t.co/PmVu2DV6cK"
+            },
+            {
+              "display_url": "x.com/lingshuang_lss…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/lingshuang_lss/status/1935975607764173129",
+              "start": 38,
+              "url": "https://t.co/wbS0gKrVwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936296371667239361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2829,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935975607764173129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "采茶女:我来看了，然后呢？ https://t.co/PmVu2DV6cK https://t.co/wbS0gKrVwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1073,
+          "like_count": 5817,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4045
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "碎碎念晚期",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 692,
+          "like_count": 66552,
+          "listed_count": 4,
+          "media_count": 2033,
+          "tweet_count": 30059
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930885822779400192"
+      ],
+      "media_source_tweet_id": [
+        "1930885861195087967"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1931445036887236668",
+    "created_at": "2025-06-07T20:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T21:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931445036887236668"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "冴子",
+          "probability": 0.8156,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 19,
+          "normalized_text": "リン",
+          "probability": 0.4941,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "saekogame"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1425043445349974020",
+          "start": 3,
+          "username": "saekogame"
+        },
+        {
+          "end": 47,
+          "id": "855757875418849284",
+          "start": 39,
+          "username": "koh9083"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCn3t4XUbq",
+          "end": 84,
+          "expanded_url": "https://x.com/saekogame/status/1930885861195087967/photo/1",
+          "media_key": "3_1930885822779400192",
+          "start": 61,
+          "url": "https://t.co/KCn3t4XUbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931445036887236668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930885861195087967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saekogame: 冴子とリン、かけがえのない相手\n\nart by @koh9083 \n\n#saekogame https://t.co/KCn3t4XUbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1930885822779400192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvibPCaoAA-02u.png",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930885822779400192"
+          ],
+          "media_source_tweet_id": [
+            "1930885861195087967"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1931445036887236668",
+        "created_at": "2025-06-07T20:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T21:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931445036887236668"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "冴子",
+              "probability": 0.8156,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 19,
+              "normalized_text": "リン",
+              "probability": 0.4941,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "saekogame"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1425043445349974020",
+              "start": 3,
+              "username": "saekogame"
+            },
+            {
+              "end": 47,
+              "id": "855757875418849284",
+              "start": 39,
+              "username": "koh9083"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCn3t4XUbq",
+              "end": 84,
+              "expanded_url": "https://x.com/saekogame/status/1930885861195087967/photo/1",
+              "media_key": "3_1930885822779400192",
+              "start": 61,
+              "url": "https://t.co/KCn3t4XUbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931445036887236668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930885861195087967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saekogame: 冴子とリン、かけがえのない相手\n\nart by @koh9083 \n\n#saekogame https://t.co/KCn3t4XUbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930885822779400192"
+          ]
+        },
+        "author_id": "1425043445349974020",
+        "conversation_id": "1930885861195087967",
+        "created_at": "2025-06-06T07:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930885861195087967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "冴子",
+              "probability": 0.7992,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "saekogame"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "855757875418849284",
+              "start": 24,
+              "username": "koh9083"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCn3t4XUbq",
+              "end": 69,
+              "expanded_url": "https://x.com/saekogame/status/1930885861195087967/photo/1",
+              "media_key": "3_1930885822779400192",
+              "start": 46,
+              "url": "https://t.co/KCn3t4XUbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930885861195087967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 47177,
+          "like_count": 2294,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "冴子とリン、かけがえのない相手\n\nart by @koh9083 \n\n#saekogame https://t.co/KCn3t4XUbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1035,
+          "like_count": 5494,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 3919
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T10:36:56.000Z",
+        "description": "目を覚ますと、巨大な少女があなたを見下ろしていた。\nYou opened your eyes to find a giant girl looking down at you... \n\nFULL GAME OUT NOW: https://t.co/ImacyILQzv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "saekogame.com/steam.html",
+                "end": 135,
+                "expanded_url": "https://saekogame.com/steam.html",
+                "start": 112,
+                "url": "https://t.co/ImacyILQzv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saekogame.com",
+                "end": 23,
+                "expanded_url": "https://saekogame.com",
+                "start": 0,
+                "url": "https://t.co/EuPjV2g31H"
+              }
+            ]
+          }
+        },
+        "id": "1425043445349974020",
+        "name": "SAEKO: Giantess Dating Sim | OUT NOW",
+        "pinned_tweet_id": "1928214631476252731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792825232123920385/lEXMIXUe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10636,
+          "following_count": 83,
+          "like_count": 601,
+          "listed_count": 46,
+          "media_count": 103,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/EuPjV2g31H",
+        "username": "saekogame",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-22T12:19:11.000Z",
+        "description": "Pixel artist / ENG OK / 絵を描いてます→ @saekogame\nContact : koh908372@gmail.com / or DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "saekogame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koh908372/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/koh908372/",
+                "start": 0,
+                "url": "https://t.co/WSmksIHsKp"
+              }
+            ]
+          }
+        },
+        "id": "855757875418849284",
+        "location": "エンジュシティ",
+        "name": "koh",
+        "pinned_tweet_id": "1928217655611199893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342009698115993601/45NEH0V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 319,
+          "like_count": 24741,
+          "listed_count": 82,
+          "media_count": 395,
+          "tweet_count": 13036
+        },
+        "url": "https://t.co/WSmksIHsKp",
+        "username": "koh9083",
+        "verified": false
+      }
+    ]
+  }
+}

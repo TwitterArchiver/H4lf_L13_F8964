@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990316786839887873"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990316791856574682",
+    "created_at": "2025-11-17T07:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T08:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990316791856574682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/krE32IGVl6",
+          "end": 23,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990316791856574682/photo/1",
+          "media_key": "3_1990316786839887873",
+          "start": 0,
+          "url": "https://t.co/krE32IGVl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990316791856574682",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/krE32IGVl6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1990316786839887873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58Gko4WoAEn1-c.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990316786839887873"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990316791856574682",
+        "created_at": "2025-11-17T07:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990316791856574682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krE32IGVl6",
+              "end": 23,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1990316791856574682/photo/1",
+              "media_key": "3_1990316786839887873",
+              "start": 0,
+              "url": "https://t.co/krE32IGVl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990316791856574682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/krE32IGVl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1291,
+          "like_count": 7731,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4978
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

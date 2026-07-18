@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1973299925359403353",
+    "created_at": "2025-10-03T22:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T23:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974243109580976147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923396021218066432",
+          "start": 0,
+          "username": "Sonja2094019"
+        },
+        {
+          "end": 26,
+          "id": "25466242",
+          "start": 14,
+          "username": "wangyuanzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974243109580976147",
+    "in_reply_to_user_id": "1923396021218066432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974090883458085299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sonja2094019 @wangyuanzju 无端械斗抄袭赵小六和地域嘶吼李海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1973299925359403353",
+        "created_at": "2025-10-03T22:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T23:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974243109580976147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923396021218066432",
+              "start": 0,
+              "username": "Sonja2094019"
+            },
+            {
+              "end": 26,
+              "id": "25466242",
+              "start": 14,
+              "username": "wangyuanzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974243109580976147",
+        "in_reply_to_user_id": "1923396021218066432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974090883458085299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sonja2094019 @wangyuanzju 无端械斗抄袭赵小六和地域嘶吼李海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923396021218066432",
+        "conversation_id": "1973299925359403353",
+        "created_at": "2025-10-03T12:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974090883458085299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            },
+            {
+              "end": 28,
+              "id": "25466242",
+              "start": 16,
+              "username": "wangyuanzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974090883458085299",
+        "in_reply_to_user_id": "1923396021218066432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974090008882769928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 @wangyuanzju 无端械斗抄袭赵小六和地域嘶吼李海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1231,
+          "like_count": 7204,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 4718
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T15:12:16.000Z",
+        "description": "索尼娅 散装乐队主唱/标本师/酒保/博物学家",
+        "id": "1923396021218066432",
+        "location": "你妈屄里",
+        "name": "（（（（Coня",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923396297136230400/zRlzelN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 117
+        },
+        "username": "Sonja2094019",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-20T05:25:35.000Z",
+        "description": "创始人 @remio_ai | 前网易集团副总裁/杭州研究院执行院长，孵化云音乐、严选、云课堂、数帆、易盾 | 摇滚青年🎸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "remio_ai"
+              }
+            ]
+          }
+        },
+        "id": "25466242",
+        "location": "杭州",
+        "name": "WY",
+        "pinned_tweet_id": "1896420690385133694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768935826615050240/g30-s6Ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6536,
+          "following_count": 422,
+          "like_count": 912,
+          "listed_count": 83,
+          "media_count": 154,
+          "tweet_count": 1962
+        },
+        "username": "wangyuanzju",
+        "verified": true
+      }
+    ]
+  }
+}

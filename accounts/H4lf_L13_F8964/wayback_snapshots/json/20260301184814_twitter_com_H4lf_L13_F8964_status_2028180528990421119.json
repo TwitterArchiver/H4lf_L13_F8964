@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2027976933410226485",
+    "created_at": "2026-03-01T18:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T19:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028180528990421119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        },
+        {
+          "end": 29,
+          "id": "1761080833799241728",
+          "start": 13,
+          "username": "Joy_of_Desiring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028180528990421119",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028099099183005842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 @Joy_of_Desiring 犬儒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2027976933410226485",
+        "created_at": "2026-03-01T18:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T19:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028180528990421119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            },
+            {
+              "end": 29,
+              "id": "1761080833799241728",
+              "start": 13,
+              "username": "Joy_of_Desiring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028180528990421119",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028099099183005842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 @Joy_of_Desiring 犬儒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2027976933410226485",
+        "created_at": "2026-03-01T13:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028099099183005842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761080833799241728",
+              "start": 0,
+              "username": "Joy_of_Desiring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028099099183005842",
+        "in_reply_to_user_id": "1761080833799241728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027976933410226485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joy_of_Desiring 少数对多数的攻击不是一个聪明的行为，我很少惹大多数人，打不过，会造成一边说大多数人恶心一边疑惑为什么大多数人对我们越来越鄙视的情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1421,
+          "like_count": 8638,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5454
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- He/him Femboy/boy. 🤍RT 4 RT - 男娘捏-",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2020546552725746103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21487,
+          "following_count": 3110,
+          "like_count": 7059,
+          "listed_count": 95,
+          "media_count": 1329,
+          "tweet_count": 17778
+        },
+        "username": "nande198900",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T17:29:31.000Z",
+        "description": "Tell me one thing you would never do",
+        "id": "1761080833799241728",
+        "location": "灰域",
+        "name": "🧤",
+        "pinned_tweet_id": "1980913762380152877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006159745565261824/SzqVI2eE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 1,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 278
+        },
+        "username": "Joy_of_Desiring",
+        "verified": false
+      }
+    ]
+  }
+}

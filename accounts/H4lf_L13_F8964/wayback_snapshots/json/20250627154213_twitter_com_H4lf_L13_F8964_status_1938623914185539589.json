@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938618027173609862",
+    "created_at": "2025-06-27T15:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T16:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938623914185539589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1350079460804972545",
+          "start": 0,
+          "username": "LingLuoForgetMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938623914185539589",
+    "in_reply_to_user_id": "1350079460804972545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938618027173609862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingLuoForgetMe 不行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938618027173609862",
+        "created_at": "2025-06-27T15:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938623914185539589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1350079460804972545",
+              "start": 0,
+              "username": "LingLuoForgetMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938623914185539589",
+        "in_reply_to_user_id": "1350079460804972545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938618027173609862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingLuoForgetMe 不行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350079460804972545",
+        "conversation_id": "1938618027173609862",
+        "created_at": "2025-06-27T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938618027173609862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H4lf_L13_F8964…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/H4lf_L13_F8964/status/1938299264637313360",
+              "start": 9,
+              "url": "https://t.co/B6HhxBF55g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938618027173609862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938299264637313360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "工人党阵线（即答 https://t.co/B6HhxBF55g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1087,
+          "like_count": 5997,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4125
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-15T13:57:03.000Z",
+        "description": "最乖最爱的宝宝and 工人党阵线第二位成员   @ChenMUzzz\n🚪50r具体看置顶/提供线上线下陪/广州/167cm/50kg/36肩宽（营业号 @RememberMe_LL）\n头像为《妄想症paranoia》（网易云账号@DELA_P)同人图\n⚠请勿用于商业用途，私人使用请自取\n画师微信 asx005566",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ChenMUzzz"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "RememberMe_LL"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "DELA_P"
+              }
+            ]
+          }
+        },
+        "id": "1350079460804972545",
+        "name": "泠珞🏳️‍⚧️（接🚪接线下）同类礼貌互f | 广州庇护所居住版丨柏林最初也是最后的防空塔",
+        "pinned_tweet_id": "1889597111978627389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816116653136171008/ZMSafSu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 218,
+          "like_count": 652,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2070
+        },
+        "username": "LingLuoForgetMe",
+        "verified": false
+      }
+    ]
+  }
+}

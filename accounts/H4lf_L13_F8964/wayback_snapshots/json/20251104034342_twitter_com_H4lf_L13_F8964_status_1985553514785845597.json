@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1985165031843995934",
+    "created_at": "2025-11-04T03:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985553514785845597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 23,
+          "id": "1745799972576968705",
+          "start": 10,
+          "username": "bubblepipe42"
+        },
+        {
+          "end": 39,
+          "id": "1899023817378508801",
+          "start": 24,
+          "username": "Ted_noncommute"
+        },
+        {
+          "end": 56,
+          "id": "1688439420",
+          "start": 40,
+          "username": "BlackMarieChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985553514785845597",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985437827530981783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @bubblepipe42 @Ted_noncommute @BlackMarieChina 拘束具多少钱呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1985165031843995934",
+        "created_at": "2025-11-04T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985553514785845597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 23,
+              "id": "1745799972576968705",
+              "start": 10,
+              "username": "bubblepipe42"
+            },
+            {
+              "end": 39,
+              "id": "1899023817378508801",
+              "start": 24,
+              "username": "Ted_noncommute"
+            },
+            {
+              "end": 56,
+              "id": "1688439420",
+              "start": 40,
+              "username": "BlackMarieChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985553514785845597",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985437827530981783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @bubblepipe42 @Ted_noncommute @BlackMarieChina 拘束具多少钱呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1985165031843995934",
+        "created_at": "2025-11-03T20:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T21:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985437827530981783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            },
+            {
+              "end": 29,
+              "id": "1745799972576968705",
+              "start": 16,
+              "username": "bubblepipe42"
+            },
+            {
+              "end": 45,
+              "id": "1899023817378508801",
+              "start": 30,
+              "username": "Ted_noncommute"
+            },
+            {
+              "end": 62,
+              "id": "1688439420",
+              "start": 46,
+              "username": "BlackMarieChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985437827530981783",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985411095083864575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 @bubblepipe42 @Ted_noncommute @BlackMarieChina 快玩!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1274,
+          "like_count": 7540,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 4898
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 at UCPH/一推就倒邪恶北方地牢主/穿胶写胶SM高手/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 1375,
+          "like_count": 31435,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 6318
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个笑话。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "1976880265319661703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786969387137990656/K-JPSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 745,
+          "like_count": 4534,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 1077
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T09:06:07.000Z",
+        "description": "域ℍ上的小Ted /🩵🩷🤍🩷🩵",
+        "id": "1899023817378508801",
+        "name": "非交换Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899024063512584192/6CiAhCGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 102,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 159
+        },
+        "username": "Ted_noncommute",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:37:07.000Z",
+        "description": "A bondage toy shop located in Shanghai. PayPal is now available for wherever SF EXPRESS can reach. 上海sm道具小店，卖自己设计的sm道具。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackmarie.taobao.com",
+                "end": 23,
+                "expanded_url": "http://blackmarie.taobao.com",
+                "start": 0,
+                "url": "https://t.co/PGISUByddI"
+              }
+            ]
+          }
+        },
+        "id": "1688439420",
+        "location": "Shanghai",
+        "name": "BlackMarie",
+        "pinned_tweet_id": "1983804852850524179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104062944038522880/7WiwpANC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71567,
+          "following_count": 1143,
+          "like_count": 7899,
+          "listed_count": 266,
+          "media_count": 512,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/PGISUByddI",
+        "username": "BlackMarieChina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1935441615004561837",
+    "created_at": "2025-06-18T20:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T21:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935441615004561837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "954724026806448128",
+          "start": 3,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935441615004561837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935301551452819774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libertyelysium: 跨子能不能多爱自己一点，gender这东西就是个选填项，你自我认同是什么那你就是什么是购物袋也行，胡子奶子觉得好看那就留着自己的喜好最重要，传统性别规范本来就很蠢了都跨了还管这干嘛\n\n当然你觉得自恨很爽也行，但别真被这些不知道谁规定的玩意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1935441615004561837",
+        "created_at": "2025-06-18T20:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935441615004561837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "954724026806448128",
+              "start": 3,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935441615004561837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935301551452819774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libertyelysium: 跨子能不能多爱自己一点，gender这东西就是个选填项，你自我认同是什么那你就是什么是购物袋也行，胡子奶子觉得好看那就留着自己的喜好最重要，传统性别规范本来就很蠢了都跨了还管这干嘛\n\n当然你觉得自恨很爽也行，但别真被这些不知道谁规定的玩意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "1935301551452819774",
+        "created_at": "2025-06-18T11:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935301551452819774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935301551452819774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1996,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "跨子能不能多爱自己一点，gender这东西就是个选填项，你自我认同是什么那你就是什么是购物袋也行，胡子奶子觉得好看那就留着自己的喜好最重要，传统性别规范本来就很蠢了都跨了还管这干嘛\n\n当然你觉得自恨很爽也行，但别真被这些不知道谁规定的玩意束缚住了，多爱下自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪88 单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 1070,
+          "like_count": 5747,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 4018
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9163,
+          "following_count": 616,
+          "like_count": 75571,
+          "listed_count": 28,
+          "media_count": 1824,
+          "tweet_count": 28552
+        },
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

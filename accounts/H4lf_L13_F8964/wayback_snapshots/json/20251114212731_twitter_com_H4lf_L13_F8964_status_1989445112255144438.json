@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1989445112255144438",
+    "created_at": "2025-11-14T21:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989445112255144438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/badgalkohakuri…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/badgalkohakurin/status/1989138796064178543",
+          "start": 48,
+          "url": "https://t.co/fYqwaSpwoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989445112255144438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989138796064178543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是列宁在辛比尔斯克古典文理中学与科伦斯基当同学时发在qq群里的内容，感谢推友让文物重见于世🙏 https://t.co/fYqwaSpwoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_1989138788510232577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rXMHIacAE27r6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1989445112255144438",
+        "created_at": "2025-11-14T21:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989445112255144438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/badgalkohakuri…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/badgalkohakurin/status/1989138796064178543",
+              "start": 48,
+              "url": "https://t.co/fYqwaSpwoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989445112255144438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989138796064178543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是列宁在辛比尔斯克古典文理中学与科伦斯基当同学时发在qq群里的内容，感谢推友让文物重见于世🙏 https://t.co/fYqwaSpwoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989138788510232577"
+          ]
+        },
+        "author_id": "1565988119941627905",
+        "conversation_id": "1989138796064178543",
+        "created_at": "2025-11-14T01:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989138796064178543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBQgZq3wy4",
+              "end": 32,
+              "expanded_url": "https://x.com/badgalkohakurin/status/1989138796064178543/photo/1",
+              "media_key": "3_1989138788510232577",
+              "start": 9,
+              "url": "https://t.co/bBQgZq3wy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989138796064178543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 120465,
+          "like_count": 1310,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "国际共运陷入低潮 https://t.co/bBQgZq3wy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1283,
+          "like_count": 7659,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4955
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "视奸我好玩吗",
+        "id": "1565988119941627905",
+        "name": "空拉罗拉罗 🌈☁️",
+        "pinned_tweet_id": "1887461828441350461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915366936554463235/QgBuhg9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17207,
+          "following_count": 1652,
+          "like_count": 42329,
+          "listed_count": 28,
+          "media_count": 3284,
+          "tweet_count": 15475
+        },
+        "username": "badgalkohakurin",
+        "verified": false
+      }
+    ]
+  }
+}

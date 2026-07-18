@@ -1,0 +1,791 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "@ZeusCSGO",
+          "id": "857312136439021568",
+          "name": "Zeus"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Gambit (Esports)",
+          "id": "857266986291679232",
+          "name": "Gambit"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": "@ZeusCSGO",
+          "id": "857312136439021568",
+          "name": "Zeus"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "@ZeusCSGO",
+          "id": "857312136439021568",
+          "name": "Zeus"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288168909422518272",
+          "name": "Esports players"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "description": "@ZeusCSGO",
+          "id": "857312136439021568",
+          "name": "Zeus"
+        }
+      }
+    ],
+    "conversation_id": "1944842069497012542",
+    "created_at": "2025-07-14T19:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944842069497012542"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "zelensky",
+          "probability": 0.7099,
+          "start": 37,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1540640706674315264",
+          "start": 3,
+          "username": "Michelle_Z2023"
+        },
+        {
+          "end": 29,
+          "id": "863559200",
+          "start": 20,
+          "username": "ZeusCSGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944842069497012542",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944551215494475783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Michelle_Z2023: @ZeusCSGO I hope zelensky send u to the frontline to replace those who are actually dying to protect your homeland"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Gambit (Esports)",
+              "id": "857266986291679232",
+              "name": "Gambit"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          }
+        ],
+        "conversation_id": "1944842069497012542",
+        "created_at": "2025-07-14T19:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944842069497012542"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "zelensky",
+              "probability": 0.7099,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1540640706674315264",
+              "start": 3,
+              "username": "Michelle_Z2023"
+            },
+            {
+              "end": 29,
+              "id": "863559200",
+              "start": 20,
+              "username": "ZeusCSGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944842069497012542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944551215494475783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Michelle_Z2023: @ZeusCSGO I hope zelensky send u to the frontline to replace those who are actually dying to protect your homeland"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540640706674315264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Gambit (Esports)",
+              "id": "857266986291679232",
+              "name": "Gambit"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@ZeusCSGO",
+              "id": "857312136439021568",
+              "name": "Zeus"
+            }
+          }
+        ],
+        "conversation_id": "1944415945927115186",
+        "created_at": "2025-07-14T00:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944551215494475783"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "zelensky",
+              "probability": 0.6526,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "863559200",
+              "start": 0,
+              "username": "ZeusCSGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944551215494475783",
+        "in_reply_to_user_id": "863559200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8770,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944415945927115186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeusCSGO I hope zelensky send u to the frontline to replace those who are actually dying to protect your homeland"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1115,
+          "like_count": 6349,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4296
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "Forever Michelle💐~ 请叫我 米夏🍹~\nMichelle as Mich(我) & Elle(她) @hoshinoyumemi11 | 无论觉得自己多么痛苦，都要记得，全世界还有更多人比自己苦。我不能只为自己抗争，也要为全世界受苦的人抗争",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "hoshinoyumemi11"
+              }
+            ]
+          }
+        },
+        "id": "1540640706674315264",
+        "location": "北德意志酷儿同盟-易北河畔酷青城",
+        "name": "Michelle 🎀🌹🌈 vor der Elbe",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 730,
+          "like_count": 35678,
+          "listed_count": 5,
+          "media_count": 693,
+          "tweet_count": 9399
+        },
+        "username": "Michelle_Z2023",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-05T19:30:16.000Z",
+        "description": "10x Counter-Strike Major Finalist // @natusvincere OG. Major winner with zeusblogmanager@gmail.com // Book: https://t.co/K9YW3CVFom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "natusvincere"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "il.ink/NaviZeus",
+                "end": 131,
+                "expanded_url": "http://il.ink/NaviZeus",
+                "start": 108,
+                "url": "https://t.co/K9YW3CVFom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zeuscsgo",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zeuscsgo",
+                "start": 0,
+                "url": "https://t.co/UmEyQXxNH5"
+              }
+            ]
+          }
+        },
+        "id": "863559200",
+        "location": "Kharkiv, Ukraine",
+        "name": "Zeus ✌️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884502759107710976/AJ-aBGNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152057,
+          "following_count": 515,
+          "like_count": 3382,
+          "listed_count": 492,
+          "media_count": 2466,
+          "tweet_count": 8376
+        },
+        "url": "https://t.co/UmEyQXxNH5",
+        "username": "ZeusCSGO",
+        "verified": true
+      }
+    ]
+  }
+}

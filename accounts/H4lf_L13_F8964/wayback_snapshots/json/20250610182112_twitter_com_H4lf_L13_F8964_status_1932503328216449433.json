@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932442320282230784"
+      ],
+      "media_source_tweet_id": [
+        "1932442329329324232"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932503328216449433",
+    "created_at": "2025-06-10T18:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T19:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932503328216449433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741075170603749376",
+          "start": 3,
+          "username": "zhao_tito8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h99PihXgR6",
+          "end": 57,
+          "expanded_url": "https://x.com/zhao_tito8964/status/1932442329329324232/photo/1",
+          "media_key": "3_1932442320282230784",
+          "start": 34,
+          "url": "https://t.co/h99PihXgR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932503328216449433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932442329329324232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhao_tito8964: 孩子多读点尼采吧，怪搞笑的😁 https://t.co/h99PihXgR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1932442320282230784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFqDUFaoAAHHGL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932442320282230784"
+          ],
+          "media_source_tweet_id": [
+            "1932442329329324232"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932503328216449433",
+        "created_at": "2025-06-10T18:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932503328216449433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741075170603749376",
+              "start": 3,
+              "username": "zhao_tito8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h99PihXgR6",
+              "end": 57,
+              "expanded_url": "https://x.com/zhao_tito8964/status/1932442329329324232/photo/1",
+              "media_key": "3_1932442320282230784",
+              "start": 34,
+              "url": "https://t.co/h99PihXgR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932503328216449433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932442329329324232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhao_tito8964: 孩子多读点尼采吧，怪搞笑的😁 https://t.co/h99PihXgR6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932442320282230784"
+          ]
+        },
+        "author_id": "1741075170603749376",
+        "conversation_id": "1932442329329324232",
+        "created_at": "2025-06-10T14:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932442329329324232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h99PihXgR6",
+              "end": 38,
+              "expanded_url": "https://x.com/zhao_tito8964/status/1932442329329324232/photo/1",
+              "media_key": "3_1932442320282230784",
+              "start": 15,
+              "url": "https://t.co/h99PihXgR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932442329329324232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子多读点尼采吧，怪搞笑的😁 https://t.co/h99PihXgR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1041,
+          "like_count": 5530,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3937
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "第二次文艺复兴/scat fetish",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "南京酒吐座",
+        "pinned_tweet_id": "1932034241711546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932256160587112448/acU4w-el_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 913,
+          "like_count": 18932,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 12714
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

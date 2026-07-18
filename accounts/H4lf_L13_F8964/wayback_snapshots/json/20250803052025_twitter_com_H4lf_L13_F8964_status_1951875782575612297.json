@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1951875782575612297",
+    "created_at": "2025-08-03T05:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951875782575612297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukikuma_018/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yukikuma_018/status/1951709650388500911",
+          "start": 2,
+          "url": "https://t.co/870l0wj9pt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951875782575612297",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951709650388500911",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺 https://t.co/870l0wj9pt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_1951708957627822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxXc9NRasAAnngU.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1951875782575612297",
+        "created_at": "2025-08-03T05:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951875782575612297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukikuma_018/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yukikuma_018/status/1951709650388500911",
+              "start": 2,
+              "url": "https://t.co/870l0wj9pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951875782575612297",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951709650388500911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/870l0wj9pt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951708957627822080"
+          ]
+        },
+        "author_id": "1546771345379168257",
+        "conversation_id": "1951709650388500911",
+        "created_at": "2025-08-02T18:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951709650388500911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOptbAC6V9",
+              "end": 29,
+              "expanded_url": "https://x.com/Yukikuma_018/status/1951709650388500911/photo/1",
+              "media_key": "3_1951708957627822080",
+              "start": 6,
+              "url": "https://t.co/AOptbAC6V9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951709650388500911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 32293,
+          "like_count": 663,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "○头也是头 https://t.co/AOptbAC6V9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 1134,
+          "like_count": 6416,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 4350
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T08:20:17.000Z",
+        "description": "祥卫兵祥毒唯祥全肯定/⚠️性癖过激真的很恶俗不建议关注🍌𝗙𝗨𝗧𝗔厨🩸R18-G注意/🚫不画男人/🚫雷BG HL NL/下辈子别看Mujica/匿名箱：https://t.co/thZw3dgTDi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4ymhrm1ztejkjz…",
+                "end": 98,
+                "expanded_url": "https://marshmallow-qa.com/4ymhrm1ztejkjz8?t=AoB7Bv&utm_medium=url_text&utm_s",
+                "start": 75,
+                "url": "https://t.co/thZw3dgTDi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/201823",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/201823",
+                "start": 0,
+                "url": "https://t.co/Yi2Fnws6C9"
+              }
+            ]
+          }
+        },
+        "id": "1546771345379168257",
+        "location": "接母鸡卡解散祥单飞",
+        "name": "🐻𝕜𝕦𝕞𝕒🔞🩵🐙",
+        "pinned_tweet_id": "1939652665052655956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885791913833611264/a9CY29Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18948,
+          "following_count": 214,
+          "like_count": 7874,
+          "listed_count": 70,
+          "media_count": 247,
+          "tweet_count": 8211
+        },
+        "url": "https://t.co/Yi2Fnws6C9",
+        "username": "Yukikuma_018",
+        "verified": true
+      }
+    ]
+  }
+}

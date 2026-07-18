@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1932146429289713664"
+      ],
+      "media_source_tweet_id": [
+        "1932146461359440040"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034811038198038861",
+    "created_at": "2026-03-20T01:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034811038198038861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1146899376519827456",
+          "start": 3,
+          "username": "Atuage3712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxHQWhJNZn",
+          "end": 47,
+          "expanded_url": "https://x.com/Atuage3712/status/1932146461359440040/video/1",
+          "media_key": "7_1932146429289713664",
+          "start": 24,
+          "url": "https://t.co/zxHQWhJNZn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034811038198038861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932146461359440040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Atuage3712: 使用深PA手淫 https://t.co/zxHQWhJNZn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034811038198038861].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034811038198038861",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034811038198038861"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10787,
+        "height": 1280,
+        "media_key": "7_1932146429289713664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932146429289713664/pu/img/nQeXGmDij9-2qCWA.jpg",
+        "public_metrics": {
+          "view_count": 87044
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932146429289713664/pu/vid/avc1/320x568/U_AMKTcPs_0gAnz4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932146429289713664/pu/vid/avc1/480x852/HwtzZUE3QtGv-HhU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932146429289713664/pu/vid/avc1/720x1280/QR4Vj0VTTSXKwwVu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932146429289713664/pu/pl/mcAzfiK5nZw8WSd9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932146429289713664"
+          ]
+        },
+        "author_id": "1146899376519827456",
+        "conversation_id": "1932146461359440040",
+        "created_at": "2025-06-09T18:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932146461359440040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxHQWhJNZn",
+              "end": 31,
+              "expanded_url": "https://x.com/Atuage3712/status/1932146461359440040/video/1",
+              "media_key": "7_1932146429289713664",
+              "start": 8,
+              "url": "https://t.co/zxHQWhJNZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932146461359440040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 151867,
+          "like_count": 2154,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "使用深PA手淫 https://t.co/zxHQWhJNZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1440,
+          "like_count": 8794,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5556
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T21:51:34.000Z",
+        "description": "性器改造に興味有り。おっぱいCカップの雄♂。サブインシジョン、トランススクロータル、アナル拡張、尿道拡張、去勢、深PAなどなど。AGです。⚠ちなみに女装垢ではないです。",
+        "id": "1146899376519827456",
+        "name": "ATUAGEちゃん",
+        "pinned_tweet_id": "1701535063681478670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1333768063800406019/usYsQNku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42352,
+          "following_count": 1035,
+          "like_count": 3330,
+          "listed_count": 305,
+          "media_count": 161,
+          "tweet_count": 1009
+        },
+        "username": "Atuage3712",
+        "verified": true
+      }
+    ]
+  }
+}

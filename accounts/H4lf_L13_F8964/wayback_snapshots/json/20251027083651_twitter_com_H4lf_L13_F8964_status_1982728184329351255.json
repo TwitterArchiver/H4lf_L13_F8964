@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969642625344159744"
+      ],
+      "media_source_tweet_id": [
+        "1969642633342636177"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1982728184329351255",
+    "created_at": "2025-10-27T08:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982728184329351255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "今日幽默"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809878686340198400",
+          "start": 3,
+          "username": "M0Zha_caoB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6D5YQO84zr",
+          "end": 49,
+          "expanded_url": "https://x.com/M0Zha_caoB/status/1969642633342636177/photo/1",
+          "media_key": "3_1969642625344159744",
+          "start": 26,
+          "url": "https://t.co/6D5YQO84zr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982728184329351255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969642633342636177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M0Zha_caoB: 薛压抑\n#今日幽默 https://t.co/6D5YQO84zr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_1969642625344159744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WTiDobQAALs7B.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969642625344159744"
+          ],
+          "media_source_tweet_id": [
+            "1969642633342636177"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1982728184329351255",
+        "created_at": "2025-10-27T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982728184329351255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "今日幽默"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809878686340198400",
+              "start": 3,
+              "username": "M0Zha_caoB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6D5YQO84zr",
+              "end": 49,
+              "expanded_url": "https://x.com/M0Zha_caoB/status/1969642633342636177/photo/1",
+              "media_key": "3_1969642625344159744",
+              "start": 26,
+              "url": "https://t.co/6D5YQO84zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982728184329351255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969642633342636177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M0Zha_caoB: 薛压抑\n#今日幽默 https://t.co/6D5YQO84zr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969642625344159744"
+          ]
+        },
+        "author_id": "1809878686340198400",
+        "conversation_id": "1969642633342636177",
+        "created_at": "2025-09-21T05:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969642633342636177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "今日幽默"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6D5YQO84zr",
+              "end": 33,
+              "expanded_url": "https://x.com/M0Zha_caoB/status/1969642633342636177/photo/1",
+              "media_key": "3_1969642625344159744",
+              "start": 10,
+              "url": "https://t.co/6D5YQO84zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969642633342636177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "薛压抑\n#今日幽默 https://t.co/6D5YQO84zr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1269,
+          "like_count": 7502,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 4875
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:14:58.000Z",
+        "description": "欧亚/NBP/東yǎ反日武装戦線",
+        "id": "1809878686340198400",
+        "location": "海之帝国",
+        "name": "Qмo1тeиK1寻找炮友",
+        "pinned_tweet_id": "1968957906960756902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975339534897537025/BEhDL6l6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 437,
+          "like_count": 4582,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 2104
+        },
+        "username": "M0Zha_caoB",
+        "verified": false
+      }
+    ]
+  }
+}

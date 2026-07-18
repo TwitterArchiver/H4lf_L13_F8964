@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942672489781268516",
+    "created_at": "2025-07-09T12:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942924669796946388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1128171981214343170",
+          "start": 0,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942924669796946388",
+    "in_reply_to_user_id": "1128171981214343170",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942672489781268516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phosphas Hurrah！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_1942672487268962304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXCVZ6XUAAwZey.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942672489781268516",
+        "created_at": "2025-07-09T12:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942924669796946388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1128171981214343170",
+              "start": 0,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942924669796946388",
+        "in_reply_to_user_id": "1128171981214343170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942672489781268516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phosphas Hurrah！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942672487268962304"
+          ]
+        },
+        "author_id": "1128171981214343170",
+        "conversation_id": "1942672489781268516",
+        "created_at": "2025-07-08T19:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942672489781268516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoyakmeiGD",
+              "end": 52,
+              "expanded_url": "https://x.com/Phosphas/status/1942672489781268516/photo/1",
+              "media_key": "3_1942672487268962304",
+              "start": 29,
+              "url": "https://t.co/DoyakmeiGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942672489781268516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2442,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦吼吼，投了个美国人类学会中了，十一月去新奥尔良玩一圈儿 https://t.co/DoyakmeiGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1106,
+          "like_count": 6263,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 4253
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "塗塗狐🏳️‍⚧️",
+        "pinned_tweet_id": "1779802684092194893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893195300241620992/4zAIvidK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 579,
+          "like_count": 14469,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 2372
+        },
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

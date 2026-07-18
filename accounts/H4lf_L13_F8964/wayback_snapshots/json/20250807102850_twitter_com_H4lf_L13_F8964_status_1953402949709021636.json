@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1953320950675464618",
+    "created_at": "2025-08-07T10:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953402949709021636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1412787007940481030",
+          "start": 0,
+          "username": "CutieRivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953402949709021636",
+    "in_reply_to_user_id": "1412787007940481030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953320950675464618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutieRivers 抱抱花花"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1953320938906501121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuXC3fawAE4Fyz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1953320950675464618",
+        "created_at": "2025-08-07T10:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953402949709021636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1412787007940481030",
+              "start": 0,
+              "username": "CutieRivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953402949709021636",
+        "in_reply_to_user_id": "1412787007940481030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953320950675464618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutieRivers 抱抱花花"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953320938906501121"
+          ]
+        },
+        "author_id": "1412787007940481030",
+        "conversation_id": "1953320950675464618",
+        "created_at": "2025-08-07T05:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953320950675464618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhNarFXzaU",
+              "end": 23,
+              "expanded_url": "https://x.com/CutieRivers/status/1953320950675464618/photo/1",
+              "media_key": "3_1953320938906501121",
+              "start": 0,
+              "url": "https://t.co/fhNarFXzaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953320950675464618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fhNarFXzaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1149,
+          "like_count": 6477,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 4389
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "『數據刪除』.wiki",
+                "end": 23,
+                "expanded_url": "http://xn--36jc603xzvptwab16s.wiki",
+                "start": 0,
+                "url": "https://t.co/3p9FOeYSEs"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "距离您0.23km",
+        "name": "百川花花子",
+        "pinned_tweet_id": "1912201806412980573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893877131429498880/0wE2kJ_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 83,
+          "like_count": 10975,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 8182
+        },
+        "url": "https://t.co/3p9FOeYSEs",
+        "username": "CutieRivers",
+        "verified": false
+      }
+    ]
+  }
+}

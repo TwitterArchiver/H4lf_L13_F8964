@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944496896825032900",
+    "created_at": "2025-07-13T20:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T21:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944496896825032900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944496896825032900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944421825829872026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 音游人的手指扣人痛吗?\n先不说底力的问题，音游玩家一般都很有耐心，你如果想被扣就会一直扣你，而且音游玩家的手指因为长期打音游早就变得和普通人的力度不一样了，面对不同谱子会打的各不相同，说明他们很会看人脸色，会把你扣爽不会把你扣痛，所以玩…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944496896825032900].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944496896825032900",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944496896825032900"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30101,
+        "height": 720,
+        "media_key": "13_1944421648926441472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944421648926441472/img/crDkVY6drM1a4tar.jpg",
+        "public_metrics": {
+          "view_count": 980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944421648926441472/vid/avc1/480x270/39y0yEjjqM3hU47t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944421648926441472/vid/avc1/640x360/BEU6fojJpj5BOIvS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944421648926441472/vid/avc1/1280x720/arfYXJAME5I3xb1X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944421648926441472/pl/MasxuznlcFi8ya3I.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944421648926441472"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1944421825829872026",
+        "created_at": "2025-07-13T15:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T16:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944421825829872026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6wzLHBByP",
+              "end": 151,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1944421825829872026/video/1",
+              "media_key": "13_1944421648926441472",
+              "start": 128,
+              "url": "https://t.co/D6wzLHBByP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944421825829872026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2077,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "音游人的手指扣人痛吗?\n先不说底力的问题，音游玩家一般都很有耐心，你如果想被扣就会一直扣你，而且音游玩家的手指因为长期打音游早就变得和普通人的力度不一样了，面对不同谱子会打的各不相同，说明他们很会看人脸色，会把你扣爽不会把你扣痛，所以玩音游的手指扣人不痛 https://t.co/D6wzLHBByP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1116,
+          "like_count": 6335,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4291
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7269,
+          "following_count": 1053,
+          "like_count": 35113,
+          "listed_count": 9,
+          "media_count": 2462,
+          "tweet_count": 19757
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

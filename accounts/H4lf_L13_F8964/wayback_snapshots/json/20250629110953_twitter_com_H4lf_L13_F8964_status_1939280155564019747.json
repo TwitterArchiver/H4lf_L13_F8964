@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1939280155564019747",
+    "created_at": "2025-06-29T11:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939280155564019747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679809973260546059",
+          "start": 3,
+          "username": "xiaosangluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939280155564019747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939106844993298566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaosangluo: 昨天晚上和男朋友去吃火锅，给他点了很多腰子和生蚝，想让他补补身子。\n有趣的来了\n我想过很多回家以后的事情，各种情况都有预料，然后：\n“桑仙子，快来和我双修吧，我有点道心不稳了，你作为炉鼎的作用该体现出来了！”\n我：？\n一时间不知道还说什么好………"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939280155564019747].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939280155564019747",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939280155564019747"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1939106835945963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GukXZLoXQAAUdVm.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939106835945963520"
+          ]
+        },
+        "author_id": "1679809973260546059",
+        "conversation_id": "1939106844993298566",
+        "created_at": "2025-06-28T23:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T00:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939106844993298566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEDXTVwUH0",
+              "end": 158,
+              "expanded_url": "https://x.com/xiaosangluo/status/1939106844993298566/photo/1",
+              "media_key": "3_1939106835945963520",
+              "start": 135,
+              "url": "https://t.co/iEDXTVwUH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939106844993298566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3439,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上和男朋友去吃火锅，给他点了很多腰子和生蚝，想让他补补身子。\n有趣的来了\n我想过很多回家以后的事情，各种情况都有预料，然后：\n“桑仙子，快来和我双修吧，我有点道心不稳了，你作为炉鼎的作用该体现出来了！”\n我：？\n一时间不知道还说什么好……但终归是做了……\n#男娘 https://t.co/iEDXTVwUH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 1093,
+          "like_count": 6083,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 4176
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T11:08:19.000Z",
+        "description": "是可爱的魅魔人妻桑落/170cm/45kg/有男朋友/高p/不线下/不约/不盈利/老实人发图只为分享/请勿搬运到墙内/不接推广/不接推广/不接推广",
+        "id": "1679809973260546059",
+        "location": "冠位时间神殿",
+        "name": "sangluo",
+        "pinned_tweet_id": "1938127337222246558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833728995508285440/Vde-mRwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20705,
+          "following_count": 1070,
+          "like_count": 3323,
+          "listed_count": 120,
+          "media_count": 164,
+          "tweet_count": 2167
+        },
+        "username": "xiaosangluo",
+        "verified": false
+      }
+    ]
+  }
+}

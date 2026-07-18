@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2032881586434146813",
+    "created_at": "2026-03-14T18:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032881586434146813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557053813684686848",
+          "start": 3,
+          "username": "Ti_aT_AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032881586434146813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032730126321070291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ti_aT_AN: 周六调教日记\n“野生的海豹是不可以使用双腿行走的，你得把这个袜子套上。”\n“但是我已经是被训化了呀。”\n“竟敢不听主人的命令，罚你今天插上肛塞。”\n“呜呜呜，再也不敢了！”\n（乖乖的戴上了肛塞和袜子）\n“现在可以去玩游戏了。” https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032881586434146813].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032881586434146813",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032881586434146813"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032730105219571712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW1QsXa4AAgTZh.jpg",
+        "width": 461
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032730107664805888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW1Q1eaMAAVVgU.jpg",
+        "width": 460
+      },
+      {
+        "height": 460,
+        "media_key": "3_2032730117005598720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW1RYRbYAAyMQw.jpg",
+        "width": 1024
+      },
+      {
+        "height": 460,
+        "media_key": "3_2032730123997499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW1RyUbUAA_BsZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032730105219571712",
+            "3_2032730107664805888",
+            "3_2032730117005598720",
+            "3_2032730123997499392"
+          ]
+        },
+        "author_id": "1557053813684686848",
+        "conversation_id": "2032730126321070291",
+        "created_at": "2026-03-14T08:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032730126321070291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDigyEvlTl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ti_aT_AN/status/2032730126321070291/photo/1",
+              "media_key": "3_2032730105219571712",
+              "start": 114,
+              "url": "https://t.co/uDigyEvlTl"
+            },
+            {
+              "display_url": "pic.x.com/uDigyEvlTl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ti_aT_AN/status/2032730126321070291/photo/1",
+              "media_key": "3_2032730107664805888",
+              "start": 114,
+              "url": "https://t.co/uDigyEvlTl"
+            },
+            {
+              "display_url": "pic.x.com/uDigyEvlTl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ti_aT_AN/status/2032730126321070291/photo/1",
+              "media_key": "3_2032730117005598720",
+              "start": 114,
+              "url": "https://t.co/uDigyEvlTl"
+            },
+            {
+              "display_url": "pic.x.com/uDigyEvlTl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ti_aT_AN/status/2032730126321070291/photo/1",
+              "media_key": "3_2032730123997499392",
+              "start": 114,
+              "url": "https://t.co/uDigyEvlTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032730126321070291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2482,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "周六调教日记\n“野生的海豹是不可以使用双腿行走的，你得把这个袜子套上。”\n“但是我已经是被训化了呀。”\n“竟敢不听主人的命令，罚你今天插上肛塞。”\n“呜呜呜，再也不敢了！”\n（乖乖的戴上了肛塞和袜子）\n“现在可以去玩游戏了。” https://t.co/uDigyEvlTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1434,
+          "like_count": 8731,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 5506
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T17:19:12.000Z",
+        "description": "国家保护废物海豹，未成年毛茸茸的那种，实际是成年老海豹，没事喜欢拍肚皮，请大家保护动物，不要给海豹投喂企鹅。\n日常会穿贞操带，想起来的时候会发一些动态，想不起来就失联，海豹记性也不是很好。\n每周六是调教日，会被开锁，允许发情一次。",
+        "id": "1557053813684686848",
+        "location": "上海",
+        "name": "小海豹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027986730650116096/RQslEoMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5407,
+          "following_count": 238,
+          "like_count": 52,
+          "listed_count": 26,
+          "media_count": 58,
+          "tweet_count": 125
+        },
+        "username": "Ti_aT_AN",
+        "verified": false
+      }
+    ]
+  }
+}

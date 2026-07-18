@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2013874712804241810",
+    "created_at": "2026-01-21T07:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013874712804241810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013874712804241810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013840254101541362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 再次论证了我说的中国键政圈老登不分左右，不论左还是右只是换个皇帝拜，手段都是靠纯臆想式现编造谣来论证自己进入了文明世界，连欧洲看牙方便（因为大量医生护士是中东人）、魏玛共和国灭了是因为内卷、外国人和非白人和德国人与白人打同一份工外国人和非白…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2013838254379016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KXOPtaoAAELqS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013838254337105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KXOPjbIAAMm0-.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013838254345461763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KXOPlaoAMYKPy.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013838254613651457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KXOQlW4AE4TI3.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2013874712804241810",
+        "created_at": "2026-01-21T07:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013874712804241810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013874712804241810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013840254101541362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 再次论证了我说的中国键政圈老登不分左右，不论左还是右只是换个皇帝拜，手段都是靠纯臆想式现编造谣来论证自己进入了文明世界，连欧洲看牙方便（因为大量医生护士是中东人）、魏玛共和国灭了是因为内卷、外国人和非白人和德国人与白人打同一份工外国人和非白…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013838254379016192",
+            "3_2013838254337105920",
+            "3_2013838254345461763",
+            "3_2013838254613651457"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "conversation_id": "2013840254101541362",
+        "created_at": "2026-01-21T05:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:57:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013838265527476384",
+          "2013840254101541362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwVEHQaT1o",
+              "end": 164,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2013840254101541362/photo/1",
+              "media_key": "3_2013838254379016192",
+              "start": 141,
+              "url": "https://t.co/KwVEHQaT1o"
+            },
+            {
+              "display_url": "pic.x.com/KwVEHQaT1o",
+              "end": 164,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2013840254101541362/photo/1",
+              "media_key": "3_2013838254337105920",
+              "start": 141,
+              "url": "https://t.co/KwVEHQaT1o"
+            },
+            {
+              "display_url": "pic.x.com/KwVEHQaT1o",
+              "end": 164,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2013840254101541362/photo/1",
+              "media_key": "3_2013838254345461763",
+              "start": 141,
+              "url": "https://t.co/KwVEHQaT1o"
+            },
+            {
+              "display_url": "pic.x.com/KwVEHQaT1o",
+              "end": 164,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2013840254101541362/photo/1",
+              "media_key": "3_2013838254613651457",
+              "start": 141,
+              "url": "https://t.co/KwVEHQaT1o"
+            },
+            {
+              "display_url": "x.com/areskapitalon/…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/areskapitalon/status/2013452507310092378",
+              "start": 165,
+              "url": "https://t.co/65CuXtrMW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013840254101541362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再次论证了我说的中国键政圈老登不分左右，不论左还是右只是换个皇帝拜，手段都是靠纯臆想式现编造谣来论证自己进入了文明世界，连欧洲看牙方便（因为大量医生护士是中东人）、魏玛共和国灭了是因为内卷、外国人和非白人和德国人与白人打同一份工外国人和非白人工资稍低（还是它抬杠抬不过别人直接就“承认”沿用对方的说法）这些东西都能编造出来\n几个谣言的事实：\n1、不存在所谓的欧洲看牙方便，既然话题指的是被难民冲击最严重的几个国家，那这里臆想的欧洲大概是2020前的英国和现在的西欧吧？方便在哪？\n方便在牙医愿意接你的单才会给你排期？方便在一次的活分几次干？方便在牙医有资格因为今天不想上班临时取消你的排期，而你自己过于临时取消而收到账单？方便在账单随意写可以用你的医保薅钱有时候还可以说你有问题要收难度附加费用？\n2、不存在所谓看能看上医生是因为进口低价格劳动力，看得上医生是因为不管你是哪国人，只要进入申根区，就算你是旅游的你也要买保险，不管你是移民过来的还是从小在这长大都得从兜里掏钱，看得上病靠的就是这个只要是人类都要交的保险\n3、不存在大量外来中东难民医护人员，外来医护人员更多的是南美、东欧等国家原本就从事此行业的群体到欧洲后学习语言并且考试或转换证书，说难民都来当医护人员的，你讲逻辑吗？人家拿着那么一点政府发的钱，先学一两年语言然后花几年时间搞个培训或者上个学？你要不试试每个月兜里掏不出五百欧元连着几年你能不能受得了？各国都有难民就业统计花几分钟看看能累死你？\n4、不存在魏玛政体所谓的丛林社会和低保障导致魏玛共和国倒台纳粹上台。魏玛共和国是一个真正意义上的现代共和国，如果能活下来那一切问题都可以靠现代化的民主程序提案和立法逐渐接近，它突然暴毙的原因是认为自己能解决战后萎靡但事实上解决不了、连美国都差点被整死的全球金融危机、战败条款带来的后遗症，你给任何国家相同的条件它都要破产\n5、欧洲存在某国移民喜欢搬过去的私下约定俗成的某某移民区，但不存在刻板印象中像美国一样彻底人种分割的社区，张口就是美国中心主义式抬杠\n6、不存在所谓进口低端劳动力导致高学历需求行业欣欣向荣，自己去看看各国政府要引进外来劳动力的时候说的目的到底是什么，说自己的国家到底是哪方面缺人的。你但凡关注任意一个西欧国家你都能每年看到好几次答案。\n7、不存在不同人种相同工作德国人加白皮肤比外国人加非白皮工资高，而且这是别人抬杠之后你不加证实而“你说的对，即便如此”出来的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013452507310092378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次论证了我说的中国键政圈老登不分左右，不论左还是右只是换个皇帝拜，手段都是靠纯臆想式现编造谣来论证自己进入了文明世界，连欧洲看牙方便（因为大量医生护士是中东人）、魏玛共和国灭了是因为内卷、外国人和非白人和德国人与白人打同一份工外国人和非白人工资稍低（还是它抬杠抬不过别人直接就“ https://t.co/KwVEHQaT1o https://t.co/65CuXtrMW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 1340,
+          "like_count": 8308,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 5240
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "2006947643399065949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 226,
+          "like_count": 2391,
+          "listed_count": 9,
+          "media_count": 3631,
+          "tweet_count": 12432
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985459061916065792",
+        "3_1985459063598043136"
+      ],
+      "media_source_tweet_id": [
+        "1985459066261622837",
+        "1985459066261622837"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1985548747342778519",
+    "created_at": "2025-11-04T03:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985548747342778519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540063687469404161",
+          "start": 3,
+          "username": "cosplay_riji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypMv9t08Ac",
+          "end": 62,
+          "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+          "media_key": "3_1985459061916065792",
+          "start": 39,
+          "url": "https://t.co/ypMv9t08Ac"
+        },
+        {
+          "display_url": "pic.x.com/ypMv9t08Ac",
+          "end": 62,
+          "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+          "media_key": "3_1985459063598043136",
+          "start": 39,
+          "url": "https://t.co/ypMv9t08Ac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985548747342778519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985459066261622837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosplay_riji: 我：我要拍这个你陪我拍这个\nxixi：。 https://t.co/ypMv9t08Ac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_1985459061916065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43Ef1WWYAASuZm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985459063598043136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43Ef7nXUAA_z0s.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985459061916065792",
+            "3_1985459063598043136"
+          ],
+          "media_source_tweet_id": [
+            "1985459066261622837",
+            "1985459066261622837"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1985548747342778519",
+        "created_at": "2025-11-04T03:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985548747342778519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540063687469404161",
+              "start": 3,
+              "username": "cosplay_riji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypMv9t08Ac",
+              "end": 62,
+              "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+              "media_key": "3_1985459061916065792",
+              "start": 39,
+              "url": "https://t.co/ypMv9t08Ac"
+            },
+            {
+              "display_url": "pic.x.com/ypMv9t08Ac",
+              "end": 62,
+              "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+              "media_key": "3_1985459063598043136",
+              "start": 39,
+              "url": "https://t.co/ypMv9t08Ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985548747342778519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985459066261622837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosplay_riji: 我：我要拍这个你陪我拍这个\nxixi：。 https://t.co/ypMv9t08Ac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985459061916065792",
+            "3_1985459063598043136"
+          ]
+        },
+        "author_id": "1540063687469404161",
+        "conversation_id": "1985459066261622837",
+        "created_at": "2025-11-03T21:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T22:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985459066261622837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypMv9t08Ac",
+              "end": 44,
+              "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+              "media_key": "3_1985459061916065792",
+              "start": 21,
+              "url": "https://t.co/ypMv9t08Ac"
+            },
+            {
+              "display_url": "pic.x.com/ypMv9t08Ac",
+              "end": 44,
+              "expanded_url": "https://x.com/cosplay_riji/status/1985459066261622837/photo/1",
+              "media_key": "3_1985459063598043136",
+              "start": 21,
+              "url": "https://t.co/ypMv9t08Ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985459066261622837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2488,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我：我要拍这个你陪我拍这个\nxixi：。 https://t.co/ypMv9t08Ac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1274,
+          "like_count": 7540,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 4896
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T20:06:17.000Z",
+        "description": "已婚｜没把男娘｜我的可爱老婆@xixi_epicene\n｜⚠️偶有🔞或阴暗发言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xixi_epicene"
+              }
+            ]
+          }
+        },
+        "id": "1540063687469404161",
+        "name": "Xixi-cosplay-diary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983308520645689344/D2eBLpJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21031,
+          "following_count": 12,
+          "like_count": 14890,
+          "listed_count": 54,
+          "media_count": 308,
+          "tweet_count": 8688
+        },
+        "username": "cosplay_riji",
+        "verified": false
+      }
+    ]
+  }
+}

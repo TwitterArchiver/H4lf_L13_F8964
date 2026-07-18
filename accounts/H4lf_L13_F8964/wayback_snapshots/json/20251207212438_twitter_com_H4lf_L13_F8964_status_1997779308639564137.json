@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1997779308639564137",
+    "created_at": "2025-12-07T21:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T22:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997779308639564137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hacchithemaid/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hacchithemaid/status/1997652251632914932",
+          "start": 8,
+          "url": "https://t.co/TTHIj8ckql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997779308639564137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997652251632914932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊我死了 https://t.co/TTHIj8ckql"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15332,
+        "height": 1280,
+        "media_key": "7_1997652219966242816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997652219966242816/pu/img/1GQx7LIheYTC3VVD.jpg",
+        "public_metrics": {
+          "view_count": 1286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997652219966242816/pu/vid/avc1/320x568/pozsWHfs3-NyfSQr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997652219966242816/pu/vid/avc1/480x852/FaW6MDgt2pAUsd5S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997652219966242816/pu/vid/avc1/720x1280/6a1EOXxpUm72EL_N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997652219966242816/pu/pl/m15yT-3V97QobxoY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1997779308639564137",
+        "created_at": "2025-12-07T21:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T22:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997779308639564137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hacchithemaid/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hacchithemaid/status/1997652251632914932",
+              "start": 8,
+              "url": "https://t.co/TTHIj8ckql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997779308639564137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997652251632914932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊我死了 https://t.co/TTHIj8ckql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997652219966242816"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "1997652251632914932",
+        "created_at": "2025-12-07T12:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997652251632914932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "femboy"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "cdts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BseJscmkV2",
+              "end": 69,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/1997652251632914932/video/1",
+              "media_key": "7_1997652219966242816",
+              "start": 46,
+              "url": "https://t.co/BseJscmkV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997652251632914932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4526,
+          "like_count": 136,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "m字开腿比耶和腰和大屁股】\n希望大家喜欢w\n#男娘 #男の娘ᅠ #femboy #cdts https://t.co/BseJscmkV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1315,
+          "like_count": 8016,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5080
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba 姐姐@emiya436900 小号@Teia20010914 匿名提问https://t.co/FqhYHQnDQd 🚪70",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "emiya436900"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Teia20010914"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 82,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 59,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7595,
+          "following_count": 1965,
+          "like_count": 51464,
+          "listed_count": 23,
+          "media_count": 1192,
+          "tweet_count": 34436
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

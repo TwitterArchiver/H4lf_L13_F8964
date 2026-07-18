@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976453139692912640"
+      ],
+      "media_source_tweet_id": [
+        "1976453147280408989"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1980533066314707310",
+    "created_at": "2025-10-21T07:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980533066314707310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1875828440760553472",
+          "start": 3,
+          "username": "BacklightTown"
+        }
+      ],
+      "urls": [
+        {
+          "description": "报名表单",
+          "display_url": "bit.ly/TransDay1120",
+          "end": 83,
+          "expanded_url": "https://bit.ly/TransDay1120",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 60,
+          "status": 200,
+          "title": "跨性别死难者纪念日活动-多伦多",
+          "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfWy_Ha31frZ9Q_fmgGsICYWjLCaJWT2mvcOfxbVFYofgP7hA/viewform?usp=send_form",
+          "url": "https://t.co/r0I9sm9ySv"
+        },
+        {
+          "display_url": "pic.x.com/54y2M5Lhi7",
+          "end": 107,
+          "expanded_url": "https://x.com/BacklightTown/status/1976453147280408989/photo/1",
+          "media_key": "3_1976453139692912640",
+          "start": 84,
+          "url": "https://t.co/54y2M5Lhi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980533066314707310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976453147280408989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BacklightTown: 【分享】\n多伦多：跨性别死难者纪念日活动\n希望大家的支持，让我们不孤单\n报名链接：https://t.co/r0I9sm9ySv https://t.co/54y2M5Lhi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976453139692912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23FqKqaAAA6Lnj.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976453139692912640"
+          ],
+          "media_source_tweet_id": [
+            "1976453147280408989"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1980533066314707310",
+        "created_at": "2025-10-21T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980533066314707310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1875828440760553472",
+              "start": 3,
+              "username": "BacklightTown"
+            }
+          ],
+          "urls": [
+            {
+              "description": "报名表单",
+              "display_url": "bit.ly/TransDay1120",
+              "end": 83,
+              "expanded_url": "https://bit.ly/TransDay1120",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "跨性别死难者纪念日活动-多伦多",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfWy_Ha31frZ9Q_fmgGsICYWjLCaJWT2mvcOfxbVFYofgP7hA/viewform?usp=send_form",
+              "url": "https://t.co/r0I9sm9ySv"
+            },
+            {
+              "display_url": "pic.x.com/54y2M5Lhi7",
+              "end": 107,
+              "expanded_url": "https://x.com/BacklightTown/status/1976453147280408989/photo/1",
+              "media_key": "3_1976453139692912640",
+              "start": 84,
+              "url": "https://t.co/54y2M5Lhi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980533066314707310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976453147280408989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BacklightTown: 【分享】\n多伦多：跨性别死难者纪念日活动\n希望大家的支持，让我们不孤单\n报名链接：https://t.co/r0I9sm9ySv https://t.co/54y2M5Lhi7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976453139692912640"
+          ]
+        },
+        "author_id": "1875828440760553472",
+        "conversation_id": "1976453147280408989",
+        "created_at": "2025-10-10T01:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976453147280408989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "报名表单",
+              "display_url": "bit.ly/TransDay1120",
+              "end": 64,
+              "expanded_url": "https://bit.ly/TransDay1120",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1976453148094140416/rsl7LqkE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "跨性别死难者纪念日活动-多伦多",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfWy_Ha31frZ9Q_fmgGsICYWjLCaJWT2mvcOfxbVFYofgP7hA/viewform?usp=send_form",
+              "url": "https://t.co/r0I9sm9ySv"
+            },
+            {
+              "display_url": "pic.x.com/54y2M5Lhi7",
+              "end": 88,
+              "expanded_url": "https://x.com/BacklightTown/status/1976453147280408989/photo/1",
+              "media_key": "3_1976453139692912640",
+              "start": 65,
+              "url": "https://t.co/54y2M5Lhi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976453147280408989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【分享】\n多伦多：跨性别死难者纪念日活动\n希望大家的支持，让我们不孤单\n报名链接：https://t.co/r0I9sm9ySv https://t.co/54y2M5Lhi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1267,
+          "like_count": 7469,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 4848
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T08:55:51.000Z",
+        "description": "逆光小鎮於2016年11月在Telegram上成立，是華語圈規模最大的跨性別交流社群。\n　\n我們的社群多元包容，成員包括現居多个國家的跨性別者及酷兒、盟友(Ally)等。無論何時你都可以在群組裡探索認同，交流觀點，和取得陪伴。\n　\n歡迎點擊下方連結填寫入群申請單：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/jagHaEqpWWzwQZ…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/jagHaEqpWWzwQZHk7",
+                "start": 0,
+                "url": "https://t.co/MkTdOT4K7R"
+              }
+            ]
+          }
+        },
+        "id": "1875828440760553472",
+        "name": "Backlight Town 逆光小鎮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875828663264178176/gM3wxwML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 57,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/MkTdOT4K7R",
+        "username": "BacklightTown",
+        "verified": false
+      }
+    ]
+  }
+}

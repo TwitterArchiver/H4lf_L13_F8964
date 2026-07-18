@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1953402795660324993",
+    "created_at": "2025-08-08T04:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T05:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953673629268591090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953673629268591090",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953402795660324993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 hrt后被人开盒在业内搞炸柜，被行业明显孤立了，到头来有人还和我说别太把自己当回事，你这种小卡啦没人在乎，没人搞你，完全是你自己水平不够硬。  昨天更是听到有人说霸凌者本意是为了我好的，是传话的人太离谱。我是枯枝败叶，我应该被剪除"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1953402795660324993",
+        "created_at": "2025-08-08T04:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T05:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953673629268591090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953673629268591090",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953402795660324993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 hrt后被人开盒在业内搞炸柜，被行业明显孤立了，到头来有人还和我说别太把自己当回事，你这种小卡啦没人在乎，没人搞你，完全是你自己水平不够硬。  昨天更是听到有人说霸凌者本意是为了我好的，是传话的人太离谱。我是枯枝败叶，我应该被剪除"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1953402795660324993",
+        "created_at": "2025-08-07T10:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953402795660324993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953402795660324993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 896,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比揍人一顿更恐怖的霸凌是心理霸凌，也不打你，就孤立你，到处造你黄谣，但是由于你并没有受到物理伤害，你告谁也没用，没有人管，尤其对于高敏感人群是暴击伤害，只能活生生被折磨出一堆心理疾病，最后还要被人说是你想太多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1150,
+          "like_count": 6496,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 4397
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9600,
+          "following_count": 870,
+          "like_count": 20484,
+          "listed_count": 10,
+          "media_count": 3205,
+          "tweet_count": 20867
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1989434598544035952",
+    "created_at": "2025-11-14T20:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989434598544035952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474030573228376077",
+          "start": 3,
+          "username": "Gewehr_G36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989434598544035952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989341270452662305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gewehr_G36: 图包更新上线啦，本期的内容是明日方舟异德破翼者的袜足底特写+裸足底特写+R18色色 内容包含3份视频(两份色色1份挑逗互动)。本期内容有3份视频与28张照片附带视频小赠品 指定赞赏码20R即可解锁 同步获得本人好友位+扩列门槛粉丝群 Q号发放:3…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989434598544035952].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989434598544035952",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989434598544035952"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_1989341266237378561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uPV3ca0AEMHa6.jpg",
+        "width": 1110
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989341266535170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uPV4jawAAljtO.jpg",
+        "width": 1127
+      },
+      {
+        "height": 1670,
+        "media_key": "3_1989341266669367296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uPV5DacAASg1p.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1604,
+        "media_key": "3_1989341267105579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uPV6ragAA-eR8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989341266237378561",
+            "3_1989341266535170048",
+            "3_1989341266669367296",
+            "3_1989341267105579008"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "conversation_id": "1989341270452662305",
+        "created_at": "2025-11-14T14:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989341270452662305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJcLH14kHT",
+              "end": 179,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1989341270452662305/photo/1",
+              "media_key": "3_1989341266237378561",
+              "start": 156,
+              "url": "https://t.co/FJcLH14kHT"
+            },
+            {
+              "display_url": "pic.x.com/FJcLH14kHT",
+              "end": 179,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1989341270452662305/photo/1",
+              "media_key": "3_1989341266535170048",
+              "start": 156,
+              "url": "https://t.co/FJcLH14kHT"
+            },
+            {
+              "display_url": "pic.x.com/FJcLH14kHT",
+              "end": 179,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1989341270452662305/photo/1",
+              "media_key": "3_1989341266669367296",
+              "start": 156,
+              "url": "https://t.co/FJcLH14kHT"
+            },
+            {
+              "display_url": "pic.x.com/FJcLH14kHT",
+              "end": 179,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1989341270452662305/photo/1",
+              "media_key": "3_1989341267105579008",
+              "start": 156,
+              "url": "https://t.co/FJcLH14kHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989341270452662305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1206,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "图包更新上线啦，本期的内容是明日方舟异德破翼者的袜足底特写+裸足底特写+R18色色 内容包含3份视频(两份色色1份挑逗互动)。本期内容有3份视频与28张照片附带视频小赠品 指定赞赏码20R即可解锁 同步获得本人好友位+扩列门槛粉丝群 Q号发放:3512676920（不定期在线，更多内容可以通过更多米米赞助解锁 https://t.co/FJcLH14kHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1282,
+          "like_count": 7646,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4947
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "一般理工男，江苏省份及周边地区随机刷新｜在校大学生，非药/无糖，不沾边政治｜cos日推营业中，图包购买可以翻找往期推文内容｜接线上约拍寄拍委托，不接线下｜有点怕生，混熟的话会很好交流｜巨大娘/男娘，气味控，足控，鞋控等...｜不常驻在线...\n师傅：@RLappland  爱人：@233_2000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 125,
+                "username": "RLappland"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "233_2000"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "『塔卫二在逃魅魔』ChauChatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984635327953453058/ih9Ww4eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7153,
+          "following_count": 343,
+          "like_count": 437,
+          "listed_count": 26,
+          "media_count": 489,
+          "tweet_count": 2578
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

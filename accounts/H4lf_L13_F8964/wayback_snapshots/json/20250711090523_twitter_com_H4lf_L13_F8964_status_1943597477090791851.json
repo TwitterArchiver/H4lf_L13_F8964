@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943597465749291008"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943597477090791851",
+    "created_at": "2025-07-11T09:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T10:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943597477090791851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmIRzjoNZ3",
+          "end": 45,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1943597477090791851/photo/1",
+          "media_key": "3_1943597465749291008",
+          "start": 22,
+          "url": "https://t.co/HmIRzjoNZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943597477090791851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对后代生前的控制欲，在死后也没有任何的悔过 https://t.co/HmIRzjoNZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_1943597465749291008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkLmPRWAAAXl0i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943597465749291008"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943597477090791851",
+        "created_at": "2025-07-11T09:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943597477090791851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmIRzjoNZ3",
+              "end": 45,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1943597477090791851/photo/1",
+              "media_key": "3_1943597465749291008",
+              "start": 22,
+              "url": "https://t.co/HmIRzjoNZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943597477090791851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对后代生前的控制欲，在死后也没有任何的悔过 https://t.co/HmIRzjoNZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1114,
+          "like_count": 6297,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 4267
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

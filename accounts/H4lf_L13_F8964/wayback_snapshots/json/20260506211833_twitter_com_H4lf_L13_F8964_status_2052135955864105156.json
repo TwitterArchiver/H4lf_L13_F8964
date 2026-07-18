@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2052135955864105156",
+    "created_at": "2026-05-06T21:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T22:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052135955864105156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1561753484512612353",
+          "start": 3,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052135955864105156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051724266987728961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moutai_H_Maple: 我尊重天生左撇子的人。我明面上也反对歧视左撇子。\n但是我禁止你在别人面前使用左手，否则你就是在宣传，会影响带坏右撇子的未成年人。禁止任何书籍中出现主角使用左手的情节，否则就是在宣传左撇子。\n你自己在家里小圈子想怎么用左手怎么用左手，出来舞…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2052135955864105156",
+        "created_at": "2026-05-06T21:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052135955864105156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1561753484512612353",
+              "start": 3,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052135955864105156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051724266987728961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moutai_H_Maple: 我尊重天生左撇子的人。我明面上也反对歧视左撇子。\n但是我禁止你在别人面前使用左手，否则你就是在宣传，会影响带坏右撇子的未成年人。禁止任何书籍中出现主角使用左手的情节，否则就是在宣传左撇子。\n你自己在家里小圈子想怎么用左手怎么用左手，出来舞…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561753484512612353",
+        "conversation_id": "2051724266987728961",
+        "created_at": "2026-05-05T18:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:02:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051724143364911340",
+          "2051724266987728961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051724266987728961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 62224,
+          "like_count": 1194,
+          "quote_count": 31,
+          "reply_count": 96,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "我尊重天生左撇子的人。我明面上也反对歧视左撇子。\n但是我禁止你在别人面前使用左手，否则你就是在宣传，会影响带坏右撇子的未成年人。禁止任何书籍中出现主角使用左手的情节，否则就是在宣传左撇子。\n你自己在家里小圈子想怎么用左手怎么用左手，出来舞就是你的不对了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1448,
+          "like_count": 8879,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 5634
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。｜\n秘祈人途径，现在是放牧“记录官”和“观众”的“牧羊人”｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2049902240425742647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 246,
+          "like_count": 1727,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

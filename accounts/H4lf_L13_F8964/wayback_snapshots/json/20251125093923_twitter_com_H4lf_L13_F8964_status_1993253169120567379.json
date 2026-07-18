@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1993169050961375360",
+    "created_at": "2025-11-25T09:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993253169120567379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881002090637557760",
+          "start": 0,
+          "username": "SharuruHolmes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993253169120567379",
+    "in_reply_to_user_id": "881002090637557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993169050961375360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharuruHolmes 人很傻逼，但是标致205很好，建议不要糟蹋车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993169044879421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kor6FXsAAEtb5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1993169050961375360",
+        "created_at": "2025-11-25T09:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993253169120567379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881002090637557760",
+              "start": 0,
+              "username": "SharuruHolmes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993253169120567379",
+        "in_reply_to_user_id": "881002090637557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993169050961375360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharuruHolmes 人很傻逼，但是标致205很好，建议不要糟蹋车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993169044879421440"
+          ]
+        },
+        "author_id": "881002090637557760",
+        "conversation_id": "1993169050961375360",
+        "created_at": "2025-11-25T04:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993169050961375360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrF0vp0b3a",
+              "end": 33,
+              "expanded_url": "https://x.com/SharuruHolmes/status/1993169050961375360/photo/1",
+              "media_key": "3_1993169044879421440",
+              "start": 10,
+              "url": "https://t.co/SrF0vp0b3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993169050961375360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震撼首发之爱白妈妈 https://t.co/SrF0vp0b3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1304,
+          "like_count": 7894,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5031
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T04:10:41.000Z",
+        "description": "179 54 双鱼ENTJ男高 #智商超高 #拉爆你男友 #大孝子 #欺骗女人的事我做不到 #魅上照毁了我的卡密梦 #基拉 #沉淀 #清纯小白花 #恋爱脑 #40秒憋笑挑战 #35秒后就宣布胜利吧 #感谢L #死神感谢我 #局长是我爸 #其他人能做到吗 #你的冥字 #隔着屏薄纱杀你 #那场大雨毁了我的成神梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "智商超高"
+              },
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "拉爆你男友"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "大孝子"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "tag": "欺骗女人的事我做不到"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "tag": "魅上照毁了我的卡密梦"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "基拉"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "沉淀"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "清纯小白花"
+              },
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "恋爱脑"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "40秒憋笑挑战"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "tag": "35秒后就宣布胜利吧"
+              },
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "感谢L"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "死神感谢我"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "局长是我爸"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "其他人能做到吗"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "你的冥字"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "隔着屏薄纱杀你"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "那场大雨毁了我的成神梦"
+              }
+            ]
+          }
+        },
+        "id": "881002090637557760",
+        "location": "不在天堂亦不在地狱",
+        "name": "夜神月",
+        "pinned_tweet_id": "1695649764392546797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907933753277636608/AUgOFyXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 1019,
+          "like_count": 37620,
+          "listed_count": 7,
+          "media_count": 2930,
+          "tweet_count": 20118
+        },
+        "username": "SharuruHolmes",
+        "verified": false
+      }
+    ]
+  }
+}

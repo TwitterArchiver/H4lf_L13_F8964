@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942244484747849859",
+    "created_at": "2025-07-07T15:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942244484747849859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2689170356",
+          "start": 3,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942244484747849859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941727520585584860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshikawa_ran: 我发现最近“这个口子不能开”的话术特别流行，但没人问为什么连任的口子可以开😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942244484747849859",
+        "created_at": "2025-07-07T15:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942244484747849859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2689170356",
+              "start": 3,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942244484747849859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941727520585584860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshikawa_ran: 我发现最近“这个口子不能开”的话术特别流行，但没人问为什么连任的口子可以开😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "conversation_id": "1941727520585584860",
+        "created_at": "2025-07-06T05:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941727520585584860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/big_ear_cat/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/big_ear_cat/status/1941595905938878907",
+              "start": 39,
+              "url": "https://t.co/1AnstvIBlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941727520585584860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 37910,
+          "like_count": 511,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941595905938878907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现最近“这个口子不能开”的话术特别流行，但没人问为什么连任的口子可以开😁 https://t.co/1AnstvIBlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6238,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4238
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14829,
+          "following_count": 395,
+          "like_count": 148564,
+          "listed_count": 66,
+          "media_count": 2509,
+          "tweet_count": 25176
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1939212627265364388",
+    "created_at": "2025-06-29T06:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T07:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939212627265364388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741075170603749376",
+          "start": 3,
+          "username": "zhao_tito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939212627265364388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939082929638121855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhao_tito8964: 毒品就是革命的种子，哪里有压迫，哪里就有反抗\n当然给帝国主义侵略者做牛马的阿片类苯丙胺类就不算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1939212627265364388",
+        "created_at": "2025-06-29T06:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T07:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939212627265364388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741075170603749376",
+              "start": 3,
+              "username": "zhao_tito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939212627265364388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939082929638121855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhao_tito8964: 毒品就是革命的种子，哪里有压迫，哪里就有反抗\n当然给帝国主义侵略者做牛马的阿片类苯丙胺类就不算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "1939082929638121855",
+        "created_at": "2025-06-28T22:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T23:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939082929638121855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NOMERCYBILL/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/NOMERCYBILL/status/1939045029961703502",
+              "start": 49,
+              "url": "https://t.co/p1LzeXemIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939082929638121855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 264,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939045029961703502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毒品就是革命的种子，哪里有压迫，哪里就有反抗\n当然给帝国主义侵略者做牛马的阿片类苯丙胺类就不算了 https://t.co/p1LzeXemIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 1092,
+          "like_count": 6074,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 4173
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "混沌邪恶/超现实主义",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "南京酒吐座",
+        "pinned_tweet_id": "1939088738132320656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934097837983502336/HMSR4DK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 918,
+          "like_count": 19301,
+          "listed_count": 1,
+          "media_count": 1012,
+          "tweet_count": 12967
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

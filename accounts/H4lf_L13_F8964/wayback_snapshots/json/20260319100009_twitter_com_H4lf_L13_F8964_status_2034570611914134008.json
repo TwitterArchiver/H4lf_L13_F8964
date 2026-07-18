@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034343901709074852",
+    "created_at": "2026-03-19T10:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034570611914134008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034570611914134008",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034343901709074852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 我身体状况如今也不太能继续下去，但是家里坚信没问题，我自己也长期掏不出钱做检测。我家里就是那种觉得如果没查出病就白体检了的那种人，真没救了又给人开中药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2034343901709074852",
+        "created_at": "2026-03-19T10:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034570611914134008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034570611914134008",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034343901709074852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 我身体状况如今也不太能继续下去，但是家里坚信没问题，我自己也长期掏不出钱做检测。我家里就是那种觉得如果没查出病就白体检了的那种人，真没救了又给人开中药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2034343901709074852",
+        "created_at": "2026-03-18T18:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034343901709074852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yamawuchimisak…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Yamawuchimisaki/status/2034045236050354209",
+              "start": 35,
+              "url": "https://t.co/pwsjrPY5Hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034343901709074852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9999,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034045236050354209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传出我高中同学自杀的消息。\n擦着眼泪打电话给父母，他们让我不要学她。 https://t.co/pwsjrPY5Hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1442,
+          "like_count": 8776,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5547
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 191,
+          "like_count": 35365,
+          "listed_count": 18,
+          "media_count": 375,
+          "tweet_count": 7807
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

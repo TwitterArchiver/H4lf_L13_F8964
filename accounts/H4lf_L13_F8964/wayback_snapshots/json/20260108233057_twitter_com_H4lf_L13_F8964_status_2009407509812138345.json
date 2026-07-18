@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009249929219440640"
+      ],
+      "media_source_tweet_id": [
+        "2009249935078903952"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009407509812138345",
+    "created_at": "2026-01-08T23:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009407509812138345"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Dust Box",
+          "probability": 0.8215,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "459144099",
+          "start": 3,
+          "username": "YasPhoto"
+        },
+        {
+          "end": 43,
+          "id": "1191878063778217984",
+          "start": 27,
+          "username": "aresorekoreyuzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJiOBnJKEe",
+          "end": 67,
+          "expanded_url": "https://x.com/YasPhoto/status/2009249935078903952/photo/1",
+          "media_key": "3_2009249929219440640",
+          "start": 44,
+          "url": "https://t.co/ZJiOBnJKEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009407509812138345",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009249935078903952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YasPhoto: Dust Box\n\nM: @aresorekoreyuzu https://t.co/ZJiOBnJKEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2009249929219440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JKKkgagAAGxZ7.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009249929219440640"
+          ],
+          "media_source_tweet_id": [
+            "2009249935078903952"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009407509812138345",
+        "created_at": "2026-01-08T23:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009407509812138345"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Dust Box",
+              "probability": 0.8215,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "459144099",
+              "start": 3,
+              "username": "YasPhoto"
+            },
+            {
+              "end": 43,
+              "id": "1191878063778217984",
+              "start": 27,
+              "username": "aresorekoreyuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJiOBnJKEe",
+              "end": 67,
+              "expanded_url": "https://x.com/YasPhoto/status/2009249935078903952/photo/1",
+              "media_key": "3_2009249929219440640",
+              "start": 44,
+              "url": "https://t.co/ZJiOBnJKEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009407509812138345",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009249935078903952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YasPhoto: Dust Box\n\nM: @aresorekoreyuzu https://t.co/ZJiOBnJKEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009249929219440640"
+          ]
+        },
+        "author_id": "459144099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009249935078903952",
+        "created_at": "2026-01-08T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009249935078903952"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Dust Box",
+              "probability": 0.8075,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1191878063778217984",
+              "start": 13,
+              "username": "aresorekoreyuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJiOBnJKEe",
+              "end": 53,
+              "expanded_url": "https://x.com/YasPhoto/status/2009249935078903952/photo/1",
+              "media_key": "3_2009249929219440640",
+              "start": 30,
+              "url": "https://t.co/ZJiOBnJKEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009249935078903952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 944,
+          "impression_count": 63640,
+          "like_count": 6778,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "Dust Box\n\nM: @aresorekoreyuzu https://t.co/ZJiOBnJKEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1328,
+          "like_count": 8269,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 5211
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T10:05:00.000Z",
+        "description": "作品制作や趣味撮影、請負撮影（商用,写真集,ROM,ファンサイト,ナイトワーク等）など自由に活動しております。撮影のご依頼等については下記リンクより。 展示歴⇨闇の王展/リアポ東京、エイチ展 等々。海外コンテストOneEyeland Photography Awards Silverなど複数受賞、国内展示会でも複数受賞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yasphoto",
+                "end": 23,
+                "expanded_url": "https://lit.link/yasphoto",
+                "start": 0,
+                "url": "https://t.co/y3BB4O4R8P"
+              }
+            ]
+          }
+        },
+        "id": "459144099",
+        "location": "関東中心に飛び回ってます",
+        "name": "YAS. @エイチ展9、FPF、HKD 他",
+        "pinned_tweet_id": "1521829554373169152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089664999918776324/X1w4S-0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32042,
+          "following_count": 1367,
+          "like_count": 52036,
+          "listed_count": 229,
+          "media_count": 3531,
+          "tweet_count": 26644
+        },
+        "url": "https://t.co/y3BB4O4R8P",
+        "username": "YasPhoto",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-06T00:41:58.000Z",
+        "description": "model🐰🪢 縄好きM女の気ままな呟き/幻想縄・緊縛受け手/ポールダンス練習中/📸撮影有償/無断転載NG/情報垢▶︎@karin_yuzuki2/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "karin_yuzuki2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/307689",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/307689",
+                "start": 0,
+                "url": "https://t.co/Fb8Y59a9eL"
+              }
+            ]
+          }
+        },
+        "id": "1191878063778217984",
+        "name": "ゆずきかりんꕤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858541093476032512/RFxShZBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19766,
+          "following_count": 445,
+          "like_count": 11656,
+          "listed_count": 131,
+          "media_count": 2653,
+          "tweet_count": 18263
+        },
+        "url": "https://t.co/Fb8Y59a9eL",
+        "username": "aresorekoreyuzu",
+        "verified": true
+      }
+    ]
+  }
+}

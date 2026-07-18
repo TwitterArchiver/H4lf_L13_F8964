@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1999406734197006572",
+    "created_at": "2025-12-12T09:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999406734197006572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenntnis22/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/kenntnis22/status/1995982971602415807",
+          "start": 8,
+          "url": "https://t.co/E9DfyalO66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999406734197006572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995982971602415807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们这不好笑 https://t.co/E9DfyalO66"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1995982966418202624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Mn7ssWYAAT0Fs.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1999406734197006572",
+        "created_at": "2025-12-12T09:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999406734197006572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kenntnis22/status/1995982971602415807",
+              "start": 8,
+              "url": "https://t.co/E9DfyalO66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999406734197006572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995982971602415807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们这不好笑 https://t.co/E9DfyalO66"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995982966418202624"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1995982971602415807",
+        "created_at": "2025-12-02T22:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T23:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995982971602415807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuXVrVkE00",
+              "end": 35,
+              "expanded_url": "https://x.com/Kenntnis22/status/1995982971602415807/photo/1",
+              "media_key": "3_1995982966418202624",
+              "start": 12,
+              "url": "https://t.co/AuXVrVkE00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995982971602415807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 55024,
+          "like_count": 2320,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈 https://t.co/AuXVrVkE00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1313,
+          "like_count": 8033,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5088
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1999278159649235414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45179,
+          "following_count": 342,
+          "like_count": 37852,
+          "listed_count": 226,
+          "media_count": 7837,
+          "tweet_count": 11980
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1972301187551776797",
+    "created_at": "2025-09-28T14:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T15:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972301187551776797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663370977387114502",
+          "start": 3,
+          "username": "CyberMakhn0"
+        },
+        {
+          "end": 28,
+          "id": "1706612962168070144",
+          "start": 17,
+          "username": "langheying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972301187551776797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972233974836867089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberMakhn0: @langheying 我只看到符号的堆砌和换皮粉红"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1972301187551776797",
+        "created_at": "2025-09-28T14:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972301187551776797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663370977387114502",
+              "start": 3,
+              "username": "CyberMakhn0"
+            },
+            {
+              "end": 28,
+              "id": "1706612962168070144",
+              "start": 17,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972301187551776797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972233974836867089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberMakhn0: @langheying 我只看到符号的堆砌和换皮粉红"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663370977387114502",
+        "conversation_id": "1971601077155025086",
+        "created_at": "2025-09-28T09:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972233974836867089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706612962168070144",
+              "start": 0,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972233974836867089",
+        "in_reply_to_user_id": "1706612962168070144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971601077155025086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langheying 我只看到符号的堆砌和换皮粉红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1221,
+          "like_count": 7115,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4676
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T02:25:31.000Z",
+        "description": "太阳需要鲜血才能升起，革命需要牺牲才能成功",
+        "id": "1663370977387114502",
+        "name": "抱着桶滚来滚去的第欧根尼狐🦊🍥",
+        "pinned_tweet_id": "1745253038993166443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898759723417296896/SkHKpPLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 375,
+          "like_count": 29336,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3291
+        },
+        "username": "CyberMakhn0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1959130278301245635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1127,
+          "like_count": 3227,
+          "listed_count": 2,
+          "media_count": 595,
+          "tweet_count": 1963
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

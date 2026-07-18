@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938945553322110976"
+      ],
+      "media_source_tweet_id": [
+        "1938945567859884241"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1939299090527031478",
+    "created_at": "2025-06-29T12:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939299090527031478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803458141134139392",
+          "start": 3,
+          "username": "redmai1968"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SmGTP0BuK",
+          "end": 45,
+          "expanded_url": "https://x.com/redmai1968/status/1938945567859884241/photo/1",
+          "media_key": "3_1938945553322110976",
+          "start": 22,
+          "url": "https://t.co/8SmGTP0BuK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939299090527031478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938945567859884241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @redmai1968: 永久停業。 https://t.co/8SmGTP0BuK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1938945553322110976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiEtTCWcAA81C-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938945553322110976"
+          ],
+          "media_source_tweet_id": [
+            "1938945567859884241"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1939299090527031478",
+        "created_at": "2025-06-29T12:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939299090527031478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803458141134139392",
+              "start": 3,
+              "username": "redmai1968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SmGTP0BuK",
+              "end": 45,
+              "expanded_url": "https://x.com/redmai1968/status/1938945567859884241/photo/1",
+              "media_key": "3_1938945553322110976",
+              "start": 22,
+              "url": "https://t.co/8SmGTP0BuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939299090527031478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938945567859884241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @redmai1968: 永久停業。 https://t.co/8SmGTP0BuK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938945553322110976"
+          ]
+        },
+        "author_id": "1803458141134139392",
+        "conversation_id": "1938945567859884241",
+        "created_at": "2025-06-28T13:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938945567859884241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SmGTP0BuK",
+              "end": 29,
+              "expanded_url": "https://x.com/redmai1968/status/1938945567859884241/photo/1",
+              "media_key": "3_1938945553322110976",
+              "start": 6,
+              "url": "https://t.co/8SmGTP0BuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938945567859884241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17978,
+          "like_count": 324,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "永久停業。 https://t.co/8SmGTP0BuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 1097,
+          "like_count": 6105,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 4181
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T16:01:56.000Z",
+        "description": "它们在自己無限厷伟的目標面前，再三往後退卻，一直到形成無路可退的情況時為止。到那時，生活本身会大殸喊道：這里有玫瑰花，就在這里起舞吧！左翼泛亜主義 / 軌道交通 / 法左 / 都巿研究 / 文化 · 後殖民理論 / 幌筵泊地 /🌹/ 二号机： @Autumncaldo1970",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "Autumncaldo1970"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newleftreview.org",
+                "end": 23,
+                "expanded_url": "http://newleftreview.org",
+                "start": 0,
+                "url": "https://t.co/rTscNnnbWc"
+              }
+            ]
+          }
+        },
+        "id": "1803458141134139392",
+        "location": "吹彐丸宇宙往還機  近地軌道",
+        "name": "遊牧民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935408095540174848/4YvnVh9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 869,
+          "like_count": 20054,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/rTscNnnbWc",
+        "username": "redmai1968",
+        "verified": false
+      }
+    ]
+  }
+}

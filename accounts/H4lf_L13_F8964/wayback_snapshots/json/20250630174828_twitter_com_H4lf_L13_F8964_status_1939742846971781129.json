@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1939634109569175750",
+    "created_at": "2025-06-30T17:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T18:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939742846971781129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "shina_makotsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939742846971781129",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939634109569175750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shina_makotsu 你自己其实很清楚，但是大家都没有办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1939634109569175750",
+        "created_at": "2025-06-30T17:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T18:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939742846971781129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "shina_makotsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939742846971781129",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939634109569175750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shina_makotsu 你自己其实很清楚，但是大家都没有办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468416451208179712",
+        "conversation_id": "1939634109569175750",
+        "created_at": "2025-06-30T10:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939634109569175750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939634109569175750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "循环正在一遍又一遍上演……\n我应该怎么斩断它呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1104,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 4185
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n爱人 @Shina_Kaede & @shizunyan_\n微信公众号 mako",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ANQNKNy"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "Shina_Kaede"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "shizunyan_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 52,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 29,
+                "url": "https://t.co/P1XBuGxUJO"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 81,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 58,
+                "url": "https://t.co/d7W8od16Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuScjJA"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫楓·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915,
+          "following_count": 725,
+          "like_count": 4996,
+          "listed_count": 23,
+          "media_count": 699,
+          "tweet_count": 21457
+        },
+        "url": "https://t.co/FWQxuScjJA",
+        "username": "shina_makotsu",
+        "verified": false
+      }
+    ]
+  }
+}

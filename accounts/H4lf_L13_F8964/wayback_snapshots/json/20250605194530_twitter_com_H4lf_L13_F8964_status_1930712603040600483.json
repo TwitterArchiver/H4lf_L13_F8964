@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930580334590214145",
+        "3_1930580334577618944",
+        "3_1930580334577631232",
+        "3_1930580334586019840"
+      ],
+      "media_source_tweet_id": [
+        "1930580342307758589",
+        "1930580342307758589",
+        "1930580342307758589",
+        "1930580342307758589"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1930712603040600483",
+    "created_at": "2025-06-05T19:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T20:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930712603040600483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "Anastasia195113"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEijWeuJGI",
+          "end": 73,
+          "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+          "media_key": "3_1930580334590214145",
+          "start": 50,
+          "url": "https://t.co/hEijWeuJGI"
+        },
+        {
+          "display_url": "pic.x.com/hEijWeuJGI",
+          "end": 73,
+          "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+          "media_key": "3_1930580334577618944",
+          "start": 50,
+          "url": "https://t.co/hEijWeuJGI"
+        },
+        {
+          "display_url": "pic.x.com/hEijWeuJGI",
+          "end": 73,
+          "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+          "media_key": "3_1930580334577631232",
+          "start": 50,
+          "url": "https://t.co/hEijWeuJGI"
+        },
+        {
+          "display_url": "pic.x.com/hEijWeuJGI",
+          "end": 73,
+          "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+          "media_key": "3_1930580334586019840",
+          "start": 50,
+          "url": "https://t.co/hEijWeuJGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930712603040600483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930580342307758589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anastasia195113: 老图新发之炒冷饭x\n变得更可爱更好看的话会有人喜欢我嘛… https://t.co/hEijWeuJGI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930712603040600483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930712603040600483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930712603040600483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1930580334590214145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrMle2awAE5qeR.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1930580334577618944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrMlezakAAIXk7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1930580334577631232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrMlezawAAcmB4.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1930580334586019840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrMle1awAAFtGl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930580334590214145",
+            "3_1930580334577618944",
+            "3_1930580334577631232",
+            "3_1930580334586019840"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "1930580342307758589",
+        "created_at": "2025-06-05T10:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930580342307758589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEijWeuJGI",
+              "end": 52,
+              "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+              "media_key": "3_1930580334590214145",
+              "start": 29,
+              "url": "https://t.co/hEijWeuJGI"
+            },
+            {
+              "display_url": "pic.x.com/hEijWeuJGI",
+              "end": 52,
+              "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+              "media_key": "3_1930580334577618944",
+              "start": 29,
+              "url": "https://t.co/hEijWeuJGI"
+            },
+            {
+              "display_url": "pic.x.com/hEijWeuJGI",
+              "end": 52,
+              "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+              "media_key": "3_1930580334577631232",
+              "start": 29,
+              "url": "https://t.co/hEijWeuJGI"
+            },
+            {
+              "display_url": "pic.x.com/hEijWeuJGI",
+              "end": 52,
+              "expanded_url": "https://x.com/Anastasia195113/status/1930580342307758589/photo/1",
+              "media_key": "3_1930580334586019840",
+              "start": 29,
+              "url": "https://t.co/hEijWeuJGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930580342307758589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2130,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "老图新发之炒冷饭x\n变得更可爱更好看的话会有人喜欢我嘛… https://t.co/hEijWeuJGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1018,
+          "like_count": 5415,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 3880
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。04年跨女，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQn60F 恋人@Sorsacerba ，家人@emiya436900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "emiya436900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 57,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 34,
+                "url": "https://t.co/FqhYHQn60F"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 1452,
+          "like_count": 46732,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 24043
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

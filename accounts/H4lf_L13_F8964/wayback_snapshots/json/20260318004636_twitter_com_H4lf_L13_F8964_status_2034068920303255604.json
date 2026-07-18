@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034068920303255604",
+    "created_at": "2026-03-18T00:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034068920303255604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034068920303255604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033925733136183344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 湘雅医院被逼自杀的研究生。\n永远不要忘记暴力和反抗。\n她太善良了啊，善良到死之前还想着“夜班的后续病人”。\n可是，善良的人就活该被欺负吗？\n恶人总是欺软怕硬的。\n导师总要走夜路的吧？有家人，有孩子吧？接小孩放学，好好“关心”一下，让导师…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033925715670994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDn0qYYaEAAWXd9.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2034068920303255604",
+        "created_at": "2026-03-18T00:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034068920303255604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034068920303255604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033925733136183344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 湘雅医院被逼自杀的研究生。\n永远不要忘记暴力和反抗。\n她太善良了啊，善良到死之前还想着“夜班的后续病人”。\n可是，善良的人就活该被欺负吗？\n恶人总是欺软怕硬的。\n导师总要走夜路的吧？有家人，有孩子吧？接小孩放学，好好“关心”一下，让导师…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033925715670994944"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2033925733136183344",
+        "created_at": "2026-03-17T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033925733136183344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AchN2Ka093",
+              "end": 149,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2033925733136183344/photo/1",
+              "media_key": "3_2033925715670994944",
+              "start": 126,
+              "url": "https://t.co/AchN2Ka093"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033925733136183344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "湘雅医院被逼自杀的研究生。\n永远不要忘记暴力和反抗。\n她太善良了啊，善良到死之前还想着“夜班的后续病人”。\n可是，善良的人就活该被欺负吗？\n恶人总是欺软怕硬的。\n导师总要走夜路的吧？有家人，有孩子吧？接小孩放学，好好“关心”一下，让导师体验一下温暖。\n又或者，匕首、刨锛、榔头，无论是腹部还是后脑，都能让这个禽兽导师永远长眠。再不济，植物人，终身残疾。\n再或者，没有力气去动手，往导师的饮水机里下点东西？给禽兽导师送点下毒的礼物？\n哪怕是退学，重新开始，然后记住导师的名字，只要有机会就举报呢？\n死刑和自杀都是去死呀。\n如果是我，我一定会报复。因为我不能容忍任何人凌驾在我的头上，践踏我的人格。\n我曾经暴打了试图那样做的同事，因此丢了工作，陷入了困境，但我从不后悔。\n再给我一次机会，我还会打。\n这种事情，有第一次，就会有无数次。所以必须要坚决捍卫自己的边界。\n比如有人故意和别人嘲讽我穿着打扮“不男不女”的，我的选择是故意把餐盘洒在他白色的衬衫上。\n比如在背后，用砖头砸了带头霸凌我的同学。当面打不过，但是总有落单的时候。\n比如举报了在学校期间，因为我穿裙子而约谈我的劳保领导。以后还会举报，只要他没退休，就一直举报。\n没有学生应该被导师当作奴隶一样虐待。\n我不希望再看见这样善良温柔的人默默的死去了。\n所以，要去反抗。\n如果被指责为恶人，那就是恶人吧，我怙恶不悛，罪孽深重。\n但我为自己而活，我虽然不优秀、我虽然不聪明，可我有尊严和骄傲。\n我为自己保护的人而活，保护好贫穷、家暴、性侵的受害者，对欺压者亮出锋芒。\n我为千千万万个和我一样被歧视和压迫的人而活，我们努力的活着，我们保护着自己的希望和良知，我们坚持着自己的勇气和信念。\n一定要去反抗呀！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1251,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "湘雅医院被逼自杀的研究生。\n永远不要忘记暴力和反抗。\n她太善良了啊，善良到死之前还想着“夜班的后续病人”。\n可是，善良的人就活该被欺负吗？\n恶人总是欺软怕硬的。\n导师总要走夜路的吧？有家人，有孩子吧？接小孩放学，好好“关心”一下，让导师体验一下温暖。 https://t.co/AchN2Ka093"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 1437,
+          "like_count": 8757,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 5530
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "1876899277319852517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 2042,
+          "like_count": 26962,
+          "listed_count": 10,
+          "media_count": 143,
+          "tweet_count": 6716
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

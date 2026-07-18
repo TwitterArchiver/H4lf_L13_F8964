@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930582284261818368",
+        "3_1930582285109092352"
+      ],
+      "media_source_tweet_id": [
+        "1930582296232395103",
+        "1930582296232395103"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1930709189795664024",
+    "created_at": "2025-06-05T19:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T20:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930709189795664024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "780002448526106624",
+          "start": 3,
+          "username": "xcbcQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZ9SDkt7oA",
+          "end": 56,
+          "expanded_url": "https://x.com/xcbcQAQ/status/1930582296232395103/photo/1",
+          "media_key": "3_1930582284261818368",
+          "start": 33,
+          "url": "https://t.co/rZ9SDkt7oA"
+        },
+        {
+          "display_url": "pic.x.com/rZ9SDkt7oA",
+          "end": 56,
+          "expanded_url": "https://x.com/xcbcQAQ/status/1930582296232395103/photo/1",
+          "media_key": "3_1930582285109092352",
+          "start": 33,
+          "url": "https://t.co/rZ9SDkt7oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930709189795664024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930582296232395103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xcbcQAQ: 都不爱看主包发健全的cos那就发点锁😡 https://t.co/rZ9SDkt7oA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930709189795664024].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930709189795664024",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930709189795664024"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930582284261818368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrOW98WgAASUd0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930582285109092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrOXBGW4AAj1M8.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930582284261818368",
+            "3_1930582285109092352"
+          ]
+        },
+        "author_id": "780002448526106624",
+        "conversation_id": "1930582296232395103",
+        "created_at": "2025-06-05T11:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930582296232395103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZ9SDkt7oA",
+              "end": 43,
+              "expanded_url": "https://x.com/xcbcQAQ/status/1930582296232395103/photo/1",
+              "media_key": "3_1930582284261818368",
+              "start": 20,
+              "url": "https://t.co/rZ9SDkt7oA"
+            },
+            {
+              "display_url": "pic.x.com/rZ9SDkt7oA",
+              "end": 43,
+              "expanded_url": "https://x.com/xcbcQAQ/status/1930582296232395103/photo/1",
+              "media_key": "3_1930582285109092352",
+              "start": 20,
+              "url": "https://t.co/rZ9SDkt7oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930582296232395103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3471,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "都不爱看主包发健全的cos那就发点锁😡 https://t.co/rZ9SDkt7oA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1851784486293295547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1018,
+          "like_count": 5408,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 3877
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-25T11:14:10.000Z",
+        "description": "男的 176/47 偶尔发点微博不能发的\n是Ph.D\n不需要投喂 想看什么跟我说就好 只有X和wb两个账号没有其他平台\nwb→https://t.co/pPlGfG1yvS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/hkhlhwh",
+                "end": 86,
+                "expanded_url": "http://weibo.com/hkhlhwh",
+                "start": 63,
+                "url": "https://t.co/pPlGfG1yvS"
+              }
+            ]
+          }
+        },
+        "id": "780002448526106624",
+        "location": "United Kingdom",
+        "name": "小翅膀厨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650899806506696707/kYaTFXfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11140,
+          "following_count": 447,
+          "like_count": 1477,
+          "listed_count": 72,
+          "media_count": 62,
+          "tweet_count": 440
+        },
+        "username": "xcbcQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

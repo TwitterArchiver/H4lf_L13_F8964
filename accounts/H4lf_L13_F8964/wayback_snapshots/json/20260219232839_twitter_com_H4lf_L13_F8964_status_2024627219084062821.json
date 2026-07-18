@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2024627219084062821",
+    "created_at": "2026-02-19T23:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T00:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024627219084062821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993413274373963779",
+          "start": 3,
+          "username": "johneylee3"
+        },
+        {
+          "end": 31,
+          "id": "44186175",
+          "start": 16,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024627219084062821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024492140714144174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johneylee3: @xiaojingcanxue 双方在西雅图768路大公共中展开枪战，牢A手持绿色红缨枪，炉比奥手持蓝色红缨枪，瓦西里手持红色绿缨枪，黄河边手持绿色绿缨枪，几人在缨子打得仅剩两个毛穗儿的情况下，互殴狂战两小时，直打得每一站的stop按钮都被按下了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2024627219084062821",
+        "created_at": "2026-02-19T23:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T00:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024627219084062821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993413274373963779",
+              "start": 3,
+              "username": "johneylee3"
+            },
+            {
+              "end": 31,
+              "id": "44186175",
+              "start": 16,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024627219084062821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024492140714144174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johneylee3: @xiaojingcanxue 双方在西雅图768路大公共中展开枪战，牢A手持绿色红缨枪，炉比奥手持蓝色红缨枪，瓦西里手持红色绿缨枪，黄河边手持绿色绿缨枪，几人在缨子打得仅剩两个毛穗儿的情况下，互殴狂战两小时，直打得每一站的stop按钮都被按下了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993413274373963779",
+        "conversation_id": "2024430748548346052",
+        "created_at": "2026-02-19T14:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024492140714144174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024492140714144174",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024430748548346052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 双方在西雅图768路大公共中展开枪战，牢A手持绿色红缨枪，炉比奥手持蓝色红缨枪，瓦西里手持红色绿缨枪，黄河边手持绿色绿缨枪，几人在缨子打得仅剩两个毛穗儿的情况下，互殴狂战两小时，直打得每一站的stop按钮都被按下了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1404,
+          "like_count": 8661,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5415
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T20:15:55.000Z",
+        "description": "过期的事实接近真相，新鲜的现象都是妄想",
+        "id": "1993413274373963779",
+        "location": "捷克",
+        "name": "过期新闻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430168824610818/ttVHz62J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 122,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1263
+        },
+        "username": "johneylee3",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236892,
+          "following_count": 1847,
+          "like_count": 190,
+          "listed_count": 1269,
+          "media_count": 27890,
+          "tweet_count": 35670
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

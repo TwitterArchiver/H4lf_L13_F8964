@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1586040452628721664",
+          "name": "Slice of life"
+        }
+      }
+    ],
+    "conversation_id": "2018472624138207632",
+    "created_at": "2026-02-02T23:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018472624138207632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanineko_anime…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yanineko_anime/status/2017976662919639491",
+          "start": 5,
+          "url": "https://t.co/cRagn4bCI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018472624138207632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017976662919639491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好👍开抽 https://t.co/cRagn4bCI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87003,
+        "height": 1080,
+        "media_key": "13_2017976202787729408",
+        "preview_image_url": "https://pbs.twimg.com/media/HAFK7eIasAAi8vx.jpg",
+        "public_metrics": {
+          "view_count": 572916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017976202787729408/vid/avc1/1920x1080/tjVE7ZLBdAx2a17M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017976202787729408/vid/avc1/640x360/L22Me2difdmkKHxN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017976202787729408/vid/avc1/1280x720/-UdlRYzNuD95Mas6.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017976202787729408/vid/avc1/480x270/aWfXGPiOyocVfbCB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017976202787729408/pl/F-p_y83Cepp1gUk8.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          }
+        ],
+        "conversation_id": "2018472624138207632",
+        "created_at": "2026-02-02T23:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018472624138207632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanineko_anime…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yanineko_anime/status/2017976662919639491",
+              "start": 5,
+              "url": "https://t.co/cRagn4bCI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018472624138207632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017976662919639491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好👍开抽 https://t.co/cRagn4bCI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017976202787729408"
+          ]
+        },
+        "author_id": "2005665551608414208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          }
+        ],
+        "conversation_id": "2017976662919639491",
+        "created_at": "2026-02-01T15:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017976662919639491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "#ヤニねこ",
+              "probability": 0.7364,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "夏吉ゆうこ"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "金なし！生活力なし！ろくでなし！なんだか憎めないクズねこたちがおくる、ヤニまみれな日常がTVアニメ化決定！TVアニメ『ヤニねこ』2026年7月からTOKYO MXほかにて放送開始！▷公式サイト：https://yanineko-anime.com▷公式X：https://x.com/yanineko_anime推...",
+              "display_url": "youtu.be/7tfxuLFVu7o",
+              "end": 79,
+              "expanded_url": "https://youtu.be/7tfxuLFVu7o",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2017976666895818753/aK5epYHv?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017976666895818753/aK5epYHv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "TVアニメ『ヤニねこ』ティザーPV｜2026年7月からTOKYO MXほかにて放送開始！",
+              "unwound_url": "https://www.youtube.com/watch?v=7tfxuLFVu7o&feature=youtu.be",
+              "url": "https://t.co/6xGoSwDpjX"
+            },
+            {
+              "description": "TVアニメ『ヤニねこ』2026年7月からTOKYO MXほかにて放送開始",
+              "display_url": "yanineko-anime.com",
+              "end": 180,
+              "expanded_url": "https://yanineko-anime.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2017976708113264640/1DkRljZk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017976708113264640/1DkRljZk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 157,
+              "status": 200,
+              "title": "TVアニメ『ヤニねこ』公式サイト",
+              "unwound_url": "https://yanineko-anime.com",
+              "url": "https://t.co/2lQObid0PT"
+            },
+            {
+              "display_url": "pic.x.com/THWeikTfL2",
+              "end": 204,
+              "expanded_url": "https://x.com/yanineko_anime/status/2017976662919639491/video/1",
+              "media_key": "13_2017976202787729408",
+              "start": 181,
+              "url": "https://t.co/THWeikTfL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017976662919639491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2401,
+          "impression_count": 2102085,
+          "like_count": 16685,
+          "quote_count": 1175,
+          "reply_count": 171,
+          "retweet_count": 7424
+        },
+        "reply_settings": "everyone",
+        "text": "ティザーPV公開！\n￣V￣￣￣￣￣￣￣\n🚬\n\nアニメ映像＆ヤニねこのボイス(cv. #夏吉ゆうこ)を初公開！\n\nhttps://t.co/6xGoSwDpjX\n\n金なし！生活力なし！ろくでなし！\nヤニまみれな日常をゆる〜く見守ってください🐾\n\nTVアニメ『#ヤニねこ』\n7月からTOKYO MXほかにて放送開始！\nhttps://t.co/2lQObid0PT https://t.co/THWeikTfL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1359,
+          "like_count": 8410,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 5288
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T15:41:51.000Z",
+        "description": "2026年7月からTOKYO MXほかにてTVアニメ放送開始予定！\nTVアニメ『ヤニねこ』公式アカウントです。\n\nなんだか憎めないクズねこたちがおくる、\nヤニまみれな日常をゆる〜く見守ってください🚬\n\n推奨ハッシュタグ：#ヤニねこ\n原作無料公開中！：https://t.co/xNBE2tUwM1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "ヤニねこ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yanmaga.jp/comics/%E3%83%…",
+                "end": 148,
+                "expanded_url": "https://yanmaga.jp/comics/%E3%83%A4%E3%83%8B%E3%81%AD%E3%81%93",
+                "start": 125,
+                "url": "https://t.co/xNBE2tUwM1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanineko-anime.com",
+                "end": 23,
+                "expanded_url": "https://yanineko-anime.com",
+                "start": 0,
+                "url": "https://t.co/aiPgBsSiM3"
+              }
+            ]
+          }
+        },
+        "id": "2005665551608414208",
+        "name": "「ヤニねこ」TVアニメ公式",
+        "pinned_tweet_id": "2017977540326097059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017975101900337152/MoyGytJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7989,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 47,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/aiPgBsSiM3",
+        "username": "yanineko_anime",
+        "verified": true
+      }
+    ]
+  }
+}

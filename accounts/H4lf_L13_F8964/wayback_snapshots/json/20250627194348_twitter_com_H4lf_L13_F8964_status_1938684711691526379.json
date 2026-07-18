@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937508260250288128"
+      ],
+      "media_source_tweet_id": [
+        "1937508273726648807"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938684711691526379",
+    "created_at": "2025-06-27T19:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938684711691526379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1046699459667607552",
+          "start": 3,
+          "username": "Suertee34"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TNgkkQQqY6",
+          "end": 38,
+          "expanded_url": "https://x.com/Suertee34/status/1937508273726648807/photo/1",
+          "media_key": "3_1937508260250288128",
+          "start": 15,
+          "url": "https://t.co/TNgkkQQqY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938684711691526379",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937508273726648807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suertee34: https://t.co/TNgkkQQqY6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938684711691526379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938684711691526379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938684711691526379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1937508260250288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNpf1GagAAgF81.jpg",
+        "width": 2835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937508260250288128"
+          ]
+        },
+        "author_id": "1046699459667607552",
+        "conversation_id": "1937507888509124676",
+        "created_at": "2025-06-24T13:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937508273726648807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNgkkQQqY6",
+              "end": 23,
+              "expanded_url": "https://x.com/Suertee34/status/1937508273726648807/photo/1",
+              "media_key": "3_1937508260250288128",
+              "start": 0,
+              "url": "https://t.co/TNgkkQQqY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937508273726648807",
+        "in_reply_to_user_id": "1046699459667607552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 36282,
+          "like_count": 1499,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937507888509124676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/TNgkkQQqY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1088,
+          "like_count": 6006,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4130
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T09:52:52.000Z",
+        "description": "🔞\nフリーランスのイラストレーターFreelancer\nイラストIllustration contact: Suerte3490@gmail.com :)\n\nhttps://t.co/UC6Ah58xWq\nhttps://t.co/w8azkIu6I9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6500352",
+                "end": 102,
+                "expanded_url": "http://pixiv.net/users/6500352",
+                "start": 79,
+                "url": "https://t.co/UC6Ah58xWq"
+              },
+              {
+                "display_url": "artstation.com/sue_artstation",
+                "end": 126,
+                "expanded_url": "http://artstation.com/sue_artstation",
+                "start": 103,
+                "url": "https://t.co/w8azkIu6I9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/suerte3490",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/suerte3490",
+                "start": 0,
+                "url": "https://t.co/2IzRQStKwv"
+              }
+            ]
+          }
+        },
+        "id": "1046699459667607552",
+        "name": "Sueスーエ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745955789481902081/txlk3_3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155105,
+          "following_count": 2719,
+          "like_count": 17569,
+          "listed_count": 1217,
+          "media_count": 218,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/2IzRQStKwv",
+        "username": "Suertee34",
+        "verified": true
+      }
+    ]
+  }
+}

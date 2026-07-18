@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932529580260442302",
+    "created_at": "2025-06-10T20:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T21:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932530513216221609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "972414540510932994",
+          "start": 0,
+          "username": "GymnoCerise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932530513216221609",
+    "in_reply_to_user_id": "972414540510932994",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932529580260442302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GymnoCerise 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932529556877172737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtG5ZJubYAEGDZr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932529580260442302",
+        "created_at": "2025-06-10T20:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932530513216221609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "972414540510932994",
+              "start": 0,
+              "username": "GymnoCerise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932530513216221609",
+        "in_reply_to_user_id": "972414540510932994",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932529580260442302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GymnoCerise 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932529556877172737"
+          ]
+        },
+        "author_id": "972414540510932994",
+        "conversation_id": "1932529580260442302",
+        "created_at": "2025-06-10T20:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932529580260442302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYmgkIq8ZV",
+              "end": 30,
+              "expanded_url": "https://x.com/GymnoCerise/status/1932529580260442302/photo/1",
+              "media_key": "3_1932529556877172737",
+              "start": 7,
+              "url": "https://t.co/YYmgkIq8ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932529580260442302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 83,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "满眼都是🥛啊 https://t.co/YYmgkIq8ZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1046,
+          "like_count": 5579,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3957
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T10:11:07.000Z",
+        "description": "▷ 图集入手樱桃快乐屋 https://t.co/vk4Aw1N27B 想起来就更更▷奶1也是1▷捆工（最近不想约绳▷Switch▷不接推广🚪666",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/lnvhL5nJ",
+                "end": 35,
+                "expanded_url": "https://k.youshop10.com/lnvhL5nJ",
+                "start": 12,
+                "url": "https://t.co/vk4Aw1N27B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/lnvhL5nJ",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/lnvhL5nJ",
+                "start": 0,
+                "url": "https://t.co/vk4Aw1N27B"
+              }
+            ]
+          }
+        },
+        "id": "972414540510932994",
+        "name": "Cerise",
+        "pinned_tweet_id": "1215996242443919360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128968609332486144/5Z-bBXCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94790,
+          "following_count": 443,
+          "like_count": 518,
+          "listed_count": 507,
+          "media_count": 290,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/vk4Aw1N27B",
+        "username": "GymnoCerise",
+        "verified": false
+      }
+    ]
+  }
+}

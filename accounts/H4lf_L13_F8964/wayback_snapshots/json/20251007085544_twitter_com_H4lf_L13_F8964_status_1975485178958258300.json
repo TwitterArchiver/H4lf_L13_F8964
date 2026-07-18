@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1975426046687388105",
+    "created_at": "2025-10-07T08:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T09:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975485178958258300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902156645225889792",
+          "start": 0,
+          "username": "xiaozi002127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975485178958258300",
+    "in_reply_to_user_id": "1902156645225889792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975426046687388105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozi002127 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1975426037225037828",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ofg7zbIAQWpM3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1975426037225037830",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ofg7zbIAYsWSa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1975426046687388105",
+        "created_at": "2025-10-07T08:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975485178958258300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902156645225889792",
+              "start": 0,
+              "username": "xiaozi002127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975485178958258300",
+        "in_reply_to_user_id": "1902156645225889792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975426046687388105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozi002127 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975426037225037828",
+            "3_1975426037225037830"
+          ]
+        },
+        "author_id": "1902156645225889792",
+        "conversation_id": "1975426046687388105",
+        "created_at": "2025-10-07T05:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975426046687388105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmKmzS4Bj8",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaozi002127/status/1975426046687388105/photo/1",
+              "media_key": "3_1975426037225037828",
+              "start": 0,
+              "url": "https://t.co/cmKmzS4Bj8"
+            },
+            {
+              "display_url": "pic.x.com/cmKmzS4Bj8",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaozi002127/status/1975426046687388105/photo/1",
+              "media_key": "3_1975426037225037830",
+              "start": 0,
+              "url": "https://t.co/cmKmzS4Bj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975426046687388105",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 747,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cmKmzS4Bj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1229,
+          "like_count": 7224,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 4723
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T00:34:27.000Z",
+        "description": "我是小蜘，身高170cm体重50kg左右的可爱，日常分享\n药娘/黑皮/sub/上海",
+        "id": "1902156645225889792",
+        "location": "🚪88/288/1314/2500",
+        "name": "蜘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970153023679979520/8ivr5dlq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 110,
+          "like_count": 85,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "username": "xiaozi002127",
+        "verified": false
+      }
+    ]
+  }
+}

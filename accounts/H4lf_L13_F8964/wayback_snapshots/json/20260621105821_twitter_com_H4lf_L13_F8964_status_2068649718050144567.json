@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2068649718050144567",
+    "created_at": "2026-06-21T10:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068649718050144567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068649718050144567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068326727798194228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 但话又说回来，用“女权就是平权”来对抗所谓特权的指控也是差不多的无力。这里需要再请出来寺田浩明重申一遍汉文化的法秩序里根本没有“权利”观念的问题，特权指控这个语境中的“平权”实际上指的是“保持现状不动”甚至“退回原先的状态”。平不是指平等或公…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2068649718050144567",
+        "created_at": "2026-06-21T10:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068649718050144567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068649718050144567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068326727798194228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 但话又说回来，用“女权就是平权”来对抗所谓特权的指控也是差不多的无力。这里需要再请出来寺田浩明重申一遍汉文化的法秩序里根本没有“权利”观念的问题，特权指控这个语境中的“平权”实际上指的是“保持现状不动”甚至“退回原先的状态”。平不是指平等或公…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2068326727798194228",
+        "created_at": "2026-06-20T13:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068326727798194228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nevernessian/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Nevernessian/status/2068216752421621888",
+              "start": 142,
+              "url": "https://t.co/xfXUSWNc3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068326727798194228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068216752421621888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但话又说回来，用“女权就是平权”来对抗所谓特权的指控也是差不多的无力。这里需要再请出来寺田浩明重申一遍汉文化的法秩序里根本没有“权利”观念的问题，特权指控这个语境中的“平权”实际上指的是“保持现状不动”甚至“退回原先的状态”。平不是指平等或公平（普通法的衡平），而是礼教的情理平衡。 https://t.co/xfXUSWNc3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 1448,
+          "like_count": 8885,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 5658
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 94,
+          "like_count": 6108,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 7067
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1998818431903347177",
+    "created_at": "2025-12-10T18:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T19:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998818431903347177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1998331607250317331",
+          "start": 50,
+          "url": "https://t.co/NZCRPEyaDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998818431903347177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998331607250317331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得当时发明了一堆新词，党媒很辩证的表达出了covid可以通过网络传播，用来给基站定位健康码洗地 https://t.co/NZCRPEyaDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1998331568713314305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7t_-WCbMAEwwho.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1998818431903347177",
+        "created_at": "2025-12-10T18:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998818431903347177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1998331607250317331",
+              "start": 50,
+              "url": "https://t.co/NZCRPEyaDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998818431903347177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998331607250317331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得当时发明了一堆新词，党媒很辩证的表达出了covid可以通过网络传播，用来给基站定位健康码洗地 https://t.co/NZCRPEyaDR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998331568713314305"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1998331607250317331",
+        "created_at": "2025-12-09T09:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998331607250317331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AjVhNnlDP",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1998331607250317331/photo/1",
+              "media_key": "3_1998331568713314305",
+              "start": 0,
+              "url": "https://t.co/9AjVhNnlDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998331607250317331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 346070,
+          "like_count": 936,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9AjVhNnlDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1319,
+          "like_count": 8025,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5086
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28943,
+          "following_count": 361,
+          "like_count": 62,
+          "listed_count": 86,
+          "media_count": 8474,
+          "tweet_count": 8503
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

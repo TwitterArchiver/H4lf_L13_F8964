@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977158353416556544",
+        "3_1977158353420689408",
+        "3_1977158353429127168",
+        "3_1977158353450045440"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977158409645703259",
+    "created_at": "2025-10-11T23:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T00:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977158409645703259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1AKqaDjCp",
+          "end": 169,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+          "media_key": "3_1977158353416556544",
+          "start": 146,
+          "url": "https://t.co/Q1AKqaDjCp"
+        },
+        {
+          "display_url": "pic.x.com/Q1AKqaDjCp",
+          "end": 169,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+          "media_key": "3_1977158353420689408",
+          "start": 146,
+          "url": "https://t.co/Q1AKqaDjCp"
+        },
+        {
+          "display_url": "pic.x.com/Q1AKqaDjCp",
+          "end": 169,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+          "media_key": "3_1977158353429127168",
+          "start": 146,
+          "url": "https://t.co/Q1AKqaDjCp"
+        },
+        {
+          "display_url": "pic.x.com/Q1AKqaDjCp",
+          "end": 169,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+          "media_key": "3_1977158353450045440",
+          "start": 146,
+          "url": "https://t.co/Q1AKqaDjCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977158409645703259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次坐商务舱火车，新的西门子charger本务和西门子Venture车底好高级。卫生间比我家还大好几倍，还有化妆镜和120v充电，显示屏。新车经济仓2+2座位，头等舱2+1，很不幸我在2那边，还是反行进方向座椅。但是坐间距有半个多座宽。新车确实快，柴油机干到150km/h了，极速200。 https://t.co/Q1AKqaDjCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1977158353416556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BHDAgXEAA7RLv.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1977158353420689408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BHDAhWIAAskxN.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1977158353429127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BHDAjW4AAR-gh.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1977158353450045440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BHDAoWEAAP8Xh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977158353416556544",
+            "3_1977158353420689408",
+            "3_1977158353429127168",
+            "3_1977158353450045440"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977158409645703259",
+        "created_at": "2025-10-11T23:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T00:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977158409645703259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1AKqaDjCp",
+              "end": 169,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+              "media_key": "3_1977158353416556544",
+              "start": 146,
+              "url": "https://t.co/Q1AKqaDjCp"
+            },
+            {
+              "display_url": "pic.x.com/Q1AKqaDjCp",
+              "end": 169,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+              "media_key": "3_1977158353420689408",
+              "start": 146,
+              "url": "https://t.co/Q1AKqaDjCp"
+            },
+            {
+              "display_url": "pic.x.com/Q1AKqaDjCp",
+              "end": 169,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+              "media_key": "3_1977158353429127168",
+              "start": 146,
+              "url": "https://t.co/Q1AKqaDjCp"
+            },
+            {
+              "display_url": "pic.x.com/Q1AKqaDjCp",
+              "end": 169,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1977158409645703259/photo/1",
+              "media_key": "3_1977158353450045440",
+              "start": 146,
+              "url": "https://t.co/Q1AKqaDjCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977158409645703259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次坐商务舱火车，新的西门子charger本务和西门子Venture车底好高级。卫生间比我家还大好几倍，还有化妆镜和120v充电，显示屏。新车经济仓2+2座位，头等舱2+1，很不幸我在2那边，还是反行进方向座椅。但是坐间距有半个多座宽。新车确实快，柴油机干到150km/h了，极速200。 https://t.co/Q1AKqaDjCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1241,
+          "like_count": 7289,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 4762
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

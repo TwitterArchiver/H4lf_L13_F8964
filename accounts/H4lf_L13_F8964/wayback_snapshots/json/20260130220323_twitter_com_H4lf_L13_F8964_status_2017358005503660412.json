@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016978659299528704"
+      ],
+      "media_source_tweet_id": [
+        "2016978704606306365"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017358005503660412",
+    "created_at": "2026-01-30T22:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T23:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017358005503660412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429400366819512323",
+          "start": 3,
+          "username": "RadioGenoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xU18hvo6FW",
+          "end": 59,
+          "expanded_url": "https://x.com/RadioGenoa/status/2016978704606306365/video/1",
+          "media_key": "7_2016978659299528704",
+          "start": 36,
+          "url": "https://t.co/xU18hvo6FW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017358005503660412",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016978704606306365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RadioGenoa: What dance is this? https://t.co/xU18hvo6FW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16091,
+        "height": 1080,
+        "media_key": "7_2016978659299528704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016978659299528704/pu/img/B39lI6truqbjgBpw.jpg",
+        "public_metrics": {
+          "view_count": 2265611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016978659299528704/pu/vid/avc1/540x540/uP0LDxspntAaq_lr.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016978659299528704/pu/vid/avc1/720x720/aLW418fwY_HyG_IV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016978659299528704/pu/pl/F1-71r_1DgVSEitz.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016978659299528704/pu/vid/avc1/320x320/th0prOGRsW8yvJwj.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016978659299528704/pu/vid/avc1/1080x1080/IqtqA-RnZKiSAOZt.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016978659299528704"
+          ],
+          "media_source_tweet_id": [
+            "2016978704606306365"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017358005503660412",
+        "created_at": "2026-01-30T22:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T23:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017358005503660412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429400366819512323",
+              "start": 3,
+              "username": "RadioGenoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xU18hvo6FW",
+              "end": 59,
+              "expanded_url": "https://x.com/RadioGenoa/status/2016978704606306365/video/1",
+              "media_key": "7_2016978659299528704",
+              "start": 36,
+              "url": "https://t.co/xU18hvo6FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017358005503660412",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016978704606306365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RadioGenoa: What dance is this? https://t.co/xU18hvo6FW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016978659299528704"
+          ]
+        },
+        "author_id": "1429400366819512323",
+        "conversation_id": "2016978704606306365",
+        "created_at": "2026-01-29T20:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T21:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016978704606306365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xU18hvo6FW",
+              "end": 43,
+              "expanded_url": "https://x.com/RadioGenoa/status/2016978704606306365/video/1",
+              "media_key": "7_2016978659299528704",
+              "start": 20,
+              "url": "https://t.co/xU18hvo6FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016978704606306365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6308,
+          "impression_count": 4025497,
+          "like_count": 16650,
+          "quote_count": 185,
+          "reply_count": 1112,
+          "retweet_count": 1163
+        },
+        "reply_settings": "everyone",
+        "text": "What dance is this? https://t.co/xU18hvo6FW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1348,
+          "like_count": 8375,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 5271
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:09:53.000Z",
+        "description": "RadioGenoa",
+        "id": "1429400366819512323",
+        "location": "Genova, Liguria",
+        "name": "RadioGenoa",
+        "pinned_tweet_id": "2017092465841287509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925910917482426368/vXAnSPXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518854,
+          "following_count": 10,
+          "like_count": 86,
+          "listed_count": 4212,
+          "media_count": 17051,
+          "tweet_count": 20442
+        },
+        "username": "RadioGenoa",
+        "verified": true
+      }
+    ]
+  }
+}

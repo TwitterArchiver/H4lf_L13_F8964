@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996593672909971491",
+    "created_at": "2025-12-04T22:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T23:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996707488356323381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996707488356323381",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996593672909971491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 啊啊啊啊我死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1996593669865127936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VTXUUawAAnnbC.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996593672909971491",
+        "created_at": "2025-12-04T22:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996707488356323381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996707488356323381",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996593672909971491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 啊啊啊啊我死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996593669865127936"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "conversation_id": "1996593672909971491",
+        "created_at": "2025-12-04T14:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996593672909971491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "mtf"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "跨性别"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "药娘"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "cdts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjlkL9EtA4",
+              "end": 107,
+              "expanded_url": "https://x.com/jingzhny11/status/1996593672909971491/photo/1",
+              "media_key": "3_1996593669865127936",
+              "start": 84,
+              "url": "https://t.co/cjlkL9EtA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996593672909971491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1092,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "窝当然知道反手摸肚脐是十年前的事情，可是十年前窝还是天天手冲的油腻郭楠错过了反手摸肚…喔现在唧唧都没了还是天天手冲，那没事了🤔\n#mtf #跨性别 #药娘 #cdts https://t.co/cjlkL9EtA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1313,
+          "like_count": 8003,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5076
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 1996,
+          "like_count": 103139,
+          "listed_count": 16,
+          "media_count": 225,
+          "tweet_count": 14215
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

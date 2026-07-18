@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1945076855494636013",
+    "created_at": "2025-07-16T21:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T22:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945592540822135158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926720510982844416",
+          "start": 0,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945592540822135158",
+    "in_reply_to_user_id": "1926720510982844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945076855494636013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeRoss2778 我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1945076855494636013",
+        "created_at": "2025-07-16T21:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945592540822135158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926720510982844416",
+              "start": 0,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945592540822135158",
+        "in_reply_to_user_id": "1926720510982844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945076855494636013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeRoss2778 我们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926720510982844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1945076855494636013",
+        "created_at": "2025-07-15T11:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945076855494636013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945076855494636013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6131,
+          "like_count": 121,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我领取每月亲密关系配给的日子。排了两个小时队终于轮到我。配给员同志核查了我的工作贡献积分，她递给我一张盖着人民性健康管理局红章的票据，上面写着：“允许与国营伴侣进行一次45分钟亲密交流”。  \n我穿过纪念辉夜同志的雕像，来到“国营伴侣中心”。门口标语写着：“为人民服务，满足基本需求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1115,
+          "like_count": 6380,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 4304
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号 封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子 #爱辉tv 连载中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "爱辉tv"
+              }
+            ]
+          }
+        },
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "pinned_tweet_id": "1945348631885963746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939890559092457472/m1CAx_Yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 145,
+          "like_count": 698,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1952668362904924512",
+    "created_at": "2025-08-05T09:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T10:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952668362904924512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690721268373581824",
+          "start": 3,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952668362904924512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952573961193337208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celsius233C: 能想出来这个家里请高人也没用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1952668362904924512",
+        "created_at": "2025-08-05T09:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952668362904924512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690721268373581824",
+              "start": 3,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952668362904924512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952573961193337208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celsius233C: 能想出来这个家里请高人也没用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "1952573961193337208",
+        "created_at": "2025-08-05T03:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952573961193337208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1952389164512768281",
+              "start": 16,
+              "url": "https://t.co/l4fzk3VX51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952573961193337208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952389164512768281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能想出来这个家里请高人也没用了 https://t.co/l4fzk3VX51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 1140,
+          "like_count": 6454,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 4371
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "pinned_tweet_id": "1882365999896543468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5651,
+          "following_count": 808,
+          "like_count": 17250,
+          "listed_count": 24,
+          "media_count": 83,
+          "tweet_count": 1505
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

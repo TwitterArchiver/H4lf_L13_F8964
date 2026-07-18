@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1976771170209812744",
+    "created_at": "2025-10-10T22:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976771170209812744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1517413771681181696",
+          "start": 3,
+          "username": "prank_baby"
+        },
+        {
+          "end": 29,
+          "id": "1432395633751515138",
+          "start": 16,
+          "username": "Hya_cin_thus"
+        },
+        {
+          "end": 45,
+          "id": "44186175",
+          "start": 30,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976771170209812744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976751870157697240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prank_baby: @Hya_cin_thus @xiaojingcanxue 力工厂，专门生产力工的工厂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1976771170209812744",
+        "created_at": "2025-10-10T22:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976771170209812744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1517413771681181696",
+              "start": 3,
+              "username": "prank_baby"
+            },
+            {
+              "end": 29,
+              "id": "1432395633751515138",
+              "start": 16,
+              "username": "Hya_cin_thus"
+            },
+            {
+              "end": 45,
+              "id": "44186175",
+              "start": 30,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976771170209812744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976751870157697240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prank_baby: @Hya_cin_thus @xiaojingcanxue 力工厂，专门生产力工的工厂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517413771681181696",
+        "conversation_id": "1976715253703712918",
+        "created_at": "2025-10-10T20:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976751870157697240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1432395633751515138",
+              "start": 0,
+              "username": "Hya_cin_thus"
+            },
+            {
+              "end": 29,
+              "id": "44186175",
+              "start": 14,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976751870157697240",
+        "in_reply_to_user_id": "1432395633751515138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976745325848351207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hya_cin_thus @xiaojingcanxue 力工厂，专门生产力工的工厂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1240,
+          "like_count": 7279,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4752
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T08:03:38.000Z",
+        "description": "",
+        "id": "1517413771681181696",
+        "name": "Calaquendi",
+        "pinned_tweet_id": "1966610176686825491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798949603125129217/0l-eivlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 111,
+          "like_count": 2721,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1744
+        },
+        "username": "prank_baby",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-30T17:32:06.000Z",
+        "description": "Brother of the world. Good at trolling CCP apologists and vatniks 内拉，专治小粉红和俄棍",
+        "id": "1432395633751515138",
+        "name": "风信子 ⭐️ ⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782539107123724289/QSJfYXSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 142,
+          "like_count": 205015,
+          "listed_count": 9,
+          "media_count": 839,
+          "tweet_count": 15847
+        },
+        "username": "Hya_cin_thus",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235461,
+          "following_count": 1846,
+          "like_count": 191,
+          "listed_count": 1236,
+          "media_count": 26905,
+          "tweet_count": 34287
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

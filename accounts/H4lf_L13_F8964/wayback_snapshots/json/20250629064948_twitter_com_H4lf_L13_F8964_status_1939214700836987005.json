@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939214689558286336",
+        "3_1939214689566670848"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1939214700836987005",
+    "created_at": "2025-06-29T06:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T07:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939214700836987005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ElUqotiujB",
+          "end": 62,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1939214700836987005/photo/1",
+          "media_key": "3_1939214689558286336",
+          "start": 39,
+          "url": "https://t.co/ElUqotiujB"
+        },
+        {
+          "display_url": "pic.x.com/ElUqotiujB",
+          "end": 62,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1939214700836987005/photo/1",
+          "media_key": "3_1939214689566670848",
+          "start": 39,
+          "url": "https://t.co/ElUqotiujB"
+        },
+        {
+          "display_url": "x.com/zheshiwenzi/st…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/zheshiwenzi/status/1939125831697383862",
+          "start": 63,
+          "url": "https://t.co/kiuYX3lPAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939214700836987005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939125831697383862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个你随便裁切下，突出主体。再按照刻板印象 调个色，就可以去拿普利策奖了（x https://t.co/ElUqotiujB https://t.co/kiuYX3lPAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1939214689558286336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gul5fFpXUAAq7wk.jpg",
+        "width": 904
+      },
+      {
+        "height": 982,
+        "media_key": "3_1939214689566670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gul5fFrXQAAJFOZ.jpg",
+        "width": 807
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939125815272423424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gukop7IaQAAKb3n.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939214689558286336",
+            "3_1939214689566670848"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1939214700836987005",
+        "created_at": "2025-06-29T06:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T07:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939214700836987005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElUqotiujB",
+              "end": 62,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1939214700836987005/photo/1",
+              "media_key": "3_1939214689558286336",
+              "start": 39,
+              "url": "https://t.co/ElUqotiujB"
+            },
+            {
+              "display_url": "pic.x.com/ElUqotiujB",
+              "end": 62,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1939214700836987005/photo/1",
+              "media_key": "3_1939214689566670848",
+              "start": 39,
+              "url": "https://t.co/ElUqotiujB"
+            },
+            {
+              "display_url": "x.com/zheshiwenzi/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/zheshiwenzi/status/1939125831697383862",
+              "start": 63,
+              "url": "https://t.co/kiuYX3lPAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939214700836987005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939125831697383862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个你随便裁切下，突出主体。再按照刻板印象 调个色，就可以去拿普利策奖了（x https://t.co/ElUqotiujB https://t.co/kiuYX3lPAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939125815272423424"
+          ]
+        },
+        "author_id": "1429826969194033160",
+        "conversation_id": "1939125831697383862",
+        "created_at": "2025-06-29T00:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T01:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939125831697383862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPFVE1vH25",
+              "end": 25,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1939125831697383862/photo/1",
+              "media_key": "3_1939125815272423424",
+              "start": 2,
+              "url": "https://t.co/JPFVE1vH25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939125831697383862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 918,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/JPFVE1vH25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 1092,
+          "like_count": 6066,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 4172
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:25:02.000Z",
+        "description": "接投稿｜人后🔞@yuguitun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yuguitun"
+              }
+            ]
+          }
+        },
+        "id": "1429826969194033160",
+        "name": "这是雯子",
+        "pinned_tweet_id": "1934653250625814544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743676273912926208/HkvURJEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15737,
+          "following_count": 20,
+          "like_count": 131,
+          "listed_count": 16,
+          "media_count": 1720,
+          "tweet_count": 11733
+        },
+        "username": "zheshiwenzi",
+        "verified": false
+      }
+    ]
+  }
+}

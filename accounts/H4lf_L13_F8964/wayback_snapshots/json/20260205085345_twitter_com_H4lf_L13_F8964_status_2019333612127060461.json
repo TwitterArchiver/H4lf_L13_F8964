@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2019333612127060461",
+    "created_at": "2026-02-05T08:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019333612127060461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyc20090/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yyc20090/status/2019051669858746399",
+          "start": 10,
+          "url": "https://t.co/SPPszVxWUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019333612127060461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019051669858746399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原twi主被送扭转 https://t.co/SPPszVxWUn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2019333612127060461",
+        "created_at": "2026-02-05T08:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019333612127060461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyc20090/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yyc20090/status/2019051669858746399",
+              "start": 10,
+              "url": "https://t.co/SPPszVxWUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019333612127060461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019051669858746399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原twi主被送扭转 https://t.co/SPPszVxWUn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "2019051669858746399",
+        "created_at": "2026-02-04T14:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019051669858746399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @xiaoxunjiang right away.",
+              "display_url": "t.me/xiaoxunjiang",
+              "end": 36,
+              "expanded_url": "http://t.me/xiaoxunjiang",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2019050872114962432/WXPTihZ3?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019050872114962432/WXPTihZ3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "小寻酱🍥🏳️‍⚧",
+              "unwound_url": "https://t.me/xiaoxunjiang",
+              "url": "https://t.co/wTbyb7YO1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019051669858746399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2976,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如有yyxx最新消息请联系https://t.co/wTbyb7YO1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1365,
+          "like_count": 8429,
+          "listed_count": 2,
+          "media_count": 563,
+          "tweet_count": 5301
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "已失踪（失踪日期2026.2.4） 小寻代管账号中最新消息请联系https://t.co/OyvLSQqYbb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxunjiang",
+                "end": 55,
+                "expanded_url": "http://t.me/xiaoxunjiang",
+                "start": 32,
+                "url": "https://t.co/OyvLSQqYbb"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（已失联 小寻代管中）",
+        "pinned_tweet_id": "2019051669858746399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004799068204400643/jaUwPByl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 827,
+          "like_count": 2808,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 1714
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

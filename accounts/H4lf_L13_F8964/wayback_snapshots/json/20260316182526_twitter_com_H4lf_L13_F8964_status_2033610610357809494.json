@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2033556731083858217",
+    "created_at": "2026-03-16T18:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033610610357809494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951570866581745664",
+          "start": 0,
+          "username": "Maimai_Offical"
+        },
+        {
+          "end": 32,
+          "id": "1701484460250890240",
+          "start": 16,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033610610357809494",
+    "in_reply_to_user_id": "1951570866581745664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033579127941501286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maimai_Offical @SonogamiRinneTS 文化圣地？封建残余早该砸烂了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2033556731083858217",
+        "created_at": "2026-03-16T18:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033610610357809494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951570866581745664",
+              "start": 0,
+              "username": "Maimai_Offical"
+            },
+            {
+              "end": 32,
+              "id": "1701484460250890240",
+              "start": 16,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033610610357809494",
+        "in_reply_to_user_id": "1951570866581745664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033579127941501286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maimai_Offical @SonogamiRinneTS 文化圣地？封建残余早该砸烂了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951570866581745664",
+        "conversation_id": "2033556731083858217",
+        "created_at": "2026-03-16T16:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033579127941501286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033579127941501286",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033556731083858217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 如果他身份证上表明了确实变性为女性，那我无话可说，如果还是男性，那就要遵循在故宫这样的文化圣地内的穿衣规则，当然你出去了想咋穿咋穿在大街上穿比基尼都没人管你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1436,
+          "like_count": 8730,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 5513
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T09:09:01.000Z",
+        "description": "期望两岸友好，中日美关系正常\n适当见证，看见无脑黑和不顺眼的东西会骂       个人想说的: 音游 可尊重可支持LGBTQ等文化 无论是在见证区或是音游区看见我喜欢可以扩列\n拉黑我死全家😋不会主动b任何人 https://t.co/0BBORqNc0E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@maimai_offica…",
+                "end": 127,
+                "expanded_url": "https://www.tiktok.com/@maimai_offical?_r=1&_t=ZS-94",
+                "start": 104,
+                "url": "https://t.co/0BBORqNc0E"
+              }
+            ]
+          }
+        },
+        "id": "1951570866581745664",
+        "location": "巴克什 绝密",
+        "name": "🍥乌鲁鲁酱ウルル🍥❤️🏳️‍⚧",
+        "pinned_tweet_id": "2019801317795832210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983360140406620160/elRy_3CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 90,
+          "like_count": 1397,
+          "listed_count": 2,
+          "media_count": 694,
+          "tweet_count": 3444
+        },
+        "username": "Maimai_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3928,
+          "following_count": 2953,
+          "like_count": 1138,
+          "listed_count": 13,
+          "media_count": 208,
+          "tweet_count": 1414
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

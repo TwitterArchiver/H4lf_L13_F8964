@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942231057979539525",
+    "created_at": "2025-07-07T14:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942231057979539525"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "自杀警报"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515583893428178944",
+          "start": 3,
+          "username": "Kayue_catKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942231057979539525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942220488262189470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kayue_catKL: #自杀警报\n麟予\n广州 具体位置不明\nQQ：2500716701\nQQ2：3471260006"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942231057979539525",
+        "created_at": "2025-07-07T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942231057979539525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "自杀警报"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515583893428178944",
+              "start": 3,
+              "username": "Kayue_catKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942231057979539525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942220488262189470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kayue_catKL: #自杀警报\n麟予\n广州 具体位置不明\nQQ：2500716701\nQQ2：3471260006"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515583893428178944",
+        "conversation_id": "1942220488262189470",
+        "created_at": "2025-07-07T13:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942220488262189470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀警报"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dv0jrm4nee4522…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/dv0jrm4nee45220/status/1942217432279769509",
+              "start": 48,
+              "url": "https://t.co/MCrcAnVtPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942220488262189470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 394,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942217432279769509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#自杀警报\n麟予\n广州 具体位置不明\nQQ：2500716701\nQQ2：3471260006 https://t.co/MCrcAnVtPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6233,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4232
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T06:52:25.000Z",
+        "description": "TG：https://t.co/N3Cr1KfArC | IN?P | 厨娘 | 耳朵会动哦 | cosplay | Minecraft | 高功能BPD | tg群组↙️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Kayue_catKL",
+                "end": 26,
+                "expanded_url": "https://t.me/Kayue_catKL",
+                "start": 3,
+                "url": "https://t.co/N3Cr1KfArC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+V3CbNdsHSek3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+V3CbNdsHSek3ZTM1",
+                "start": 0,
+                "url": "https://t.co/iGtl8aM8A7"
+              }
+            ]
+          }
+        },
+        "id": "1515583893428178944",
+        "location": "距离 1.2km",
+        "name": "凯月 糖果🍥贩售",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835846428205395968/mFAPTOYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 301,
+          "like_count": 334,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/iGtl8aM8A7",
+        "username": "Kayue_catKL",
+        "verified": false
+      }
+    ]
+  }
+}

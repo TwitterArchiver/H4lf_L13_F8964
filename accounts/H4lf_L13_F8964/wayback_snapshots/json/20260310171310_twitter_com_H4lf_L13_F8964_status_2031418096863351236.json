@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2031356150696825288",
+    "created_at": "2026-03-10T17:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031418096863351236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 29,
+          "id": "1654908701772496896",
+          "start": 14,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031418096863351236",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031356150696825288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @tsumetaiame514 之前也有全国人大代表提案过成年人也不能用电脑手机，耽误干活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2031356150696825288",
+        "created_at": "2026-03-10T17:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031418096863351236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 29,
+              "id": "1654908701772496896",
+              "start": 14,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031418096863351236",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031356150696825288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @tsumetaiame514 之前也有全国人大代表提案过成年人也不能用电脑手机，耽误干活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2031356150696825288",
+        "created_at": "2026-03-10T13:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031356150696825288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limerosk/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/limerosk/status/2031281966184558851",
+              "start": 30,
+              "url": "https://t.co/sn5zvOw94r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031356150696825288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4193,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031281966184558851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次就说过了，允许限制童权就会导致所有人都被大爹当儿童对待 https://t.co/sn5zvOw94r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1427,
+          "like_count": 8715,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 5497
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "wgsi"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/HULOGnMPVV"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22886,
+          "following_count": 2638,
+          "like_count": 37958,
+          "listed_count": 0,
+          "media_count": 501,
+          "tweet_count": 20153
+        },
+        "url": "https://t.co/HULOGnMPVV",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "无君无父，不学无术，毫无底线，畅所欲言",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "pinned_tweet_id": "2025630257077006422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025649131738607616/I8Il_Ibg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5320,
+          "following_count": 1172,
+          "like_count": 21061,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 4078
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996706530289221632",
+        "3_1996706530297565184"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996706534743777763",
+    "created_at": "2025-12-04T22:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T23:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996706534743777763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mQFcDgXpdD",
+          "end": 29,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1996706534743777763/photo/1",
+          "media_key": "3_1996706530289221632",
+          "start": 6,
+          "url": "https://t.co/mQFcDgXpdD"
+        },
+        {
+          "display_url": "pic.x.com/mQFcDgXpdD",
+          "end": 29,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1996706534743777763/photo/1",
+          "media_key": "3_1996706530297565184",
+          "start": 6,
+          "url": "https://t.co/mQFcDgXpdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996706534743777763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊大便当饭 https://t.co/mQFcDgXpdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1996706530289221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7W6AqKXgAAGQ5T.jpg",
+        "width": 640
+      },
+      {
+        "height": 1039,
+        "media_key": "3_1996706530297565184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7W6AqMW0AAHexB.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996706530289221632",
+            "3_1996706530297565184"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996706534743777763",
+        "created_at": "2025-12-04T22:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996706534743777763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQFcDgXpdD",
+              "end": 29,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1996706534743777763/photo/1",
+              "media_key": "3_1996706530289221632",
+              "start": 6,
+              "url": "https://t.co/mQFcDgXpdD"
+            },
+            {
+              "display_url": "pic.x.com/mQFcDgXpdD",
+              "end": 29,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1996706534743777763/photo/1",
+              "media_key": "3_1996706530297565184",
+              "start": 6,
+              "url": "https://t.co/mQFcDgXpdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996706534743777763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊大便当饭 https://t.co/mQFcDgXpdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1313,
+          "like_count": 7998,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5074
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

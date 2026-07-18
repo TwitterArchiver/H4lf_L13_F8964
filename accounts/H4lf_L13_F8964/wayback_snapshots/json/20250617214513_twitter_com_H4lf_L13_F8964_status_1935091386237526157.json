@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1935091386237526157",
+    "created_at": "2025-06-17T21:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T22:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935091386237526157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1265457475018297344",
+          "start": 3,
+          "username": "Christinecho777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935091386237526157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935030580221005941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Christinecho777: 实话讲加拿大确实太进步了\n让那些试图把加拿大变成劳保地方的人还有容身之处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1935091386237526157",
+        "created_at": "2025-06-17T21:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T22:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935091386237526157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1265457475018297344",
+              "start": 3,
+              "username": "Christinecho777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935091386237526157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935030580221005941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Christinecho777: 实话讲加拿大确实太进步了\n让那些试图把加拿大变成劳保地方的人还有容身之处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265457475018297344",
+        "conversation_id": "1935030580221005941",
+        "created_at": "2025-06-17T17:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935030580221005941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1934787415794962923",
+              "start": 37,
+              "url": "https://t.co/BnqjKbjeRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935030580221005941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934787415794962923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实话讲加拿大确实太进步了\n让那些试图把加拿大变成劳保地方的人还有容身之处 https://t.co/BnqjKbjeRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪88 单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1071,
+          "like_count": 5719,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 4010
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-27T01:39:33.000Z",
+        "description": "🇨🇦Montreal 🌈Lesbian ➰业余绳模 看缘分约绳 🌓 手术2/n 📖Zh/En/Ko/Fr",
+        "id": "1265457475018297344",
+        "location": "Montréal, Québec",
+        "name": "野野子🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610480133533564928/RYMN-1Cu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 160,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 405
+        },
+        "username": "Christinecho777",
+        "verified": false
+      }
+    ]
+  }
+}

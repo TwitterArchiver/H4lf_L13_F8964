@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003852278839808000",
+        "3_2003852319340040192"
+      ],
+      "media_source_tweet_id": [
+        "2003852977321410669",
+        "2003852977321410669"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004078260909756446",
+    "created_at": "2025-12-25T06:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T07:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004078260909756446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nynmCqCtQ0",
+          "end": 103,
+          "expanded_url": "https://x.com/iMoeAya/status/2003852977321410669/photo/1",
+          "media_key": "3_2003852278839808000",
+          "start": 80,
+          "url": "https://t.co/nynmCqCtQ0"
+        },
+        {
+          "display_url": "pic.x.com/nynmCqCtQ0",
+          "end": 103,
+          "expanded_url": "https://x.com/iMoeAya/status/2003852977321410669/photo/1",
+          "media_key": "3_2003852319340040192",
+          "start": 80,
+          "url": "https://t.co/nynmCqCtQ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004078260909756446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003852977321410669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 贮藏热葡萄酒已经为您准备好了，请慢用~~  \n说起来…听主人好像说…以后还要弄个人体喷泉什么的……不要啊，萌绫真的喝不下了🙀（醉醺醺 https://t.co/nynmCqCtQ0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004078260909756446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004078260909756446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004078260909756446"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003852278839808000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88dB96akAAwfEe.jpg",
+        "width": 960
+      },
+      {
+        "height": 1262,
+        "media_key": "3_2003852319340040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88dEUybEAAoYV6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003852278839808000",
+            "3_2003852319340040192"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "2003852977321410669",
+        "created_at": "2025-12-24T15:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003852977321410669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nynmCqCtQ0",
+              "end": 90,
+              "expanded_url": "https://x.com/iMoeAya/status/2003852977321410669/photo/1",
+              "media_key": "3_2003852278839808000",
+              "start": 67,
+              "url": "https://t.co/nynmCqCtQ0"
+            },
+            {
+              "display_url": "pic.x.com/nynmCqCtQ0",
+              "end": 90,
+              "expanded_url": "https://x.com/iMoeAya/status/2003852977321410669/photo/1",
+              "media_key": "3_2003852319340040192",
+              "start": 67,
+              "url": "https://t.co/nynmCqCtQ0"
+            },
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/iMoeAya/status/2003848150235431334",
+              "start": 91,
+              "url": "https://t.co/8bI3hZUG3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003852977321410669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4349,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003848150235431334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贮藏热葡萄酒已经为您准备好了，请慢用~~  \n说起来…听主人好像说…以后还要弄个人体喷泉什么的……不要啊，萌绫真的喝不下了🙀（醉醺醺 https://t.co/nynmCqCtQ0 https://t.co/8bI3hZUG3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1315,
+          "like_count": 8113,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 5125
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39210,
+          "following_count": 4753,
+          "like_count": 172904,
+          "listed_count": 137,
+          "media_count": 1136,
+          "tweet_count": 35261
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

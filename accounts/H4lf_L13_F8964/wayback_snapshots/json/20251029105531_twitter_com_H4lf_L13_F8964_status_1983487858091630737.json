@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983360960330117121"
+      ],
+      "media_source_tweet_id": [
+        "1983360964289523824"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983487858091630737",
+    "created_at": "2025-10-29T10:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983487858091630737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "露出任务"
+        },
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "男娘露出"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "伪娘ts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1752344070385696768",
+          "start": 3,
+          "username": "date_reina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mnWeLysR63",
+          "end": 94,
+          "expanded_url": "https://x.com/date_reina/status/1983360964289523824/photo/1",
+          "media_key": "3_1983360960330117121",
+          "start": 71,
+          "url": "https://t.co/mnWeLysR63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983487858091630737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983360964289523824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @date_reina: 在公司楼顶露出是什么体验？希望不要被保安翻监控看到然后报告老板就好...\n#露出任务 #男娘露出 #伪娘ts https://t.co/mnWeLysR63"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983487858091630737].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983487858091630737",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983487858091630737"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983360960330117121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZQSP3asAEaUDr.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983360960330117121"
+          ]
+        },
+        "author_id": "1752344070385696768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983360964289523824",
+        "created_at": "2025-10-29T02:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983360964289523824"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "露出任务"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "男娘露出"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "伪娘ts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnWeLysR63",
+              "end": 78,
+              "expanded_url": "https://x.com/date_reina/status/1983360964289523824/photo/1",
+              "media_key": "3_1983360960330117121",
+              "start": 55,
+              "url": "https://t.co/mnWeLysR63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983360964289523824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2866,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "在公司楼顶露出是什么体验？希望不要被保安翻监控看到然后报告老板就好...\n#露出任务 #男娘露出 #伪娘ts https://t.co/mnWeLysR63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1270,
+          "like_count": 7502,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4876
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "日更涩图！  TS 🚪88口令红包 / 接寄拍，提供衣服即可 /江浙沪接线下 / xp复杂，穿孔纹身露出..\n\nAsian Trans Girl / Cosplay / Latex / Bondage / Piercing \n\nContact:  https://t.co/WZ0Y0Gfw1g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HibikiHut",
+                "end": 147,
+                "expanded_url": "https://t.me/HibikiHut",
+                "start": 124,
+                "url": "https://t.co/WZ0Y0Gfw1g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/Reina_Date/",
+                "end": 23,
+                "expanded_url": "https://fansly.com/Reina_Date/",
+                "start": 0,
+                "url": "https://t.co/egvMJ5ylpp"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "location": "Buy my content →",
+        "name": "伊达铃奈",
+        "pinned_tweet_id": "1982063529978196049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975240113417560066/AngMculM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9335,
+          "following_count": 1004,
+          "like_count": 5406,
+          "listed_count": 41,
+          "media_count": 173,
+          "tweet_count": 7431
+        },
+        "url": "https://t.co/egvMJ5ylpp",
+        "username": "date_reina",
+        "verified": true
+      }
+    ]
+  }
+}

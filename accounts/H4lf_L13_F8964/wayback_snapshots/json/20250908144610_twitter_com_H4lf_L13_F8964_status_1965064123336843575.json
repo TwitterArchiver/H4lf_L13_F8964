@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1965064123336843575",
+    "created_at": "2025-09-08T14:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T15:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965064123336843575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659897439590158338",
+          "start": 3,
+          "username": "China3191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965064123336843575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965019788549530015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @China3191: “共情到底是诅咒还是奖赏？”有人答：“是善良者的天赋”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1965064123336843575",
+        "created_at": "2025-09-08T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965064123336843575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659897439590158338",
+              "start": 3,
+              "username": "China3191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965064123336843575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965019788549530015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @China3191: “共情到底是诅咒还是奖赏？”有人答：“是善良者的天赋”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659897439590158338",
+        "conversation_id": "1965019788549530015",
+        "created_at": "2025-09-08T11:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965019788549530015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965019788549530015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“共情到底是诅咒还是奖赏？”有人答：“是善良者的天赋”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1200,
+          "like_count": 6998,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 4607
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T12:22:51.000Z",
+        "description": "",
+        "id": "1659897439590158338",
+        "name": "喵呜酱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860492618658119681/b0Xr7-UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 284,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 278
+        },
+        "username": "China3191",
+        "verified": false
+      }
+    ]
+  }
+}

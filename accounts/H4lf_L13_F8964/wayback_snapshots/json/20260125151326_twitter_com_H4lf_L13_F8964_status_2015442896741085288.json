@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2015442896741085288",
+    "created_at": "2026-01-25T15:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015442896741085288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015442896741085288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015147815304073257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 在这里没有人会在乎每星期工作70h+，月薪却低于800usd的中国工厂工人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2015442896741085288",
+        "created_at": "2026-01-25T15:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015442896741085288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015442896741085288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015147815304073257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 在这里没有人会在乎每星期工作70h+，月薪却低于800usd的中国工厂工人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2015147815304073257",
+        "created_at": "2026-01-24T19:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015147815304073257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dispropoganda/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Dispropoganda/status/2015112582948888824",
+              "start": 38,
+              "url": "https://t.co/D1p84R2YnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015147815304073257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6004,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015112582948888824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这里没有人会在乎每星期工作70h+，月薪却低于800usd的中国工厂工人 https://t.co/D1p84R2YnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1336,
+          "like_count": 8326,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 5249
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 295,
+          "like_count": 3672,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 8740
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1942128810679542211",
+    "created_at": "2025-07-07T07:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942128810679542211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ujjkujjk74901/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ujjkujjk74901/status/1941806720034144406",
+          "start": 3,
+          "url": "https://t.co/so2WWDkMoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942128810679542211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941806720034144406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "创持 https://t.co/so2WWDkMoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1885,
+        "media_key": "3_1941806716598812672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKu661XAAAH9As.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1942128810679542211",
+        "created_at": "2025-07-07T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942128810679542211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ujjkujjk74901/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ujjkujjk74901/status/1941806720034144406",
+              "start": 3,
+              "url": "https://t.co/so2WWDkMoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942128810679542211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941806720034144406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "创持 https://t.co/so2WWDkMoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941806716598812672"
+          ]
+        },
+        "author_id": "1829423359043719169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1941806720034144406",
+        "created_at": "2025-07-06T10:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941806720034144406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgXTja3vKg",
+              "end": 37,
+              "expanded_url": "https://x.com/ujjkujjk74901/status/1941806720034144406/photo/1",
+              "media_key": "3_1941806716598812672",
+              "start": 14,
+              "url": "https://t.co/UgXTja3vKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941806720034144406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 65010,
+          "like_count": 734,
+          "quote_count": 13,
+          "reply_count": 51,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "轮友TV之李洪志阻止了灾难 https://t.co/UgXTja3vKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1105,
+          "like_count": 6220,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 4225
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T07:38:25.000Z",
+        "description": "战无不胜的习近平新时代中国特色社会主义思想万岁 里推@ujjkujjk74902",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "ujjkujjk74902"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.wikipedia.org/wiki/%E5%85%AD…",
+                "end": 23,
+                "expanded_url": "https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6",
+                "start": 0,
+                "url": "https://t.co/s1A6sGVo9N"
+              }
+            ]
+          }
+        },
+        "id": "1829423359043719169",
+        "location": "5元300G不限时不限速VPN，大粉红倾力推荐👇",
+        "name": "一般通过大粉红",
+        "pinned_tweet_id": "1939011882649862343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932714339871698945/Hn-jAAwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 216,
+          "like_count": 607,
+          "listed_count": 9,
+          "media_count": 189,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/s1A6sGVo9N",
+        "username": "ujjkujjk74901",
+        "verified": false
+      }
+    ]
+  }
+}

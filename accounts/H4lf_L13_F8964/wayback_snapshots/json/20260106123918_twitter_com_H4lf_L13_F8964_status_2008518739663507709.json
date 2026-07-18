@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2008518739663507709",
+    "created_at": "2026-01-06T12:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008518739663507709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/proxynova712se…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/proxynova712sec/status/2008397242265464848",
+          "start": 5,
+          "url": "https://t.co/RbFXOsVKnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008518739663507709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008397242265464848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不杀？ https://t.co/RbFXOsVKnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008397238872276992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99CpdbbgAAz2LX.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2008518739663507709",
+        "created_at": "2026-01-06T12:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008518739663507709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/proxynova712se…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/proxynova712sec/status/2008397242265464848",
+              "start": 5,
+              "url": "https://t.co/RbFXOsVKnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008518739663507709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008397242265464848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不杀？ https://t.co/RbFXOsVKnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008397238872276992"
+          ]
+        },
+        "author_id": "1786397664722268160",
+        "conversation_id": "2008397242265464848",
+        "created_at": "2026-01-06T04:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008397242265464848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyHazPbZAr",
+              "end": 57,
+              "expanded_url": "https://x.com/proxynova712sec/status/2008397242265464848/photo/1",
+              "media_key": "3_2008397238872276992",
+              "start": 34,
+              "url": "https://t.co/fyHazPbZAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008397242265464848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 69477,
+          "like_count": 241,
+          "quote_count": 11,
+          "reply_count": 84,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？何意味\n我就出门上了个学，回来一看房间又被动了，然后留了这两东西 https://t.co/fyHazPbZAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1330,
+          "like_count": 8247,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 5196
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "请输入文本\n有🚪私信",
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "你想何出什么样的意味",
+        "pinned_tweet_id": "1941864697042538676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997585620114563072/jn9AmBr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 747,
+          "like_count": 15704,
+          "listed_count": 11,
+          "media_count": 331,
+          "tweet_count": 1641
+        },
+        "username": "proxynova712sec",
+        "verified": false
+      }
+    ]
+  }
+}

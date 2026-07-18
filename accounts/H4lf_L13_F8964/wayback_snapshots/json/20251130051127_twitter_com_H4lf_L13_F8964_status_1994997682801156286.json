@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994731872837070848"
+      ],
+      "media_source_tweet_id": [
+        "1994731879992627323"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1994997682801156286",
+    "created_at": "2025-11-30T05:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994997682801156286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654534022448713728",
+          "start": 3,
+          "username": "jueduizhengyi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkURK35Se6",
+          "end": 114,
+          "expanded_url": "https://x.com/jueduizhengyi_A/status/1994731879992627323/photo/1",
+          "media_key": "3_1994731872837070848",
+          "start": 91,
+          "url": "https://t.co/CkURK35Se6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994997682801156286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994731879992627323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jueduizhengyi_A: 我痛恨这种分手了之后把玩偶烧掉的。你的意思是说要让轻松熊这么可爱的小东西陪你们那可笑的感情陪葬吗？它只是想让你开心，它做错什么了？真是虚伪 https://t.co/CkURK35Se6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994731872837070848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G662Ed6acAAxv6s.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994731872837070848"
+          ],
+          "media_source_tweet_id": [
+            "1994731879992627323"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1994997682801156286",
+        "created_at": "2025-11-30T05:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994997682801156286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654534022448713728",
+              "start": 3,
+              "username": "jueduizhengyi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkURK35Se6",
+              "end": 114,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/1994731879992627323/photo/1",
+              "media_key": "3_1994731872837070848",
+              "start": 91,
+              "url": "https://t.co/CkURK35Se6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994997682801156286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994731879992627323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jueduizhengyi_A: 我痛恨这种分手了之后把玩偶烧掉的。你的意思是说要让轻松熊这么可爱的小东西陪你们那可笑的感情陪葬吗？它只是想让你开心，它做错什么了？真是虚伪 https://t.co/CkURK35Se6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994731872837070848"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "1994731879992627323",
+        "created_at": "2025-11-29T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994731879992627323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkURK35Se6",
+              "end": 93,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/1994731879992627323/photo/1",
+              "media_key": "3_1994731872837070848",
+              "start": 70,
+              "url": "https://t.co/CkURK35Se6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994731879992627323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 81294,
+          "like_count": 1432,
+          "quote_count": 11,
+          "reply_count": 95,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我痛恨这种分手了之后把玩偶烧掉的。你的意思是说要让轻松熊这么可爱的小东西陪你们那可笑的感情陪葬吗？它只是想让你开心，它做错什么了？真是虚伪 https://t.co/CkURK35Se6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1311,
+          "like_count": 7939,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5052
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "INTJ|男的|仮面ライダー|キャラクターデザイナー|小さな雑記|中野",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982431843971379200/3cwnJmBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 200,
+          "like_count": 37437,
+          "listed_count": 0,
+          "media_count": 590,
+          "tweet_count": 4423
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

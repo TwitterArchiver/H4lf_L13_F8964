@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1977399044243701808",
+    "created_at": "2025-10-13T08:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977652956582511021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1128171981214343170",
+          "start": 0,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977652956582511021",
+    "in_reply_to_user_id": "1128171981214343170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977399044243701808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phosphas 思绪回到室友打完针偏瘫了一天的日子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1977399044243701808",
+        "created_at": "2025-10-13T08:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977652956582511021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1128171981214343170",
+              "start": 0,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977652956582511021",
+        "in_reply_to_user_id": "1128171981214343170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977399044243701808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phosphas 思绪回到室友打完针偏瘫了一天的日子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128171981214343170",
+        "conversation_id": "1977399044243701808",
+        "created_at": "2025-10-12T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977399044243701808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977399044243701808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1963,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狐去药局看到工作人员在门口招徕大家打疫苗，当工作人员问狐想用辉瑞还是摩德纳的时候，狐就想到几年前和室友凑一起绞尽脑汁想在北京怎么才能弄到一支辉瑞，从那一刻开始我决定不再学药学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1243,
+          "like_count": 7337,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4778
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "塗塗狐",
+        "pinned_tweet_id": "1779802684092194893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956901195538120704/IiMwDPIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 568,
+          "like_count": 16449,
+          "listed_count": 7,
+          "media_count": 330,
+          "tweet_count": 2722
+        },
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1987257311031644486",
+    "created_at": "2025-11-08T20:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T21:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987257311031644486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699273459325390848",
+          "start": 3,
+          "username": "DurantRaym93677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/2Nw",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/2Nw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987257311031644486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986863910595797491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DurantRaym93677: MOJi辞書太恶心了，公开威胁用户，说要把违规评论「报备公安」。我还是第一次见这种明晃晃的威胁\n\n不知道他们团队里都是些什么人，词典里一堆错误不去复核，就知道在这里威胁用户，或者去b站上发一些恶心的视频 https://t.co/2Nw…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_1986863901330591744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5LCMP_bUAABSaN.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1987257311031644486",
+        "created_at": "2025-11-08T20:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T21:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987257311031644486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699273459325390848",
+              "start": 3,
+              "username": "DurantRaym93677"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/2Nw",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/2Nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987257311031644486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986863910595797491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DurantRaym93677: MOJi辞書太恶心了，公开威胁用户，说要把违规评论「报备公安」。我还是第一次见这种明晃晃的威胁\n\n不知道他们团队里都是些什么人，词典里一堆错误不去复核，就知道在这里威胁用户，或者去b站上发一些恶心的视频 https://t.co/2Nw…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986863901330591744"
+          ]
+        },
+        "author_id": "1699273459325390848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986863910595797491",
+        "created_at": "2025-11-07T18:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986863910595797491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NwCWlR0ln",
+              "end": 125,
+              "expanded_url": "https://x.com/DurantRaym93677/status/1986863910595797491/photo/1",
+              "media_key": "3_1986863901330591744",
+              "start": 102,
+              "url": "https://t.co/2NwCWlR0ln"
+            },
+            {
+              "display_url": "x.com/durantraym9367…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/durantraym93677/status/1806454905462464609",
+              "start": 126,
+              "url": "https://t.co/n44dHtWSRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986863910595797491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 123095,
+          "like_count": 554,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806454905462464609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MOJi辞書太恶心了，公开威胁用户，说要把违规评论「报备公安」。我还是第一次见这种明晃晃的威胁\n\n不知道他们团队里都是些什么人，词典里一堆错误不去复核，就知道在这里威胁用户，或者去b站上发一些恶心的视频 https://t.co/2NwCWlR0ln https://t.co/n44dHtWSRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1277,
+          "like_count": 7589,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 4922
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "あぁ  闇はただ純粋で",
+        "id": "1699273459325390848",
+        "name": "Luke 鈴木 サクラみ⛩️",
+        "pinned_tweet_id": "1971461028715393388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 2244,
+          "like_count": 35799,
+          "listed_count": 9,
+          "media_count": 369,
+          "tweet_count": 9204
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

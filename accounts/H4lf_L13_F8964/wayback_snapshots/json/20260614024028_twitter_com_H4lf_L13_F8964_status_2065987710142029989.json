@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2065987710142029989",
+    "created_at": "2026-06-14T02:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065987710142029989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048045804959436800",
+          "start": 3,
+          "username": "shifengshua0717"
+        },
+        {
+          "end": 32,
+          "id": "1725486340542775296",
+          "start": 21,
+          "username": "myaukarova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "sfsa.lanzoub.com/ia6Rq3rqh9ib",
+          "end": 56,
+          "expanded_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+          "start": 33,
+          "status": 200,
+          "unwound_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+          "url": "https://t.co/vYXYvmmguK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065987710142029989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065388610178978238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shifengshua0717: @myaukarova https://t.co/vYXYvmmguK (访问密码:sfsa)\n这个是言箴甄案件的视频，这个案件特殊，没有明确结案。其他的案子都结案了，不便继续传播"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2065987710142029989",
+        "created_at": "2026-06-14T02:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065987710142029989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048045804959436800",
+              "start": 3,
+              "username": "shifengshua0717"
+            },
+            {
+              "end": 32,
+              "id": "1725486340542775296",
+              "start": 21,
+              "username": "myaukarova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "end": 56,
+              "expanded_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "start": 33,
+              "status": 200,
+              "unwound_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "url": "https://t.co/vYXYvmmguK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065987710142029989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065388610178978238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shifengshua0717: @myaukarova https://t.co/vYXYvmmguK (访问密码:sfsa)\n这个是言箴甄案件的视频，这个案件特殊，没有明确结案。其他的案子都结案了，不便继续传播"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048045804959436800",
+        "conversation_id": "2065304301543805178",
+        "created_at": "2026-06-12T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065388610178978238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "end": 35,
+              "expanded_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "start": 12,
+              "status": 200,
+              "unwound_url": "https://sfsa.lanzoub.com/ia6Rq3rqh9ib",
+              "url": "https://t.co/vYXYvmmguK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065388610178978238",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8135,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065371066885869901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova https://t.co/vYXYvmmguK (访问密码:sfsa)\n这个是言箴甄案件的视频，这个案件特殊，没有明确结案。其他的案子都结案了，不便继续传播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1450,
+          "like_count": 8877,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5655
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "做伟大事情的唯一方法就是热爱你所做的事 | \n来自中国的视频创作者,致力于曝光戒网瘾学校和扭转机构等黑心教育机构",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTp1Rs"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "location": "Hong Kong",
+        "name": "枫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 20,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/TkxUTTp1Rs",
+        "username": "shifengshua0717",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡洛娃谢谢喵",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "喵卡洛娃大帝，不疼仙人🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964898609469739008/PORyHOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 224,
+          "like_count": 259,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 3194
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

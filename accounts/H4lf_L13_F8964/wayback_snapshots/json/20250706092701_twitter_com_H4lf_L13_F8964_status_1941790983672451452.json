@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1941790983672451452",
+    "created_at": "2025-07-06T09:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941790983672451452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1345361439221972995",
+          "start": 3,
+          "username": "k3_erxzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941790983672451452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941555862906208309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k3_erxzj: woc一名极端的酷儿行动者，一场反社会性的，自毁式的行为艺术！！！\n每一个视频都是一场行为艺术表演. 有的发现阿红是指派男性了之后就停止了性行为，本来一走了之但又折回对阿红说：我可以给你口交吗？这是顺直男对发现阿红是指派男后对阿红说的话！\n我勒个颠覆…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1941790983672451452",
+        "created_at": "2025-07-06T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941790983672451452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1345361439221972995",
+              "start": 3,
+              "username": "k3_erxzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941790983672451452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941555862906208309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k3_erxzj: woc一名极端的酷儿行动者，一场反社会性的，自毁式的行为艺术！！！\n每一个视频都是一场行为艺术表演. 有的发现阿红是指派男性了之后就停止了性行为，本来一走了之但又折回对阿红说：我可以给你口交吗？这是顺直男对发现阿红是指派男后对阿红说的话！\n我勒个颠覆…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345361439221972995",
+        "conversation_id": "1941553443015172579",
+        "created_at": "2025-07-05T17:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941555862906208309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941555862906208309",
+        "in_reply_to_user_id": "1345361439221972995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5272,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941553443015172579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "woc一名极端的酷儿行动者，一场反社会性的，自毁式的行为艺术！！！\n每一个视频都是一场行为艺术表演. 有的发现阿红是指派男性了之后就停止了性行为，本来一走了之但又折回对阿红说：我可以给你口交吗？这是顺直男对发现阿红是指派男后对阿红说的话！\n我勒个颠覆性的权力反转，极端权力下放和身份解构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1105,
+          "like_count": 6212,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 4220
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T13:29:09.000Z",
+        "description": "跨女/女同，喜欢除了顺直男以外一切我认为好看的人  中文/français       这里没有正能量，只有我的故事\ntransfemme/lesbien，\nj'aime tous les personnes que je pense belle sauf l'homme cisgenre hétérosexuels",
+        "id": "1345361439221972995",
+        "location": "Paris, France",
+        "name": "柳成荫",
+        "pinned_tweet_id": "1816397717435740425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410271462049599496/0oEXbyX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 392,
+          "like_count": 1410,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1902
+        },
+        "username": "k3_erxzj",
+        "verified": false
+      }
+    ]
+  }
+}

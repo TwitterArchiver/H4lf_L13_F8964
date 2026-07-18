@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1935822211606364161",
+        "3_1935822211824144384"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1935822285493190765",
+    "created_at": "2025-06-19T22:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T23:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935822285493190765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EAXkcEJoj",
+          "end": 36,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935822285493190765/video/1",
+          "media_key": "13_1935822211606364161",
+          "start": 13,
+          "url": "https://t.co/4EAXkcEJoj"
+        },
+        {
+          "display_url": "pic.x.com/4EAXkcEJoj",
+          "end": 36,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935822285493190765/video/1",
+          "media_key": "3_1935822211824144384",
+          "start": 13,
+          "url": "https://t.co/4EAXkcEJoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935822285493190765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们不要弄的到处都是呀🥺 https://t.co/4EAXkcEJoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11666,
+        "height": 960,
+        "media_key": "13_1935822211606364161",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935822211606364161/img/yjMXupWvolzQDHlJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935822211606364161/vid/avc1/320x426/nhGs8czFUSrw6pSZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935822211606364161/vid/avc1/480x640/gea2eDtNwd8_rtsz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935822211606364161/vid/avc1/720x960/OfF3YLj41Sl2_R2X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935822211606364161/pl/dU4hReNLeZaP0r2y.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935822211824144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt1sC5QW0AA_BJr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935822211606364161",
+            "3_1935822211824144384"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1935822285493190765",
+        "created_at": "2025-06-19T22:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T23:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935822285493190765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EAXkcEJoj",
+              "end": 36,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935822285493190765/video/1",
+              "media_key": "13_1935822211606364161",
+              "start": 13,
+              "url": "https://t.co/4EAXkcEJoj"
+            },
+            {
+              "display_url": "pic.x.com/4EAXkcEJoj",
+              "end": 36,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935822285493190765/video/1",
+              "media_key": "3_1935822211824144384",
+              "start": 13,
+              "url": "https://t.co/4EAXkcEJoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935822285493190765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不要弄的到处都是呀🥺 https://t.co/4EAXkcEJoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪88 单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1074,
+          "like_count": 5796,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4035
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938237137578823685"
+      ],
+      "media_source_tweet_id": [
+        "1938237147796148415"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938643681491509554",
+    "created_at": "2025-06-27T17:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938643681491509554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578619515503378433",
+          "start": 3,
+          "username": "ChenMUzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/23BMlJztx0",
+          "end": 101,
+          "expanded_url": "https://x.com/ChenMUzzz/status/1938237147796148415/photo/1",
+          "media_key": "3_1938237137578823685",
+          "start": 78,
+          "url": "https://t.co/23BMlJztx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938643681491509554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938237147796148415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenMUzzz: 去他妈的佛山地铁\n（我在大良钟楼（内设第三卫生间）尝试上厕所时发现门被私自锁上，也未标注检修或清洁，后保洁发现我后对我呵斥） https://t.co/23BMlJztx0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_1938237137578823685",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYAaEvbEAUWJD0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938237137578823685"
+          ],
+          "media_source_tweet_id": [
+            "1938237147796148415"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938643681491509554",
+        "created_at": "2025-06-27T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938643681491509554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578619515503378433",
+              "start": 3,
+              "username": "ChenMUzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23BMlJztx0",
+              "end": 101,
+              "expanded_url": "https://x.com/ChenMUzzz/status/1938237147796148415/photo/1",
+              "media_key": "3_1938237137578823685",
+              "start": 78,
+              "url": "https://t.co/23BMlJztx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938643681491509554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938237147796148415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenMUzzz: 去他妈的佛山地铁\n（我在大良钟楼（内设第三卫生间）尝试上厕所时发现门被私自锁上，也未标注检修或清洁，后保洁发现我后对我呵斥） https://t.co/23BMlJztx0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938237137578823685"
+          ]
+        },
+        "author_id": "1578619515503378433",
+        "conversation_id": "1938237147796148415",
+        "created_at": "2025-06-26T14:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938237147796148415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23BMlJztx0",
+              "end": 86,
+              "expanded_url": "https://x.com/ChenMUzzz/status/1938237147796148415/photo/1",
+              "media_key": "3_1938237137578823685",
+              "start": 63,
+              "url": "https://t.co/23BMlJztx0"
+            },
+            {
+              "display_url": "x.com/LingLuoForgetM…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/LingLuoForgetMe/status/1938232947418796503",
+              "start": 87,
+              "url": "https://t.co/xvCMIxNnj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938237147796148415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12476,
+          "like_count": 133,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938232947418796503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去他妈的佛山地铁\n（我在大良钟楼（内设第三卫生间）尝试上厕所时发现门被私自锁上，也未标注检修或清洁，后保洁发现我后对我呵斥） https://t.co/23BMlJztx0 https://t.co/xvCMIxNnj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1087,
+          "like_count": 6005,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4129
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T05:33:41.000Z",
+        "description": "转生成功//小琳琳是@LingLuoForgetMe的//Mtf(x)//持证上岗//精神老广(Bushi)//好友:@eurekahoshizuki @shibrxyn//ADHD//ASD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "LingLuoForgetMe"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "eurekahoshizuki"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "shibrxyn"
+              }
+            ]
+          }
+        },
+        "id": "1578619515503378433",
+        "location": "广东省广州市荔湾区芳村大道218号",
+        "name": "Lucini Evelxyn System",
+        "pinned_tweet_id": "1936307253197652029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912393902369148928/F2Kry0mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 413,
+          "like_count": 738,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 1750
+        },
+        "username": "ChenMUzzz",
+        "verified": true
+      }
+    ]
+  }
+}

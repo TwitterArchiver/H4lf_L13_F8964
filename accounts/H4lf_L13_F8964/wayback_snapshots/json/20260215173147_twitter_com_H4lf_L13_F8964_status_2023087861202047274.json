@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023036937372860416"
+      ],
+      "media_source_tweet_id": [
+        "2023036944037597523"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023087861202047274",
+    "created_at": "2026-02-15T17:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023087861202047274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567130939016491008",
+          "start": 3,
+          "username": "_______u2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wL43PA2JPQ",
+          "end": 38,
+          "expanded_url": "https://x.com/_______u2/status/2023036944037597523/photo/1",
+          "media_key": "3_2023036937372860416",
+          "start": 15,
+          "url": "https://t.co/wL43PA2JPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023087861202047274",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023036944037597523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_______u2: https://t.co/wL43PA2JPQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023087861202047274].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023087861202047274",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023087861202047274"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2138,
+        "media_key": "3_2023036937372860416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNFYEOagAATiS_.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023036937372860416"
+          ]
+        },
+        "author_id": "1567130939016491008",
+        "conversation_id": "2023036944037597523",
+        "created_at": "2026-02-15T14:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023036944037597523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL43PA2JPQ",
+              "end": 23,
+              "expanded_url": "https://x.com/_______u2/status/2023036944037597523/photo/1",
+              "media_key": "3_2023036937372860416",
+              "start": 0,
+              "url": "https://t.co/wL43PA2JPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023036944037597523",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 10827,
+          "like_count": 1917,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wL43PA2JPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1383,
+          "like_count": 8580,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5369
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T12:41:53.000Z",
+        "description": "VOC@LOID🎶 Sub▶@Foryou2I Allgenres▶︎@u2_all",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Foryou2I"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "username": "u2_all"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/u2net",
+                "end": 23,
+                "expanded_url": "https://lit.link/u2net",
+                "start": 0,
+                "url": "https://t.co/QRK7hLvHWf"
+              }
+            ]
+          }
+        },
+        "id": "1567130939016491008",
+        "location": "For grown-ups only…♡ ▶▷▶",
+        "name": "ゆに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910675731388260356/219CUfn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209820,
+          "following_count": 1,
+          "like_count": 2570,
+          "listed_count": 803,
+          "media_count": 263,
+          "tweet_count": 2885
+        },
+        "url": "https://t.co/QRK7hLvHWf",
+        "username": "_______u2",
+        "verified": true
+      }
+    ]
+  }
+}

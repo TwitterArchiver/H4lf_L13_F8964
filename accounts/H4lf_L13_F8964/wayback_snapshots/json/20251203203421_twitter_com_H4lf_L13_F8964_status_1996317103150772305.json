@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996317103150772305",
+    "created_at": "2025-12-03T20:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T21:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996317103150772305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236908710523326464",
+          "start": 3,
+          "username": "leocherry8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996317103150772305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996082712344670566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leocherry8: 我也没想到这还能有续集……\n\n续集：警车在滨崎步咖啡馆门口蹲守了一夜，把人门头扒光了，所有海报全撕下来了……\n\n怎么这是怕歌迷非法聚集？😂\n怕一群男歌迷聚集在咖啡馆，然后就开始演讲了是吧🤡\n\n真的太🤡了\n我都无语了…… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1996082708595048453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OCpdQbgAUioJF.jpg",
+        "width": 579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996317103150772305",
+        "created_at": "2025-12-03T20:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996317103150772305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236908710523326464",
+              "start": 3,
+              "username": "leocherry8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996317103150772305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996082712344670566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leocherry8: 我也没想到这还能有续集……\n\n续集：警车在滨崎步咖啡馆门口蹲守了一夜，把人门头扒光了，所有海报全撕下来了……\n\n怎么这是怕歌迷非法聚集？😂\n怕一群男歌迷聚集在咖啡馆，然后就开始演讲了是吧🤡\n\n真的太🤡了\n我都无语了…… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996082708595048453"
+          ]
+        },
+        "author_id": "1236908710523326464",
+        "conversation_id": "1996082712344670566",
+        "created_at": "2025-12-03T05:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996082712344670566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUmk2bRWX8",
+              "end": 133,
+              "expanded_url": "https://x.com/leocherry8/status/1996082712344670566/photo/1",
+              "media_key": "3_1996082708595048453",
+              "start": 110,
+              "url": "https://t.co/xUmk2bRWX8"
+            },
+            {
+              "display_url": "x.com/leocherry8/sta…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/leocherry8/status/1995888445533851835",
+              "start": 134,
+              "url": "https://t.co/v36RRijv6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996082712344670566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 104444,
+          "like_count": 555,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995888445533851835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也没想到这还能有续集……\n\n续集：警车在滨崎步咖啡馆门口蹲守了一夜，把人门头扒光了，所有海报全撕下来了……\n\n怎么这是怕歌迷非法聚集？😂\n怕一群男歌迷聚集在咖啡馆，然后就开始演讲了是吧🤡\n\n真的太🤡了\n我都无语了…… https://t.co/xUmk2bRWX8 https://t.co/v36RRijv6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1313,
+          "like_count": 7974,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5064
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T06:56:46.000Z",
+        "description": "面对邪恶，如果我们都沉默了，那凭什么指望别人来拯救我们。",
+        "id": "1236908710523326464",
+        "location": "日本",
+        "name": "小蛋糕（日本勇者村）",
+        "pinned_tweet_id": "1866353724781920477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345328983622107137/M5KziEMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8039,
+          "following_count": 942,
+          "like_count": 7358,
+          "listed_count": 45,
+          "media_count": 1703,
+          "tweet_count": 4856
+        },
+        "username": "leocherry8",
+        "verified": true
+      }
+    ]
+  }
+}

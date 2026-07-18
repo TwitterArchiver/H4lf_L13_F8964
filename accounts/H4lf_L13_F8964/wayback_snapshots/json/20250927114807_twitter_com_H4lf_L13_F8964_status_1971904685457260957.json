@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1971904685457260957",
+    "created_at": "2025-09-27T11:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971904685457260957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/estrellat0724/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/estrellat0724/status/1971572070116188336",
+          "start": 10,
+          "url": "https://t.co/iEqSXLfsh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971904685457260957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971572070116188336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奇异搞笑\n幽默神人 https://t.co/iEqSXLfsh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_1971571825143672832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xuIQ7bcAA3ptU.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1971904685457260957",
+        "created_at": "2025-09-27T11:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971904685457260957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/estrellat0724/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/estrellat0724/status/1971572070116188336",
+              "start": 10,
+              "url": "https://t.co/iEqSXLfsh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971904685457260957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971572070116188336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇异搞笑\n幽默神人 https://t.co/iEqSXLfsh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971571825143672832"
+          ]
+        },
+        "author_id": "1948316478832549888",
+        "conversation_id": "1971537484736770527",
+        "created_at": "2025-09-26T13:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971572070116188336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 28,
+              "id": "1413584021460815876",
+              "start": 14,
+              "username": "Fiona02390687"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1xyTyzBYw",
+              "end": 64,
+              "expanded_url": "https://x.com/Estrellat0724/status/1971572070116188336/photo/1",
+              "media_key": "3_1971571825143672832",
+              "start": 41,
+              "url": "https://t.co/I1xyTyzBYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971572070116188336",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8857,
+          "like_count": 38,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971556169425789201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @Fiona02390687 是让李颖转发后才给封的 https://t.co/I1xyTyzBYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1220,
+          "like_count": 7105,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4672
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:37:13.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜平权主义✊｜民族平等🫱🏼‍🫲🏿｜知识公有化🏴‍☠️",
+        "id": "1948316478832549888",
+        "name": "☭辉夜🚩🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "1965452991458410836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966025501316943872/DC4oMC_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 784,
+          "like_count": 1851,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 2381
+        },
+        "username": "Estrellat0724",
+        "verified": false
+      }
+    ]
+  }
+}

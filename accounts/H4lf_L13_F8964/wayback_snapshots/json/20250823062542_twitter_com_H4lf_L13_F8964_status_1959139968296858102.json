@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959139968296858102",
+    "created_at": "2025-08-23T06:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T07:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959139968296858102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5tr4n0/status/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/5tr4n0/status/1929881876027560254",
+          "start": 27,
+          "url": "https://t.co/88OmgGwoSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959139968296858102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929881876027560254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么今年这么早(╥﹏╥) 要是去年的时间我就赶上了 https://t.co/88OmgGwoSc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65690,
+        "height": 1440,
+        "media_key": "13_1929881714127470592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929881714127470592/img/Lq7zkM3DdoddcKLB.jpg",
+        "public_metrics": {
+          "view_count": 6600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929881714127470592/vid/avc1/1066x720/UMYvv1tmfY__OE-6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929881714127470592/vid/avc1/532x360/MpGd7yapgX3QNWOi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929881714127470592/vid/avc1/2134x1440/HyXPXSDUyCCWC_Kg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929881714127470592/pl/jmoCVJodaCwJRCzd.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929881714127470592/vid/avc1/400x270/gBcp7r0Z7-Z0SX2S.mp4"
+          }
+        ],
+        "width": 2134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1959139968296858102",
+        "created_at": "2025-08-23T06:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959139968296858102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5tr4n0/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/5tr4n0/status/1929881876027560254",
+              "start": 27,
+              "url": "https://t.co/88OmgGwoSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959139968296858102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929881876027560254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么今年这么早(╥﹏╥) 要是去年的时间我就赶上了 https://t.co/88OmgGwoSc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929881714127470592"
+          ]
+        },
+        "author_id": "1375243174160052224",
+        "conversation_id": "1929881876027560254",
+        "created_at": "2025-06-03T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929881876027560254"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "RGBMTL",
+              "probability": 0.8803,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpBoyN5txd",
+              "end": 154,
+              "expanded_url": "https://x.com/5tr4n0/status/1929881876027560254/video/1",
+              "media_key": "13_1929881714127470592",
+              "start": 131,
+              "url": "https://t.co/DpBoyN5txd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929881876027560254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 17602,
+          "like_count": 269,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "RGBMTL is happening again\n\nAugust 22-23 ~ save the date\n\nbut for now, here a taste of what happened last year \n\nTell your friends. https://t.co/DpBoyN5txd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1178,
+          "like_count": 6821,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4553
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T00:28:41.000Z",
+        "description": "at the intersection of art and the next intersection // #RGBMTL event happening August 22-23 in Montreal 💥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "RGBMTL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/5tr4n0",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/5tr4n0",
+                "start": 0,
+                "url": "https://t.co/mQZnJZUs9e"
+              }
+            ]
+          }
+        },
+        "id": "1375243174160052224",
+        "location": "Tiohtià:ke/Montréal",
+        "name": "Strano",
+        "pinned_tweet_id": "1929881876027560254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653526997417574400/sOvOkGkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16227,
+          "following_count": 2103,
+          "like_count": 109659,
+          "listed_count": 242,
+          "media_count": 4455,
+          "tweet_count": 32936
+        },
+        "url": "https://t.co/mQZnJZUs9e",
+        "username": "5tr4n0",
+        "verified": true
+      }
+    ]
+  }
+}

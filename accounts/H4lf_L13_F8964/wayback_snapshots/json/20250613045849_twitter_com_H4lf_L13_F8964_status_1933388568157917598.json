@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1932740922460287305",
+    "created_at": "2025-06-13T04:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T05:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933388568157917598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933388568157917598",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932740922460287305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 看起来太凶了wc，感觉下一秒就会和我结拜兄弟，然后丰矿进攻，最后把我杀了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1932740467546071040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ5NxMbIAAD_gh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1932740922460287305",
+        "created_at": "2025-06-13T04:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933388568157917598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933388568157917598",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932740922460287305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 看起来太凶了wc，感觉下一秒就会和我结拜兄弟，然后丰矿进攻，最后把我杀了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932740467546071040"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1932740922460287305",
+        "created_at": "2025-06-11T10:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932740922460287305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jryWG4BQDK",
+              "end": 42,
+              "expanded_url": "https://x.com/FurinaDF/status/1932740922460287305/photo/1",
+              "media_key": "3_1932740467546071040",
+              "start": 19,
+              "url": "https://t.co/jryWG4BQDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932740922460287305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 824396,
+          "like_count": 1719,
+          "quote_count": 6,
+          "reply_count": 104,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "蒋得聆：\n蒋家第五代\n蒋经国的曾孙女 https://t.co/jryWG4BQDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1048,
+          "like_count": 5618,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3971
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "天生万物以养人  世人犹怨天不仁  不知蝗蠹遍天下  苦尽苍生尽王臣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31188,
+          "following_count": 2178,
+          "like_count": 26283,
+          "listed_count": 85,
+          "media_count": 5099,
+          "tweet_count": 9258
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

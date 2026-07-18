@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941860946600972288"
+      ],
+      "media_source_tweet_id": [
+        "1941860959032938541"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942126457809141981",
+    "created_at": "2025-07-07T07:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942126457809141981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370394848952512512",
+          "start": 3,
+          "username": "DianaWangJiaRan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghh8p1k2sG",
+          "end": 44,
+          "expanded_url": "https://x.com/DianaWangJiaRan/status/1941860959032938541/photo/1",
+          "media_key": "3_1941860946600972288",
+          "start": 21,
+          "url": "https://t.co/ghh8p1k2sG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942126457809141981",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941860959032938541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DianaWangJiaRan: https://t.co/ghh8p1k2sG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_1941860946600972288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLgPhVa0AAcy9M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941860946600972288"
+          ],
+          "media_source_tweet_id": [
+            "1941860959032938541"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942126457809141981",
+        "created_at": "2025-07-07T07:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942126457809141981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370394848952512512",
+              "start": 3,
+              "username": "DianaWangJiaRan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghh8p1k2sG",
+              "end": 44,
+              "expanded_url": "https://x.com/DianaWangJiaRan/status/1941860959032938541/photo/1",
+              "media_key": "3_1941860946600972288",
+              "start": 21,
+              "url": "https://t.co/ghh8p1k2sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942126457809141981",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941860959032938541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DianaWangJiaRan: https://t.co/ghh8p1k2sG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941860946600972288"
+          ]
+        },
+        "author_id": "1370394848952512512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941860959032938541",
+        "created_at": "2025-07-06T14:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941860959032938541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghh8p1k2sG",
+              "end": 23,
+              "expanded_url": "https://x.com/DianaWangJiaRan/status/1941860959032938541/photo/1",
+              "media_key": "3_1941860946600972288",
+              "start": 0,
+              "url": "https://t.co/ghh8p1k2sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941860959032938541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 29461,
+          "like_count": 399,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ghh8p1k2sG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1105,
+          "like_count": 6215,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 4224
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T15:23:01.000Z",
+        "description": "A-SOUL的造反担当，枝江工人革命造反总司令部司令、枝江共产党中央委员会副主席、枝江中央政治局委员、枝江中央军事委员会常务委员，目前与向晚（已毕业）、贝拉、乃琳组成4F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/672328094",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/672328094",
+                "start": 0,
+                "url": "https://t.co/MdO4CEp2mt"
+              }
+            ]
+          }
+        },
+        "id": "1370394848952512512",
+        "location": "枝江人民公社",
+        "name": "枝江人民公社副主任王嘉然",
+        "pinned_tweet_id": "1680194565993795585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684526997379108865/HdLHmAnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 273,
+          "like_count": 1959,
+          "listed_count": 15,
+          "media_count": 447,
+          "tweet_count": 3434
+        },
+        "url": "https://t.co/MdO4CEp2mt",
+        "username": "DianaWangJiaRan",
+        "verified": false
+      }
+    ]
+  }
+}

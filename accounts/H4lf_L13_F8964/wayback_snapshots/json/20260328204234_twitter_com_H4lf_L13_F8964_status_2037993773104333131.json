@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2037857850991759808",
+    "created_at": "2026-03-28T20:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T21:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037993773104333131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 24,
+          "id": "1297181001521590273",
+          "start": 12,
+          "username": "julystratus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037993773104333131",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037857850991759808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 @julystratus 宫崎英高小时候被调教快慢刀导致🐍不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2037857850991759808",
+        "created_at": "2026-03-28T20:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037993773104333131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 24,
+              "id": "1297181001521590273",
+              "start": 12,
+              "username": "julystratus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037993773104333131",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037857850991759808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @julystratus 宫崎英高小时候被调教快慢刀导致🐍不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2037857850991759808",
+        "created_at": "2026-03-28T11:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037857850991759808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037857850991759808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 14012,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么药娘反而很保，希望自己遇到的顺直都是健全normie？\n\n你化着全妆，伪音，给HR递上学历证书复印件，上面是一个长得像宫崎英高的男人，然后你在对方疑惑的眼神里递上同一人证明。对方是熟悉男娘雌堕本的顺女，只在脑子里过了一遍雌堕调教就知道眼前发生了什么。只是问了你一句：你还会变回这样吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1455,
+          "like_count": 8870,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 5602
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22276,
+          "following_count": 198,
+          "like_count": 708,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22779
+        },
+        "username": "B_cat38324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T14:37:23.000Z",
+        "description": "😼",
+        "id": "1297181001521590273",
+        "name": "🍋贅沢は無能の結果だ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806680265840050176/U5eQVTdm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 316,
+          "like_count": 88042,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3245
+        },
+        "username": "julystratus",
+        "verified": false
+      }
+    ]
+  }
+}

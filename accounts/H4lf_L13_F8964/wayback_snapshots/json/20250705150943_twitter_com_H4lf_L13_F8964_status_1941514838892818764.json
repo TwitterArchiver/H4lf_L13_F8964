@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941354009161498624",
+        "3_1941354009161498625"
+      ],
+      "media_source_tweet_id": [
+        "1941354014924566897",
+        "1941354014924566897"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1333475632651538432",
+          "name": "Movie & TV trailers"
+        }
+      }
+    ],
+    "conversation_id": "1941514838892818764",
+    "created_at": "2025-07-05T15:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T16:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941514838892818764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1920670910673244160",
+          "start": 3,
+          "username": "relva_belinha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEZvIhEpdf",
+          "end": 90,
+          "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+          "media_key": "3_1941354009161498624",
+          "start": 67,
+          "url": "https://t.co/nEZvIhEpdf"
+        },
+        {
+          "display_url": "pic.x.com/nEZvIhEpdf",
+          "end": 90,
+          "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+          "media_key": "3_1941354009161498625",
+          "start": 67,
+          "url": "https://t.co/nEZvIhEpdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941514838892818764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941354014924566897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @relva_belinha: 我只想请某些大西洋主义者把自己对拉美的无知与傲慢收一收（mission impossible） https://t.co/nEZvIhEpdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_1941354009161498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvETL4NaAAAte5a.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1917,
+        "media_key": "3_1941354009161498625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvETL4NaAAEtbX1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941354009161498624",
+            "3_1941354009161498625"
+          ],
+          "media_source_tweet_id": [
+            "1941354014924566897",
+            "1941354014924566897"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1333475632651538432",
+              "name": "Movie & TV trailers"
+            }
+          }
+        ],
+        "conversation_id": "1941514838892818764",
+        "created_at": "2025-07-05T15:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941514838892818764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1920670910673244160",
+              "start": 3,
+              "username": "relva_belinha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEZvIhEpdf",
+              "end": 90,
+              "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+              "media_key": "3_1941354009161498624",
+              "start": 67,
+              "url": "https://t.co/nEZvIhEpdf"
+            },
+            {
+              "display_url": "pic.x.com/nEZvIhEpdf",
+              "end": 90,
+              "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+              "media_key": "3_1941354009161498625",
+              "start": 67,
+              "url": "https://t.co/nEZvIhEpdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941514838892818764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941354014924566897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @relva_belinha: 我只想请某些大西洋主义者把自己对拉美的无知与傲慢收一收（mission impossible） https://t.co/nEZvIhEpdf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941354009161498624",
+            "3_1941354009161498625"
+          ]
+        },
+        "author_id": "1920670910673244160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1333475632651538432",
+              "name": "Movie & TV trailers"
+            }
+          }
+        ],
+        "conversation_id": "1941354014924566897",
+        "created_at": "2025-07-05T04:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941354014924566897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEZvIhEpdf",
+              "end": 71,
+              "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+              "media_key": "3_1941354009161498624",
+              "start": 48,
+              "url": "https://t.co/nEZvIhEpdf"
+            },
+            {
+              "display_url": "pic.x.com/nEZvIhEpdf",
+              "end": 71,
+              "expanded_url": "https://x.com/relva_belinha/status/1941354014924566897/photo/1",
+              "media_key": "3_1941354009161498625",
+              "start": 48,
+              "url": "https://t.co/nEZvIhEpdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941354014924566897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 313,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想请某些大西洋主义者把自己对拉美的无知与傲慢收一收（mission impossible） https://t.co/nEZvIhEpdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1105,
+          "like_count": 6206,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 4216
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T02:43:37.000Z",
+        "description": "第三世界&ラテンヨーロッパ｜🇵🇸🇲🇽🇧🇷🇺🇾🇸🇳🇫🇷🇵🇹🇪🇸｜🏳️‍🌈🏳️‍⚧️ | they or she | ¡Ni una menos! | O povo unido jamais será vencido!",
+        "id": "1920670910673244160",
+        "location": "Moimenta da Beira, Portugal",
+        "name": "🍓ベリーニャ🐈‍⬛",
+        "pinned_tweet_id": "1921778566146015585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939808636802338816/-JvmdHDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 227,
+          "like_count": 7775,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2747
+        },
+        "username": "relva_belinha",
+        "verified": false
+      }
+    ]
+  }
+}

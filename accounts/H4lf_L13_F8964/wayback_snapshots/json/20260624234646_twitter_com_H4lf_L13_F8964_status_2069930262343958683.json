@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2069736482693152883",
+    "created_at": "2026-06-24T23:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069930262343958683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "776717527447539712",
+          "start": 0,
+          "username": "nevenevene"
+        },
+        {
+          "end": 22,
+          "id": "67875921",
+          "start": 12,
+          "username": "_ilestlor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069930262343958683",
+    "in_reply_to_user_id": "776717527447539712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069871675760623628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nevenevene @_ilestlor 评论区不要以偏概全，我从小学到高中都没空调……而且秋老虎还是很热的……更遭罪的同样也有冬天那不怎么热的暖气片和漏风的窗户……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2069736482693152883",
+        "created_at": "2026-06-24T23:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069930262343958683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "776717527447539712",
+              "start": 0,
+              "username": "nevenevene"
+            },
+            {
+              "end": 22,
+              "id": "67875921",
+              "start": 12,
+              "username": "_ilestlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069930262343958683",
+        "in_reply_to_user_id": "776717527447539712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069871675760623628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nevenevene @_ilestlor 评论区不要以偏概全，我从小学到高中都没空调……而且秋老虎还是很热的……更遭罪的同样也有冬天那不怎么热的暖气片和漏风的窗户……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "776717527447539712",
+        "conversation_id": "2069736482693152883",
+        "created_at": "2026-06-24T19:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069871675760623628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "67875921",
+              "start": 0,
+              "username": "_ilestlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069871675760623628",
+        "in_reply_to_user_id": "67875921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069736482693152883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ilestlor 但是中国的学校其实是没有空调的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 1452,
+          "like_count": 8893,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 5662
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-16T09:41:04.000Z",
+        "description": "",
+        "id": "776717527447539712",
+        "name": "Yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052505111549915136/6j_makAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 251,
+          "like_count": 1105,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "nevenevene",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-22T12:12:36.000Z",
+        "description": "Tout ce que vous écrirez ici vous survivra, soyez-en digne. Bosse à l’usine.",
+        "id": "67875921",
+        "location": "Strasbourg",
+        "name": "Il est l’or 🌱🚲",
+        "pinned_tweet_id": "1950660079939915944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542126394204905478/k45s_Yti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 3346,
+          "like_count": 188801,
+          "listed_count": 7,
+          "media_count": 6268,
+          "tweet_count": 39042
+        },
+        "url": "",
+        "username": "_ilestlor",
+        "verified": false
+      }
+    ]
+  }
+}

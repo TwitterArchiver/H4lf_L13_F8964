@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987160908280311808"
+      ],
+      "media_source_tweet_id": [
+        "1987160913946775909"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1987257266991456725",
+    "created_at": "2025-11-08T20:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T21:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987257266991456725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gA7TCQ1Y0t",
+          "end": 43,
+          "expanded_url": "https://x.com/Ted_yeet/status/1987160913946775909/photo/1",
+          "media_key": "3_1987160908280311808",
+          "start": 20,
+          "url": "https://t.co/gA7TCQ1Y0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987257266991456725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987160913946775909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 代糖的破绽 https://t.co/gA7TCQ1Y0t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987160908280311808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PQUVGXMAANw2Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987160908280311808"
+          ],
+          "media_source_tweet_id": [
+            "1987160913946775909"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1987257266991456725",
+        "created_at": "2025-11-08T20:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T21:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987257266991456725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gA7TCQ1Y0t",
+              "end": 43,
+              "expanded_url": "https://x.com/Ted_yeet/status/1987160913946775909/photo/1",
+              "media_key": "3_1987160908280311808",
+              "start": 20,
+              "url": "https://t.co/gA7TCQ1Y0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987257266991456725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987160913946775909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 代糖的破绽 https://t.co/gA7TCQ1Y0t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987160908280311808"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "1987160913946775909",
+        "created_at": "2025-11-08T14:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987160913946775909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gA7TCQ1Y0t",
+              "end": 29,
+              "expanded_url": "https://x.com/Ted_yeet/status/1987160913946775909/photo/1",
+              "media_key": "3_1987160908280311808",
+              "start": 6,
+              "url": "https://t.co/gA7TCQ1Y0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987160913946775909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7793,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "代糖的破绽 https://t.co/gA7TCQ1Y0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1277,
+          "like_count": 7589,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 4921
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥(休学ing)/一推就倒邪恶北方地牢主/穿胶写胶SM高手/接论文修改, 乳胶优化, idea咨询, 3D打印/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "🚪50/申根可飞",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 1384,
+          "like_count": 31742,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 6372
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

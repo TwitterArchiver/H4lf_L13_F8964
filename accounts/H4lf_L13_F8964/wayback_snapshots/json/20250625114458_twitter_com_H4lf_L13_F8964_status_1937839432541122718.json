@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937677202906304512"
+      ],
+      "media_source_tweet_id": [
+        "1937677224217641105"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937839432541122718",
+    "created_at": "2025-06-25T11:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937839432541122718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429826969194033160",
+          "start": 3,
+          "username": "zheshiwenzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKCvpKk1l5",
+          "end": 60,
+          "expanded_url": "https://x.com/zheshiwenzi/status/1937677224217641105/photo/1",
+          "media_key": "3_1937677202906304512",
+          "start": 37,
+          "url": "https://t.co/uKCvpKk1l5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937839432541122718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937677224217641105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zheshiwenzi: 我将会慢慢嗦嗦再反复不咬断吞咽这个炸鸡 https://t.co/uKCvpKk1l5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1937677202906304512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQDJliaUAAAaaI.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937677202906304512"
+          ],
+          "media_source_tweet_id": [
+            "1937677224217641105"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937839432541122718",
+        "created_at": "2025-06-25T11:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937839432541122718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429826969194033160",
+              "start": 3,
+              "username": "zheshiwenzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKCvpKk1l5",
+              "end": 60,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1937677224217641105/photo/1",
+              "media_key": "3_1937677202906304512",
+              "start": 37,
+              "url": "https://t.co/uKCvpKk1l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937839432541122718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937677224217641105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zheshiwenzi: 我将会慢慢嗦嗦再反复不咬断吞咽这个炸鸡 https://t.co/uKCvpKk1l5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937677202906304512"
+          ]
+        },
+        "author_id": "1429826969194033160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937677224217641105",
+        "created_at": "2025-06-25T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937677224217641105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKCvpKk1l5",
+              "end": 43,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1937677224217641105/photo/1",
+              "media_key": "3_1937677202906304512",
+              "start": 20,
+              "url": "https://t.co/uKCvpKk1l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937677224217641105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1565,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我将会慢慢嗦嗦再反复不咬断吞咽这个炸鸡 https://t.co/uKCvpKk1l5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1084,
+          "like_count": 5933,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 4081
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:25:02.000Z",
+        "description": "接投稿｜人后🔞@yuguitun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yuguitun"
+              }
+            ]
+          }
+        },
+        "id": "1429826969194033160",
+        "name": "这是雯子",
+        "pinned_tweet_id": "1934653250625814544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743676273912926208/HkvURJEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15736,
+          "following_count": 20,
+          "like_count": 139,
+          "listed_count": 17,
+          "media_count": 1703,
+          "tweet_count": 11689
+        },
+        "username": "zheshiwenzi",
+        "verified": false
+      }
+    ]
+  }
+}

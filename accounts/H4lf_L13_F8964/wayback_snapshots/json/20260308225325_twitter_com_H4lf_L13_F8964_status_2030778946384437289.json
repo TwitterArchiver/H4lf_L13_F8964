@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2030778946384437289",
+    "created_at": "2026-03-08T22:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T23:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030778946384437289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030778946384437289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030313386353778828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 小学的时候淫虫上脑四处找黄油，结果找来找去偏偏下载了全文全年龄的《CLANNAD》。我连续看了很久，看完动弹不得，仿佛被作者们夺走了童贞，我看懂了，而且大受震撼。我的人生，我的性格，我的愿望，一切都被深深地影响了，彻底地改变了。\n哪怕最后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2030778946384437289",
+        "created_at": "2026-03-08T22:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030778946384437289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030778946384437289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030313386353778828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 小学的时候淫虫上脑四处找黄油，结果找来找去偏偏下载了全文全年龄的《CLANNAD》。我连续看了很久，看完动弹不得，仿佛被作者们夺走了童贞，我看懂了，而且大受震撼。我的人生，我的性格，我的愿望，一切都被深深地影响了，彻底地改变了。\n哪怕最后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2030313386353778828",
+        "created_at": "2026-03-07T16:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030313386353778828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030313386353778828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 474,
+          "impression_count": 350438,
+          "like_count": 1488,
+          "quote_count": 5,
+          "reply_count": 61,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "小学的时候淫虫上脑四处找黄油，结果找来找去偏偏下载了全文全年龄的《CLANNAD》。我连续看了很久，看完动弹不得，仿佛被作者们夺走了童贞，我看懂了，而且大受震撼。我的人生，我的性格，我的愿望，一切都被深深地影响了，彻底地改变了。\n哪怕最后找到了《智代After》爽玩一番也无济于事索然无味了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1428,
+          "like_count": 8703,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 5490
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 277,
+          "like_count": 86083,
+          "listed_count": 9,
+          "media_count": 1107,
+          "tweet_count": 15906
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

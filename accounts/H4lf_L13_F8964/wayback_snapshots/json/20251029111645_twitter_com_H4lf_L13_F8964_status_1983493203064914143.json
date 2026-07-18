@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1983493203064914143",
+    "created_at": "2025-10-29T11:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983493203064914143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483178480917303299",
+          "start": 3,
+          "username": "RealDVBTBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983493203064914143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983119360526037099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealDVBTBN: 停止向孩子们宣传“异性恋”和“阳刚”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1983493203064914143",
+        "created_at": "2025-10-29T11:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983493203064914143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483178480917303299",
+              "start": 3,
+              "username": "RealDVBTBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983493203064914143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983119360526037099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealDVBTBN: 停止向孩子们宣传“异性恋”和“阳刚”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483178480917303299",
+        "conversation_id": "1983119360526037099",
+        "created_at": "2025-10-28T10:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983119360526037099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gu_xi87119/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/gu_xi87119/status/1982706144528486695",
+              "start": 19,
+              "url": "https://t.co/4PRTgCV1QT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983119360526037099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2822,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982706144528486695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "停止向孩子们宣传“异性恋”和“阳刚” https://t.co/4PRTgCV1QT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1269,
+          "like_count": 7507,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4882
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T20:44:47.000Z",
+        "description": "I won't give in to the insanity, \nchasing all the stars.",
+        "id": "1483178480917303299",
+        "location": "距离你1.4m",
+        "name": "汀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545782637335396354/G7bw2pOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 485,
+          "like_count": 8099,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 2074
+        },
+        "username": "RealDVBTBN",
+        "verified": false
+      }
+    ]
+  }
+}

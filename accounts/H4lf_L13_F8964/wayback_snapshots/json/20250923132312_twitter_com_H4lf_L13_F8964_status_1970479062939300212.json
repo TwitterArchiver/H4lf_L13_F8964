@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1970090275625394594",
+    "created_at": "2025-09-23T13:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T14:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970479062939300212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970479062939300212",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970090275625394594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya 注意安全😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1970090264909029376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cqqG9boAAtu4O.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1970090275625394594",
+        "created_at": "2025-09-23T13:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970479062939300212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970479062939300212",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970090275625394594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya 注意安全😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970090264909029376"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "1970090275625394594",
+        "created_at": "2025-09-22T11:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970090275625394594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXPAdC3jD7",
+              "end": 162,
+              "expanded_url": "https://x.com/iMoeAya/status/1970090275625394594/photo/1",
+              "media_key": "3_1970090264909029376",
+              "start": 139,
+              "url": "https://t.co/eXPAdC3jD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970090275625394594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 28664,
+          "like_count": 180,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "消失了一星期，上周被绳师的学徒学习新吊缚节教学绑绑的时候胸绳滑绳，勒伤了大臂经过的桡神经，结果是手腕垂腕，手指蜷缩无法控制，之后几天生活几乎无法自理，很感谢各位朋友的悉心照顾，今天恢复的可以动手指用手机了(≧▽≦) 大约半年内不能有上肢的束缚了，最后发一下被废掉前最后一张照片 https://t.co/eXPAdC3jD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1216,
+          "like_count": 7082,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4658
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38263,
+          "following_count": 4143,
+          "like_count": 165381,
+          "listed_count": 134,
+          "media_count": 1092,
+          "tweet_count": 34574
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

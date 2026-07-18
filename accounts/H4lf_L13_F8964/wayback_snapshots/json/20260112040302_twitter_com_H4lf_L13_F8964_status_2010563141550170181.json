@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2010330462355591617",
+    "created_at": "2026-01-12T04:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010563141550170181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        },
+        {
+          "end": 19,
+          "id": "1700038264781230080",
+          "start": 13,
+          "username": "RGW90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010563141550170181",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010334574539079691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 @RGW90 分我两口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2010330462355591617",
+        "created_at": "2026-01-12T04:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010563141550170181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            },
+            {
+              "end": 19,
+              "id": "1700038264781230080",
+              "start": 13,
+              "username": "RGW90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010563141550170181",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010334574539079691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 @RGW90 分我两口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2010330462355591617",
+        "created_at": "2026-01-11T12:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010334574539079691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1700038264781230080",
+              "start": 0,
+              "username": "RGW90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010334574539079691",
+        "in_reply_to_user_id": "1700038264781230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010330462355591617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RGW90 张嘴，吃我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1341,
+          "like_count": 8309,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 5230
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2006499496755343714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923498092516573185/UQ5TgMeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18064,
+          "following_count": 2505,
+          "like_count": 5836,
+          "listed_count": 77,
+          "media_count": 1167,
+          "tweet_count": 15472
+        },
+        "username": "nande198900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T06:49:55.000Z",
+        "description": "@libertyelysium 的 🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "libertyelysium"
+              }
+            ]
+          }
+        },
+        "id": "1700038264781230080",
+        "location": "Melbourne, Victoria",
+        "name": "MATADOR",
+        "pinned_tweet_id": "1972648718609342667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915448137826918402/3MR5Gyur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12270,
+          "following_count": 592,
+          "like_count": 27589,
+          "listed_count": 57,
+          "media_count": 4497,
+          "tweet_count": 28538
+        },
+        "username": "RGW90",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004438349231411429",
+    "created_at": "2025-12-27T23:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T00:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005064362185445837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397245389963546624",
+          "start": 0,
+          "username": "PTP_K_MySUN"
+        },
+        {
+          "end": 23,
+          "id": "1863439189909618688",
+          "start": 13,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005064362185445837",
+    "in_reply_to_user_id": "1397245389963546624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004483413659852856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PTP_K_MySUN @hsn8086xe 我家认为都是社会人才去钓鱼，像台球一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2004438349231411429",
+        "created_at": "2025-12-27T23:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005064362185445837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397245389963546624",
+              "start": 0,
+              "username": "PTP_K_MySUN"
+            },
+            {
+              "end": 23,
+              "id": "1863439189909618688",
+              "start": 13,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005064362185445837",
+        "in_reply_to_user_id": "1397245389963546624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004483413659852856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PTP_K_MySUN @hsn8086xe 我家认为都是社会人才去钓鱼，像台球一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397245389963546624",
+        "conversation_id": "2004438349231411429",
+        "created_at": "2025-12-26T09:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004483413659852856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004483413659852856",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004438349231411429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 至少不会去打架，去学其他什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1329,
+          "like_count": 8177,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 5160
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T17:37:30.000Z",
+        "description": "感谢来访/关注❤️这里是澜羽，一个顺其自然，对坏事物无所谓的人。性取向P【泛性恋】，超·足控【裸足万岁！】，独身&不婚主义，犬系男仆，会做的事很多，爱好是垂钓🎣、露营⛺️、骑行🚴🏻🏍、特摄🎥，Space💫，以及下厨房🥘另外，是Pay money To my Pain的babyZ",
+        "id": "1397245389963546624",
+        "location": "Utopia",
+        "name": "尾刃 澜羽PTPbabyz🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960050425463234560/-LEev4em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1655,
+          "like_count": 77154,
+          "listed_count": 4,
+          "media_count": 796,
+          "tweet_count": 15509
+        },
+        "username": "PTP_K_MySUN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30120,
+          "following_count": 352,
+          "like_count": 69,
+          "listed_count": 89,
+          "media_count": 9108,
+          "tweet_count": 9138
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

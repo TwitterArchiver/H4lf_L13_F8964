@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956826625049559040"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1956826738996183510",
+    "created_at": "2025-08-16T21:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T22:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956826738996183510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/up6J3Xilgz",
+          "end": 30,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1956826738996183510/video/1",
+          "media_key": "13_1956826625049559040",
+          "start": 7,
+          "url": "https://t.co/up6J3Xilgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956826738996183510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下雨出来练嗓 https://t.co/up6J3Xilgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20250,
+        "height": 1280,
+        "media_key": "13_1956826625049559040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956826625049559040/img/CviCrKRvwi_KEDtU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956826625049559040/vid/avc1/320x568/PDvWoD9K1U9HT3cA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956826625049559040/vid/avc1/480x852/nAe_Zpq0-cyq6qqD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956826625049559040/vid/avc1/720x1280/S5LaRCKheoaJ2zA-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956826625049559040/pl/7d9Ld-1rKXIdLI_n.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956826625049559040"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1956826738996183510",
+        "created_at": "2025-08-16T21:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T22:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956826738996183510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/up6J3Xilgz",
+              "end": 30,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1956826738996183510/video/1",
+              "media_key": "13_1956826625049559040",
+              "start": 7,
+              "url": "https://t.co/up6J3Xilgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956826738996183510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雨出来练嗓 https://t.co/up6J3Xilgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1174,
+          "like_count": 6686,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4500
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

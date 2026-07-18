@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1953201970166284530",
+    "created_at": "2025-08-06T21:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953201970166284530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698001955422175232",
+          "start": 3,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953201970166284530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952560382012502324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d07207333210: 最高指示：所有摁压阴茎获得快感的人都是跨性别者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1953201970166284530",
+        "created_at": "2025-08-06T21:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953201970166284530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698001955422175232",
+              "start": 3,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953201970166284530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952560382012502324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d07207333210: 最高指示：所有摁压阴茎获得快感的人都是跨性别者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "1952560382012502324",
+        "created_at": "2025-08-05T02:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952560382012502324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zmt021/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zmt021/status/1952009647361073536",
+              "start": 24,
+              "url": "https://t.co/Hb2Hy9LzQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952560382012502324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 44575,
+          "like_count": 394,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952009647361073536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最高指示：所有摁压阴茎获得快感的人都是跨性别者 https://t.co/Hb2Hy9LzQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1149,
+          "like_count": 6467,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 4383
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "09/mtx",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 711,
+          "like_count": 16845,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 3828
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

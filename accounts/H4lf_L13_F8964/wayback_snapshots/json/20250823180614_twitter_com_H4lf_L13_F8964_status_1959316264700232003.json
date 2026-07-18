@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959316256252936192"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959316264700232003",
+    "created_at": "2025-08-23T18:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959316264700232003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9aCNk0hDnF",
+          "end": 40,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1959316264700232003/photo/1",
+          "media_key": "3_1959316256252936192",
+          "start": 17,
+          "url": "https://t.co/9aCNk0hDnF"
+        },
+        {
+          "display_url": "x.com/h4lf_l13_f8964…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/h4lf_l13_f8964/status/1959313087305003222",
+          "start": 41,
+          "url": "https://t.co/hsTdXkhgze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959316264700232003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959313087305003222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猜猜我进去了多少？( ̀⌄ ́) https://t.co/9aCNk0hDnF https://t.co/hsTdXkhgze"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1959316264700232003].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1959316264700232003",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959316264700232003"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1959313087305003222].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1959313087305003222",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959313087305003222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959316256252936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDjwRCawAA4se3.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1180,
+          "like_count": 6830,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4559
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

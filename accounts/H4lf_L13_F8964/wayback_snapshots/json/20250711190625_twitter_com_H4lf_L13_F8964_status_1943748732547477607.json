@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943356552213336362",
+    "created_at": "2025-07-11T19:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T20:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943748732547477607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "888172653881638912",
+          "start": 0,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943748732547477607",
+    "in_reply_to_user_id": "888172653881638912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943356552213336362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yovartija_nattv 你那个不是x啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943356537403236352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgweXPaYAAepa3.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943356537235472384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgweWnagAAoDLj.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1943356546072653824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvgwe3iXMAA3e8O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1943356537323589632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgweW8bEAAEeoj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943356552213336362",
+        "created_at": "2025-07-11T19:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T20:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943748732547477607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "888172653881638912",
+              "start": 0,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943748732547477607",
+        "in_reply_to_user_id": "888172653881638912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943356552213336362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yovartija_nattv 你那个不是x啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943356537403236352",
+            "3_1943356537235472384",
+            "3_1943356546072653824",
+            "3_1943356537323589632"
+          ]
+        },
+        "author_id": "888172653881638912",
+        "conversation_id": "1943356552213336362",
+        "created_at": "2025-07-10T17:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943356552213336362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK2s1Svz8w",
+              "end": 151,
+              "expanded_url": "https://x.com/yovartija_nattv/status/1943356552213336362/photo/1",
+              "media_key": "3_1943356537403236352",
+              "start": 128,
+              "url": "https://t.co/KK2s1Svz8w"
+            },
+            {
+              "display_url": "pic.x.com/KK2s1Svz8w",
+              "end": 151,
+              "expanded_url": "https://x.com/yovartija_nattv/status/1943356552213336362/photo/1",
+              "media_key": "3_1943356537235472384",
+              "start": 128,
+              "url": "https://t.co/KK2s1Svz8w"
+            },
+            {
+              "display_url": "pic.x.com/KK2s1Svz8w",
+              "end": 151,
+              "expanded_url": "https://x.com/yovartija_nattv/status/1943356552213336362/photo/1",
+              "media_key": "3_1943356546072653824",
+              "start": 128,
+              "url": "https://t.co/KK2s1Svz8w"
+            },
+            {
+              "display_url": "pic.x.com/KK2s1Svz8w",
+              "end": 151,
+              "expanded_url": "https://x.com/yovartija_nattv/status/1943356552213336362/photo/1",
+              "media_key": "3_1943356537323589632",
+              "start": 128,
+              "url": "https://t.co/KK2s1Svz8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943356552213336362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 26585,
+          "like_count": 230,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "去铁西宝马工厂参观，特意租了个X1，真的太震撼了，具体生产线没法拍，反正就是非常值得一来，来了之后真的觉得什么造车新势力真不行，人铁西宝马工厂早就实现全绿电生产+全部废水循环了，自动化率高达95%，流水线上的工人都能选择最合适的工作姿态，太先进了.jpg https://t.co/KK2s1Svz8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1114,
+          "like_count": 6309,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4280
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\AI创业中\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama⚪🏴‍☠️💙🇫🇮🏴🏳️‍⚧️",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10165,
+          "following_count": 778,
+          "like_count": 43995,
+          "listed_count": 40,
+          "media_count": 1193,
+          "tweet_count": 4919
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

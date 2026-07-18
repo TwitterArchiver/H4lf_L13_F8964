@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1955966747326210323",
+    "created_at": "2025-08-23T18:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959323601083281889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493070064895070210",
+          "start": 0,
+          "username": "piggyning220217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959323601083281889",
+    "in_reply_to_user_id": "1493070064895070210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959318772457591134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piggyning220217 考虑和ogu一起拍联动嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1955966747326210323",
+        "created_at": "2025-08-23T18:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959323601083281889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493070064895070210",
+              "start": 0,
+              "username": "piggyning220217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959323601083281889",
+        "in_reply_to_user_id": "1493070064895070210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959318772457591134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piggyning220217 考虑和ogu一起拍联动嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493070064895070210",
+        "conversation_id": "1955966747326210323",
+        "created_at": "2025-08-23T18:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959318772457591134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959318772457591134",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959315404641509414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 One minute one minute last train!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1180,
+          "like_count": 6832,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4563
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T03:50:33.000Z",
+        "description": "地偶❤️被写体モデル/XTF/欢迎摄影老师约拍/线下可约/碎碎念警告/账号关联狸咪ing @Ciykia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Ciykia"
+              }
+            ]
+          }
+        },
+        "id": "1493070064895070210",
+        "location": "Tokyo-to, Japan",
+        "name": "海月酱🪼",
+        "pinned_tweet_id": "1953790727227683333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952784144494477312/zFXQr5Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7595,
+          "following_count": 608,
+          "like_count": 2285,
+          "listed_count": 21,
+          "media_count": 80,
+          "tweet_count": 1000
+        },
+        "username": "piggyning220217",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1991924837166768454",
+    "created_at": "2025-11-21T17:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991924837166768454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991924837166768454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991852113593524498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 究竟是谁允许的医疗机构篡改别人的证件类文书和证件？\n我发现这些医疗机构的人都很爱编造一个所谓的“上面说了要我这么干”，但我早就对这种说法有所怀疑：\n拿这件事来说，如果所谓“☝️上面的人”是相关部门懂行的，它不会把“精神一类药物与麻醉药物”说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1991924837166768454",
+        "created_at": "2025-11-21T17:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991924837166768454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991924837166768454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991852113593524498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 究竟是谁允许的医疗机构篡改别人的证件类文书和证件？\n我发现这些医疗机构的人都很爱编造一个所谓的“上面说了要我这么干”，但我早就对这种说法有所怀疑：\n拿这件事来说，如果所谓“☝️上面的人”是相关部门懂行的，它不会把“精神一类药物与麻醉药物”说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "1991852113593524498",
+        "created_at": "2025-11-21T12:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:42:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991849677759905793",
+          "1991852113593524498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1991811004133441868",
+              "start": 132,
+              "url": "https://t.co/iOvCWzuFUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991852113593524498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "究竟是谁允许的医疗机构篡改别人的证件类文书和证件？\n我发现这些医疗机构的人都很爱编造一个所谓的“上面说了要我这么干”，但我早就对这种说法有所怀疑：\n拿这件事来说，如果所谓“☝️上面的人”是相关部门懂行的，它不会把“精神一类药物与麻醉药物”说成“精神病一类药物”，\n如果“☝️的人”就是个混日子的关系户，它100%不会闲的没事研究研究，把混合在一起的、需要红处方的药列出来分分类，把只有精神药物（还是只限定于精神疾病患者使用的一部分精神药物）给挑出来要求给你盖章。\n这种说法整天莫名其妙来一个，我早都觉得不对，比如去医院诊断，莫名其妙给你来个医院不让诊断，上面有要求；又比如司法鉴定莫名其妙说上面有人施压，但造成的结果又是司法鉴定过程不严格遵守标准，而是根据主观喜好来评判你，降低鉴定结果的出具数量。\n这些根本就说不通，而且相同日期不同的人得到不同的说法我见了不止一次两次了。\n这种就是最恶心人的中式权力滥用官僚做法，它想不出来恶心你的理由，就开始说上面有人要求，就开始说不归我们管，就开始说那你去别的部门，那你去查，那你去问上面。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991811004133441868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "究竟是谁允许的医疗机构篡改别人的证件类文书和证件？\n我发现这些医疗机构的人都很爱编造一个所谓的“上面说了要我这么干”，但我早就对这种说法有所怀疑：\n拿这件事来说，如果所谓“☝️上面的人”是相关部门懂行的，它不会把“精神一类药物与麻醉药物”说成“精神病一类药物”， https://t.co/iOvCWzuFUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1303,
+          "like_count": 7827,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5014
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 221,
+          "like_count": 2366,
+          "listed_count": 6,
+          "media_count": 3421,
+          "tweet_count": 11827
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

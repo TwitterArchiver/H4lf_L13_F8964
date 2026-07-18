@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1957056076832203023",
+    "created_at": "2025-08-18T02:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T03:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957263052082143699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957263052082143699",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957056076832203023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 1280,
+        "media_key": "13_1957055986361147392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957055986361147392/img/ujhmqzi9rvyp2eKL.jpg",
+        "public_metrics": {
+          "view_count": 1245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957055986361147392/vid/avc1/320x568/cLGezLXiuzXvOpCl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957055986361147392/vid/avc1/480x852/njj8IW0SKu_hqXXU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957055986361147392/vid/avc1/720x1280/2zm4l5YDkRqTLFTC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957055986361147392/pl/KAg7w7jIgcR9fJno.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1957056076832203023",
+        "created_at": "2025-08-18T02:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957263052082143699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957263052082143699",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957056076832203023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957055986361147392"
+          ]
+        },
+        "author_id": "1845041900195282948",
+        "conversation_id": "1957056076832203023",
+        "created_at": "2025-08-17T12:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957056076832203023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHFqJFxseX",
+              "end": 39,
+              "expanded_url": "https://x.com/bernadine18107/status/1957056076832203023/video/1",
+              "media_key": "13_1957055986361147392",
+              "start": 16,
+              "url": "https://t.co/yHFqJFxseX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957056076832203023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2859,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把奶挤在没喝完的奶茶里哈哈哈🤣 https://t.co/yHFqJFxseX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1175,
+          "like_count": 6709,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4512
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的xyn ｜已经挫学🥹正在想办法下海TT｜目前已经辞职啦有点小钱｜梦想是SRS成为有阴道瓣的女孩子～可以互fo/",
+        "id": "1845041900195282948",
+        "name": "Niqiu-妮湫（打工版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1945751653954810045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 482,
+          "like_count": 512,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 247
+        },
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

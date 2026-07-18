@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1955966747326210323",
+    "created_at": "2025-08-23T18:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959315404641509414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493070064895070210",
+          "start": 0,
+          "username": "piggyning220217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959315404641509414",
+    "in_reply_to_user_id": "1493070064895070210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955966747326210323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piggyning220217 东京社畜错过末班车be like( ；´Д｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_1955966735418580994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT9Yfka4AIXQKO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1955966747326210323",
+        "created_at": "2025-08-23T18:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959315404641509414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493070064895070210",
+              "start": 0,
+              "username": "piggyning220217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959315404641509414",
+        "in_reply_to_user_id": "1493070064895070210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955966747326210323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piggyning220217 东京社畜错过末班车be like( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955966735418580994"
+          ]
+        },
+        "author_id": "1493070064895070210",
+        "conversation_id": "1955966747326210323",
+        "created_at": "2025-08-14T12:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955966747326210323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BW23fm88WV",
+              "end": 99,
+              "expanded_url": "https://x.com/piggyning220217/status/1955966747326210323/photo/1",
+              "media_key": "3_1955966735418580994",
+              "start": 76,
+              "url": "https://t.co/BW23fm88WV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955966747326210323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5607,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喝醉了就这样，非要坐垃圾堆旁边让人给我拍照😅\n不过喝成这样一身烟味晕晕乎乎路都走不稳居然还有日本大叔过来搭讪问我要不要再去喝两杯也是很有生活了。喝！ https://t.co/BW23fm88WV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1179,
+          "like_count": 6830,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4558
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T03:50:33.000Z",
+        "description": "地偶❤️被写体モデル/XTF/欢迎摄影老师约拍/线下可约/碎碎念警告/账号关联狸咪ing @Ciykia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Ciykia"
+              }
+            ]
+          }
+        },
+        "id": "1493070064895070210",
+        "location": "Tokyo-to, Japan",
+        "name": "海月酱🪼",
+        "pinned_tweet_id": "1953790727227683333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952784144494477312/zFXQr5Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7568,
+          "following_count": 608,
+          "like_count": 2280,
+          "listed_count": 21,
+          "media_count": 80,
+          "tweet_count": 998
+        },
+        "username": "piggyning220217",
+        "verified": true
+      }
+    ]
+  }
+}

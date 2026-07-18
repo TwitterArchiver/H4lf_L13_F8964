@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965347839611207682",
+        "3_1965347839586004992"
+      ],
+      "media_source_tweet_id": [
+        "1965347851212652594",
+        "1965347851212652594"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1966764187738083498",
+    "created_at": "2025-09-13T07:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T08:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966764187738083498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474030573228376077",
+          "start": 3,
+          "username": "Gewehr_G36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4WbUs9TSKT",
+          "end": 102,
+          "expanded_url": "https://x.com/Gewehr_G36/status/1965347851212652594/photo/1",
+          "media_key": "3_1965347839611207682",
+          "start": 79,
+          "url": "https://t.co/4WbUs9TSKT"
+        },
+        {
+          "display_url": "pic.x.com/4WbUs9TSKT",
+          "end": 102,
+          "expanded_url": "https://x.com/Gewehr_G36/status/1965347851212652594/photo/1",
+          "media_key": "3_1965347839586004992",
+          "start": 79,
+          "url": "https://t.co/4WbUs9TSKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966764187738083498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965347851212652594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gewehr_G36: Arknights Endfield Administrator\n下个图包的预告，这个周末发售，价格还是5R一份哦，大小1G https://t.co/4WbUs9TSKT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966764187738083498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966764187738083498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966764187738083498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_1965347839611207682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZRcoAbgAIvynq.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1343,
+        "media_key": "3_1965347839586004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZRcn6a8AAjaTP.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965347839611207682",
+            "3_1965347839586004992"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1965347851212652594",
+        "created_at": "2025-09-09T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965347851212652594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WbUs9TSKT",
+              "end": 86,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1965347851212652594/photo/1",
+              "media_key": "3_1965347839611207682",
+              "start": 63,
+              "url": "https://t.co/4WbUs9TSKT"
+            },
+            {
+              "display_url": "pic.x.com/4WbUs9TSKT",
+              "end": 86,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1965347851212652594/photo/1",
+              "media_key": "3_1965347839586004992",
+              "start": 63,
+              "url": "https://t.co/4WbUs9TSKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965347851212652594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5843,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Arknights Endfield Administrator\n下个图包的预告，这个周末发售，价格还是5R一份哦，大小1G https://t.co/4WbUs9TSKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1204,
+          "like_count": 7037,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4617
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "江苏及周边地区随机刷新｜在校大学生｜非药/无糖｜cos日推营业中｜可接线上约拍委托或者赞助，欢迎投喂｜有点怕生，混熟的话会很好交流？｜\n主子：@RLappland 她超棒的大家多去看看她.jpg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "RLappland"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "ChauchatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916204209621635076/NUQ4-0yJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7095,
+          "following_count": 316,
+          "like_count": 427,
+          "listed_count": 25,
+          "media_count": 398,
+          "tweet_count": 2257
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

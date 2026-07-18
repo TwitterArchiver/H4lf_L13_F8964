@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1992164920159580160"
+      ],
+      "media_source_tweet_id": [
+        "1992165871679389916"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995346881338114549",
+    "created_at": "2025-12-01T04:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995346881338114549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "870567606146564096",
+          "start": 3,
+          "username": "pharetra_third"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wLaF63x6G",
+          "end": 43,
+          "expanded_url": "https://x.com/pharetra_third/status/1992165871679389916/video/1",
+          "media_key": "13_1992164920159580160",
+          "start": 20,
+          "url": "https://t.co/9wLaF63x6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995346881338114549",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 880
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992165871679389916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pharetra_third: https://t.co/9wLaF63x6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116966,
+        "height": 1080,
+        "media_key": "13_1992164920159580160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992164920159580160/img/1hprzLSrAGZdo_0G.jpg",
+        "public_metrics": {
+          "view_count": 62266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992164920159580160/vid/avc1/480x270/hQY4qDtpmEBtrtGB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992164920159580160/vid/avc1/640x360/0MWmNj3breTElvpf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992164920159580160/vid/avc1/1280x720/N5k-lTZbjgHbGZE4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992164920159580160/pl/uKrAz9ly2j6AQ7yt.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992164920159580160"
+          ],
+          "media_source_tweet_id": [
+            "1992165871679389916"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995346881338114549",
+        "created_at": "2025-12-01T04:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995346881338114549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "870567606146564096",
+              "start": 3,
+              "username": "pharetra_third"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wLaF63x6G",
+              "end": 43,
+              "expanded_url": "https://x.com/pharetra_third/status/1992165871679389916/video/1",
+              "media_key": "13_1992164920159580160",
+              "start": 20,
+              "url": "https://t.co/9wLaF63x6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995346881338114549",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 880
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992165871679389916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pharetra_third: https://t.co/9wLaF63x6G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992164920159580160"
+          ]
+        },
+        "author_id": "870567606146564096",
+        "conversation_id": "1992165871679389916",
+        "created_at": "2025-11-22T09:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992165871679389916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wLaF63x6G",
+              "end": 23,
+              "expanded_url": "https://x.com/pharetra_third/status/1992165871679389916/video/1",
+              "media_key": "13_1992164920159580160",
+              "start": 0,
+              "url": "https://t.co/9wLaF63x6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992165871679389916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2485,
+          "impression_count": 110922,
+          "like_count": 8007,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 880
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9wLaF63x6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 1310,
+          "like_count": 7957,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5058
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-02T09:07:46.000Z",
+        "description": "20↑　絵を描きます\n主にドルフロとアメトイとFPS\n\n内輪鯖→https://t.co/OLg2Uadvre\nSkeb(commission)→https://t.co/8ouhQjvSdT\n自作ゲーム「ダイバデストラクタ」随時不定期開発中→https://t.co/HBZJewGdkP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dFvEzK4sHf",
+                "end": 55,
+                "expanded_url": "https://discord.gg/dFvEzK4sHf",
+                "start": 32,
+                "url": "https://t.co/OLg2Uadvre"
+              },
+              {
+                "display_url": "skeb.jp/@pharetra_third",
+                "end": 96,
+                "expanded_url": "http://skeb.jp/@pharetra_third",
+                "start": 73,
+                "url": "https://t.co/8ouhQjvSdT"
+              },
+              {
+                "display_url": "s.team/a/3972870",
+                "end": 145,
+                "expanded_url": "http://s.team/a/3972870",
+                "start": 122,
+                "url": "https://t.co/HBZJewGdkP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25169166",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/25169166",
+                "start": 0,
+                "url": "https://t.co/aNlglv52R1"
+              }
+            ]
+          }
+        },
+        "id": "870567606146564096",
+        "location": "Studley Constable, Norfolk",
+        "name": "胡籙ユギ",
+        "pinned_tweet_id": "1964548074870915133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579471182440861697/VbpxT8au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14010,
+          "following_count": 250,
+          "like_count": 5328,
+          "listed_count": 99,
+          "media_count": 2600,
+          "tweet_count": 19433
+        },
+        "url": "https://t.co/aNlglv52R1",
+        "username": "pharetra_third",
+        "verified": false
+      }
+    ]
+  }
+}

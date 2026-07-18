@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938600238899666944",
+        "3_1938600230460768257",
+        "3_1938600235070332929",
+        "3_1938600235279978496"
+      ],
+      "media_source_tweet_id": [
+        "1938600245073756301",
+        "1938600245073756301",
+        "1938600245073756301",
+        "1938600245073756301"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938701913526337926",
+    "created_at": "2025-06-27T20:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T21:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938701913526337926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1562001118472781824",
+          "start": 3,
+          "username": "xijinping295264"
+        },
+        {
+          "end": 33,
+          "id": "1909553877739085825",
+          "start": 21,
+          "username": "TOKYOheshan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5nAf74hrR",
+          "end": 67,
+          "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+          "media_key": "3_1938600238899666944",
+          "start": 44,
+          "url": "https://t.co/G5nAf74hrR"
+        },
+        {
+          "display_url": "pic.x.com/G5nAf74hrR",
+          "end": 67,
+          "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+          "media_key": "3_1938600230460768257",
+          "start": 44,
+          "url": "https://t.co/G5nAf74hrR"
+        },
+        {
+          "display_url": "pic.x.com/G5nAf74hrR",
+          "end": 67,
+          "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+          "media_key": "3_1938600235070332929",
+          "start": 44,
+          "url": "https://t.co/G5nAf74hrR"
+        },
+        {
+          "display_url": "pic.x.com/G5nAf74hrR",
+          "end": 67,
+          "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+          "media_key": "3_1938600235279978496",
+          "start": 44,
+          "url": "https://t.co/G5nAf74hrR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938701913526337926",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938600245073756301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xijinping295264: @TOKYOheshan 腊左TV:射精抗日 https://t.co/G5nAf74hrR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_1938600238899666944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudKpWkaIAAfJPw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1464,
+        "media_key": "3_1938600230460768257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudKo3IawAE2reG.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938600235070332929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudKpITbIAEXn6C.jpg",
+        "width": 847
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938600235279978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudKpJFaEAA2N-e.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938600238899666944",
+            "3_1938600230460768257",
+            "3_1938600235070332929",
+            "3_1938600235279978496"
+          ],
+          "media_source_tweet_id": [
+            "1938600245073756301",
+            "1938600245073756301",
+            "1938600245073756301",
+            "1938600245073756301"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938701913526337926",
+        "created_at": "2025-06-27T20:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T21:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938701913526337926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1562001118472781824",
+              "start": 3,
+              "username": "xijinping295264"
+            },
+            {
+              "end": 33,
+              "id": "1909553877739085825",
+              "start": 21,
+              "username": "TOKYOheshan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 67,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600238899666944",
+              "start": 44,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 67,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600230460768257",
+              "start": 44,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 67,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600235070332929",
+              "start": 44,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 67,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600235279978496",
+              "start": 44,
+              "url": "https://t.co/G5nAf74hrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938701913526337926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938600245073756301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xijinping295264: @TOKYOheshan 腊左TV:射精抗日 https://t.co/G5nAf74hrR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938600238899666944",
+            "3_1938600230460768257",
+            "3_1938600235070332929",
+            "3_1938600235279978496"
+          ]
+        },
+        "author_id": "1562001118472781824",
+        "conversation_id": "1938597347422044446",
+        "created_at": "2025-06-27T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938600245073756301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYOheshan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 46,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600238899666944",
+              "start": 23,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 46,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600230460768257",
+              "start": 23,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 46,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600235070332929",
+              "start": 23,
+              "url": "https://t.co/G5nAf74hrR"
+            },
+            {
+              "display_url": "pic.x.com/G5nAf74hrR",
+              "end": 46,
+              "expanded_url": "https://x.com/xijinping295264/status/1938600245073756301/photo/1",
+              "media_key": "3_1938600235279978496",
+              "start": 23,
+              "url": "https://t.co/G5nAf74hrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938600245073756301",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1070,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938597347422044446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOheshan 腊左TV:射精抗日 https://t.co/G5nAf74hrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1089,
+          "like_count": 6012,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4136
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T08:57:51.000Z",
+        "description": "支式幽默:当你作为一个中国人去外国定居的时候，中国同胞便会大骂你是汉奸，把你中国籍给开了。当你说你不认同自己是中国人,并且开始辱支的时候,他们又把你的中国人籍加回来了,你又是中国人了🤣【韩熙林在推特认了个排行榜野鸡大学1200的程浩南同志】",
+        "id": "1562001118472781824",
+        "location": "韩熙林奶奶房间",
+        "name": "韩熙林三叶同志bot",
+        "pinned_tweet_id": "1935621522271670716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937513205909323778/SIzi8S9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 1108,
+          "like_count": 32591,
+          "listed_count": 25,
+          "media_count": 2817,
+          "tweet_count": 9073
+        },
+        "username": "xijinping295264",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07无药男娘 IP🇯🇵日本東京 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜包蜜｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 我爱你中国 主人：@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 137,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象東雪蓮",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934618396718780416/fwpwYXrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 550,
+          "like_count": 612,
+          "listed_count": 10,
+          "media_count": 208,
+          "tweet_count": 372
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

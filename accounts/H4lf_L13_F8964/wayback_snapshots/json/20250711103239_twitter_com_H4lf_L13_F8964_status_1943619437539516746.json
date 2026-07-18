@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943619437539516746",
+    "created_at": "2025-07-11T10:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T11:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943619437539516746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943619437539516746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943586049923649569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1943619437539516746",
+        "created_at": "2025-07-11T10:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943619437539516746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943619437539516746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943586049923649569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaAzure: 我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1943586049923649569",
+        "created_at": "2025-07-11T08:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943586049923649569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nya_qianzi/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/nya_qianzi/status/1943530495003832347",
+              "start": 148,
+              "url": "https://t.co/QKq0N8xxbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943586049923649569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943530495003832347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，让你更有动力挣钱\n5.我不管有没有钱都很善良，会随便给你草 https://t.co/QKq0N8xxbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1115,
+          "like_count": 6302,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4271
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7261,
+          "following_count": 1055,
+          "like_count": 34749,
+          "listed_count": 9,
+          "media_count": 2428,
+          "tweet_count": 19482
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

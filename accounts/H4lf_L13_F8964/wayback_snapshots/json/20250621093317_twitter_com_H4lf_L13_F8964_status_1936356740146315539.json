@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1936226564712415364",
+    "created_at": "2025-06-21T09:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936356740146315539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936356740146315539",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936226564712415364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 求求🙏不要再搞这种圈钱玩意拉低智商了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1936226556151582720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7by1QX0AAY-8s.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1936226564712415364",
+        "created_at": "2025-06-21T09:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936356740146315539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936356740146315539",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936226564712415364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 求求🙏不要再搞这种圈钱玩意拉低智商了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936226556151582720"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1936226564712415364",
+        "created_at": "2025-06-21T00:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936226564712415364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3WNQugD8g",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1936226564712415364/photo/1",
+              "media_key": "3_1936226556151582720",
+              "start": 0,
+              "url": "https://t.co/o3WNQugD8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936226564712415364",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7595,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o3WNQugD8g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1079,
+          "like_count": 5897,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4065
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1935331786885882364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69165,
+          "following_count": 576,
+          "like_count": 29599,
+          "listed_count": 229,
+          "media_count": 10563,
+          "tweet_count": 14931
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

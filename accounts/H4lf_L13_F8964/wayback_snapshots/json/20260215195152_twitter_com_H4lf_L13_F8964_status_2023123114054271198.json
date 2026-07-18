@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023123114054271198",
+    "created_at": "2026-02-15T19:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023123114054271198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/as_thenia/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/as_thenia/status/2016794504670695702",
+          "start": 8,
+          "url": "https://t.co/25ekk7ChzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023123114054271198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016794504670695702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长身高妹最高！ https://t.co/25ekk7ChzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_2016794492553342976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0X59GbMAAG-Vw.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023123114054271198",
+        "created_at": "2026-02-15T19:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023123114054271198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/as_thenia/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/as_thenia/status/2016794504670695702",
+              "start": 8,
+              "url": "https://t.co/25ekk7ChzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023123114054271198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016794504670695702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长身高妹最高！ https://t.co/25ekk7ChzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016794492553342976"
+          ]
+        },
+        "author_id": "1316813982",
+        "conversation_id": "2016794504670695702",
+        "created_at": "2026-01-29T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016794504670695702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CChZ0Axdyj",
+              "end": 35,
+              "expanded_url": "https://x.com/As_theNia/status/2016794504670695702/photo/1",
+              "media_key": "3_2016794492553342976",
+              "start": 12,
+              "url": "https://t.co/CChZ0Axdyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016794504670695702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 956,
+          "impression_count": 132999,
+          "like_count": 6320,
+          "quote_count": 15,
+          "reply_count": 37,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "デカ女(男)やってます https://t.co/CChZ0Axdyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 1393,
+          "like_count": 8613,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5383
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-30T17:12:49.000Z",
+        "description": "▪️このクリーチャーはブロックされない。 ShionEto ¦ 新規活動準備中🌱 ¦ 【sub→ @Cos_ojisan】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Cos_ojisan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/etcosplayer",
+                "end": 23,
+                "expanded_url": "https://lit.link/etcosplayer",
+                "start": 0,
+                "url": "https://t.co/GVmgA8Ctlj"
+              }
+            ]
+          }
+        },
+        "id": "1316813982",
+        "location": "icon:John kafka ",
+        "name": "紫苑花エト@3/28生誕イベント",
+        "pinned_tweet_id": "2020499257049190876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763537344920170496/ZNtFdNlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86564,
+          "following_count": 279,
+          "like_count": 88493,
+          "listed_count": 468,
+          "media_count": 3948,
+          "tweet_count": 111919
+        },
+        "url": "https://t.co/GVmgA8Ctlj",
+        "username": "As_theNia",
+        "verified": true
+      }
+    ]
+  }
+}

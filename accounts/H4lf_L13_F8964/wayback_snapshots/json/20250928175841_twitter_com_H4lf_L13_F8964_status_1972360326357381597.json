@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1972360326357381597",
+    "created_at": "2025-09-28T17:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972360326357381597"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "ヒトイヌ"
+        },
+        {
+          "end": 132,
+          "start": 124,
+          "tag": "petplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681842432269512707",
+          "start": 3,
+          "username": "TarsMark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972360326357381597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972296049445441581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TarsMark2: 你的小狗正在帮你完成你的工作，这样就有更多时间陪小狗玩\nYour pupp is trying to finish your works, to\nmake you accompany with her.\n\n#ヒトイヌ #petplay #bitch…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972360326357381597].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972360326357381597",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972360326357381597"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16280,
+        "height": 720,
+        "media_key": "7_1972295444299694080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972295444299694080/pu/img/Oec4_i3-WaS1vBR0.jpg",
+        "public_metrics": {
+          "view_count": 1177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972295444299694080/pu/vid/avc1/480x270/oxdpcoOd_Yaac9jA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972295444299694080/pu/vid/avc1/640x360/bJ76ZiCoT76TUaIZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972295444299694080/pu/vid/avc1/1280x720/eSodSb2239ns_jfB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972295444299694080/pu/pl/z1Td1cFXZbzjOcHt.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972295444299694080"
+          ]
+        },
+        "author_id": "1681842432269512707",
+        "conversation_id": "1972296049445441581",
+        "created_at": "2025-09-28T13:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972296049445441581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "ヒトイヌ"
+            },
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "petplay"
+            },
+            {
+              "end": 128,
+              "start": 118,
+              "tag": "bitchsuit"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "人形犬"
+            },
+            {
+              "end": 143,
+              "start": 134,
+              "tag": "humanpet"
+            },
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "小狗日记"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 165,
+              "id": "1786596099479977984",
+              "start": 152,
+              "username": "Kurikawayuyu"
+            },
+            {
+              "end": 179,
+              "id": "1681842432269512707",
+              "start": 169,
+              "username": "TarsMark2"
+            },
+            {
+              "end": 206,
+              "id": "1688439420",
+              "start": 190,
+              "username": "BlackMarieChina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvUhiWdgrE",
+              "end": 230,
+              "expanded_url": "https://x.com/TarsMark2/status/1972296049445441581/video/1",
+              "media_key": "7_1972295444299694080",
+              "start": 207,
+              "url": "https://t.co/HvUhiWdgrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972296049445441581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3040,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你的小狗正在帮你完成你的工作，这样就有更多时间陪小狗玩\nYour pupp is trying to finish your works, to\nmake you accompany with her.\n\n#ヒトイヌ #petplay #bitchsuit #人形犬 #humanpet #小狗日记\n🐩 @Kurikawayuyu \n🎥 @TarsMark2 \nK9 suits @BlackMarieChina https://t.co/HvUhiWdgrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1221,
+          "like_count": 7127,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4682
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:44:28.000Z",
+        "description": "本账号 NSFW | 主营：露出、犬化、物化 | 会一点绳子、摄影 | 欢迎找我拍瑟图 | 表号 @brandon_shia | 刺猬老婆 @HzShibari86  宠物小狗 @kurikawayuyu | 课程表请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "brandon_shia"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "kurikawayuyu"
+              }
+            ]
+          }
+        },
+        "id": "1681842432269512707",
+        "location": "距您100m以内",
+        "name": "梓楚 Branka",
+        "pinned_tweet_id": "1968596374733341155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971465515437797376/Dq-rxCs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22220,
+          "following_count": 1613,
+          "like_count": 107205,
+          "listed_count": 99,
+          "media_count": 273,
+          "tweet_count": 6428
+        },
+        "username": "TarsMark2",
+        "verified": false
+      }
+    ]
+  }
+}

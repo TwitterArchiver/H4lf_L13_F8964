@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2022917353957363732",
+    "created_at": "2026-02-15T17:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023085913128292618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023085913128292618",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022917353957363732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 妈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022917339025674243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLYmhqakAM7rTr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2022917353957363732",
+        "created_at": "2026-02-15T17:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023085913128292618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023085913128292618",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022917353957363732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 妈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022917339025674243"
+          ]
+        },
+        "author_id": "1461728708935385088",
+        "conversation_id": "2022917353957363732",
+        "created_at": "2026-02-15T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022917353957363732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "今日气波波"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jxnz0BLLP3",
+              "end": 39,
+              "expanded_url": "https://x.com/Qbb7680/status/2022917353957363732/photo/1",
+              "media_key": "3_2022917339025674243",
+              "start": 16,
+              "url": "https://t.co/Jxnz0BLLP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022917353957363732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1049,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新的帽子nya~\n#今日气波波 https://t.co/Jxnz0BLLP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1383,
+          "like_count": 8575,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5366
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射/男娘？大概是 / 喵粒子永远正确/常驻江浙沪，喜欢🪢和K9/可接线下、私厨、网页开发",
+        "id": "1461728708935385088",
+        "location": "过🚪88/出🚪788",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2000871019247231472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8280,
+          "following_count": 1072,
+          "like_count": 91592,
+          "listed_count": 20,
+          "media_count": 1061,
+          "tweet_count": 6188
+        },
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

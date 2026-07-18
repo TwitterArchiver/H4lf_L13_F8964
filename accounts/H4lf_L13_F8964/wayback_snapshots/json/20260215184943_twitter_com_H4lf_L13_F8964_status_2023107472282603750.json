@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023107472282603750",
+    "created_at": "2026-02-15T18:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023107472282603750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/as_thenia/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/as_thenia/status/2022874235019104635",
+          "start": 3,
+          "url": "https://t.co/vyR4HWHKz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023107472282603750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022874235019104635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈！ https://t.co/vyR4HWHKz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022874230061502464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKxZQQbkAARSOB.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023107472282603750",
+        "created_at": "2026-02-15T18:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023107472282603750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/as_thenia/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/as_thenia/status/2022874235019104635",
+              "start": 3,
+              "url": "https://t.co/vyR4HWHKz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023107472282603750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022874235019104635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈！ https://t.co/vyR4HWHKz7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022874230061502464"
+          ]
+        },
+        "author_id": "1316813982",
+        "conversation_id": "2022874235019104635",
+        "created_at": "2026-02-15T03:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022874235019104635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFHURjxIIk",
+              "end": 44,
+              "expanded_url": "https://x.com/As_theNia/status/2022874235019104635/photo/1",
+              "media_key": "3_2022874230061502464",
+              "start": 21,
+              "url": "https://t.co/cFHURjxIIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022874235019104635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 47686,
+          "like_count": 3925,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "これは寒すぎて自販機の後ろに隠れてるわし https://t.co/cFHURjxIIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1391,
+          "like_count": 8613,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5382
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-30T17:12:49.000Z",
+        "description": "▪️このクリーチャーはブロックされない。 ShionEto ¦ 新規活動準備中🌱 ¦ 【sub→ @Cos_ojisan】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Cos_ojisan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/etcosplayer",
+                "end": 23,
+                "expanded_url": "https://lit.link/etcosplayer",
+                "start": 0,
+                "url": "https://t.co/GVmgA8Ctlj"
+              }
+            ]
+          }
+        },
+        "id": "1316813982",
+        "location": "icon:John kafka ",
+        "name": "紫苑花エト@3/28生誕イベント",
+        "pinned_tweet_id": "2020499257049190876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763537344920170496/ZNtFdNlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86559,
+          "following_count": 279,
+          "like_count": 88493,
+          "listed_count": 468,
+          "media_count": 3948,
+          "tweet_count": 111919
+        },
+        "url": "https://t.co/GVmgA8Ctlj",
+        "username": "As_theNia",
+        "verified": true
+      }
+    ]
+  }
+}

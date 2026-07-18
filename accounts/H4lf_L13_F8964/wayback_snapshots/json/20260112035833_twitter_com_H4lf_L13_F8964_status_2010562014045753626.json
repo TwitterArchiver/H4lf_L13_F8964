@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2010562014045753626",
+    "created_at": "2026-01-12T03:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010562014045753626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010562014045753626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010471103387386210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: 这个女孩唱的波斯语歌曲叫《再见》（خداحافظ），表面上是一首哀叹爱情永逝的歌曲，但在伊朗民族革命期间，成了一首悼亡歌曲，是对牺牲者的无尽哀思，是对失去弟兄姊妹和手足同胞的深沉悲鸣。\n\n以下是《再见》中文译文、波斯语原文及原唱：\n\n夜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 204312,
+        "height": 720,
+        "media_key": "13_2010466869031895040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010466869031895040/img/-5-B43FcivQsC5-0.jpg",
+        "public_metrics": {
+          "view_count": 1580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010466869031895040/vid/avc1/480x270/yiuj3O0-4-6a3BFm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010466869031895040/vid/avc1/640x360/icwt5Z4ApuOB4XNy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010466869031895040/vid/avc1/1280x720/lN825mUrGdLnjy6n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010466869031895040/pl/TEJcvqgXRoqTk-v3.m3u8?v=ebe"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2010562014045753626",
+        "created_at": "2026-01-12T03:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010562014045753626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010562014045753626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010471103387386210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: 这个女孩唱的波斯语歌曲叫《再见》（خداحافظ），表面上是一首哀叹爱情永逝的歌曲，但在伊朗民族革命期间，成了一首悼亡歌曲，是对牺牲者的无尽哀思，是对失去弟兄姊妹和手足同胞的深沉悲鸣。\n\n以下是《再见》中文译文、波斯语原文及原唱：\n\n夜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010466869031895040"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "2010471103387386210",
+        "created_at": "2026-01-11T21:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T22:41:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010467206505931080",
+          "2010471103387386210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEby39LCjy",
+              "end": 167,
+              "expanded_url": "https://x.com/22HomoPoliticus/status/2010471103387386210/video/1",
+              "media_key": "13_2010466869031895040",
+              "start": 144,
+              "url": "https://t.co/WEby39LCjy"
+            },
+            {
+              "display_url": "x.com/Kenntnis22/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/2010444331350675789",
+              "start": 168,
+              "url": "https://t.co/viuAmEFP4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010471103387386210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个女孩唱的波斯语歌曲叫《再见》（خداحافظ），表面上是一首哀叹爱情永逝的歌曲，但在伊朗民族革命期间，成了一首悼亡歌曲，是对牺牲者的无尽哀思，是对失去弟兄姊妹和手足同胞的深沉悲鸣。\n\n以下是《再见》中文译文、波斯语原文及原唱：\n\n夜晚静寂，家在哀号，你却听不见\n我的心俯伏于你脚下，\n惟愿你走之后，我永不再理智\n\n我的挚爱啊，没有你，我成了异乡人\n没有你，我只得与街道作伴\n在你之后，我岂能再爱他人？\n\n你走了，月亮与镜子也要与我告别\n别了啊，我胸中哽咽\n我爱而无果，迷失在你心间\n再见了，无家可归的爱\n再见了，没有肩膀依傍的眼泪\n我的步履，终究又落入了悲伤的街道之间\n\n你从被爱感染的花园里，摘走了我的花\n你用爱的枝条焚烧我的心，怎么烧也烧不完\n我所有的愿望皆灰飞烟灭\n留下的只剩一座没有叶子的花园\n你永远不再回来了\n陪伴我的只剩下悲伤\n\n你走了，月亮与镜子也要与我告别\n别了啊，我胸中哽咽\n我爱而无果，迷失在你心间\n再见了，无家可归的爱\n再见了，没有肩膀依傍的眼泪\n我的步履，终究又落入了悲伤的街道之间\n\n---------------------------------\nدر سکوت شب خانه زد فریاد اما تو نشنیدی\nدل به پایت افتاد آرزو کردم بعد از تو عاقل نشوم\n\nآشنای من، من غریبم بی تو\nبا خیابان‌ها من رفیقم بی تو\nبعد تو عمراً من دگر عاشق نشوم\n\nتو رفتی دگر ماه و آیینه خداحافظ\nبغض تو سینه خداحافظ\nگم شد در قلبت عشق بی ثمرم\nعشق بی خانه خداحافظ\nاشک بی شانه خداحافظ\nباز افتاد در کوی غمها گذرم\n\nچیدی گلم را از باغی که داشت آلوده عشق می‌شد\nشاخه عشقت را در قلبم سوزاندی ولی خشک نمی‌شد\nاز تمام آرزوهایم باغ بی برگ مانده برایم\nدورشدی تو برای همیشه\nمانده ام باز با غصه هایم\n\nتو رفتی دگر ماه و آیینه خداحافظ\nبغض تو سینه خداحافظ\nگم شد در قلبت عشق بی ثمرم\nعشق بی خانه خداحافظ\nاشک بی شانه خداحافظ\nباز افتاد در کوی غم‌ها گذرم"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5584,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010444331350675789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个女孩唱的波斯语歌曲叫《再见》（خداحافظ），表面上是一首哀叹爱情永逝的歌曲，但在伊朗民族革命期间，成了一首悼亡歌曲，是对牺牲者的无尽哀思，是对失去弟兄姊妹和手足同胞的深沉悲鸣。\n\n以下是《再见》中文译文、波斯语原文及原唱：\n\n夜晚静寂，家在哀号，你却听不见\n我的心俯伏于你脚下， https://t.co/WEby39LCjy https://t.co/viuAmEFP4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1340,
+          "like_count": 8306,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 5228
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "2006354842441167023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84016,
+          "following_count": 491,
+          "like_count": 109374,
+          "listed_count": 532,
+          "media_count": 7862,
+          "tweet_count": 24281
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

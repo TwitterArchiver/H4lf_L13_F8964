@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1949455097802752436",
+    "created_at": "2025-07-28T07:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T08:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949730044533682265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906892094953762816",
+          "start": 0,
+          "username": "yrr0rinblues"
+        },
+        {
+          "end": 30,
+          "id": "1504676358475157504",
+          "start": 14,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949730044533682265",
+    "in_reply_to_user_id": "906892094953762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949468765294612873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrr0rinblues @8964TortoiseBlk 庞巴迪和阿尔斯通本来就关系紧密"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1949455097802752436",
+        "created_at": "2025-07-28T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949730044533682265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            },
+            {
+              "end": 30,
+              "id": "1504676358475157504",
+              "start": 14,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949730044533682265",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949468765294612873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues @8964TortoiseBlk 庞巴迪和阿尔斯通本来就关系紧密"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "conversation_id": "1949455097802752436",
+        "created_at": "2025-07-27T13:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949468765294612873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949468765294612873",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1331,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949455097802752436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 因为买的法国技术，法国的地铁就是胶轮，他们用这个增强抓地力可以上更陡的坡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1128,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 4334
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Gender Nihilist 🎸 | RAmen｜birth@367ppm🌎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVdRo"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "锅炉房",
+        "name": "yrr0r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856622707829575680/iJCZ4Ctf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 437,
+          "like_count": 231888,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 35649
+        },
+        "url": "https://t.co/nlTQQyVdRo",
+        "username": "yrr0rinblues",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9357,
+          "following_count": 380,
+          "like_count": 252720,
+          "listed_count": 19,
+          "media_count": 2714,
+          "tweet_count": 61179
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

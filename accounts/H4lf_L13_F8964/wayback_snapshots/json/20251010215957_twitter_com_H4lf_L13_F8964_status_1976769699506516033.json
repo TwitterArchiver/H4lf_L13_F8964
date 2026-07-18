@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1976769699506516033",
+    "created_at": "2025-10-10T21:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T22:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976769699506516033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ony01planarcor…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ony01planarcor/status/1976696556268265621",
+          "start": 6,
+          "url": "https://t.co/nvvXW79bbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976769699506516033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976696556268265621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今夕是何年 https://t.co/nvvXW79bbs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1976696008609337344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26ii_4XkAAmdyM.jpg",
+        "width": 2631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1976769699506516033",
+        "created_at": "2025-10-10T21:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976769699506516033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ony01planarcor…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ony01planarcor/status/1976696556268265621",
+              "start": 6,
+              "url": "https://t.co/nvvXW79bbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976769699506516033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976696556268265621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今夕是何年 https://t.co/nvvXW79bbs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976696008609337344"
+          ]
+        },
+        "author_id": "1265344468670169089",
+        "conversation_id": "1976696556268265621",
+        "created_at": "2025-10-10T17:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976696556268265621"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "U.S. of A",
+              "probability": 0.7864,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqyeYPL6yF",
+              "end": 46,
+              "expanded_url": "https://x.com/Ony01Planarcor/status/1976696556268265621/photo/1",
+              "media_key": "3_1976696008609337344",
+              "start": 23,
+              "url": "https://t.co/DqyeYPL6yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976696556268265621",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🔊Made in the U.S. of A"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 27784,
+          "like_count": 2178,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "🔊Made in the U.S. of A https://t.co/DqyeYPL6yF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1240,
+          "like_count": 7271,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4749
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-26T18:10:19.000Z",
+        "description": "◈ СOMMS OPEN ◈ I draw, robots, sci-fi, fantasy, history stuff, memes and fanart ◈ Text me: ✉️ in Discord: ony01 ◈PRICES, TOS: https://t.co/eVIKzv5yoq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ony01.carrd.co",
+                "end": 149,
+                "expanded_url": "https://ony01.carrd.co/",
+                "start": 126,
+                "url": "https://t.co/eVIKzv5yoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Ony01",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Ony01",
+                "start": 0,
+                "url": "https://t.co/lhToqssyVR"
+              }
+            ]
+          }
+        },
+        "id": "1265344468670169089",
+        "location": "Montenegro",
+        "name": "OnyØ1 COMMS OPEN",
+        "pinned_tweet_id": "1976696556268265621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887312294259879936/iszCdwLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10275,
+          "following_count": 1000,
+          "like_count": 34444,
+          "listed_count": 52,
+          "media_count": 771,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/lhToqssyVR",
+        "username": "Ony01Planarcor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1952493422406926489",
+    "created_at": "2025-08-05T09:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T10:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952660632131793154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1350079460804972545",
+          "start": 6,
+          "username": "LingLuoForgetMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952660632131793154",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952660171563692461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @LingLuoForgetMe god🤦‍♀️ “got fucked until seeing stars”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1952493422406926489",
+        "created_at": "2025-08-05T09:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952660632131793154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1350079460804972545",
+              "start": 6,
+              "username": "LingLuoForgetMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952660632131793154",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952660171563692461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @LingLuoForgetMe god🤦‍♀️ “got fucked until seeing stars”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1952493422406926489",
+        "created_at": "2025-08-05T09:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952660171563692461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 218,
+              "normalized_text": "Twitter",
+              "probability": 0.9762,
+              "start": 212,
+              "type": "Other"
+            },
+            {
+              "end": 281,
+              "normalized_text": "Twitter",
+              "probability": 0.9783,
+              "start": 275,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            },
+            {
+              "end": 32,
+              "id": "1350079460804972545",
+              "start": 16,
+              "username": "LingLuoForgetMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952660171563692461",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952659915895357706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 @LingLuoForgetMe Here's the English translation of the thread's main post:\n\n\"Went to serve a sister from the queer community before, got fucked until seeing stars.\n\nMe: I hope I can represent the Twitter community to satisfy you.\n\nShe: Hey, clearly I fit the Twitter community standard better.\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 1140,
+          "like_count": 6453,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 4369
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772258,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4579,
+          "media_count": 2448515,
+          "tweet_count": 33085132
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-15T13:57:03.000Z",
+        "description": "最乖最爱的宝宝and 工人党阵线第二位成员   @ChenMUzzz\n🚪50r具体看置顶/提供线上线下陪/广州/167cm/50kg/36肩宽（营业号 @RememberMe_LL）\n头像为《妄想症paranoia》（网易云账号@DELA_P)同人图\n⚠请勿用于商业用途，私人使用请自取\n画师微信 asx005566",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ChenMUzzz"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "RememberMe_LL"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "DELA_P"
+              }
+            ]
+          }
+        },
+        "id": "1350079460804972545",
+        "name": "泠珞🏳️‍⚧️（接🚪接线下）同类礼貌互f | 过🚪才可以约线下且禁止无套",
+        "pinned_tweet_id": "1950408788965470274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816116653136171008/ZMSafSu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 524,
+          "like_count": 870,
+          "listed_count": 4,
+          "media_count": 321,
+          "tweet_count": 2556
+        },
+        "username": "LingLuoForgetMe",
+        "verified": true
+      }
+    ]
+  }
+}

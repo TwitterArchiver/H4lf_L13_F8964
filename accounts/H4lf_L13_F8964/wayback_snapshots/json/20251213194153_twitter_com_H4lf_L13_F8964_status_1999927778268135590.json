@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1999927778268135590",
+    "created_at": "2025-12-13T19:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T20:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999927778268135590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999927778268135590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999553026864890275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 然而我们提供的很多素材因为过于黑暗都没能被采用，比如一些殴打虐待血腥，比较让人忍俊不禁的是一条“小男孩被教官逼迫在众人面前裸体撸管”的视频因为涉及儿童色情而无法采用……\n光看纪录片还是难以对这种机构有一个明确的认识，唉……但是没办法，过于…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1999927778268135590",
+        "created_at": "2025-12-13T19:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999927778268135590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999927778268135590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999553026864890275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 然而我们提供的很多素材因为过于黑暗都没能被采用，比如一些殴打虐待血腥，比较让人忍俊不禁的是一条“小男孩被教官逼迫在众人面前裸体撸管”的视频因为涉及儿童色情而无法采用……\n光看纪录片还是难以对这种机构有一个明确的认识，唉……但是没办法，过于…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647815138450505730",
+        "conversation_id": "1999553026864890275",
+        "created_at": "2025-12-12T18:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999553026864890275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1999317073647010136",
+              "start": 131,
+              "url": "https://t.co/zIeOmQQuNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999553026864890275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 100507,
+          "like_count": 455,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999317073647010136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而我们提供的很多素材因为过于黑暗都没能被采用，比如一些殴打虐待血腥，比较让人忍俊不禁的是一条“小男孩被教官逼迫在众人面前裸体撸管”的视频因为涉及儿童色情而无法采用……\n光看纪录片还是难以对这种机构有一个明确的认识，唉……但是没办法，过于触目惊心而无法报道了😵 https://t.co/zIeOmQQuNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1312,
+          "like_count": 8049,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5097
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12102,
+          "following_count": 1534,
+          "like_count": 6581,
+          "listed_count": 28,
+          "media_count": 351,
+          "tweet_count": 2527
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

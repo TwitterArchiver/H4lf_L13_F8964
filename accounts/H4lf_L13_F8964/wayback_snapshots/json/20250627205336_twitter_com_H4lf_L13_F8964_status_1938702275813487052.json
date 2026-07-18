@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938503455594950656"
+      ],
+      "media_source_tweet_id": [
+        "1938509313804583356"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938702275813487052",
+    "created_at": "2025-06-27T20:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T21:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938702275813487052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870971970616967168",
+          "start": 3,
+          "username": "LaLa145264"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/grok/share/H…",
+          "end": 80,
+          "expanded_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+          "start": 57,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+          "url": "https://t.co/ZIVVJyTEIK"
+        },
+        {
+          "display_url": "pic.x.com/pMgSFUZgk5",
+          "end": 104,
+          "expanded_url": "https://x.com/LaLa145264/status/1938509313804583356/photo/1",
+          "media_key": "3_1938503455594950656",
+          "start": 81,
+          "url": "https://t.co/pMgSFUZgk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938702275813487052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938509313804583356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaLa145264: 4kタップでおPAいが見える✨\n\n4kで見えたらスクショしてリプ欄に貼ってね💕\n\nhttps://t.co/ZIVVJyTEIK https://t.co/pMgSFUZgk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1938503455594950656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gubyn0qasAAs2ul.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938503455594950656"
+          ],
+          "media_source_tweet_id": [
+            "1938509313804583356"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938702275813487052",
+        "created_at": "2025-06-27T20:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T21:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938702275813487052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870971970616967168",
+              "start": 3,
+              "username": "LaLa145264"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/H…",
+              "end": 80,
+              "expanded_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+              "start": 57,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+              "url": "https://t.co/ZIVVJyTEIK"
+            },
+            {
+              "display_url": "pic.x.com/pMgSFUZgk5",
+              "end": 104,
+              "expanded_url": "https://x.com/LaLa145264/status/1938509313804583356/photo/1",
+              "media_key": "3_1938503455594950656",
+              "start": 81,
+              "url": "https://t.co/pMgSFUZgk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938702275813487052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938509313804583356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaLa145264: 4kタップでおPAいが見える✨\n\n4kで見えたらスクショしてリプ欄に貼ってね💕\n\nhttps://t.co/ZIVVJyTEIK https://t.co/pMgSFUZgk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938503455594950656"
+          ]
+        },
+        "author_id": "1870971970616967168",
+        "conversation_id": "1938509313804583356",
+        "created_at": "2025-06-27T08:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938509313804583356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/H…",
+              "end": 64,
+              "expanded_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+              "start": 41,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/HAxNKXBnbFQo5Svf6wnUcwhHX",
+              "url": "https://t.co/ZIVVJyTEIK"
+            },
+            {
+              "display_url": "pic.x.com/pMgSFUZgk5",
+              "end": 88,
+              "expanded_url": "https://x.com/LaLa145264/status/1938509313804583356/photo/1",
+              "media_key": "3_1938503455594950656",
+              "start": 65,
+              "url": "https://t.co/pMgSFUZgk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938509313804583356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 31793,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "4kタップでおPAいが見える✨\n\n4kで見えたらスクショしてリプ欄に貼ってね💕\n\nhttps://t.co/ZIVVJyTEIK https://t.co/pMgSFUZgk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1090,
+          "like_count": 6014,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4137
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T23:17:45.000Z",
+        "description": "えもえち所属 の2.5次元AVtuber✨\n悪魔に転生したお姫様💙 ララ・カリーノだよ👑\n【Xライブで活動中✨】\nﾌｧﾝｸﾗﾌﾞではXでは見れない内容がいっぱいだよ～💓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1link.jp/lalacarino",
+                "end": 23,
+                "expanded_url": "http://1link.jp/lalacarino",
+                "start": 0,
+                "url": "https://t.co/y3mSKVUTfS"
+              }
+            ]
+          }
+        },
+        "id": "1870971970616967168",
+        "location": "ﾌｧﾝﾃｨｱ＆Rプレイ（過激動画）👉",
+        "name": "ららキャッスル👑👗",
+        "pinned_tweet_id": "1937802356684681587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897156913261109253/L3Ss3QMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20042,
+          "following_count": 18,
+          "like_count": 475,
+          "listed_count": 54,
+          "media_count": 33,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/y3mSKVUTfS",
+        "username": "LaLa145264",
+        "verified": true
+      }
+    ]
+  }
+}

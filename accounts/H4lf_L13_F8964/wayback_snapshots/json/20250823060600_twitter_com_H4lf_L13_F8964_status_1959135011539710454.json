@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959135011539710454",
+    "created_at": "2025-08-23T06:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T07:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959135011539710454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959135011539710454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958714894091788775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 我仍记得我在警告小雪会被反噬的时候\n小雪跟我说的一句话\n“我不能看着这群傻孩子们用这么贵的药物”\n多么意气风发那时候的我们\n可后来那些享受了他们带来便利的人\n却成为了日后无脑不顾事实害死他们的元凶\n当时那一批日雌是我看着他们进口回来的我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1959135011539710454",
+        "created_at": "2025-08-23T06:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959135011539710454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959135011539710454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958714894091788775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 我仍记得我在警告小雪会被反噬的时候\n小雪跟我说的一句话\n“我不能看着这群傻孩子们用这么贵的药物”\n多么意气风发那时候的我们\n可后来那些享受了他们带来便利的人\n却成为了日后无脑不顾事实害死他们的元凶\n当时那一批日雌是我看着他们进口回来的我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958714894091788775",
+        "created_at": "2025-08-22T02:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T03:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958714894091788775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1958568655127814267",
+              "start": 145,
+              "url": "https://t.co/VvTubdeSx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958714894091788775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2601,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958568655127814267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我仍记得我在警告小雪会被反噬的时候\n小雪跟我说的一句话\n“我不能看着这群傻孩子们用这么贵的药物”\n多么意气风发那时候的我们\n可后来那些享受了他们带来便利的人\n却成为了日后无脑不顾事实害死他们的元凶\n当时那一批日雌是我看着他们进口回来的我比谁都清楚他死的时候有多冤\n跨性别社群害死了我的同志 https://t.co/VvTubdeSx7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1177,
+          "like_count": 6818,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4550
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 526,
+          "like_count": 509,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 725
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

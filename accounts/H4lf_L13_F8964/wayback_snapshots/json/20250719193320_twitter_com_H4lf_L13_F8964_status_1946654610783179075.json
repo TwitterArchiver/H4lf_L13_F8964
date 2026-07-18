@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945660802310209536"
+      ],
+      "media_source_tweet_id": [
+        "1945660804835299531"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1946654610783179075",
+    "created_at": "2025-07-19T19:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T20:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946654610783179075"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "伪娘"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723373092037378048",
+          "start": 3,
+          "username": "fats5447894"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4P9Dq5fKRN",
+          "end": 62,
+          "expanded_url": "https://x.com/fats5447894/status/1945660804835299531/photo/1",
+          "media_key": "3_1945660802310209536",
+          "start": 39,
+          "url": "https://t.co/4P9Dq5fKRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946654610783179075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945660804835299531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fats5447894: #伪娘 #男娘 36℃的天，回来就熟了（） https://t.co/4P9Dq5fKRN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946654610783179075].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946654610783179075",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946654610783179075"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1945660802310209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBgMO8aAAAMWc_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945660802310209536"
+          ]
+        },
+        "author_id": "1723373092037378048",
+        "conversation_id": "1945660804835299531",
+        "created_at": "2025-07-17T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945660804835299531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "伪娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4P9Dq5fKRN",
+              "end": 45,
+              "expanded_url": "https://x.com/fats5447894/status/1945660804835299531/photo/1",
+              "media_key": "3_1945660802310209536",
+              "start": 22,
+              "url": "https://t.co/4P9Dq5fKRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945660804835299531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28122,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘 #男娘 36℃的天，回来就熟了（） https://t.co/4P9Dq5fKRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1116,
+          "like_count": 6409,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 4317
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T16:12:26.000Z",
+        "description": "门槛120（有色图福利）           06年\n 努力变成女孩子     \n       互推！  看人家媒体啊！\nQQ：给我先过门槛啊！你们这些骚扰的家伙！\n疗伤差不多啦～可以接线下哦",
+        "id": "1723373092037378048",
+        "location": "四川成都",
+        "name": "白崽七七",
+        "pinned_tweet_id": "1945660804835299531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825476379577593856/SFskGnrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18348,
+          "following_count": 65,
+          "like_count": 174,
+          "listed_count": 82,
+          "media_count": 121,
+          "tweet_count": 1040
+        },
+        "username": "fats5447894",
+        "verified": false
+      }
+    ]
+  }
+}

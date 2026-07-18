@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018568670222622720"
+      ],
+      "media_source_tweet_id": [
+        "2018568680981028866"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2018840768174227956",
+    "created_at": "2026-02-04T00:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018840768174227956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1981672971568898048",
+          "start": 3,
+          "username": "friedrich_Q"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJ7VKvoVKx",
+          "end": 42,
+          "expanded_url": "https://x.com/friedrich_Q/status/2018568680981028866/photo/1",
+          "media_key": "3_2018568670222622720",
+          "start": 19,
+          "url": "https://t.co/OJ7VKvoVKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018840768174227956",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018568680981028866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @friedrich_Q: 支 https://t.co/OJ7VKvoVKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2018568670222622720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANlgr9aIAAniVf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018568670222622720"
+          ],
+          "media_source_tweet_id": [
+            "2018568680981028866"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2018840768174227956",
+        "created_at": "2026-02-04T00:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018840768174227956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1981672971568898048",
+              "start": 3,
+              "username": "friedrich_Q"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJ7VKvoVKx",
+              "end": 42,
+              "expanded_url": "https://x.com/friedrich_Q/status/2018568680981028866/photo/1",
+              "media_key": "3_2018568670222622720",
+              "start": 19,
+              "url": "https://t.co/OJ7VKvoVKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018840768174227956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018568680981028866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @friedrich_Q: 支 https://t.co/OJ7VKvoVKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018568670222622720"
+          ]
+        },
+        "author_id": "1981672971568898048",
+        "conversation_id": "2018568680981028866",
+        "created_at": "2026-02-03T06:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018568680981028866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJ7VKvoVKx",
+              "end": 25,
+              "expanded_url": "https://x.com/friedrich_Q/status/2018568680981028866/photo/1",
+              "media_key": "3_2018568670222622720",
+              "start": 2,
+              "url": "https://t.co/OJ7VKvoVKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018568680981028866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 16932,
+          "like_count": 206,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "支 https://t.co/OJ7VKvoVKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1363,
+          "like_count": 8415,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 5294
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T10:44:13.000Z",
+        "description": "东方现代进步保守主义分子，其实没啥意识形态，反红色权贵阶级，梦想建立属于中华民族们的地上天国，如果大家都是哲人王我就还算个民主派，推行温和改革，拒反华反人类反动分子极端粉蛆倭奴黄俄殖人毛左支黑，国际友人台湾同志各族朋友可友好交流，中华民族万岁，世界人民大团结万岁🇺🇳",
+        "id": "1981672971568898048",
+        "location": "最美好的未来",
+        "name": "friedrich_千🇵🇼🇯🇵🇧🇩🇷🇺🇺🇦🇮🇱🇨🇳🇹🇼🇺🇳",
+        "pinned_tweet_id": "2002409661476294725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999870502509432832/yT852pVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 418,
+          "like_count": 1305,
+          "listed_count": 9,
+          "media_count": 250,
+          "tweet_count": 2072
+        },
+        "username": "friedrich_Q",
+        "verified": false
+      }
+    ]
+  }
+}

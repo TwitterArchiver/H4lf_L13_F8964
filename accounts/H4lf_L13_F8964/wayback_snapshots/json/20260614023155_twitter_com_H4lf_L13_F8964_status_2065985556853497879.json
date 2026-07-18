@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2065985556853497879",
+    "created_at": "2026-06-14T02:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065985556853497879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4905287629",
+          "start": 3,
+          "username": "YSYXVIIIRoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065985556853497879",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9906
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065771105022058948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YSYXVIIIRoma: 동성애는 sin\n무성애는 cos\n범성애는 tan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2065985556853497879",
+        "created_at": "2026-06-14T02:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065985556853497879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4905287629",
+              "start": 3,
+              "username": "YSYXVIIIRoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985556853497879",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065771105022058948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YSYXVIIIRoma: 동성애는 sin\n무성애는 cos\n범성애는 tan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4905287629",
+        "conversation_id": "2065771105022058948",
+        "created_at": "2026-06-13T12:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065771105022058948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lizcommu/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/lizcommu/status/2065701750288621992",
+              "start": 27,
+              "url": "https://t.co/HFbpMdMd2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065771105022058948",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1714,
+          "impression_count": 954452,
+          "like_count": 53625,
+          "quote_count": 323,
+          "reply_count": 105,
+          "retweet_count": 9906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065701750288621992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "동성애는 sin\n무성애는 cos\n범성애는 tan https://t.co/HFbpMdMd2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1449,
+          "like_count": 8872,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5652
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-14T05:53:38.000Z",
+        "description": "구관이 명관이다\n\n정의당원\n배우자:@moppetkr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "moppetkr"
+              }
+            ]
+          }
+        },
+        "id": "4905287629",
+        "location": "금속노조 안산시흥일반분회",
+        "name": "남캐프사",
+        "pinned_tweet_id": "2053014655476650471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047453472581419008/QtFrjZnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 1402,
+          "like_count": 141038,
+          "listed_count": 25,
+          "media_count": 14053,
+          "tweet_count": 205688
+        },
+        "username": "YSYXVIIIRoma",
+        "verified": false
+      }
+    ]
+  }
+}

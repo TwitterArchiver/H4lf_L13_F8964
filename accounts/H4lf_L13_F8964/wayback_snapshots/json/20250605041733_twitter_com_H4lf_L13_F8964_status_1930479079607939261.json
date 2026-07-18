@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1930479079607939261",
+    "created_at": "2025-06-05T04:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T05:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930479079607939261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1398086450013298689",
+          "start": 3,
+          "username": "BlackheartSora"
+        },
+        {
+          "end": 31,
+          "id": "86364499",
+          "start": 20,
+          "username": "prideukorg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930479079607939261",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929606926050222525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @BlackheartSora: @prideukorg i hate rainbow capitalism, because they never cared about our rights or struggle, they just wanted to make…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1930479079607939261",
+        "created_at": "2025-06-05T04:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930479079607939261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1398086450013298689",
+              "start": 3,
+              "username": "BlackheartSora"
+            },
+            {
+              "end": 31,
+              "id": "86364499",
+              "start": 20,
+              "username": "prideukorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930479079607939261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929606926050222525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @BlackheartSora: @prideukorg i hate rainbow capitalism, because they never cared about our rights or struggle, they just wanted to make…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398086450013298689",
+        "conversation_id": "1929603104711860550",
+        "created_at": "2025-06-02T18:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T19:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929606926050222525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "86364499",
+              "start": 0,
+              "username": "prideukorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929606926050222525",
+        "in_reply_to_user_id": "86364499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 84775,
+          "like_count": 4059,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929603104711860550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@prideukorg i hate rainbow capitalism, because they never cared about our rights or struggle, they just wanted to make a quick buck off of our collective suffering. i've always been hard pressed to support any of this brands during june because ik they don't actually care."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1851784486293295547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1020,
+          "like_count": 5377,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 3869
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-28T01:23:34.000Z",
+        "description": "adult human female 😺\nminors dni 🔞 fansites 💙🤍 \nhttps://t.co/UcHNGhz9PF\ndm requests $10;\nalt: @sorathedevourer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sorathedevourer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/blackheartsora",
+                "end": 70,
+                "expanded_url": "https://linktr.ee/blackheartsora",
+                "start": 47,
+                "url": "https://t.co/UcHNGhz9PF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cash.app/$SoraHeartless",
+                "end": 23,
+                "expanded_url": "https://cash.app/$SoraHeartless",
+                "start": 0,
+                "url": "https://t.co/xCy9kXD9uh"
+              }
+            ]
+          }
+        },
+        "id": "1398086450013298689",
+        "location": "somewhere",
+        "name": "sora 🖤🔆",
+        "pinned_tweet_id": "1929994452220948971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918686443247136768/Rh5YN4sJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108508,
+          "following_count": 1826,
+          "like_count": 240998,
+          "listed_count": 205,
+          "media_count": 4443,
+          "tweet_count": 56754
+        },
+        "url": "https://t.co/xCy9kXD9uh",
+        "username": "BlackheartSora",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2009-10-30T18:02:07.000Z",
+        "description": "LGBTQIA+UK Insta 17k Facebook 83k all socials same user: prideukorg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/Prideuk",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/Prideuk",
+                "start": 0,
+                "url": "https://t.co/6QJDzO62yq"
+              }
+            ]
+          }
+        },
+        "id": "86364499",
+        "location": "West Midlands, England",
+        "name": "PRIDE 🏳️‍🌈🏳️‍⚧️🇬🇧",
+        "pinned_tweet_id": "1930158138142973989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546807457057579008/Fjwr8Jbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36455,
+          "following_count": 4468,
+          "like_count": 6772,
+          "listed_count": 89,
+          "media_count": 804,
+          "tweet_count": 3596
+        },
+        "url": "https://t.co/6QJDzO62yq",
+        "username": "prideukorg",
+        "verified": true
+      }
+    ]
+  }
+}

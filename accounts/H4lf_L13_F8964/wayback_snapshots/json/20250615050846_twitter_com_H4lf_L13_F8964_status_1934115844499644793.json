@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1933863057568260301",
+    "created_at": "2025-06-15T05:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T06:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934115844499644793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1151117684341219330",
+          "start": 0,
+          "username": "Cha03rismA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934115844499644793",
+    "in_reply_to_user_id": "1151117684341219330",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933863057568260301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cha03rismA xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_1933863040614912000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZ2MHwb0AAr9LT.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2880,
+        "media_key": "3_1933863040732307457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZ2MIMbIAEh504.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1933863057568260301",
+        "created_at": "2025-06-15T05:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934115844499644793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1151117684341219330",
+              "start": 0,
+              "username": "Cha03rismA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934115844499644793",
+        "in_reply_to_user_id": "1151117684341219330",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933863057568260301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cha03rismA xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933863040614912000",
+            "3_1933863040732307457"
+          ]
+        },
+        "author_id": "1151117684341219330",
+        "conversation_id": "1933863057568260301",
+        "created_at": "2025-06-14T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933863057568260301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8neoqA2xsm",
+              "end": 38,
+              "expanded_url": "https://x.com/Cha03rismA/status/1933863057568260301/photo/1",
+              "media_key": "3_1933863040614912000",
+              "start": 15,
+              "url": "https://t.co/8neoqA2xsm"
+            },
+            {
+              "display_url": "pic.x.com/8neoqA2xsm",
+              "end": 38,
+              "expanded_url": "https://x.com/Cha03rismA/status/1933863057568260301/photo/1",
+              "media_key": "3_1933863040732307457",
+              "start": 15,
+              "url": "https://t.co/8neoqA2xsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933863057568260301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21582,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爷们坐姿 举止粗鲁 鉴定为男 https://t.co/8neoqA2xsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1058,
+          "like_count": 5652,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3984
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-16T13:13:37.000Z",
+        "description": "🏳️‍⚧️transfem?(castrated). she/they. Long fur calico cat. Schwere Panzerjäger “Rh. Skorpion”. aro&ace. IN/ISTP-T. Elegant and charismatic. Our truth prevails.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/calic0…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/calic03.bsky.social",
+                "start": 0,
+                "url": "https://t.co/bVfjZqyiXU"
+              }
+            ]
+          }
+        },
+        "id": "1151117684341219330",
+        "location": "Manchuria",
+        "name": "赤坂　れみ 🦇👿🍥🐱 Scarlet De Monté",
+        "pinned_tweet_id": "1512624833477345283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458603452565639173/-LvBI3R6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 949,
+          "like_count": 16277,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/bVfjZqyiXU",
+        "username": "Cha03rismA",
+        "verified": false
+      }
+    ]
+  }
+}

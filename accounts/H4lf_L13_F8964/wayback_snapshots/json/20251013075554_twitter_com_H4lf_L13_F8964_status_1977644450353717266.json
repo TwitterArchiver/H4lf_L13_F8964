@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1977589820621992341",
+    "created_at": "2025-10-13T07:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T08:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977644450353717266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1745267838762520576",
+          "start": 0,
+          "username": "OVr2x"
+        },
+        {
+          "end": 21,
+          "id": "2689170356",
+          "start": 7,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977644450353717266",
+    "in_reply_to_user_id": "1745267838762520576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977607944725488097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVr2x @Hoshikawa_ran ccp就差去找金色黎明沆瀣一气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1977589820621992341",
+        "created_at": "2025-10-13T07:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977644450353717266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1745267838762520576",
+              "start": 0,
+              "username": "OVr2x"
+            },
+            {
+              "end": 21,
+              "id": "2689170356",
+              "start": 7,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977644450353717266",
+        "in_reply_to_user_id": "1745267838762520576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977607944725488097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVr2x @Hoshikawa_ran ccp就差去找金色黎明沆瀣一气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745267838762520576",
+        "conversation_id": "1977589820621992341",
+        "created_at": "2025-10-13T05:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977607944725488097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977607944725488097",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977589820621992341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 我觉得是希腊共产党，毕竟他们支持中远集团控制的比雷埃夫斯港工人罢工，其工会主席还被袭击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1240,
+          "like_count": 7327,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4771
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T02:14:26.000Z",
+        "description": "卢梭罗伯斯庇尔主义 拿破仑思想 路易十八理论 查理十世重要思想 奥尔良发展观 路易·波拿巴新时代法国特色社会主义思想\n团结在以路易·波拿巴为核心的（波拿巴）党中央的影响下，为实现法兰西民族伟大复兴而奋斗",
+        "id": "1745267838762520576",
+        "location": "色当",
+        "name": "拿破仑三世谈治理法兰西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779526139205275648/n9jwlL0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 26,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2034
+        },
+        "username": "OVr2x",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14991,
+          "following_count": 393,
+          "like_count": 151104,
+          "listed_count": 68,
+          "media_count": 2571,
+          "tweet_count": 25739
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

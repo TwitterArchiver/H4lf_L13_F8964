@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945383367257808896"
+      ],
+      "media_source_tweet_id": [
+        "1945383379438068003"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1945594974617362540",
+    "created_at": "2025-07-16T21:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T22:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945594974617362540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uG37laaGfb",
+          "end": 47,
+          "expanded_url": "https://x.com/KagurazakaAzure/status/1945383379438068003/photo/1",
+          "media_key": "3_1945383367257808896",
+          "start": 24,
+          "url": "https://t.co/uG37laaGfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945594974617362540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945383379438068003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 全文 https://t.co/uG37laaGfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945383367257808896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9j3Y1a4AAw8sf.jpg",
+        "width": 186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945383367257808896"
+          ],
+          "media_source_tweet_id": [
+            "1945383379438068003"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1945594974617362540",
+        "created_at": "2025-07-16T21:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945594974617362540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG37laaGfb",
+              "end": 47,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1945383379438068003/photo/1",
+              "media_key": "3_1945383367257808896",
+              "start": 24,
+              "url": "https://t.co/uG37laaGfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945594974617362540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945383379438068003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaAzure: 全文 https://t.co/uG37laaGfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945383367257808896"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1945307271627726960",
+        "created_at": "2025-07-16T07:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945383379438068003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG37laaGfb",
+              "end": 26,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1945383379438068003/photo/1",
+              "media_key": "3_1945383367257808896",
+              "start": 3,
+              "url": "https://t.co/uG37laaGfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945383379438068003",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 84485,
+          "like_count": 1707,
+          "quote_count": 30,
+          "reply_count": 57,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945307271627726960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全文 https://t.co/uG37laaGfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1115,
+          "like_count": 6381,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 4305
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7501,
+          "following_count": 1091,
+          "like_count": 35922,
+          "listed_count": 9,
+          "media_count": 2539,
+          "tweet_count": 20420
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

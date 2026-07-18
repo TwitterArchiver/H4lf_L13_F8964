@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1935646466078605364",
+    "created_at": "2025-06-19T22:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T23:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935830417460150781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        },
+        {
+          "end": 28,
+          "id": "1741075170603749376",
+          "start": 14,
+          "username": "zhao_tito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935830417460150781",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935647122503909875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle @zhao_tito8964 我宁愿拉屎拉裤子里也不愿意像你这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1935646466078605364",
+        "created_at": "2025-06-19T22:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T23:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935830417460150781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 28,
+              "id": "1741075170603749376",
+              "start": 14,
+              "username": "zhao_tito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935830417460150781",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935647122503909875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle @zhao_tito8964 我宁愿拉屎拉裤子里也不愿意像你这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1935646466078605364",
+        "created_at": "2025-06-19T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935647122503909875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zhao_tito8964/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/zhao_tito8964/status/1935508593371136350",
+              "start": 37,
+              "url": "https://t.co/SiDHoaxGrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935647122503909875",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935508593371136350",
+            "type": "quoted"
+          },
+          {
+            "id": "1935646466078605364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito8964 弱智是能拉屎拉裤子里的\n\n我不能，你能吗？ https://t.co/SiDHoaxGrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪88 单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1075,
+          "like_count": 5802,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4036
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "電波系大笨貓 ◉▼◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "💖傻貓𝕮𝖆𝖓𝖉𝖑𝖊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935644057989947392/25wFsPjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31966,
+          "following_count": 349,
+          "like_count": 224136,
+          "listed_count": 103,
+          "media_count": 7857,
+          "tweet_count": 52239
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "混沌邪恶/反观念主义",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "南京酒吐座",
+        "pinned_tweet_id": "1935592264723792085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934097837983502336/HMSR4DK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 909,
+          "like_count": 19137,
+          "listed_count": 1,
+          "media_count": 1011,
+          "tweet_count": 12847
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

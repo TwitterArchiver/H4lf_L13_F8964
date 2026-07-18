@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060071445007314946",
+        "3_2060071444998942721",
+        "3_2060071445019893767"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2060071452771065944",
+    "created_at": "2026-05-28T18:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060071452771065944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVabT6wbJf",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+          "media_key": "3_2060071445007314946",
+          "start": 37,
+          "url": "https://t.co/KVabT6wbJf"
+        },
+        {
+          "display_url": "pic.x.com/KVabT6wbJf",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+          "media_key": "3_2060071444998942721",
+          "start": 37,
+          "url": "https://t.co/KVabT6wbJf"
+        },
+        {
+          "display_url": "pic.x.com/KVabT6wbJf",
+          "end": 60,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+          "media_key": "3_2060071445019893767",
+          "start": 37,
+          "url": "https://t.co/KVabT6wbJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060071452771065944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "德国迷奸案罪犯变成了康米英雄\n你们在几十年前支持老大哥的时候也是这样想的 https://t.co/KVabT6wbJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2060071445007314946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbYEIOWMAIBpR0.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2060071444998942721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbYEIMWcAEpRcq.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1944,
+        "media_key": "3_2060071445019893767",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbYEIRWIAcl8Gg.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060071445007314946",
+            "3_2060071444998942721",
+            "3_2060071445019893767"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2060071452771065944",
+        "created_at": "2026-05-28T18:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060071452771065944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVabT6wbJf",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+              "media_key": "3_2060071445007314946",
+              "start": 37,
+              "url": "https://t.co/KVabT6wbJf"
+            },
+            {
+              "display_url": "pic.x.com/KVabT6wbJf",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+              "media_key": "3_2060071444998942721",
+              "start": 37,
+              "url": "https://t.co/KVabT6wbJf"
+            },
+            {
+              "display_url": "pic.x.com/KVabT6wbJf",
+              "end": 60,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2060071452771065944/photo/1",
+              "media_key": "3_2060071445019893767",
+              "start": 37,
+              "url": "https://t.co/KVabT6wbJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060071452771065944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "德国迷奸案罪犯变成了康米英雄\n你们在几十年前支持老大哥的时候也是这样想的 https://t.co/KVabT6wbJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1445,
+          "like_count": 8883,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5649
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1957761951284752813",
+    "created_at": "2025-08-19T11:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T12:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957761951284752813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534168901558353920",
+          "start": 3,
+          "username": "feminist38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957761951284752813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957387646843719737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @feminist38: 8月18日，微信公号\"流放地\"发布了一篇关于7月郑州人民公园针对男同性恋的暴力事件受害者小凯的自述文。据其描述，警方抓获的涉案人员中有一位名叫韩梦的退伍女兵，她曾是小凯的相亲对象，也是女同性恋者，出于对小凯遭受围殴的愤慨，主动\"卧底\"打入施暴团伙…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1957381095357628418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoDvE7bQAIEYkE.jpg",
+        "width": 586
+      },
+      {
+        "height": 2107,
+        "media_key": "3_1957381095370166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoDvE-akAA_jjB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1957381095445696512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoDvFQbEAABjpv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1957761951284752813",
+        "created_at": "2025-08-19T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957761951284752813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534168901558353920",
+              "start": 3,
+              "username": "feminist38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957761951284752813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957387646843719737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @feminist38: 8月18日，微信公号\"流放地\"发布了一篇关于7月郑州人民公园针对男同性恋的暴力事件受害者小凯的自述文。据其描述，警方抓获的涉案人员中有一位名叫韩梦的退伍女兵，她曾是小凯的相亲对象，也是女同性恋者，出于对小凯遭受围殴的愤慨，主动\"卧底\"打入施暴团伙…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957381095357628418",
+            "3_1957381095370166272",
+            "3_1957381095445696512"
+          ]
+        },
+        "author_id": "1534168901558353920",
+        "conversation_id": "1957387646843719737",
+        "created_at": "2025-08-18T10:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957387646843719737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TL0lqUhM40",
+              "end": 167,
+              "expanded_url": "https://x.com/feminist38/status/1957387646843719737/photo/1",
+              "media_key": "3_1957381095357628418",
+              "start": 144,
+              "url": "https://t.co/TL0lqUhM40"
+            },
+            {
+              "display_url": "pic.x.com/TL0lqUhM40",
+              "end": 167,
+              "expanded_url": "https://x.com/feminist38/status/1957387646843719737/photo/1",
+              "media_key": "3_1957381095370166272",
+              "start": 144,
+              "url": "https://t.co/TL0lqUhM40"
+            },
+            {
+              "display_url": "pic.x.com/TL0lqUhM40",
+              "end": 167,
+              "expanded_url": "https://x.com/feminist38/status/1957387646843719737/photo/1",
+              "media_key": "3_1957381095445696512",
+              "start": 144,
+              "url": "https://t.co/TL0lqUhM40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957387646843719737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 37636,
+          "like_count": 500,
+          "quote_count": 23,
+          "reply_count": 16,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "8月18日，微信公号\"流放地\"发布了一篇关于7月郑州人民公园针对男同性恋的暴力事件受害者小凯的自述文。据其描述，警方抓获的涉案人员中有一位名叫韩梦的退伍女兵，她曾是小凯的相亲对象，也是女同性恋者，出于对小凯遭受围殴的愤慨，主动\"卧底\"打入施暴团伙内部，最终成功获取关键证据并公开在网络。 https://t.co/TL0lqUhM40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 1176,
+          "like_count": 6757,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4526
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T13:42:45.000Z",
+        "description": "女权主义资讯分享",
+        "id": "1534168901558353920",
+        "name": "中华坏女人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722495088679682048/u2LS1t2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 54,
+          "like_count": 7,
+          "listed_count": 15,
+          "media_count": 101,
+          "tweet_count": 242
+        },
+        "username": "feminist38",
+        "verified": false
+      }
+    ]
+  }
+}

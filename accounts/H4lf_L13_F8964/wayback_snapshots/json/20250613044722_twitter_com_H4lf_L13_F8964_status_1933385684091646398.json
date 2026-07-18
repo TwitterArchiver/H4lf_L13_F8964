@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933377575767937024",
+        "3_1933377576376094720",
+        "3_1933377576778760192",
+        "3_1933377580310421504"
+      ],
+      "media_source_tweet_id": [
+        "1933377583779021182",
+        "1933377583779021182",
+        "1933377583779021182",
+        "1933377583779021182"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933385684091646398",
+    "created_at": "2025-06-13T04:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T05:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933385684091646398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1585145286598483968",
+          "start": 3,
+          "username": "lianyiganyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQJvNgQ9Q8",
+          "end": 69,
+          "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+          "media_key": "3_1933377575767937024",
+          "start": 46,
+          "url": "https://t.co/oQJvNgQ9Q8"
+        },
+        {
+          "display_url": "pic.x.com/oQJvNgQ9Q8",
+          "end": 69,
+          "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+          "media_key": "3_1933377576376094720",
+          "start": 46,
+          "url": "https://t.co/oQJvNgQ9Q8"
+        },
+        {
+          "display_url": "pic.x.com/oQJvNgQ9Q8",
+          "end": 69,
+          "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+          "media_key": "3_1933377576778760192",
+          "start": 46,
+          "url": "https://t.co/oQJvNgQ9Q8"
+        },
+        {
+          "display_url": "pic.x.com/oQJvNgQ9Q8",
+          "end": 69,
+          "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+          "media_key": "3_1933377580310421504",
+          "start": 46,
+          "url": "https://t.co/oQJvNgQ9Q8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933385684091646398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933377583779021182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianyiganyu: 今天再次有人被李保兴诈骗，请大家时刻警惕，防止受骗上当！ https://t.co/oQJvNgQ9Q8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_1933377575767937024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtS8qWRakAA8-Rv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 672,
+        "media_key": "3_1933377576376094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtS8qYiaUAA7pon.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933377576778760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtS8qaCagAALNpl.jpg",
+        "width": 430
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933377580310421504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtS8qnMbYAAzerT.jpg",
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933377575767937024",
+            "3_1933377576376094720",
+            "3_1933377576778760192",
+            "3_1933377580310421504"
+          ],
+          "media_source_tweet_id": [
+            "1933377583779021182",
+            "1933377583779021182",
+            "1933377583779021182",
+            "1933377583779021182"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933385684091646398",
+        "created_at": "2025-06-13T04:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933385684091646398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1585145286598483968",
+              "start": 3,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 69,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377575767937024",
+              "start": 46,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 69,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377576376094720",
+              "start": 46,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 69,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377576778760192",
+              "start": 46,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 69,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377580310421504",
+              "start": 46,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933385684091646398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933377583779021182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianyiganyu: 今天再次有人被李保兴诈骗，请大家时刻警惕，防止受骗上当！ https://t.co/oQJvNgQ9Q8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933377575767937024",
+            "3_1933377576376094720",
+            "3_1933377576778760192",
+            "3_1933377580310421504"
+          ]
+        },
+        "author_id": "1585145286598483968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933377583779021182",
+        "created_at": "2025-06-13T04:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933377583779021182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 52,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377575767937024",
+              "start": 29,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 52,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377576376094720",
+              "start": 29,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 52,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377576778760192",
+              "start": 29,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            },
+            {
+              "display_url": "pic.x.com/oQJvNgQ9Q8",
+              "end": 52,
+              "expanded_url": "https://x.com/lianyiganyu/status/1933377583779021182/photo/1",
+              "media_key": "3_1933377580310421504",
+              "start": 29,
+              "url": "https://t.co/oQJvNgQ9Q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933377583779021182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天再次有人被李保兴诈骗，请大家时刻警惕，防止受骗上当！ https://t.co/oQJvNgQ9Q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1048,
+          "like_count": 5612,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3969
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 4,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

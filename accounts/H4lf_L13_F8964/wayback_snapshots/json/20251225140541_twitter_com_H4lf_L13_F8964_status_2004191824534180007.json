@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004191824534180007",
+    "created_at": "2025-12-25T14:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004191824534180007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163098132713893888",
+          "start": 3,
+          "username": "ziyao2511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004191824534180007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999812992645636519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ziyao2511: “无序同样提供了模式的原材料。秩序意味着约束， 在全部可能性中做出有限的选择。而无序的含义就是无限，在其中没有实现过任何模式，但是它形成模式的潜力也是无限的。 ....我们承认无序对业已存在的模式具有破坏性，我们也承认无序具有潜能。它既象征着危险，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2004191824534180007",
+        "created_at": "2025-12-25T14:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004191824534180007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163098132713893888",
+              "start": 3,
+              "username": "ziyao2511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004191824534180007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999812992645636519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ziyao2511: “无序同样提供了模式的原材料。秩序意味着约束， 在全部可能性中做出有限的选择。而无序的含义就是无限，在其中没有实现过任何模式，但是它形成模式的潜力也是无限的。 ....我们承认无序对业已存在的模式具有破坏性，我们也承认无序具有潜能。它既象征着危险，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163098132713893888",
+        "conversation_id": "1999812992645636519",
+        "created_at": "2025-12-13T12:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999812992645636519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ziyao2511/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/ziyao2511/status/1922893404884590952",
+              "start": 142,
+              "url": "https://t.co/zhaNUdmXZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999812992645636519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922893404884590952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“无序同样提供了模式的原材料。秩序意味着约束， 在全部可能性中做出有限的选择。而无序的含义就是无限，在其中没有实现过任何模式，但是它形成模式的潜力也是无限的。 ....我们承认无序对业已存在的模式具有破坏性，我们也承认无序具有潜能。它既象征着危险，也象征着力量。”——玛丽•道格拉斯 https://t.co/zhaNUdmXZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1315,
+          "like_count": 8128,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 5135
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T14:39:59.000Z",
+        "description": "直接行动/生活推@2511ziyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "2511ziyao"
+              }
+            ]
+          }
+        },
+        "id": "1163098132713893888",
+        "name": "Thus Spoke Ziyao：",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914696944607485953/iyOBC9-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 206,
+          "like_count": 4083,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 1325
+        },
+        "username": "ziyao2511",
+        "verified": false
+      }
+    ]
+  }
+}

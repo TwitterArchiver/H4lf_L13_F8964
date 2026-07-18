@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959516801043239164",
+    "created_at": "2025-08-25T10:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T11:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959920687340249397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959920687340249397",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959516801043239164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 当教师/公务员/警察/军队等暴力机关的孩子或伴侣，简直就是一种灾难。我见过有家长会的时候有老师把一群家长当学生一样骂的视频。把工作中的发狠带回家，对家人像学生/罪犯 一样对待。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_1959516789974478848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGaI3XXsAAhidA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959516789966016512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGaI3VWkAApglU.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959516790003847168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGaI3eX0AASfim.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1959516801043239164",
+        "created_at": "2025-08-25T10:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959920687340249397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959920687340249397",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959516801043239164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 当教师/公务员/警察/军队等暴力机关的孩子或伴侣，简直就是一种灾难。我见过有家长会的时候有老师把一群家长当学生一样骂的视频。把工作中的发狠带回家，对家人像学生/罪犯 一样对待。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959516789974478848",
+            "3_1959516789966016512",
+            "3_1959516790003847168"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1959516801043239164",
+        "created_at": "2025-08-24T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959516801043239164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2rtW7fsXf",
+              "end": 39,
+              "expanded_url": "https://x.com/boiledwater/status/1959516801043239164/photo/1",
+              "media_key": "3_1959516789974478848",
+              "start": 16,
+              "url": "https://t.co/Y2rtW7fsXf"
+            },
+            {
+              "display_url": "pic.x.com/Y2rtW7fsXf",
+              "end": 39,
+              "expanded_url": "https://x.com/boiledwater/status/1959516801043239164/photo/1",
+              "media_key": "3_1959516789966016512",
+              "start": 16,
+              "url": "https://t.co/Y2rtW7fsXf"
+            },
+            {
+              "display_url": "pic.x.com/Y2rtW7fsXf",
+              "end": 39,
+              "expanded_url": "https://x.com/boiledwater/status/1959516801043239164/photo/1",
+              "media_key": "3_1959516790003847168",
+              "start": 16,
+              "url": "https://t.co/Y2rtW7fsXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959516801043239164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 381726,
+          "like_count": 991,
+          "quote_count": 59,
+          "reply_count": 282,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "这位是上万粉的教育博主，教师。 https://t.co/Y2rtW7fsXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1181,
+          "like_count": 6866,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 4574
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1930044331768901932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42566,
+          "following_count": 1781,
+          "like_count": 30313,
+          "listed_count": 160,
+          "media_count": 4782,
+          "tweet_count": 36980
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

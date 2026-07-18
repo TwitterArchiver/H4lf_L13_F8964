@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1931390005479616688",
+    "created_at": "2025-06-07T16:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931390005479616688"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931390005479616688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在场地里喝酒壮胆后，对同辈和前辈的同行大喊： Stop missing my pronoun， or I‘ll change your pronoun to was/were.\n\n在展会上被中登拽住询问性别，我说：你认我是什么，我就是什么。\n\n昭示我们的存在和黄皮子讨封，并没有冲突。(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1931390005479616688",
+        "created_at": "2025-06-07T16:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931390005479616688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931390005479616688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在场地里喝酒壮胆后，对同辈和前辈的同行大喊： Stop missing my pronoun， or I‘ll change your pronoun to was/were.\n\n在展会上被中登拽住询问性别，我说：你认我是什么，我就是什么。\n\n昭示我们的存在和黄皮子讨封，并没有冲突。(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 1025,
+          "like_count": 5476,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 3908
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

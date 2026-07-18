@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1993577358822097230",
+    "created_at": "2025-11-26T13:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T14:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993679785558426069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1584045825792933888",
+          "start": 0,
+          "username": "syydsnjsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993679785558426069",
+    "in_reply_to_user_id": "1584045825792933888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993577358822097230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syydsnjsw 好大🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993577278132113408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qb-Nda0AA-D5c.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1993577358822097230",
+        "created_at": "2025-11-26T13:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993679785558426069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1584045825792933888",
+              "start": 0,
+              "username": "syydsnjsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993679785558426069",
+        "in_reply_to_user_id": "1584045825792933888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993577358822097230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syydsnjsw 好大🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993577278132113408"
+          ]
+        },
+        "author_id": "1584045825792933888",
+        "conversation_id": "1993577358822097230",
+        "created_at": "2025-11-26T07:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993577358822097230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmTGhJiX4k",
+              "end": 46,
+              "expanded_url": "https://x.com/syydsnjsw/status/1993577358822097230/photo/1",
+              "media_key": "3_1993577278132113408",
+              "start": 23,
+              "url": "https://t.co/CmTGhJiX4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993577358822097230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 5110,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不是很想卖了，又苦逼又没啥钱，来找我定制吧😭 https://t.co/CmTGhJiX4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1308,
+          "like_count": 7901,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5035
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T04:55:36.000Z",
+        "description": "170/50kg，特别享受脱裤子慢慢看见牛子的过程和嗦牛子的感觉，见到各种不同的牛子就有种养成收集的成就感，最喜欢的还是射精和看别人射😋欢迎有礼貌的孩子找我玩。（我一般不看谁关注我想要回关扩列可以私信我）\n接成都附近线下/接定制😭，线下先过🚪vivo50口令红包，过门解锁好友位",
+        "id": "1584045825792933888",
+        "location": "cd",
+        "name": "小羽大鸡姬",
+        "pinned_tweet_id": "1907457343425585376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971897376786055168/wl_bNQQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16008,
+          "following_count": 699,
+          "like_count": 1185,
+          "listed_count": 89,
+          "media_count": 188,
+          "tweet_count": 1601
+        },
+        "username": "syydsnjsw",
+        "verified": false
+      }
+    ]
+  }
+}

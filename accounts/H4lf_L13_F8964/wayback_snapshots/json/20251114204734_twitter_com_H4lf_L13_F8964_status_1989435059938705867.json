@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1989435059938705867",
+    "created_at": "2025-11-14T20:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989435059938705867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1085549377656156160",
+          "start": 3,
+          "username": "ling_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989435059938705867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989258669054365718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ling_OvO: 凌的妙妙小道具~01\n两年前开始使用的自制小狗头，初衷是想既露出眼睛和嘴巴，又不露脸的两全方案\n为了方便叼东西，去年加上了张嘴的功能~\n\n目前供给自己和部分小伙伴各种颜色订制使用\n\n(那个单侧小虎牙不是掉了，本来就是一只！没人理解单虎牙的萌点吗呜呜)…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989435059938705867].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989435059938705867",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989435059938705867"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1989258553123831808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tEHVFagAA_PLR.jpg",
+        "width": 853
+      },
+      {
+        "height": 1919,
+        "media_key": "3_1989258551890702336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tEHQfacAAO5Ft.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989258560535195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tEHwsa8AABNsh.jpg",
+        "width": 922
+      },
+      {
+        "height": 640,
+        "media_key": "16_1989258602033623040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5tEKLSasAAJ6aI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5tEKLSasAAJ6aI.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989258553123831808",
+            "3_1989258551890702336",
+            "3_1989258560535195648",
+            "16_1989258602033623040"
+          ]
+        },
+        "author_id": "1085549377656156160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989258669054365718",
+        "created_at": "2025-11-14T09:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989258669054365718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 155,
+              "tag": "petplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1650894991441674243",
+              "start": 131,
+              "username": "Abu_2077"
+            },
+            {
+              "end": 154,
+              "id": "1414994526167453700",
+              "start": 146,
+              "username": "MinaMtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di7PKsJA0O",
+              "end": 187,
+              "expanded_url": "https://x.com/ling_OvO/status/1989258669054365718/photo/1",
+              "media_key": "3_1989258553123831808",
+              "start": 164,
+              "url": "https://t.co/Di7PKsJA0O"
+            },
+            {
+              "display_url": "pic.x.com/Di7PKsJA0O",
+              "end": 187,
+              "expanded_url": "https://x.com/ling_OvO/status/1989258669054365718/photo/1",
+              "media_key": "3_1989258551890702336",
+              "start": 164,
+              "url": "https://t.co/Di7PKsJA0O"
+            },
+            {
+              "display_url": "pic.x.com/Di7PKsJA0O",
+              "end": 187,
+              "expanded_url": "https://x.com/ling_OvO/status/1989258669054365718/photo/1",
+              "media_key": "3_1989258560535195648",
+              "start": 164,
+              "url": "https://t.co/Di7PKsJA0O"
+            },
+            {
+              "display_url": "pic.x.com/Di7PKsJA0O",
+              "end": 187,
+              "expanded_url": "https://x.com/ling_OvO/status/1989258669054365718/photo/1",
+              "media_key": "16_1989258602033623040",
+              "start": 164,
+              "url": "https://t.co/Di7PKsJA0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989258669054365718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 17191,
+          "like_count": 315,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "凌的妙妙小道具~01\n两年前开始使用的自制小狗头，初衷是想既露出眼睛和嘴巴，又不露脸的两全方案\n为了方便叼东西，去年加上了张嘴的功能~\n\n目前供给自己和部分小伙伴各种颜色订制使用\n\n(那个单侧小虎牙不是掉了，本来就是一只！没人理解单虎牙的萌点吗呜呜)\np2摄影 @Abu_2077 p3摄影 @minamtf\n#petplay https://t.co/Di7PKsJA0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1282,
+          "like_count": 7652,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4949
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-16T14:48:34.000Z",
+        "description": "小号 @ling_0v0_ \n后续视频可能都会在小号\n伪娘～缚手，被缚，人体家具，人形犬| ᴥ•́ )✧;\n欢迎 :小可爱来约绳 || 脑洞一起搞活\n转的都是有自己的图(o^^o)♪～\n北京  | 不玩xxoo | 不认主|不接商务推广|无线上有偿内容!!\n\n脑洞群：https://t.co/Nc6tLUrmHt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "ling_0v0_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+m9xm5mRQZwNi",
+                "end": 157,
+                "expanded_url": "https://t.me/+m9xm5mRQZwNi",
+                "start": 134,
+                "url": "https://t.co/Nc6tLUrmHt"
+              }
+            ]
+          }
+        },
+        "id": "1085549377656156160",
+        "location": "Beijing",
+        "name": "凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1398270351042301959/BTYMZflI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73894,
+          "following_count": 393,
+          "like_count": 1089,
+          "listed_count": 332,
+          "media_count": 65,
+          "tweet_count": 723
+        },
+        "username": "ling_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

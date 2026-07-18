@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1979048228499701993",
+    "created_at": "2025-10-17T04:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T05:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979048228499701993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979048228499701993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979022580322337031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 打算休学了，接下来就靠各位捧场让我的屁股赚手术费了😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1979048228499701993",
+        "created_at": "2025-10-17T04:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979048228499701993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979048228499701993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979022580322337031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 打算休学了，接下来就靠各位捧场让我的屁股赚手术费了😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1979022580322337031",
+        "created_at": "2025-10-17T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979022580322337031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979022580322337031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1272,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "打算休学了，接下来就靠各位捧场让我的屁股赚手术费了😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1258,
+          "like_count": 7431,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 4825
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 at UCPH/一推就倒的邪恶北方地牢主/域ℍ上的非交换同构 @Ted_noncommute /持有@MeowCatherina作为家养猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Ted_noncommute"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MUyD9Gjm0yU5Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MUyD9Gjm0yU5ZGJk",
+                "start": 0,
+                "url": "https://t.co/zbsLzEJxIA"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 1316,
+          "like_count": 29366,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 5936
+        },
+        "url": "https://t.co/zbsLzEJxIA",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

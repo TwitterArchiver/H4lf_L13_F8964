@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980341908699291648"
+      ],
+      "media_source_tweet_id": [
+        "1980341922293260790"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1980535456455692379",
+    "created_at": "2025-10-21T07:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980535456455692379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3460027591",
+          "start": 3,
+          "username": "trevor25527766"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dubvSBFZOW",
+          "end": 43,
+          "expanded_url": "https://x.com/trevor25527766/status/1980341922293260790/photo/1",
+          "media_key": "3_1980341908699291648",
+          "start": 20,
+          "url": "https://t.co/dubvSBFZOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980535456455692379",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 633
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980341922293260790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trevor25527766: https://t.co/dubvSBFZOW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2209,
+        "media_key": "3_1980341908699291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3uWeUHXIAAzgKj.jpg",
+        "width": 1459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980341908699291648"
+          ],
+          "media_source_tweet_id": [
+            "1980341922293260790"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1980535456455692379",
+        "created_at": "2025-10-21T07:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980535456455692379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3460027591",
+              "start": 3,
+              "username": "trevor25527766"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dubvSBFZOW",
+              "end": 43,
+              "expanded_url": "https://x.com/trevor25527766/status/1980341922293260790/photo/1",
+              "media_key": "3_1980341908699291648",
+              "start": 20,
+              "url": "https://t.co/dubvSBFZOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980535456455692379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 633
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980341922293260790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trevor25527766: https://t.co/dubvSBFZOW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980341908699291648"
+          ]
+        },
+        "author_id": "3460027591",
+        "conversation_id": "1980341922293260790",
+        "created_at": "2025-10-20T18:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T19:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980341922293260790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dubvSBFZOW",
+              "end": 23,
+              "expanded_url": "https://x.com/trevor25527766/status/1980341922293260790/photo/1",
+              "media_key": "3_1980341908699291648",
+              "start": 0,
+              "url": "https://t.co/dubvSBFZOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980341922293260790",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1512,
+          "impression_count": 107781,
+          "like_count": 8145,
+          "quote_count": 23,
+          "reply_count": 25,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dubvSBFZOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1268,
+          "like_count": 7469,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 4848
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T14:04:58.000Z",
+        "description": "kig店铺原社oc，欢迎定制！ 着ぐるみマスクのご注文ありがとうございます ♪(´ε｀) 着ぐるみ一番好きな~どうぞ私と交流しましょう~! The shop has opened. Welcome to consult kigurumi mask making",
+        "id": "3460027591",
+        "name": "狂気【原社OC】",
+        "pinned_tweet_id": "1813465769834901520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343224349176688646/3ZjQ81Ef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79321,
+          "following_count": 1067,
+          "like_count": 2114,
+          "listed_count": 364,
+          "media_count": 872,
+          "tweet_count": 3605
+        },
+        "username": "trevor25527766",
+        "verified": false
+      }
+    ]
+  }
+}

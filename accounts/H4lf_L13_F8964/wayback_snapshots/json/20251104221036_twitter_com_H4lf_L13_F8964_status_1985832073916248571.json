@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1985832073916248571",
+    "created_at": "2025-11-04T22:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T23:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985832073916248571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jianlvup/status/1985162791834308617",
+          "start": 5,
+          "url": "https://t.co/2PvMUtPAuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985832073916248571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985162791834308617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "监视居住 https://t.co/2PvMUtPAuQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_1985162789414158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4y3CgRawAAu5yg.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1985832073916248571",
+        "created_at": "2025-11-04T22:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T23:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985832073916248571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jianlvup/status/1985162791834308617",
+              "start": 5,
+              "url": "https://t.co/2PvMUtPAuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985832073916248571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985162791834308617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "监视居住 https://t.co/2PvMUtPAuQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985162789414158336"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1985162791834308617",
+        "created_at": "2025-11-03T01:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985162791834308617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToinSrcjAh",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/1985162791834308617/photo/1",
+              "media_key": "3_1985162789414158336",
+              "start": 13,
+              "url": "https://t.co/ToinSrcjAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985162791834308617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 657472,
+          "like_count": 1324,
+          "quote_count": 18,
+          "reply_count": 80,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌家长群…好小众的文字 https://t.co/ToinSrcjAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1274,
+          "like_count": 7546,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 4900
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1985647776324338072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11095,
+          "following_count": 1042,
+          "like_count": 55018,
+          "listed_count": 40,
+          "media_count": 1918,
+          "tweet_count": 4463
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

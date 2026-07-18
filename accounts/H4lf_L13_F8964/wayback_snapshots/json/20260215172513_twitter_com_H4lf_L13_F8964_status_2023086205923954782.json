@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2023086205923954782",
+    "created_at": "2026-02-15T17:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023086205923954782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023086205923954782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022787216276361234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 我今天想讲讲关于青春期阻滞剂的事情。我不是跨性别，但我是医疗从业人员，我在工作中接触过很多需要这类药物的病人，我也很了解这类药物。我的感受是，我们社会真的在各方各面对跨性别的包容度和几十年前相比后退了很多很多。\n\n原文： https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2022787203701911552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJiPpzbsAAP7jS.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2022787207522906112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJiP4CbcAAYnIP.jpg",
+        "width": 1525
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2022787210828029952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJiQEWboAALOjm.jpg",
+        "width": 1525
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2022787213898203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJiQPyawAAHp0g.jpg",
+        "width": 1525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2023086205923954782",
+        "created_at": "2026-02-15T17:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023086205923954782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023086205923954782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022787216276361234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 我今天想讲讲关于青春期阻滞剂的事情。我不是跨性别，但我是医疗从业人员，我在工作中接触过很多需要这类药物的病人，我也很了解这类药物。我的感受是，我们社会真的在各方各面对跨性别的包容度和几十年前相比后退了很多很多。\n\n原文： https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022787203701911552",
+            "3_2022787207522906112",
+            "3_2022787210828029952",
+            "3_2022787213898203136"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "2022787216276361234",
+        "created_at": "2026-02-14T21:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022787216276361234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "💬 124  🔁 18930  ❤️ 21606 · So today I want to talk about puberty blockers for transgender kids, because despite being cisgender, this is a subject I’m actually well-versed in. Specifically, I want…",
+              "display_url": "tumblr.com/gingersnapwolv…",
+              "end": 134,
+              "expanded_url": "https://www.tumblr.com/gingersnapwolves/769854037108654080/so-today-i-want-to-talk-about-puberty-blockers-for",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2020620762294673410/mCkHlfjH?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2020620762294673410/mCkHlfjH?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Post by @gingersnapwolves",
+              "unwound_url": "https://www.tumblr.com/gingersnapwolves/769854037108654080/so-today-i-want-to-talk-about-puberty-blockers-for",
+              "url": "https://t.co/JIMBZnyNTP"
+            },
+            {
+              "description": "我今天想讲讲关于青春期阻滞剂的事情。我不是跨性别，但我是医疗从业人员，我在工作中接触过很多需要这类药物的病人，我也很了解这类药物。我的感受是，我们社会真的在各方各面对跨性别的包容度和几十年前相比后退了很多很多。 那是快二十年前，我第一次接触需要青春期阻滞剂的跨性别病人的时候事情了。我当时做的是小儿内科的行政助理。我们在一个红州，就是支持保守派的共和党的州。不是像阿拉巴马那样的深红州，是有一点点要变蓝的趋势（支持稍微进步一点点的民主党），但整体来说还是很红的红州。我就不透露具体是哪个州了，我怕有人把我的身份信息都扒出来。 有一天，我接到了一个电话，一位妈妈打电话说，“我儿子是跨性别，你们医院能不能开激素治疗的药？” 我回答说，“我也不是很清楚，让我请教一下我们这边的医生。” 然后我到了医生的办公室，医生正在电脑上玩纸牌游戏。我就问他，“我们医院给跨性别孩子提供治疗吗？” 这是我第一次问这个问题。我们医院是二零零几年建院的，那时候大概是2006年。医生一边打牌一边说，“我这边还没来过跨性别病人，但我学过也知道该怎么给跨性别孩子提供治疗，让他来吧。” 我给那位妈妈回了电话。那位妈妈听上去真的很开心，很快就带着儿子来看病了。这是从我们医院开到青春期阻滞剂处方的第一个跨性别孩子，但这不是我们第一次开青春期阻滞剂的处方，我们医院给很多提早发育（早发性青春期）的孩子开过青春期阻滞剂。来我们诊所的孩子中有大概20%的孩子是来看这个早发性青春期的问题的，这些孩子都在使用青春期阻滞剂。也就是说，即使在20年前，青春期阻滞剂就已经使用非常广泛，而且已经被证明是非常安全有效的药物。 我们很快发现，我们这边的医生是在我们整个红州里唯一一个愿意给跨性别孩子开青春期阻滞剂处方的医生。我们医院很快在“红州的跨性别家长”这个群体中传开了。渐渐的，越来越多的家长带着自己的跨性别孩子来找我们。再然后，那些已经过了青春期的跨性别孩子也来找我们，我们开始给这些年纪大一些的跨性别孩子开雌激素或睾酮。 为了这些孩子，我们医院需要不断联系医保公司。我记得当时医生找了很多权威杂志上的论文，让我在给病人提交医疗申请的时候一并附上。但在“医疗保险相关问题会遇到很多困难”这点上，我们的跨性别病人并不是特例。我们要给严重发育迟缓的孩子开生长激素。我们要给有严重糖尿病的孩子开胰岛素泵，当时的胰岛素泵非常难申请上。一旦申请上了",
+              "display_url": "t.me/twitter_transl…",
+              "end": 162,
+              "expanded_url": "https://t.me/twitter_translate/30732",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2022787222551040005/8oweMZi6?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022787222551040005/8oweMZi6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/30732",
+              "url": "https://t.co/j4lsC1QBkW"
+            },
+            {
+              "display_url": "pic.x.com/0TmdHAfQAH",
+              "end": 186,
+              "expanded_url": "https://x.com/translate_cn/status/2022787216276361234/photo/1",
+              "media_key": "3_2022787203701911552",
+              "start": 163,
+              "url": "https://t.co/0TmdHAfQAH"
+            },
+            {
+              "display_url": "pic.x.com/0TmdHAfQAH",
+              "end": 186,
+              "expanded_url": "https://x.com/translate_cn/status/2022787216276361234/photo/1",
+              "media_key": "3_2022787207522906112",
+              "start": 163,
+              "url": "https://t.co/0TmdHAfQAH"
+            },
+            {
+              "display_url": "pic.x.com/0TmdHAfQAH",
+              "end": 186,
+              "expanded_url": "https://x.com/translate_cn/status/2022787216276361234/photo/1",
+              "media_key": "3_2022787210828029952",
+              "start": 163,
+              "url": "https://t.co/0TmdHAfQAH"
+            },
+            {
+              "display_url": "pic.x.com/0TmdHAfQAH",
+              "end": 186,
+              "expanded_url": "https://x.com/translate_cn/status/2022787216276361234/photo/1",
+              "media_key": "3_2022787213898203136",
+              "start": 163,
+              "url": "https://t.co/0TmdHAfQAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022787216276361234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11920,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我今天想讲讲关于青春期阻滞剂的事情。我不是跨性别，但我是医疗从业人员，我在工作中接触过很多需要这类药物的病人，我也很了解这类药物。我的感受是，我们社会真的在各方各面对跨性别的包容度和几十年前相比后退了很多很多。\n\n原文： https://t.co/JIMBZnyNTP\n翻译： https://t.co/j4lsC1QBkW https://t.co/0TmdHAfQAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1383,
+          "like_count": 8575,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5367
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16236,
+          "following_count": 884,
+          "like_count": 982,
+          "listed_count": 95,
+          "media_count": 9733,
+          "tweet_count": 10325
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

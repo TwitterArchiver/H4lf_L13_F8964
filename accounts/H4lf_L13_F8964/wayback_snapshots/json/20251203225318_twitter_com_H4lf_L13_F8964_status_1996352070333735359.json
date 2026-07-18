@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1996352070333735359",
+    "created_at": "2025-12-03T22:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T23:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996352070333735359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuyiya0/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yuyiya0/status/1996059342689435844",
+          "start": 2,
+          "url": "https://t.co/rtvh6jR6Xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996352070333735359",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996059342689435844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥵 https://t.co/rtvh6jR6Xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996059338428088323",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NtZImbgAMRHeI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996059338449076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NtZIrbwAAZnws.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996059338906189825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NtZKYawAEo5ff.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996059339023679488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NtZK0bgAAjxLB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1996352070333735359",
+        "created_at": "2025-12-03T22:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996352070333735359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuyiya0/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yuyiya0/status/1996059342689435844",
+              "start": 2,
+              "url": "https://t.co/rtvh6jR6Xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996352070333735359",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996059342689435844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥵 https://t.co/rtvh6jR6Xp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996059338428088323",
+            "3_1996059338449076224",
+            "3_1996059338906189825",
+            "3_1996059339023679488"
+          ]
+        },
+        "author_id": "1394144387467149314",
+        "conversation_id": "1996059342689435844",
+        "created_at": "2025-12-03T03:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996059342689435844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "黑皮"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "黑皮辣妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFkEWxOBkP",
+              "end": 46,
+              "expanded_url": "https://x.com/yuyiya0/status/1996059342689435844/photo/1",
+              "media_key": "3_1996059338428088323",
+              "start": 23,
+              "url": "https://t.co/nFkEWxOBkP"
+            },
+            {
+              "display_url": "pic.x.com/nFkEWxOBkP",
+              "end": 46,
+              "expanded_url": "https://x.com/yuyiya0/status/1996059342689435844/photo/1",
+              "media_key": "3_1996059338449076224",
+              "start": 23,
+              "url": "https://t.co/nFkEWxOBkP"
+            },
+            {
+              "display_url": "pic.x.com/nFkEWxOBkP",
+              "end": 46,
+              "expanded_url": "https://x.com/yuyiya0/status/1996059342689435844/photo/1",
+              "media_key": "3_1996059338906189825",
+              "start": 23,
+              "url": "https://t.co/nFkEWxOBkP"
+            },
+            {
+              "display_url": "pic.x.com/nFkEWxOBkP",
+              "end": 46,
+              "expanded_url": "https://x.com/yuyiya0/status/1996059342689435844/photo/1",
+              "media_key": "3_1996059339023679488",
+              "start": 23,
+              "url": "https://t.co/nFkEWxOBkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996059342689435844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5639,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "两只黑皮母狗～\n#男娘 #黑皮  #黑皮辣妹 https://t.co/nFkEWxOBkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1314,
+          "like_count": 7992,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 5071
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-17T04:15:07.000Z",
+        "description": "药娘｜日常女装女声｜常驻上海｜可✈️｜照片和本人一样哦｜身高165｜体重105｜🦶38码｜擅长中医把脉正骨按摩\n咬一口黑丝绒慕斯小蛋糕，嗯~很涩\n本人反差很骚很色哦～",
+        "id": "1394144387467149314",
+        "location": "上海",
+        "name": "河宝儿(黑皮版)",
+        "pinned_tweet_id": "1978877953636172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946155701849468928/p0BtJavX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16796,
+          "following_count": 33,
+          "like_count": 15,
+          "listed_count": 85,
+          "media_count": 45,
+          "tweet_count": 83
+        },
+        "username": "yuyiya0",
+        "verified": false
+      }
+    ]
+  }
+}

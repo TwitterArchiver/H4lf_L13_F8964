@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944642349608615936"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944642361167851602",
+    "created_at": "2025-07-14T06:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T07:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944642361167851602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VC3weyDBji",
+          "end": 35,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1944642361167851602/photo/1",
+          "media_key": "3_1944642349608615936",
+          "start": 12,
+          "url": "https://t.co/VC3weyDBji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944642361167851602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要和我一起去看大象吗？ https://t.co/VC3weyDBji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_1944642349608615936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzB6e-aQAAkTIh.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944642349608615936"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1944642361167851602",
+        "created_at": "2025-07-14T06:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T07:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944642361167851602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VC3weyDBji",
+              "end": 35,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1944642361167851602/photo/1",
+              "media_key": "3_1944642349608615936",
+              "start": 12,
+              "url": "https://t.co/VC3weyDBji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944642361167851602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要和我一起去看大象吗？ https://t.co/VC3weyDBji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1116,
+          "like_count": 6338,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4292
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

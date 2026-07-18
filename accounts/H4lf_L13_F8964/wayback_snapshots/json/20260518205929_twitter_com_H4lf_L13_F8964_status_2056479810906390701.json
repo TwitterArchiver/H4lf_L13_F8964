@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056479804145139712",
+        "3_2056479804212277250",
+        "3_2056479804111609856"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2056479810906390701",
+    "created_at": "2026-05-18T20:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T21:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056479810906390701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "adult-sex-type-indicator.netlify.app/?qq_aio_chat_t…",
+          "end": 30,
+          "expanded_url": "https://adult-sex-type-indicator.netlify.app/?qq_aio_chat_type=3",
+          "start": 7,
+          "status": 200,
+          "title": "ASTI · 涩涩人格测试 — Adult Sex Type Indicator",
+          "unwound_url": "https://adult-sex-type-indicator.netlify.app/?qq_aio_chat_type=3",
+          "url": "https://t.co/p0SFKTmZVA"
+        },
+        {
+          "display_url": "pic.x.com/UZRUSdOCRB",
+          "end": 54,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+          "media_key": "3_2056479804145139712",
+          "start": 31,
+          "url": "https://t.co/UZRUSdOCRB"
+        },
+        {
+          "display_url": "pic.x.com/UZRUSdOCRB",
+          "end": 54,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+          "media_key": "3_2056479804212277250",
+          "start": 31,
+          "url": "https://t.co/UZRUSdOCRB"
+        },
+        {
+          "display_url": "pic.x.com/UZRUSdOCRB",
+          "end": 54,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+          "media_key": "3_2056479804111609856",
+          "start": 31,
+          "url": "https://t.co/UZRUSdOCRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056479810906390701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的测试哦\n\nhttps://t.co/p0SFKTmZVA https://t.co/UZRUSdOCRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2056479804145139712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoVfHXWAAA5sFl.jpg",
+        "width": 1168
+      },
+      {
+        "height": 1512,
+        "media_key": "3_2056479804212277250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoVfHnWcAILvyI.jpg",
+        "width": 1170
+      },
+      {
+        "height": 804,
+        "media_key": "3_2056479804111609856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoVfHPWYAArZAy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056479804145139712",
+            "3_2056479804212277250",
+            "3_2056479804111609856"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2056479810906390701",
+        "created_at": "2026-05-18T20:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056479810906390701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "adult-sex-type-indicator.netlify.app/?qq_aio_chat_t…",
+              "end": 30,
+              "expanded_url": "https://adult-sex-type-indicator.netlify.app/?qq_aio_chat_type=3",
+              "start": 7,
+              "status": 200,
+              "title": "ASTI · 涩涩人格测试 — Adult Sex Type Indicator",
+              "unwound_url": "https://adult-sex-type-indicator.netlify.app/?qq_aio_chat_type=3",
+              "url": "https://t.co/p0SFKTmZVA"
+            },
+            {
+              "display_url": "pic.x.com/UZRUSdOCRB",
+              "end": 54,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+              "media_key": "3_2056479804145139712",
+              "start": 31,
+              "url": "https://t.co/UZRUSdOCRB"
+            },
+            {
+              "display_url": "pic.x.com/UZRUSdOCRB",
+              "end": 54,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+              "media_key": "3_2056479804212277250",
+              "start": 31,
+              "url": "https://t.co/UZRUSdOCRB"
+            },
+            {
+              "display_url": "pic.x.com/UZRUSdOCRB",
+              "end": 54,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/2056479810906390701/photo/1",
+              "media_key": "3_2056479804111609856",
+              "start": 31,
+              "url": "https://t.co/UZRUSdOCRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056479810906390701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的测试哦\n\nhttps://t.co/p0SFKTmZVA https://t.co/UZRUSdOCRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1449,
+          "like_count": 8887,
+          "listed_count": 2,
+          "media_count": 578,
+          "tweet_count": 5642
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

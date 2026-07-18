@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978870226541293568"
+      ],
+      "media_source_tweet_id": [
+        "1978870229829603428"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1979113616377880940",
+    "created_at": "2025-10-17T09:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979113616377880940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899260046265114626",
+          "start": 3,
+          "username": "pinkugajoayo"
+        },
+        {
+          "end": 44,
+          "id": "464701998",
+          "start": 36,
+          "username": "kyonser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uagKI7rG4C",
+          "end": 68,
+          "expanded_url": "https://x.com/pinkugajoayo/status/1978870229829603428/photo/1",
+          "media_key": "3_1978870226541293568",
+          "start": 45,
+          "url": "https://t.co/uagKI7rG4C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979113616377880940",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978870229829603428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkugajoayo: You serious?\nPic: @kyonser https://t.co/uagKI7rG4C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978870226541293568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Zb_I2XMAAeX5_.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978870226541293568"
+          ],
+          "media_source_tweet_id": [
+            "1978870229829603428"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1979113616377880940",
+        "created_at": "2025-10-17T09:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979113616377880940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899260046265114626",
+              "start": 3,
+              "username": "pinkugajoayo"
+            },
+            {
+              "end": 44,
+              "id": "464701998",
+              "start": 36,
+              "username": "kyonser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uagKI7rG4C",
+              "end": 68,
+              "expanded_url": "https://x.com/pinkugajoayo/status/1978870229829603428/photo/1",
+              "media_key": "3_1978870226541293568",
+              "start": 45,
+              "url": "https://t.co/uagKI7rG4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979113616377880940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978870229829603428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkugajoayo: You serious?\nPic: @kyonser https://t.co/uagKI7rG4C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978870226541293568"
+          ]
+        },
+        "author_id": "899260046265114626",
+        "conversation_id": "1978870229829603428",
+        "created_at": "2025-10-16T17:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978870229829603428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "464701998",
+              "start": 18,
+              "username": "kyonser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uagKI7rG4C",
+              "end": 50,
+              "expanded_url": "https://x.com/pinkugajoayo/status/1978870229829603428/photo/1",
+              "media_key": "3_1978870226541293568",
+              "start": 27,
+              "url": "https://t.co/uagKI7rG4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978870229829603428",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1706,
+          "impression_count": 67488,
+          "like_count": 6549,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "You serious?\nPic: @kyonser https://t.co/uagKI7rG4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1258,
+          "like_count": 7434,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4831
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-20T13:21:17.000Z",
+        "description": "185cm📏sack            \n@pinkugunjoayo - 🔧💟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "pinkugunjoayo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/plnkcu6e",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/plnkcu6e",
+                "start": 0,
+                "url": "https://t.co/nwzZtCgJoV"
+              }
+            ]
+          }
+        },
+        "id": "899260046265114626",
+        "name": "핑큐▫️𝙋𝙇𝙉𝙆𝘾𝙐6𝙀",
+        "pinned_tweet_id": "1891265953637302545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918601094042968064/fseA_R9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35889,
+          "following_count": 707,
+          "like_count": 19312,
+          "listed_count": 160,
+          "media_count": 1358,
+          "tweet_count": 16095
+        },
+        "url": "https://t.co/nwzZtCgJoV",
+        "username": "pinkugajoayo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T14:48:28.000Z",
+        "description": "사진 찍습니다 \n촬영문의는 dm, 멘션 편하신걸로 언제든 받습니다\n질문은https://t.co/WLP8EMzV55\n머리깨진 니콘단\n프사 @Amedrama0608\n/\n헤더 @Grape808080",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Amedrama0608"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Grape808080"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "peing.net/ko/me/home",
+                "end": 63,
+                "expanded_url": "https://peing.net/ko/me/home",
+                "start": 40,
+                "url": "https://t.co/WLP8EMzV55"
+              }
+            ]
+          }
+        },
+        "id": "464701998",
+        "location": "서울",
+        "name": "란타할아버지",
+        "pinned_tweet_id": "1759518995701715264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834581918102544384/Y05IyHn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 779,
+          "like_count": 21435,
+          "listed_count": 4,
+          "media_count": 3090,
+          "tweet_count": 40375
+        },
+        "username": "kyonser",
+        "verified": false
+      }
+    ]
+  }
+}

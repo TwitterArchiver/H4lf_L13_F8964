@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1308895460107534337",
+          "name": "Airsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308895460107534337",
+          "name": "Airsoft"
+        }
+      }
+    ],
+    "conversation_id": "1999791653704569087",
+    "created_at": "2025-12-26T14:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004560816507400289"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 74,
+          "normalized_text": "airsoft",
+          "probability": 0.9062,
+          "start": 68,
+          "type": "Other"
+        },
+        {
+          "end": 126,
+          "normalized_text": "GBBRs",
+          "probability": 0.6639,
+          "start": 122,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "848432990329819136",
+          "start": 0,
+          "username": "Okaisan1995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004560816507400289",
+    "in_reply_to_user_id": "848432990329819136",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999791653704569087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okaisan1995 I miss the days when I was health and could still play airsoft. I don't have the strength to run anymore. My GBBRs sitting at home, I don't know what to do with them."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1999791648520454145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cv6LLawAEittE.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999791649241833472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cv6N3aIAAyuuF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999791649829093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cv6QDbAAAPfWP.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999791650835677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cv6TzaQAAGqHq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          }
+        ],
+        "conversation_id": "1999791653704569087",
+        "created_at": "2025-12-26T14:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004560816507400289"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "airsoft",
+              "probability": 0.9062,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "GBBRs",
+              "probability": 0.6639,
+              "start": 122,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "848432990329819136",
+              "start": 0,
+              "username": "Okaisan1995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004560816507400289",
+        "in_reply_to_user_id": "848432990329819136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999791653704569087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okaisan1995 I miss the days when I was health and could still play airsoft. I don't have the strength to run anymore. My GBBRs sitting at home, I don't know what to do with them."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999791648520454145",
+            "3_1999791649241833472",
+            "3_1999791649829093376",
+            "3_1999791650835677184"
+          ]
+        },
+        "author_id": "848432990329819136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          }
+        ],
+        "conversation_id": "1999791653704569087",
+        "created_at": "2025-12-13T10:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999791653704569087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "サバゲ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz55N8upnw",
+              "end": 122,
+              "expanded_url": "https://x.com/Okaisan1995/status/1999791653704569087/photo/1",
+              "media_key": "3_1999791648520454145",
+              "start": 99,
+              "url": "https://t.co/Pz55N8upnw"
+            },
+            {
+              "display_url": "pic.x.com/Pz55N8upnw",
+              "end": 122,
+              "expanded_url": "https://x.com/Okaisan1995/status/1999791653704569087/photo/1",
+              "media_key": "3_1999791649241833472",
+              "start": 99,
+              "url": "https://t.co/Pz55N8upnw"
+            },
+            {
+              "display_url": "pic.x.com/Pz55N8upnw",
+              "end": 122,
+              "expanded_url": "https://x.com/Okaisan1995/status/1999791653704569087/photo/1",
+              "media_key": "3_1999791649829093376",
+              "start": 99,
+              "url": "https://t.co/Pz55N8upnw"
+            },
+            {
+              "display_url": "pic.x.com/Pz55N8upnw",
+              "end": 122,
+              "expanded_url": "https://x.com/Okaisan1995/status/1999791653704569087/photo/1",
+              "media_key": "3_1999791650835677184",
+              "start": 99,
+              "url": "https://t.co/Pz55N8upnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999791653704569087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1703,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日は撃ちすぎさんでサバゲ。\nxm8が何故か作動不可に陥ったのでlctのクソ重いg3を終日使う羽目に…夜勤明けで振り回すものではない気がする…\nブラックウォーターのPMCごっこしてた!!\n#サバゲ https://t.co/Pz55N8upnw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1321,
+          "like_count": 8165,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 5149
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T07:12:42.000Z",
+        "description": "WW2のドイツ軍、ロシア軍、U.B.C.Sなどの格好をしてるサバゲーマー\n武道系の競技で国体準優勝したり日本代表だったこともあるやべぇやつ。\nウォーハンマーAoSと40ｋ始めました!\nその他、昔の遊戯王やデュエルマスターズいまだにデッキを捨てれず持っています笑\n遊びに真面目",
+        "id": "848432990329819136",
+        "location": "第三帝国、北カフカス地方、大みかん帝国、琵琶湖水中都市",
+        "name": "○かいさん@蜥蜴工廠🦎",
+        "pinned_tweet_id": "1846910965398622425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706987495756570624/CA7bPzG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 3371,
+          "like_count": 115490,
+          "listed_count": 8,
+          "media_count": 2167,
+          "tweet_count": 17290
+        },
+        "username": "Okaisan1995",
+        "verified": false
+      }
+    ]
+  }
+}

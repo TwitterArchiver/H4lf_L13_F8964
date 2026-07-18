@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1944841256317935914",
+    "created_at": "2025-07-14T19:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944841256317935914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3980748812",
+          "start": 3,
+          "username": "Mobi_LemareF107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944841256317935914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 588
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943629008316273109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mobi_LemareF107: 名家のお嬢様の実家が没落して、妹に至っては身売りされ行方不明になり、自らも病を患いそのまま弱り果てて...童話か少女漫画ならここで実は異国で家族も作って裕福になっていた妹が助けに来てくれるんですが\n\nアドミラル・クズネツォフ級の話です"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1944841256317935914",
+        "created_at": "2025-07-14T19:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944841256317935914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3980748812",
+              "start": 3,
+              "username": "Mobi_LemareF107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944841256317935914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 588
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943629008316273109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mobi_LemareF107: 名家のお嬢様の実家が没落して、妹に至っては身売りされ行方不明になり、自らも病を患いそのまま弱り果てて...童話か少女漫画ならここで実は異国で家族も作って裕福になっていた妹が助けに来てくれるんですが\n\nアドミラル・クズネツォフ級の話です"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3980748812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1943629008316273109",
+        "created_at": "2025-07-11T11:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943629008316273109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943629008316273109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 163047,
+          "like_count": 2930,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 588
+        },
+        "reply_settings": "everyone",
+        "text": "名家のお嬢様の実家が没落して、妹に至っては身売りされ行方不明になり、自らも病を患いそのまま弱り果てて...童話か少女漫画ならここで実は異国で家族も作って裕福になっていた妹が助けに来てくれるんですが\n\nアドミラル・クズネツォフ級の話です"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1115,
+          "like_count": 6343,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4294
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-22T13:55:24.000Z",
+        "description": "アイコンは天才@outcast_2501 様から。𝓝𝓔𝓦 𝓟𝓪𝓷𝓽𝔂 & 𝓢𝓽𝓸𝓬𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓖𝓪𝓻𝓽𝓮𝓻𝓫𝓮みてね",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "outcast_2501"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/Mobi_LemareF107",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/Mobi_LemareF107",
+                "start": 0,
+                "url": "https://t.co/Nmm6aGXK7s"
+              }
+            ]
+          }
+        },
+        "id": "3980748812",
+        "location": "おしり星人",
+        "name": "もびうす",
+        "pinned_tweet_id": "1294270412113637381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825126859753000960/zJVOFa4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1060,
+          "like_count": 132005,
+          "listed_count": 58,
+          "media_count": 36494,
+          "tweet_count": 294625
+        },
+        "url": "https://t.co/Nmm6aGXK7s",
+        "username": "Mobi_LemareF107",
+        "verified": false
+      }
+    ]
+  }
+}

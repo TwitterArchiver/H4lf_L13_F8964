@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1982389746715512994",
+    "created_at": "2025-10-27T08:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982726054788915688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1377259106973671429",
+          "start": 0,
+          "username": "funeralarcade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982726054788915688",
+    "in_reply_to_user_id": "1377259106973671429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982389746715512994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@funeralarcade 我们都住在地球，现在你的妈妈被我偷走变成我的啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_1982389737303281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Lc9oJXkAAU1fR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1982389746715512994",
+        "created_at": "2025-10-27T08:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982726054788915688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1377259106973671429",
+              "start": 0,
+              "username": "funeralarcade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982726054788915688",
+        "in_reply_to_user_id": "1377259106973671429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982389746715512994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@funeralarcade 我们都住在地球，现在你的妈妈被我偷走变成我的啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982389737303281664"
+          ]
+        },
+        "author_id": "1377259106973671429",
+        "conversation_id": "1982389746715512994",
+        "created_at": "2025-10-26T10:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982389746715512994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjkDYHEd85",
+              "end": 132,
+              "expanded_url": "https://x.com/funeralarcade/status/1982389746715512994/photo/1",
+              "media_key": "3_1982389737303281664",
+              "start": 109,
+              "url": "https://t.co/bjkDYHEd85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982389746715512994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1428,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 礼貌+真诚，最基本的。\n2. 我就是兴趣爱好，我想调教就调教，不想调就不调\n3. “我们都喜欢latex，所以我们就要互关/交朋友/一起玩”的逻辑到底来自哪里？我们都住在地球，所以我们是邻居我们应该一起玩。NO https://t.co/bjkDYHEd85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1269,
+          "like_count": 7502,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 4874
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T13:59:08.000Z",
+        "description": "Femdom｜Dominatrix｜Sadism｜Kink｜Fetish｜Born pervert but perversion is beauty｜🇩🇪 Pro Domme in Germany since 2017｜Base 🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/funeralarcade/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/funeralarcade/",
+                "start": 0,
+                "url": "https://t.co/DCVvcvWrl1"
+              }
+            ]
+          }
+        },
+        "id": "1377259106973671429",
+        "location": "私信授课",
+        "name": "Funeral Arcade",
+        "pinned_tweet_id": "1944789887523451318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798618398940880897/TSWlkbzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 245,
+          "like_count": 1912,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/DCVvcvWrl1",
+        "username": "funeralarcade",
+        "verified": false
+      }
+    ]
+  }
+}

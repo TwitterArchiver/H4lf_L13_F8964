@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1933385267743953351",
+    "created_at": "2025-06-13T18:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T19:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933600133499007148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933600133499007148",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933385267743953351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 是怕碳酸锂吃多吗😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933385260827643904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTDprWbkAA2Yut.jpg",
+        "width": 946
+      },
+      {
+        "height": 1304,
+        "media_key": "3_1933385260789841920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTDprNawAAYSaN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1933385267743953351",
+        "created_at": "2025-06-13T18:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T19:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933600133499007148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933600133499007148",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933385267743953351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 是怕碳酸锂吃多吗😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933385260827643904",
+            "3_1933385260789841920"
+          ]
+        },
+        "author_id": "1693124545492983808",
+        "conversation_id": "1933385267743953351",
+        "created_at": "2025-06-13T04:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933385267743953351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlegJ5AfdE",
+              "end": 34,
+              "expanded_url": "https://x.com/rustInsidee/status/1933385267743953351/photo/1",
+              "media_key": "3_1933385260827643904",
+              "start": 11,
+              "url": "https://t.co/IlegJ5AfdE"
+            },
+            {
+              "display_url": "pic.x.com/IlegJ5AfdE",
+              "end": 34,
+              "expanded_url": "https://x.com/rustInsidee/status/1933385267743953351/photo/1",
+              "media_key": "3_1933385260789841920",
+              "start": 11,
+              "url": "https://t.co/IlegJ5AfdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933385267743953351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 820,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都在问ds什么东西 https://t.co/IlegJ5AfdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 🚪几顿饭钱🉑小刀如果你有可信服的理由 单次图包一顿饭钱或者看着给点 //////////////////////////////!现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1052,
+          "like_count": 5634,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3980
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740760541604581376/QgVGc5GH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5892,
+          "following_count": 362,
+          "like_count": 7786,
+          "listed_count": 13,
+          "media_count": 1228,
+          "tweet_count": 5346
+        },
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

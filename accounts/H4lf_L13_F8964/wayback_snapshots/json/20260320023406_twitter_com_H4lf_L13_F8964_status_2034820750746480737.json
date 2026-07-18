@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2034648391955718481",
+    "created_at": "2026-03-20T02:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034820750746480737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912278224433766400",
+          "start": 0,
+          "username": "HarveyZhao35827"
+        },
+        {
+          "end": 27,
+          "id": "3341502893",
+          "start": 17,
+          "username": "zhihui999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034820750746480737",
+    "in_reply_to_user_id": "1912278224433766400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034782158595006727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarveyZhao35827 @zhihui999 不是，叫保安来修个6啊？老头连老年机都用不明白。今日见过最好笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2034648391955718481",
+        "created_at": "2026-03-20T02:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034820750746480737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912278224433766400",
+              "start": 0,
+              "username": "HarveyZhao35827"
+            },
+            {
+              "end": 27,
+              "id": "3341502893",
+              "start": 17,
+              "username": "zhihui999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034820750746480737",
+        "in_reply_to_user_id": "1912278224433766400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034782158595006727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarveyZhao35827 @zhihui999 不是，叫保安来修个6啊？老头连老年机都用不明白。今日见过最好笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912278224433766400",
+        "conversation_id": "2034648391955718481",
+        "created_at": "2026-03-20T00:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034782158595006727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3341502893",
+              "start": 0,
+              "username": "zhihui999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034782158595006727",
+        "in_reply_to_user_id": "3341502893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5411,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034648391955718481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhihui999 真实情况：是多媒体故障打不开（机柜上锁了），老师叫了后勤保安来处理问题，由于这个问题经常出现，老师对保安进行了抱怨，保安也很无奈，成功开机后就离开了。 \n这种问题之前我读大学时也遇到过， \n不要造谣 不要误导大众"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1442,
+          "like_count": 8798,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5558
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T22:54:15.000Z",
+        "description": "kaspa is the end game, $kas",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 27,
+                "start": 23,
+                "tag": "kas"
+              }
+            ]
+          }
+        },
+        "id": "1912278224433766400",
+        "name": "Harvey Zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985909409089011713/yy3-4ma9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 1021,
+          "like_count": 2400,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1799
+        },
+        "username": "HarveyZhao35827",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-22T15:01:26.000Z",
+        "description": "🔥 快来爆料中共黑幕，爆到中共邪党灰飞烟灭！恳请大家私信小編爆真实猛料（视频文字录音均可，请您注明时间地点）! 小编在海外及時选编和發布，告知天下！期盼您的关注点赞👍和转帖❤️，敬請您留言指正👉#海外爆料 🙏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "海外爆料"
+              }
+            ]
+          }
+        },
+        "id": "3341502893",
+        "location": "Union City, NJ",
+        "name": "海外爆料",
+        "pinned_tweet_id": "2034648391955718481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611546603046801409/WiecOhob_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214897,
+          "following_count": 2906,
+          "like_count": 96909,
+          "listed_count": 561,
+          "media_count": 90477,
+          "tweet_count": 144863
+        },
+        "username": "zhihui999",
+        "verified": true
+      }
+    ]
+  }
+}

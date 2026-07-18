@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971241486516973568"
+      ],
+      "media_source_tweet_id": [
+        "1971241522747380070"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1971327197609853064",
+    "created_at": "2025-09-25T21:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T22:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971327197609853064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809878686340198400",
+          "start": 3,
+          "username": "M0Zha_caoB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kI6vSmUtMg",
+          "end": 44,
+          "expanded_url": "https://x.com/M0Zha_caoB/status/1971241522747380070/photo/1",
+          "media_key": "3_1971241486516973568",
+          "start": 21,
+          "url": "https://t.co/kI6vSmUtMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971327197609853064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971241522747380070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M0Zha_caoB: 权威/. https://t.co/kI6vSmUtMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971241486516973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tBsBpbcAAhTRq.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971241486516973568"
+          ],
+          "media_source_tweet_id": [
+            "1971241522747380070"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1971327197609853064",
+        "created_at": "2025-09-25T21:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T22:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971327197609853064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809878686340198400",
+              "start": 3,
+              "username": "M0Zha_caoB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kI6vSmUtMg",
+              "end": 44,
+              "expanded_url": "https://x.com/M0Zha_caoB/status/1971241522747380070/photo/1",
+              "media_key": "3_1971241486516973568",
+              "start": 21,
+              "url": "https://t.co/kI6vSmUtMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971327197609853064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971241522747380070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M0Zha_caoB: 权威/. https://t.co/kI6vSmUtMg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971241486516973568"
+          ]
+        },
+        "author_id": "1809878686340198400",
+        "conversation_id": "1971241522747380070",
+        "created_at": "2025-09-25T15:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971241522747380070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kI6vSmUtMg",
+              "end": 28,
+              "expanded_url": "https://x.com/M0Zha_caoB/status/1971241522747380070/photo/1",
+              "media_key": "3_1971241486516973568",
+              "start": 5,
+              "url": "https://t.co/kI6vSmUtMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971241522747380070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "权威/. https://t.co/kI6vSmUtMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1216,
+          "like_count": 7094,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4663
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:14:58.000Z",
+        "description": "なな  はい! 俺、東北行くから 尬哈去呀老弟 冷蔵庫に入って置いた锅包又 你就可劲造吧 你可以过你 你有病吧 自己想要的生活了 死国男 なな 你终于自拍完了 明年我要去tokyo tokyo ni ikuyo ikuyo chiikawa chiikawa chiikawa 你说你想去中味儿 想整点儿右美沙芬儿",
+        "id": "1809878686340198400",
+        "location": "海之帝国",
+        "name": "AAA杀鱼师傅大海原",
+        "pinned_tweet_id": "1968957906960756902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970053161495957504/PqenrAJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 441,
+          "like_count": 4572,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 2070
+        },
+        "username": "M0Zha_caoB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990137973812113891",
+    "created_at": "2025-11-18T01:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990600241423241226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 23,
+          "id": "1745799972576968705",
+          "start": 10,
+          "username": "bubblepipe42"
+        },
+        {
+          "end": 39,
+          "id": "1899023817378508801",
+          "start": 24,
+          "username": "Ted_noncommute"
+        },
+        {
+          "end": 56,
+          "id": "1688439420",
+          "start": 40,
+          "username": "BlackMarieChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990600241423241226",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990137973812113891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @bubblepipe42 @Ted_noncommute @BlackMarieChina 怎么锁twi了呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1990137973812113891].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1990137973812113891",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1990137973812113891"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990137973812113891",
+        "created_at": "2025-11-18T01:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990600241423241226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 23,
+              "id": "1745799972576968705",
+              "start": 10,
+              "username": "bubblepipe42"
+            },
+            {
+              "end": 39,
+              "id": "1899023817378508801",
+              "start": 24,
+              "username": "Ted_noncommute"
+            },
+            {
+              "end": 56,
+              "id": "1688439420",
+              "start": 40,
+              "username": "BlackMarieChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990600241423241226",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990137973812113891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @bubblepipe42 @Ted_noncommute @BlackMarieChina 怎么锁twi了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1299,
+          "like_count": 7768,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4993
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍⚧️/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥(休学ing)/一推就倒邪恶北方地牢主/穿胶写胶SM高手/接论文修改, 乳胶优化, idea咨询, 3D打印/域ℍ上的非交换同构 @Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "🚪50/申根可飞",
+        "name": "Ted",
+        "pinned_tweet_id": "1990137973812113891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 1405,
+          "like_count": 32524,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 6572
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个笑话。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "1988262671716643078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990447725880520704/1VQNGW5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 782,
+          "like_count": 5169,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 1235
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T09:06:07.000Z",
+        "description": "域ℍ上的小Ted /🩵🩷🤍🩷🩵",
+        "id": "1899023817378508801",
+        "name": "非交换Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899024063512584192/6CiAhCGQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 104,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 159
+        },
+        "username": "Ted_noncommute",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:37:07.000Z",
+        "description": "A bondage toy shop located in Shanghai. PayPal is now available for wherever SF EXPRESS can reach. 上海sm道具小店，卖自己设计的sm道具。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackmarie.taobao.com",
+                "end": 23,
+                "expanded_url": "http://blackmarie.taobao.com",
+                "start": 0,
+                "url": "https://t.co/PGISUByddI"
+              }
+            ]
+          }
+        },
+        "id": "1688439420",
+        "location": "Shanghai",
+        "name": "BlackMarie",
+        "pinned_tweet_id": "1987211576294993974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104062944038522880/7WiwpANC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71728,
+          "following_count": 1149,
+          "like_count": 7933,
+          "listed_count": 265,
+          "media_count": 516,
+          "tweet_count": 5118
+        },
+        "url": "https://t.co/PGISUByddI",
+        "username": "BlackMarieChina",
+        "verified": false
+      }
+    ]
+  }
+}

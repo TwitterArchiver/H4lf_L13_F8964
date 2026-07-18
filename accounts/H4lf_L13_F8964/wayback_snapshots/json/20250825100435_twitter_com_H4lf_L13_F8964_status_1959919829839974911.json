@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1959516801043239164",
+    "created_at": "2025-08-25T10:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T11:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959919829839974911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550334980500307974",
+          "start": 0,
+          "username": "shandia49640379"
+        },
+        {
+          "end": 29,
+          "id": "111942564",
+          "start": 17,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959919829839974911",
+    "in_reply_to_user_id": "1550334980500307974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959755395691696410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shandia49640379 @boiledwater 你老婆当老师没把你一起骂一顿，我是不信的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1959516801043239164",
+        "created_at": "2025-08-25T10:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959919829839974911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550334980500307974",
+              "start": 0,
+              "username": "shandia49640379"
+            },
+            {
+              "end": 29,
+              "id": "111942564",
+              "start": 17,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959919829839974911",
+        "in_reply_to_user_id": "1550334980500307974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959755395691696410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shandia49640379 @boiledwater 你老婆当老师没把你一起骂一顿，我是不信的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550334980500307974",
+        "conversation_id": "1959516801043239164",
+        "created_at": "2025-08-24T23:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T00:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959755395691696410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959755395691696410",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6029,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959516801043239164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 我老婆也是老师，有次女儿说了句脏话她就发怒把女儿骂哭了。\n我马上把老婆拉到小书房。\n我说你今天学校里一定很不顺。\n她还在气，说女儿会变成小太妹。\n我说你把女儿吓哭了。她这么怂怎么可能变小太妹呢？她就犯了个小错我们不应该为了一点点小错发火。小错上纲上线太伤人了。\n后来就让女儿检讨了一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1181,
+          "like_count": 6866,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 4573
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T04:20:53.000Z",
+        "description": "INFP-A/友跨/大叔/心灵手巧的胶佬/被女儿欺负/岁月没能治好我的中二病/性癖：包罗万象。/无胆lsp/\n\n     /想拿起银钥匙，去乌撒镇撸猫，去塞勒菲斯观赏落日下的缟玛瑙城堡/     \n\n手办原型师山巅，原创手办售卖中，欢迎定制，将你的幻想变成实体。#r18 #r18G #bl #手办",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 131,
+                "tag": "r18"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "r18G"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "bl"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "手办"
+              }
+            ]
+          }
+        },
+        "id": "1550334980500307974",
+        "name": "山巅",
+        "pinned_tweet_id": "1904891787891925070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627456224051748864/Dmyggbeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 1484,
+          "like_count": 19654,
+          "listed_count": 13,
+          "media_count": 1371,
+          "tweet_count": 27620
+        },
+        "username": "shandia49640379",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1930044331768901932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42566,
+          "following_count": 1781,
+          "like_count": 30313,
+          "listed_count": 160,
+          "media_count": 4782,
+          "tweet_count": 36980
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

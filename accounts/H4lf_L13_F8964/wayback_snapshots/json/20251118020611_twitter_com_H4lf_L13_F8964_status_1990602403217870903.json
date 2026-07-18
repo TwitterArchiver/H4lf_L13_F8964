@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990385818045952182",
+    "created_at": "2025-11-18T02:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990602403217870903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515859446492061696",
+          "start": 0,
+          "username": "xb2002b"
+        },
+        {
+          "end": 25,
+          "id": "1620367275273633792",
+          "start": 9,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990602403217870903",
+    "in_reply_to_user_id": "1515859446492061696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990441137845514550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xb2002b @Alina_Medverova 法轮功2025之后是十三亿人包括党高层修炼的气功，而不是邪教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990385818045952182",
+        "created_at": "2025-11-18T02:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990602403217870903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515859446492061696",
+              "start": 0,
+              "username": "xb2002b"
+            },
+            {
+              "end": 25,
+              "id": "1620367275273633792",
+              "start": 9,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990602403217870903",
+        "in_reply_to_user_id": "1515859446492061696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990441137845514550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xb2002b @Alina_Medverova 法轮功2025之后是十三亿人包括党高层修炼的气功，而不是邪教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515859446492061696",
+        "conversation_id": "1990385818045952182",
+        "created_at": "2025-11-17T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990441137845514550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990441137845514550",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990385818045952182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 为什么这种招式的中文要和臭名昭著的邪教同名 搞不懂🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1299,
+          "like_count": 7772,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4994
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T01:07:24.000Z",
+        "description": "Amateur translator. Chinese and English are accepted.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xb2002b",
+                "end": 23,
+                "expanded_url": "http://github.com/xb2002b",
+                "start": 0,
+                "url": "https://t.co/UqLMrfOvOb"
+              }
+            ]
+          }
+        },
+        "id": "1515859446492061696",
+        "location": "雾之湖",
+        "name": "xb2002b",
+        "pinned_tweet_id": "1957814333725110738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862515176429219840/D4ZJXH3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 103,
+          "like_count": 51060,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/UqLMrfOvOb",
+        "username": "xb2002b",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Здравствуйте, меня зовут Kiperina",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1569,
+          "like_count": 80190,
+          "listed_count": 7,
+          "media_count": 1073,
+          "tweet_count": 17334
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

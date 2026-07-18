@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1967263917102731365",
+    "created_at": "2025-09-23T11:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T12:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970453054152405366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1953776867036868613",
+          "start": 0,
+          "username": "tttmshong"
+        },
+        {
+          "end": 22,
+          "id": "1430976467131842564",
+          "start": 11,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970453054152405366",
+    "in_reply_to_user_id": "1953776867036868613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969473594125402216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttmshong @_muguopick 不，你随便攻击别人才是那个精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1967263917102731365",
+        "created_at": "2025-09-23T11:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970453054152405366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953776867036868613",
+              "start": 0,
+              "username": "tttmshong"
+            },
+            {
+              "end": 22,
+              "id": "1430976467131842564",
+              "start": 11,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970453054152405366",
+        "in_reply_to_user_id": "1953776867036868613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969473594125402216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttmshong @_muguopick 不，你随便攻击别人才是那个精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953776867036868613",
+        "conversation_id": "1967263917102731365",
+        "created_at": "2025-09-20T18:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969473594125402216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969473594125402216",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967263917102731365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 我他妈感觉你有点精神病啊我感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 1213,
+          "like_count": 7081,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4656
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T11:14:50.000Z",
+        "description": "最好的好人比最坏的坏人要坏 最坏的坏人可能是好人",
+        "id": "1953776867036868613",
+        "name": "巧克力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969482294038839298/DXO7Td7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 162
+        },
+        "username": "tttmshong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "跨🏳️‍⚧️ 非二元//vocaloidp 乐手 地下摇滚老鼠人 写歌编曲弹琴 排练室主理人 INTP-T//负能较多请谨慎关注⚠️⚠️//抑郁康复期//时间线有血图/磕药内容⚠️//音乐工作室接单中 需要乐队排练请私信//作品账号在@Rubusjam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "Rubusjam"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "Beijing",
+        "name": "Ringoo Kino🐭",
+        "pinned_tweet_id": "1967263917102731365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 346,
+          "like_count": 2078,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 2335
+        },
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

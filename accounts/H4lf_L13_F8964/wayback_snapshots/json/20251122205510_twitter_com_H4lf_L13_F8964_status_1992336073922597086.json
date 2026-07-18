@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992054446982103040"
+      ],
+      "media_source_tweet_id": [
+        "1992054449788101098"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1992336073922597086",
+    "created_at": "2025-11-22T20:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992336073922597086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816053084164087813",
+          "start": 3,
+          "username": "HYumerin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLgUn4yPJP",
+          "end": 39,
+          "expanded_url": "https://x.com/HYumerin/status/1992054449788101098/photo/1",
+          "media_key": "3_1992054446982103040",
+          "start": 16,
+          "url": "https://t.co/dLgUn4yPJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992336073922597086",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992054449788101098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYumerin: 🥲 https://t.co/dLgUn4yPJP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992054446982103040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Uy9xWbAAAjBqF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992054446982103040"
+          ],
+          "media_source_tweet_id": [
+            "1992054449788101098"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1992336073922597086",
+        "created_at": "2025-11-22T20:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992336073922597086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816053084164087813",
+              "start": 3,
+              "username": "HYumerin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLgUn4yPJP",
+              "end": 39,
+              "expanded_url": "https://x.com/HYumerin/status/1992054449788101098/photo/1",
+              "media_key": "3_1992054446982103040",
+              "start": 16,
+              "url": "https://t.co/dLgUn4yPJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992336073922597086",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992054449788101098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYumerin: 🥲 https://t.co/dLgUn4yPJP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992054446982103040"
+          ]
+        },
+        "author_id": "1816053084164087813",
+        "conversation_id": "1992054449788101098",
+        "created_at": "2025-11-22T02:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992054449788101098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLgUn4yPJP",
+              "end": 25,
+              "expanded_url": "https://x.com/HYumerin/status/1992054449788101098/photo/1",
+              "media_key": "3_1992054446982103040",
+              "start": 2,
+              "url": "https://t.co/dLgUn4yPJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992054449788101098",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 100716,
+          "like_count": 419,
+          "quote_count": 3,
+          "reply_count": 61,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🥲 https://t.co/dLgUn4yPJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1304,
+          "like_count": 7863,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 5022
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T10:09:37.000Z",
+        "description": "谢谢关注我喵！必回关喵！！!/发私信会回的喔/把推当扣扣空间发/今年五月辍学在家等死/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hybridhyrein/",
+                "end": 23,
+                "expanded_url": "https://t.me/hybridhyrein/",
+                "start": 0,
+                "url": "https://t.co/nJwJ1lowNR"
+              }
+            ]
+          }
+        },
+        "id": "1816053084164087813",
+        "location": "China",
+        "name": "Yume",
+        "pinned_tweet_id": "1988851168093552930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987449194718842880/5v-TTNHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 95,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/nJwJ1lowNR",
+        "username": "HYumerin",
+        "verified": false
+      }
+    ]
+  }
+}

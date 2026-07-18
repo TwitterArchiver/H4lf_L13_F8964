@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1989268531301736678",
+    "created_at": "2025-11-14T21:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989445381529506168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681842432269512707",
+          "start": 0,
+          "username": "TarsMark2"
+        },
+        {
+          "end": 25,
+          "id": "1828293631884828672",
+          "start": 11,
+          "username": "sugarsparks42"
+        },
+        {
+          "end": 42,
+          "id": "1686751456228179968",
+          "start": 26,
+          "username": "purechen7214741"
+        },
+        {
+          "end": 55,
+          "id": "1622888925940310018",
+          "start": 43,
+          "username": "biglazycats"
+        },
+        {
+          "end": 72,
+          "id": "1688439420",
+          "start": 56,
+          "username": "BlackMarieChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989445381529506168",
+    "in_reply_to_user_id": "1681842432269512707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989268531301736678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TarsMark2 @sugarsparks42 @purechen7214741 @biglazycats @BlackMarieChina 🥺羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8560,
+        "height": 720,
+        "media_key": "7_1989268485772587008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989268485772587008/pu/img/ykWxx5oI2vcDri04.jpg",
+        "public_metrics": {
+          "view_count": 2712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989268485772587008/pu/vid/avc1/360x270/zXIiW07-CUPiW65r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989268485772587008/pu/vid/avc1/480x360/_WPJfkBEzjB_xsrr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989268485772587008/pu/vid/avc1/960x720/wyqbL8jHh2f-2Ufk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989268485772587008/pu/pl/uKUwskHi7OP9chBO.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1989268531301736678",
+        "created_at": "2025-11-14T21:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989445381529506168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681842432269512707",
+              "start": 0,
+              "username": "TarsMark2"
+            },
+            {
+              "end": 25,
+              "id": "1828293631884828672",
+              "start": 11,
+              "username": "sugarsparks42"
+            },
+            {
+              "end": 42,
+              "id": "1686751456228179968",
+              "start": 26,
+              "username": "purechen7214741"
+            },
+            {
+              "end": 55,
+              "id": "1622888925940310018",
+              "start": 43,
+              "username": "biglazycats"
+            },
+            {
+              "end": 72,
+              "id": "1688439420",
+              "start": 56,
+              "username": "BlackMarieChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989445381529506168",
+        "in_reply_to_user_id": "1681842432269512707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989268531301736678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TarsMark2 @sugarsparks42 @purechen7214741 @biglazycats @BlackMarieChina 🥺羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989268485772587008"
+          ]
+        },
+        "author_id": "1681842432269512707",
+        "conversation_id": "1989268531301736678",
+        "created_at": "2025-11-14T09:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989268531301736678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "ヒトイヌ"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "petplay"
+            },
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "humanpet"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "k9"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "人形犬"
+            },
+            {
+              "end": 110,
+              "start": 100,
+              "tag": "bitchsuit"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "小狗日记"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 132,
+              "id": "1828293631884828672",
+              "start": 118,
+              "username": "sugarsparks42"
+            },
+            {
+              "end": 151,
+              "id": "1686751456228179968",
+              "start": 135,
+              "username": "purechen7214741"
+            },
+            {
+              "end": 166,
+              "id": "1622888925940310018",
+              "start": 154,
+              "username": "biglazycats"
+            },
+            {
+              "end": 179,
+              "id": "1681842432269512707",
+              "start": 169,
+              "username": "TarsMark2"
+            },
+            {
+              "end": 205,
+              "id": "1688439420",
+              "start": 189,
+              "username": "BlackMarieChina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lk1nzQFaj2",
+              "end": 229,
+              "expanded_url": "https://x.com/TarsMark2/status/1989268531301736678/video/1",
+              "media_key": "7_1989268485772587008",
+              "start": 206,
+              "url": "https://t.co/Lk1nzQFaj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989268531301736678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 7515,
+          "like_count": 362,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "祁祁小狗争宠失败了还是胜利了\nFailed or succeeded in battle for mastress' favor\n\n#ヒトイヌ #petplay #humanpet #k9 #人形犬 #bitchsuit #小狗日记\n→@sugarsparks42\n← @purechen7214741\n👠 @biglazycats\n📷 @TarsMark2 \nK9 suit @BlackMarieChina https://t.co/Lk1nzQFaj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1283,
+          "like_count": 7659,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4957
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:44:28.000Z",
+        "description": "本账号 NSFW | 主营：露出、犬化、物化 | 会一点绳子、摄影 | 欢迎找我拍瑟图 | 表号 @brandon_shia | 刺猬老婆 @HzShibari86  宠物小狗 @kurikawayuyu | 课程表请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "brandon_shia"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "kurikawayuyu"
+              }
+            ]
+          }
+        },
+        "id": "1681842432269512707",
+        "location": "距您100m以内",
+        "name": "梓楚 Branka",
+        "pinned_tweet_id": "1978023923963810267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971465515437797376/Dq-rxCs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24524,
+          "following_count": 1636,
+          "like_count": 113133,
+          "listed_count": 99,
+          "media_count": 323,
+          "tweet_count": 7112
+        },
+        "username": "TarsMark2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T04:50:38.000Z",
+        "description": "🚪49 上海 可飞",
+        "id": "1828293631884828672",
+        "name": "蛋挞烤盘",
+        "pinned_tweet_id": "1941850571788656940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879191486190981120/dvWL3YRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 541,
+          "like_count": 1565,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 486
+        },
+        "username": "sugarsparks42",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-02T14:51:13.000Z",
+        "description": "主包真是清水\n江苏男娘4i，m，本科在读\n找绳搭子\n置顶投喂可以解锁定制视频权限往期亮点和出镜机会嗷😋\n出原味（？）和里视频，接露出/捆绑/剧情定制，请私信或在视频下留言\n有聊天小群\n小店https://t.co/qzaCnQ2UXa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.S4ebS6r2MqcT…",
+                "end": 117,
+                "expanded_url": "https://m.tb.cn/h.S4ebS6r2MqcTwuQ",
+                "start": 94,
+                "url": "https://t.co/qzaCnQ2UXa"
+              }
+            ]
+          }
+        },
+        "id": "1686751456228179968",
+        "location": "科普卢星区",
+        "name": "qi",
+        "pinned_tweet_id": "1975541618536010182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932366276128894976/gujO8Huh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19470,
+          "following_count": 1393,
+          "like_count": 4385,
+          "listed_count": 99,
+          "media_count": 154,
+          "tweet_count": 1377
+        },
+        "username": "purechen7214741",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T09:24:14.000Z",
+        "description": "19 岁坐标合肥/约线下请先过🚪30r用于过滤白嫖党，181/62，可🛫，白嫖党勿扰/药娘/m/中性偏女可接定制 xp捆绑/绳艺/中出/强制/调教 表号@yumo10086   Q1772130342带价私（每个月删一次死人），看心情回，平时住校，推不常登 。商务合作请加微信sx0204986",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "yumo10086"
+              }
+            ]
+          }
+        },
+        "id": "1622888925940310018",
+        "location": "Anhui",
+        "name": "yumo",
+        "pinned_tweet_id": "1983428740995743753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971247668845285380/9TC29Jba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 24,
+          "like_count": 70,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 117
+        },
+        "username": "biglazycats",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:37:07.000Z",
+        "description": "A bondage toy shop located in Shanghai. PayPal is now available for wherever SF EXPRESS can reach. 上海sm道具小店，卖自己设计的sm道具。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackmarie.taobao.com",
+                "end": 23,
+                "expanded_url": "http://blackmarie.taobao.com",
+                "start": 0,
+                "url": "https://t.co/PGISUByddI"
+              }
+            ]
+          }
+        },
+        "id": "1688439420",
+        "location": "Shanghai",
+        "name": "BlackMarie",
+        "pinned_tweet_id": "1987211576294993974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104062944038522880/7WiwpANC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71738,
+          "following_count": 1149,
+          "like_count": 7900,
+          "listed_count": 266,
+          "media_count": 515,
+          "tweet_count": 5097
+        },
+        "url": "https://t.co/PGISUByddI",
+        "username": "BlackMarieChina",
+        "verified": false
+      }
+    ]
+  }
+}

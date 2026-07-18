@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2016971466256851219",
+    "created_at": "2026-01-29T20:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T21:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016971466256851219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016971466256851219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016526638251716883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 想多了，最多是让顺人觉得本来理所应当被社会排斥的跨里“也有个别”因为“付出努力”才有资格获得“正常人”恩赐般地接纳或者宽容。大部分表演进步的体面行业的“友跨”拆开了揉碎了都是这么点事——“虽然你是个变态但我们是体面人不介入你变态的私生活”“你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2016971466256851219",
+        "created_at": "2026-01-29T20:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T21:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016971466256851219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016971466256851219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016526638251716883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 想多了，最多是让顺人觉得本来理所应当被社会排斥的跨里“也有个别”因为“付出努力”才有资格获得“正常人”恩赐般地接纳或者宽容。大部分表演进步的体面行业的“友跨”拆开了揉碎了都是这么点事——“虽然你是个变态但我们是体面人不介入你变态的私生活”“你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2016526638251716883",
+        "created_at": "2026-01-28T14:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016526638251716883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laplacemaow/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/laplacemaow/status/2016441742158086381",
+              "start": 136,
+              "url": "https://t.co/8SpUpsbzeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016526638251716883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6687,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016441742158086381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想多了，最多是让顺人觉得本来理所应当被社会排斥的跨里“也有个别”因为“付出努力”才有资格获得“正常人”恩赐般地接纳或者宽容。大部分表演进步的体面行业的“友跨”拆开了揉碎了都是这么点事——“虽然你是个变态但我们是体面人不介入你变态的私生活”“你的优秀抵销掉了你变态的部分” https://t.co/8SpUpsbzeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1339,
+          "like_count": 8361,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 5264
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 94,
+          "like_count": 5496,
+          "listed_count": 7,
+          "media_count": 816,
+          "tweet_count": 6244
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

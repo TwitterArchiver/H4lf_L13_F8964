@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943482535679307777"
+      ],
+      "media_source_tweet_id": [
+        "1943482543145369621"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943578203349479909",
+    "created_at": "2025-07-11T07:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T08:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943578203349479909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1450966185877458947",
+          "start": 3,
+          "username": "LuAmyupup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hkOuXvaETE",
+          "end": 53,
+          "expanded_url": "https://x.com/LuAmyupup/status/1943482543145369621/photo/1",
+          "media_key": "3_1943482535679307777",
+          "start": 30,
+          "url": "https://t.co/hkOuXvaETE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943578203349479909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943482543145369621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuAmyupup: 这豆包妥妥的就是党的豆包啊😅 https://t.co/hkOuXvaETE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1943482535679307777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvijEbZXMAEa6nO.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943482535679307777"
+          ],
+          "media_source_tweet_id": [
+            "1943482543145369621"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943578203349479909",
+        "created_at": "2025-07-11T07:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943578203349479909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1450966185877458947",
+              "start": 3,
+              "username": "LuAmyupup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkOuXvaETE",
+              "end": 53,
+              "expanded_url": "https://x.com/LuAmyupup/status/1943482543145369621/photo/1",
+              "media_key": "3_1943482535679307777",
+              "start": 30,
+              "url": "https://t.co/hkOuXvaETE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943578203349479909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943482543145369621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuAmyupup: 这豆包妥妥的就是党的豆包啊😅 https://t.co/hkOuXvaETE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943482535679307777"
+          ]
+        },
+        "author_id": "1450966185877458947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943482543145369621",
+        "created_at": "2025-07-11T01:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943482543145369621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkOuXvaETE",
+              "end": 38,
+              "expanded_url": "https://x.com/LuAmyupup/status/1943482543145369621/photo/1",
+              "media_key": "3_1943482535679307777",
+              "start": 15,
+              "url": "https://t.co/hkOuXvaETE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943482543145369621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 200683,
+          "like_count": 1214,
+          "quote_count": 10,
+          "reply_count": 107,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "这豆包妥妥的就是党的豆包啊😅 https://t.co/hkOuXvaETE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1113,
+          "like_count": 6281,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 4266
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T23:24:43.000Z",
+        "description": "无穷的远方，无数的人们，都和我有关。",
+        "id": "1450966185877458947",
+        "location": "Sydney, New South Wales",
+        "name": "Amy Lu",
+        "pinned_tweet_id": "1846758520391340420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456181910149885957/8BUdYCzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20376,
+          "following_count": 322,
+          "like_count": 23343,
+          "listed_count": 65,
+          "media_count": 2182,
+          "tweet_count": 9962
+        },
+        "username": "LuAmyupup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938117505731764651",
+    "created_at": "2025-06-26T17:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T18:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938294756377038988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1429826969194033160",
+          "start": 0,
+          "username": "zheshiwenzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938294756377038988",
+    "in_reply_to_user_id": "1429826969194033160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938117505731764651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheshiwenzi 堪比广州四大天坑之一 多益的老板生50个儿子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938117452040441857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWTjdXbEAEKZnJ.jpg",
+        "width": 1150
+      },
+      {
+        "height": 1374,
+        "media_key": "3_1938117452103356417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWTjdmbEAEVeMk.jpg",
+        "width": 964
+      },
+      {
+        "height": 1782,
+        "media_key": "3_1938117452036235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWTjdWa4AAn4OS.jpg",
+        "width": 942
+      },
+      {
+        "height": 1587,
+        "media_key": "3_1938117452036263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWTjdWbUAAH-t2.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938117505731764651",
+        "created_at": "2025-06-26T17:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T18:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938294756377038988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1429826969194033160",
+              "start": 0,
+              "username": "zheshiwenzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938294756377038988",
+        "in_reply_to_user_id": "1429826969194033160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938117505731764651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheshiwenzi 堪比广州四大天坑之一 多益的老板生50个儿子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938117452040441857",
+            "3_1938117452103356417",
+            "3_1938117452036235264",
+            "3_1938117452036263936"
+          ]
+        },
+        "author_id": "1429826969194033160",
+        "conversation_id": "1938117505731764651",
+        "created_at": "2025-06-26T06:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938117505731764651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chJeZJml2B",
+              "end": 53,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1938117505731764651/photo/1",
+              "media_key": "3_1938117452040441857",
+              "start": 30,
+              "url": "https://t.co/chJeZJml2B"
+            },
+            {
+              "display_url": "pic.x.com/chJeZJml2B",
+              "end": 53,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1938117505731764651/photo/1",
+              "media_key": "3_1938117452103356417",
+              "start": 30,
+              "url": "https://t.co/chJeZJml2B"
+            },
+            {
+              "display_url": "pic.x.com/chJeZJml2B",
+              "end": 53,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1938117505731764651/photo/1",
+              "media_key": "3_1938117452036235264",
+              "start": 30,
+              "url": "https://t.co/chJeZJml2B"
+            },
+            {
+              "display_url": "pic.x.com/chJeZJml2B",
+              "end": 53,
+              "expanded_url": "https://x.com/zheshiwenzi/status/1938117505731764651/photo/1",
+              "media_key": "3_1938117452036263936",
+              "start": 30,
+              "url": "https://t.co/chJeZJml2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938117505731764651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3084,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网传小米前副总冯德兵  包养200多个情人\n（评论区补图） https://t.co/chJeZJml2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1087,
+          "like_count": 6000,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4119
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:25:02.000Z",
+        "description": "接投稿｜人后🔞@yuguitun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yuguitun"
+              }
+            ]
+          }
+        },
+        "id": "1429826969194033160",
+        "name": "这是雯子",
+        "pinned_tweet_id": "1934653250625814544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743676273912926208/HkvURJEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15731,
+          "following_count": 20,
+          "like_count": 135,
+          "listed_count": 16,
+          "media_count": 1710,
+          "tweet_count": 11709
+        },
+        "username": "zheshiwenzi",
+        "verified": false
+      }
+    ]
+  }
+}

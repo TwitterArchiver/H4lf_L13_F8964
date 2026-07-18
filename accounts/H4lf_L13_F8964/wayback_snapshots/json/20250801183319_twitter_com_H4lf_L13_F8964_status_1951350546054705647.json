@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1951350546054705647",
+    "created_at": "2025-08-01T18:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T19:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951350546054705647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951350546054705647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951168893390901342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 煞笔国家买卖sns都算贩毒。\n\n你说sns算贩毒那贩毒对象不就越来越多了吧\n\n那你说一个买卖sns处方药的人发现自己稳定贩毒罪过后，会不会想「我都贩毒罪了那为什么不卖点真的毒品呢？」\n\n模糊處方藥和毒品的邊界算不算變相讓毒品變成生活的一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951350546054705647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951350546054705647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951350546054705647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1951168871127560192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPxwCRbsAAtu1d.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951168871127560192"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1951168893390901342",
+        "created_at": "2025-08-01T06:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951168893390901342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xU2PUSKcuv",
+              "end": 146,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1951168893390901342/photo/1",
+              "media_key": "3_1951168871127560192",
+              "start": 123,
+              "url": "https://t.co/xU2PUSKcuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951168893390901342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1244,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "煞笔国家买卖sns都算贩毒。\n\n你说sns算贩毒那贩毒对象不就越来越多了吧\n\n那你说一个买卖sns处方药的人发现自己稳定贩毒罪过后，会不会想「我都贩毒罪了那为什么不卖点真的毒品呢？」\n\n模糊處方藥和毒品的邊界算不算變相讓毒品變成生活的一部分呢？ https://t.co/xU2PUSKcuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1127,
+          "like_count": 6494,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 4342
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊洞烛の摩耶薛定谔态男娘🏳️‍⚧️｜🇨🇳🇬🇧&🇭🇰🇯🇵🇹🇼學習中｜墙外弱智吧管理&梗图bot｜líng ｜MtX｜hrt24.4.20｜持证ADHD&ASD｜179cm54kg｜08｜川渝｜Arcaea&maimaiでらっくす｜推荐雌二醇药商@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "minokakay"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "爱我的人的怀里",
+        "name": "「翎」かめりあ⛩️-RESURRECTION-",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7942,
+          "following_count": 1283,
+          "like_count": 41512,
+          "listed_count": 10,
+          "media_count": 2959,
+          "tweet_count": 23800
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944285232527814716",
+    "created_at": "2025-07-13T06:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T07:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944285232527814716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1093000591104569345",
+          "start": 3,
+          "username": "biliacat_public"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944285232527814716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933200084025684143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biliacat_public: “性别即生物学”这一谬论根植于“根深蒂固的制度实践，其效果是将社会情境转化为两性性别主义的表演场景”——戈夫曼《两性间的安排》\n读一读社科，用社会学知识的实践先验性，指导自己理想和追求的实现，真正“走出性别焦虑”。\n可以预见的是，我对社…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_1933200076064915456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQbOgWbgAAsSjJ.jpg",
+        "width": 1118
+      },
+      {
+        "height": 1797,
+        "media_key": "3_1933200076287213568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQbOhLbgAAi84L.jpg",
+        "width": 1106
+      },
+      {
+        "height": 1816,
+        "media_key": "3_1933200076211642368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQbOg5aYAArjsD.jpg",
+        "width": 1115
+      },
+      {
+        "height": 1150,
+        "media_key": "3_1933200076077424640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQbOgZaYAAQOc4.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1944285232527814716",
+        "created_at": "2025-07-13T06:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944285232527814716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1093000591104569345",
+              "start": 3,
+              "username": "biliacat_public"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944285232527814716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933200084025684143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biliacat_public: “性别即生物学”这一谬论根植于“根深蒂固的制度实践，其效果是将社会情境转化为两性性别主义的表演场景”——戈夫曼《两性间的安排》\n读一读社科，用社会学知识的实践先验性，指导自己理想和追求的实现，真正“走出性别焦虑”。\n可以预见的是，我对社…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933200076064915456",
+            "3_1933200076287213568",
+            "3_1933200076211642368",
+            "3_1933200076077424640"
+          ]
+        },
+        "author_id": "1093000591104569345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1933200084025684143",
+        "created_at": "2025-06-12T16:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933200084025684143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPFdjGF9Fg",
+              "end": 153,
+              "expanded_url": "https://x.com/biliacat_public/status/1933200084025684143/photo/1",
+              "media_key": "3_1933200076064915456",
+              "start": 130,
+              "url": "https://t.co/TPFdjGF9Fg"
+            },
+            {
+              "display_url": "pic.x.com/TPFdjGF9Fg",
+              "end": 153,
+              "expanded_url": "https://x.com/biliacat_public/status/1933200084025684143/photo/1",
+              "media_key": "3_1933200076287213568",
+              "start": 130,
+              "url": "https://t.co/TPFdjGF9Fg"
+            },
+            {
+              "display_url": "pic.x.com/TPFdjGF9Fg",
+              "end": 153,
+              "expanded_url": "https://x.com/biliacat_public/status/1933200084025684143/photo/1",
+              "media_key": "3_1933200076211642368",
+              "start": 130,
+              "url": "https://t.co/TPFdjGF9Fg"
+            },
+            {
+              "display_url": "pic.x.com/TPFdjGF9Fg",
+              "end": 153,
+              "expanded_url": "https://x.com/biliacat_public/status/1933200084025684143/photo/1",
+              "media_key": "3_1933200076077424640",
+              "start": 130,
+              "url": "https://t.co/TPFdjGF9Fg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933200084025684143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2828,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“性别即生物学”这一谬论根植于“根深蒂固的制度实践，其效果是将社会情境转化为两性性别主义的表演场景”——戈夫曼《两性间的安排》\n读一读社科，用社会学知识的实践先验性，指导自己理想和追求的实现，真正“走出性别焦虑”。\n可以预见的是，我对社会学永远“热泪盈眶”🥹 https://t.co/TPFdjGF9Fg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1117,
+          "like_count": 6319,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4284
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-06T04:17:02.000Z",
+        "description": "ASD/intersex/anarcha-feminist/@CyouSakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "CyouSakura"
+              }
+            ]
+          }
+        },
+        "id": "1093000591104569345",
+        "location": "東方蓬莱仙境",
+        "name": "Sociology Meow🚩🏴",
+        "pinned_tweet_id": "1922319556799766687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794230733130895360/hthmJ5Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11305,
+          "following_count": 4070,
+          "like_count": 39992,
+          "listed_count": 10,
+          "media_count": 4,
+          "tweet_count": 208
+        },
+        "username": "biliacat_public",
+        "verified": false
+      }
+    ]
+  }
+}

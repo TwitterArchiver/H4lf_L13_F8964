@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1970128580870058287",
+    "created_at": "2025-10-15T07:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978358184243810305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "182875067",
+          "start": 0,
+          "username": "kurage4410"
+        },
+        {
+          "end": 24,
+          "id": "1413058015",
+          "start": 12,
+          "username": "shinryu0912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978358184243810305",
+    "in_reply_to_user_id": "182875067",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970128580870058287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurage4410 @shinryu0912 MOM！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970128578127024128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dNgO0bUAAZCgL.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1970128580870058287",
+        "created_at": "2025-10-15T07:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978358184243810305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "182875067",
+              "start": 0,
+              "username": "kurage4410"
+            },
+            {
+              "end": 24,
+              "id": "1413058015",
+              "start": 12,
+              "username": "shinryu0912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978358184243810305",
+        "in_reply_to_user_id": "182875067",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970128580870058287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage4410 @shinryu0912 MOM！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970128578127024128"
+          ]
+        },
+        "author_id": "182875067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1970128580870058287",
+        "created_at": "2025-09-22T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970128580870058287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Shinさん",
+              "probability": 0.437,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "本日のバニーガール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1413058015",
+              "start": 34,
+              "username": "shinryu0912"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTBqJ7zz0X",
+              "end": 82,
+              "expanded_url": "https://x.com/kurage4410/status/1970128580870058287/photo/1",
+              "media_key": "3_1970128578127024128",
+              "start": 59,
+              "url": "https://t.co/OTBqJ7zz0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970128580870058287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 828,
+          "impression_count": 71416,
+          "like_count": 4208,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "CYBERPUNK BUNNYGIRL【4K】\n撮影 Shinさん @shinryu0912\n\n#本日のバニーガール https://t.co/OTBqJ7zz0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1247,
+          "like_count": 7365,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 4801
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-25T16:20:55.000Z",
+        "description": "ご飯とコスプレ写真多めです。FSS、ワートリ、刀剣乱舞、キルラキル、FGO、昔のRPG。AI学習禁止。バニーガール好き #CLUB_JELLYFISH #本日のバニーガール",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 60,
+                "tag": "CLUB_JELLYFISH"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "tag": "本日のバニーガール"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp.cosp.jp/prof.aspx?id=1…",
+                "end": 23,
+                "expanded_url": "http://sp.cosp.jp/prof.aspx?id=104149",
+                "start": 0,
+                "url": "https://t.co/YMPXl7KXh7"
+              }
+            ]
+          }
+        },
+        "id": "182875067",
+        "location": "シュテルンビルト司法局内食堂より",
+        "name": "くらげ 10/26(日)池ハロ",
+        "pinned_tweet_id": "1974165904578785325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377605487357665282/cocOVL-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28569,
+          "following_count": 2460,
+          "like_count": 156836,
+          "listed_count": 319,
+          "media_count": 9731,
+          "tweet_count": 142181
+        },
+        "url": "https://t.co/YMPXl7KXh7",
+        "username": "kurage4410",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-08T14:50:19.000Z",
+        "description": "（千葉在住）カメラ(D810、D700)：撮影(土日祝日に主に活動)：（ポトレ/コスプレ/創作等）今プレイ中ゲーム:（FGO、原神、アークナイツ）トレカ：DQTCG（第３回バトルフェスティバル inスクエニ優勝)\nDQR:2021勇者杯春オンライン3次予選21位",
+        "id": "1413058015",
+        "name": "Shin",
+        "pinned_tweet_id": "838391956124282881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3637670955/ec78f82efa3b65b7095291a0051c959e_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 2354,
+          "like_count": 46775,
+          "listed_count": 30,
+          "media_count": 947,
+          "tweet_count": 20543
+        },
+        "username": "shinryu0912",
+        "verified": false
+      }
+    ]
+  }
+}

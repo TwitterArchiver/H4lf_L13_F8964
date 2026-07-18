@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1946668409418391882",
+    "created_at": "2025-07-19T23:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T00:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946717352479076585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429365180618706945",
+          "start": 0,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946717352479076585",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946668409418391882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simone_Luxem 别……别走……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946668389616791552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwP0liKXMAAox_7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1946668409418391882",
+        "created_at": "2025-07-19T23:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T00:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946717352479076585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946717352479076585",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946668409418391882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 别……别走……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946668389616791552"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1946668409418391882",
+        "created_at": "2025-07-19T20:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T21:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946668409418391882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJHS3yOggd",
+              "end": 23,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1946668409418391882/photo/1",
+              "media_key": "3_1946668389616791552",
+              "start": 0,
+              "url": "https://t.co/QJHS3yOggd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946668409418391882",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 483,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QJHS3yOggd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1116,
+          "like_count": 6421,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 4319
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 219,
+          "like_count": 21499,
+          "listed_count": 13,
+          "media_count": 1636,
+          "tweet_count": 19970
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

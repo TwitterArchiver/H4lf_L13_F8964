@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989585329557209088",
+        "3_1989585329490210816"
+      ],
+      "media_source_tweet_id": [
+        "1989585332891791595",
+        "1989585332891791595"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1990081350557208669",
+    "created_at": "2025-11-16T15:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990081350557208669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "xhslink.com/o/8TAvyoIFbA7",
+          "end": 111,
+          "expanded_url": "http://xhslink.com/o/8TAvyoIFbA7",
+          "start": 88,
+          "unwound_url": "https://www.xiaohongshu.com/discovery/item/6917c66b0000000005002d1e?app_platform=ios&app_version=9.8&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBkV2E4OmAPDL0tK9gIhyGQreAe7v5IyJOPzIgsCzmIx4=&author_share=1&xhsshare=CopyLink&shareRedId=ODc3QjZIOjo2NzUyOTgwNjY1OTg9PjtO&apptime=1763189068&share_id=68ffa32d52fa452b804ec8590711ada6",
+          "url": "https://t.co/whNnshY3iE"
+        },
+        {
+          "display_url": "pic.x.com/rqFn23jtKY",
+          "end": 135,
+          "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+          "media_key": "3_1989585329557209088",
+          "start": 112,
+          "url": "https://t.co/rqFn23jtKY"
+        },
+        {
+          "display_url": "pic.x.com/rqFn23jtKY",
+          "end": 135,
+          "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+          "media_key": "3_1989585329490210816",
+          "start": 112,
+          "url": "https://t.co/rqFn23jtKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990081350557208669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989585332891791595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 根据新国标《GB/T45574-2025 敏感个人信息处理安全要求》，身份证号码将不再视为敏感个人信息，标准将于2025-11-01生效。\nhttps://t.co/whNnshY3iE https://t.co/rqFn23jtKY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_1989585329557209088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xtUOKWAAA2vwx.jpg",
+        "width": 928
+      },
+      {
+        "height": 1292,
+        "media_key": "3_1989585329490210816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xtUN6XsAAuRHk.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989585329557209088",
+            "3_1989585329490210816"
+          ],
+          "media_source_tweet_id": [
+            "1989585332891791595",
+            "1989585332891791595"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1990081350557208669",
+        "created_at": "2025-11-16T15:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990081350557208669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/8TAvyoIFbA7",
+              "end": 111,
+              "expanded_url": "http://xhslink.com/o/8TAvyoIFbA7",
+              "start": 88,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6917c66b0000000005002d1e?app_platform=ios&app_version=9.8&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBkV2E4OmAPDL0tK9gIhyGQreAe7v5IyJOPzIgsCzmIx4=&author_share=1&xhsshare=CopyLink&shareRedId=ODc3QjZIOjo2NzUyOTgwNjY1OTg9PjtO&apptime=1763189068&share_id=68ffa32d52fa452b804ec8590711ada6",
+              "url": "https://t.co/whNnshY3iE"
+            },
+            {
+              "display_url": "pic.x.com/rqFn23jtKY",
+              "end": 135,
+              "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+              "media_key": "3_1989585329557209088",
+              "start": 112,
+              "url": "https://t.co/rqFn23jtKY"
+            },
+            {
+              "display_url": "pic.x.com/rqFn23jtKY",
+              "end": 135,
+              "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+              "media_key": "3_1989585329490210816",
+              "start": 112,
+              "url": "https://t.co/rqFn23jtKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990081350557208669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989585332891791595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 根据新国标《GB/T45574-2025 敏感个人信息处理安全要求》，身份证号码将不再视为敏感个人信息，标准将于2025-11-01生效。\nhttps://t.co/whNnshY3iE https://t.co/rqFn23jtKY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989585329557209088",
+            "3_1989585329490210816"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1989585332891791595",
+        "created_at": "2025-11-15T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989585332891791595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/8TAvyoIFbA7",
+              "end": 93,
+              "expanded_url": "http://xhslink.com/o/8TAvyoIFbA7",
+              "start": 70,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6917c66b0000000005002d1e?app_platform=ios&app_version=9.8&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBkV2E4OmAPDL0tK9gIhyGQreAe7v5IyJOPzIgsCzmIx4=&author_share=1&xhsshare=CopyLink&shareRedId=ODc3QjZIOjo2NzUyOTgwNjY1OTg9PjtO&apptime=1763189068&share_id=68ffa32d52fa452b804ec8590711ada6",
+              "url": "https://t.co/whNnshY3iE"
+            },
+            {
+              "display_url": "pic.x.com/rqFn23jtKY",
+              "end": 117,
+              "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+              "media_key": "3_1989585329557209088",
+              "start": 94,
+              "url": "https://t.co/rqFn23jtKY"
+            },
+            {
+              "display_url": "pic.x.com/rqFn23jtKY",
+              "end": 117,
+              "expanded_url": "https://x.com/amber_toffee/status/1989585332891791595/photo/1",
+              "media_key": "3_1989585329490210816",
+              "start": 94,
+              "url": "https://t.co/rqFn23jtKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989585332891791595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 325489,
+          "like_count": 826,
+          "quote_count": 14,
+          "reply_count": 50,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "根据新国标《GB/T45574-2025 敏感个人信息处理安全要求》，身份证号码将不再视为敏感个人信息，标准将于2025-11-01生效。\nhttps://t.co/whNnshY3iE https://t.co/rqFn23jtKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1285,
+          "like_count": 7689,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 4969
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19188,
+          "following_count": 2403,
+          "like_count": 34416,
+          "listed_count": 59,
+          "media_count": 813,
+          "tweet_count": 17690
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

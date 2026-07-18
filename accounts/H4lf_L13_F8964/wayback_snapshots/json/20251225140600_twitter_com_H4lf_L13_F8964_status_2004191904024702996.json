@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997334640907223040",
+        "3_1997334641293053952",
+        "3_1997334641091772417"
+      ],
+      "media_source_tweet_id": [
+        "1997334644698784066",
+        "1997334644698784066",
+        "1997334644698784066"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2004191904024702996",
+    "created_at": "2025-12-25T14:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004191904024702996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163098132713893888",
+          "start": 3,
+          "username": "ziyao2511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNUH5wD94D",
+          "end": 140,
+          "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+          "media_key": "3_1997334640907223040",
+          "start": 117,
+          "url": "https://t.co/LNUH5wD94D"
+        },
+        {
+          "display_url": "pic.x.com/LNUH5wD94D",
+          "end": 140,
+          "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+          "media_key": "3_1997334641293053952",
+          "start": 117,
+          "url": "https://t.co/LNUH5wD94D"
+        },
+        {
+          "display_url": "pic.x.com/LNUH5wD94D",
+          "end": 140,
+          "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+          "media_key": "3_1997334641091772417",
+          "start": 117,
+          "url": "https://t.co/LNUH5wD94D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004191904024702996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997334644698784066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ziyao2511: 医疗人类学和自主权。我为什么想做这个，以及我要做什么。这是第一小节，所以我还没开始收敛我后面写的东西，也许以后会在写。我也注意到了我自己的定义，有将自主性和专业医学对立的风险，因此我之后会再补充定义的。 https://t.co/LNUH5wD94D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997334640907223040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f1RgjbgAAXxRA.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997334641293053952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f1Rh_a0AAac_Z.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997334641091772417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f1RhPbgAE0Hdl.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997334640907223040",
+            "3_1997334641293053952",
+            "3_1997334641091772417"
+          ],
+          "media_source_tweet_id": [
+            "1997334644698784066",
+            "1997334644698784066",
+            "1997334644698784066"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2004191904024702996",
+        "created_at": "2025-12-25T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004191904024702996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163098132713893888",
+              "start": 3,
+              "username": "ziyao2511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 140,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334640907223040",
+              "start": 117,
+              "url": "https://t.co/LNUH5wD94D"
+            },
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 140,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334641293053952",
+              "start": 117,
+              "url": "https://t.co/LNUH5wD94D"
+            },
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 140,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334641091772417",
+              "start": 117,
+              "url": "https://t.co/LNUH5wD94D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004191904024702996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997334644698784066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ziyao2511: 医疗人类学和自主权。我为什么想做这个，以及我要做什么。这是第一小节，所以我还没开始收敛我后面写的东西，也许以后会在写。我也注意到了我自己的定义，有将自主性和专业医学对立的风险，因此我之后会再补充定义的。 https://t.co/LNUH5wD94D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997334640907223040",
+            "3_1997334641293053952",
+            "3_1997334641091772417"
+          ]
+        },
+        "author_id": "1163098132713893888",
+        "conversation_id": "1997334644698784066",
+        "created_at": "2025-12-06T15:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997334644698784066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 125,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334640907223040",
+              "start": 102,
+              "url": "https://t.co/LNUH5wD94D"
+            },
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 125,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334641293053952",
+              "start": 102,
+              "url": "https://t.co/LNUH5wD94D"
+            },
+            {
+              "display_url": "pic.x.com/LNUH5wD94D",
+              "end": 125,
+              "expanded_url": "https://x.com/ziyao2511/status/1997334644698784066/photo/1",
+              "media_key": "3_1997334641091772417",
+              "start": 102,
+              "url": "https://t.co/LNUH5wD94D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997334644698784066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医疗人类学和自主权。我为什么想做这个，以及我要做什么。这是第一小节，所以我还没开始收敛我后面写的东西，也许以后会在写。我也注意到了我自己的定义，有将自主性和专业医学对立的风险，因此我之后会再补充定义的。 https://t.co/LNUH5wD94D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1315,
+          "like_count": 8129,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 5136
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T14:39:59.000Z",
+        "description": "直接行动/生活推@2511ziyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "2511ziyao"
+              }
+            ]
+          }
+        },
+        "id": "1163098132713893888",
+        "name": "Thus Spoke Ziyao：",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914696944607485953/iyOBC9-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 206,
+          "like_count": 4083,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 1325
+        },
+        "username": "ziyao2511",
+        "verified": false
+      }
+    ]
+  }
+}

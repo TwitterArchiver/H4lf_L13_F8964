@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2007999415320219753",
+    "created_at": "2026-01-05T02:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007999415320219753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597945043251187712",
+          "start": 3,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007999415320219753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007010335648280675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorsacerba: 我们不说跳楼，我们说跌的粉碎了\n我们不说辍学，我们说在绿林大学学了点东西\n我们不说禁言，我们说我们超过秦始皇一百倍\n我们不说生病，我们说我很难受，叫医生来\n我们不说洗澡，我们说在**里清洗自身\n我们不说勇敢，我们说我才不怕打\n我们不说流氓，我们说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2007999415320219753",
+        "created_at": "2026-01-05T02:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007999415320219753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597945043251187712",
+              "start": 3,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007999415320219753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007010335648280675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorsacerba: 我们不说跳楼，我们说跌的粉碎了\n我们不说辍学，我们说在绿林大学学了点东西\n我们不说禁言，我们说我们超过秦始皇一百倍\n我们不说生病，我们说我很难受，叫医生来\n我们不说洗澡，我们说在**里清洗自身\n我们不说勇敢，我们说我才不怕打\n我们不说流氓，我们说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "2007010335648280675",
+        "created_at": "2026-01-02T08:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007010335648280675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007010335648280675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1769,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说跳楼，我们说跌的粉碎了\n我们不说辍学，我们说在绿林大学学了点东西\n我们不说禁言，我们说我们超过秦始皇一百倍\n我们不说生病，我们说我很难受，叫医生来\n我们不说洗澡，我们说在**里清洗自身\n我们不说勇敢，我们说我才不怕打\n我们不说流氓，我们说勇敢分子\n我们不说灭亡，我们说可以做肥料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1329,
+          "like_count": 8233,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 5190
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "顺治男\n\n恋人 @HacchiTheMaid",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "HacchiTheMaid"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "CN陈芋芋",
+        "pinned_tweet_id": "2007010335648280675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 715,
+          "like_count": 64746,
+          "listed_count": 5,
+          "media_count": 1441,
+          "tweet_count": 17584
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

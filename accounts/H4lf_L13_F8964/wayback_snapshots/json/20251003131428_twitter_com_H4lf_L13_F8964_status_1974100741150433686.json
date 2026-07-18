@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974056907209113600"
+      ],
+      "media_source_tweet_id": [
+        "1974056912565252555"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1974100741150433686",
+    "created_at": "2025-10-03T13:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T14:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974100741150433686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474030573228376077",
+          "start": 3,
+          "username": "Gewehr_G36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fXbopv540f",
+          "end": 54,
+          "expanded_url": "https://x.com/Gewehr_G36/status/1974056912565252555/photo/1",
+          "media_key": "3_1974056907209113600",
+          "start": 31,
+          "url": "https://t.co/fXbopv540f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974100741150433686",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974056912565252555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gewehr_G36: Administrator？ https://t.co/fXbopv540f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3456,
+        "media_key": "3_1974056907209113600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VCTFCbAAABIc9.jpg",
+        "width": 3456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974056907209113600"
+          ],
+          "media_source_tweet_id": [
+            "1974056912565252555"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1974100741150433686",
+        "created_at": "2025-10-03T13:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974100741150433686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1474030573228376077",
+              "start": 3,
+              "username": "Gewehr_G36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXbopv540f",
+              "end": 54,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1974056912565252555/photo/1",
+              "media_key": "3_1974056907209113600",
+              "start": 31,
+              "url": "https://t.co/fXbopv540f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974100741150433686",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974056912565252555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gewehr_G36: Administrator？ https://t.co/fXbopv540f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974056907209113600"
+          ]
+        },
+        "author_id": "1474030573228376077",
+        "conversation_id": "1974056912565252555",
+        "created_at": "2025-10-03T10:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974056912565252555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXbopv540f",
+              "end": 38,
+              "expanded_url": "https://x.com/Gewehr_G36/status/1974056912565252555/photo/1",
+              "media_key": "3_1974056907209113600",
+              "start": 15,
+              "url": "https://t.co/fXbopv540f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974056912565252555",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Administrator？ https://t.co/fXbopv540f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1230,
+          "like_count": 7198,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 4714
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:54:17.000Z",
+        "description": "性别男，江苏及周边地区随机刷新｜在校大学生，非药/无糖｜cos日推营业中｜接线上约拍寄拍委托，不接线下｜有点怕生，混熟的话会很好交流？｜\n主子：@RLappland 她超棒的大家多去看看她.jpg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "RLappland"
+              }
+            ]
+          }
+        },
+        "id": "1474030573228376077",
+        "location": "Super Earth",
+        "name": "ChauchatSpecter_邵鲨",
+        "pinned_tweet_id": "1954590280889622530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967169182304493568/u1YZaVRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7101,
+          "following_count": 325,
+          "like_count": 425,
+          "listed_count": 25,
+          "media_count": 429,
+          "tweet_count": 2369
+        },
+        "username": "Gewehr_G36",
+        "verified": false
+      }
+    ]
+  }
+}

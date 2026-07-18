@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935962453999075330"
+      ],
+      "media_source_tweet_id": [
+        "1936001089167581523"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1936342637625421939",
+    "created_at": "2025-06-21T08:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936342637625421939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1795767845726695424",
+          "start": 3,
+          "username": "emoechi_manma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/izi5AIlQaS",
+          "end": 59,
+          "expanded_url": "https://x.com/emoechi_manma/status/1936001089167581523/photo/1",
+          "media_key": "3_1935962453999075330",
+          "start": 36,
+          "url": "https://t.co/izi5AIlQaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936342637625421939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 630
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936001089167581523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoechi_manma: 4K読み込みで半紙が透けるにゃ🐾 https://t.co/izi5AIlQaS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1935962453999075330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3rmEEbwAIeXBi.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935962453999075330"
+          ],
+          "media_source_tweet_id": [
+            "1936001089167581523"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1936342637625421939",
+        "created_at": "2025-06-21T08:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936342637625421939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1795767845726695424",
+              "start": 3,
+              "username": "emoechi_manma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izi5AIlQaS",
+              "end": 59,
+              "expanded_url": "https://x.com/emoechi_manma/status/1936001089167581523/photo/1",
+              "media_key": "3_1935962453999075330",
+              "start": 36,
+              "url": "https://t.co/izi5AIlQaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936342637625421939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 630
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936001089167581523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoechi_manma: 4K読み込みで半紙が透けるにゃ🐾 https://t.co/izi5AIlQaS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935962453999075330"
+          ]
+        },
+        "author_id": "1795767845726695424",
+        "conversation_id": "1936001089167581523",
+        "created_at": "2025-06-20T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936001089167581523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izi5AIlQaS",
+              "end": 40,
+              "expanded_url": "https://x.com/emoechi_manma/status/1936001089167581523/photo/1",
+              "media_key": "3_1935962453999075330",
+              "start": 17,
+              "url": "https://t.co/izi5AIlQaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936001089167581523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10299,
+          "impression_count": 3024287,
+          "like_count": 27660,
+          "quote_count": 86,
+          "reply_count": 163,
+          "retweet_count": 630
+        },
+        "reply_settings": "everyone",
+        "text": "4K読み込みで半紙が透けるにゃ🐾 https://t.co/izi5AIlQaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1076,
+          "like_count": 5886,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4056
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T10:43:22.000Z",
+        "description": "えもえち所属 の222歳の猫又😻\n『AVtuber』✨✨\n【Xライブで飼い主募集中✨】\n過激なのはﾌｧﾝｸﾗﾌﾞに投稿してるよ🐾\n↑↑↑初めましての方への無料動画あるから見てね💛\nファンマーク は🐾🍚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1link.jp/manmaemoechi",
+                "end": 23,
+                "expanded_url": "https://1link.jp/manmaemoechi",
+                "start": 0,
+                "url": "https://t.co/eMp4pstLV4"
+              }
+            ]
+          }
+        },
+        "id": "1795767845726695424",
+        "location": "ﾌｧﾝﾃｨｱ・Rプレイ（ｼｺｼｺ動画）👉",
+        "name": "猫又まんま🐾🍚※飼い主募集中",
+        "pinned_tweet_id": "1936102467483349217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803368172587712512/MXdtTsvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72384,
+          "following_count": 28,
+          "like_count": 15762,
+          "listed_count": 172,
+          "media_count": 24,
+          "tweet_count": 15370
+        },
+        "url": "https://t.co/eMp4pstLV4",
+        "username": "emoechi_manma",
+        "verified": true
+      }
+    ]
+  }
+}

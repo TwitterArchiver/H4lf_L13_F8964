@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1951946185029402810",
+    "created_at": "2025-08-03T10:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T11:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951946185029402810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/big_ear_cat/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/big_ear_cat/status/1951811670176874994",
+          "start": 18,
+          "url": "https://t.co/Hm7FHGDYAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951946185029402810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951811670176874994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂了，这一定是一个友好互助的社会吧 https://t.co/Hm7FHGDYAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_1951811662480089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxY6XaqXIAAaG1e.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1951946185029402810",
+        "created_at": "2025-08-03T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951946185029402810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/big_ear_cat/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/big_ear_cat/status/1951811670176874994",
+              "start": 18,
+              "url": "https://t.co/Hm7FHGDYAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951946185029402810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951811670176874994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了，这一定是一个友好互助的社会吧 https://t.co/Hm7FHGDYAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951811662480089088"
+          ]
+        },
+        "author_id": "136015437",
+        "conversation_id": "1951811670176874994",
+        "created_at": "2025-08-03T01:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T02:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951811670176874994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65pDXs5OVK",
+              "end": 40,
+              "expanded_url": "https://x.com/big_ear_cat/status/1951811670176874994/photo/1",
+              "media_key": "3_1951811662480089088",
+              "start": 17,
+              "url": "https://t.co/65pDXs5OVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951811670176874994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 97855,
+          "like_count": 530,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "不用救也很快会忘了，太多记不过来 https://t.co/65pDXs5OVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1139,
+          "like_count": 6425,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 4355
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-22T20:19:24.000Z",
+        "description": "资深赵学研究家",
+        "id": "136015437",
+        "location": "America",
+        "name": "梁家河大耳朵亲自指挥猫妹掀锅盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216845888326336512/86Mos_AC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344880,
+          "following_count": 423,
+          "like_count": 14837,
+          "listed_count": 944,
+          "media_count": 13525,
+          "tweet_count": 25553
+        },
+        "username": "big_ear_cat",
+        "verified": false
+      }
+    ]
+  }
+}

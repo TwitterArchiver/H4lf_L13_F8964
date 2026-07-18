@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2032526150379897166",
+    "created_at": "2026-03-13T18:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032526150379897166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1079519718",
+          "start": 3,
+          "username": "Megabits_mzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032526150379897166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032366024658731424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Megabits_mzq: 你日有一型糖尿病的学生被其他学生往死了整，破坏其生命维持设备，偷药偷血糖计，该学生自杀。\n\n学校认为没有霸凌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2032526150379897166",
+        "created_at": "2026-03-13T18:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032526150379897166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1079519718",
+              "start": 3,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032526150379897166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032366024658731424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Megabits_mzq: 你日有一型糖尿病的学生被其他学生往死了整，破坏其生命维持设备，偷药偷血糖计，该学生自杀。\n\n学校认为没有霸凌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079519718",
+        "conversation_id": "2032366024658731424",
+        "created_at": "2026-03-13T07:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032366024658731424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EARL_med_tw/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/EARL_med_tw/status/2031920199285522543",
+              "start": 56,
+              "url": "https://t.co/oF6w730KZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032366024658731424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 48929,
+          "like_count": 510,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031920199285522543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你日有一型糖尿病的学生被其他学生往死了整，破坏其生命维持设备，偷药偷血糖计，该学生自杀。\n\n学校认为没有霸凌。 https://t.co/oF6w730KZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1428,
+          "like_count": 8719,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 5499
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想当个艺术家，但只会写代码 / 日子难过过日子难",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG653d"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits ❄️",
+        "pinned_tweet_id": "2030831959996617185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10229,
+          "following_count": 1424,
+          "like_count": 29395,
+          "listed_count": 114,
+          "media_count": 2279,
+          "tweet_count": 10948
+        },
+        "url": "https://t.co/Y0tbaG653d",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

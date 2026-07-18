@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1968904479689916736",
+    "created_at": "2025-09-19T05:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T06:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968904479689916736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1502921249433223172",
+          "start": 3,
+          "username": "renzaifeizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968904479689916736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968733960420065762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renzaifeizhou: 我认识的mtf在俄亥俄州，拿mp5去见条子，条子都不正眼看他，但是抱着有frt的.308spear去靶场，来一梭子，整个靶场没有一个人红脖子敢和他大声说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1968904479689916736",
+        "created_at": "2025-09-19T05:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968904479689916736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1502921249433223172",
+              "start": 3,
+              "username": "renzaifeizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968904479689916736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968733960420065762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renzaifeizhou: 我认识的mtf在俄亥俄州，拿mp5去见条子，条子都不正眼看他，但是抱着有frt的.308spear去靶场，来一梭子，整个靶场没有一个人红脖子敢和他大声说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502921249433223172",
+        "conversation_id": "1968733960420065762",
+        "created_at": "2025-09-18T17:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968733960420065762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lhu529514231/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/lhu529514231/status/1968607673563140598",
+              "start": 78,
+              "url": "https://t.co/rFpaVwVGUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968733960420065762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1493,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968607673563140598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认识的mtf在俄亥俄州，拿mp5去见条子，条子都不正眼看他，但是抱着有frt的.308spear去靶场，来一梭子，整个靶场没有一个人红脖子敢和他大声说话 https://t.co/rFpaVwVGUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1209,
+          "like_count": 7055,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 4644
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T08:15:33.000Z",
+        "description": "金色的太阳第一次高高升起，照耀着年轻的布尔什维克土地",
+        "id": "1502921249433223172",
+        "name": "高加索terek",
+        "pinned_tweet_id": "1850824475643912258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722653719379202048/bOe2uSwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 2512,
+          "like_count": 41962,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 6842
+        },
+        "username": "renzaifeizhou",
+        "verified": false
+      }
+    ]
+  }
+}

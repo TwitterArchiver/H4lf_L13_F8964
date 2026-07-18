@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935681126237888512",
+        "3_1935681126049484801",
+        "3_1935681126158184448"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1935681140314263961",
+    "created_at": "2025-06-19T12:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935681140314263961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDI0R1A7hB",
+          "end": 61,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+          "media_key": "3_1935681126237888512",
+          "start": 38,
+          "url": "https://t.co/PDI0R1A7hB"
+        },
+        {
+          "display_url": "pic.x.com/PDI0R1A7hB",
+          "end": 61,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+          "media_key": "3_1935681126049484801",
+          "start": 38,
+          "url": "https://t.co/PDI0R1A7hB"
+        },
+        {
+          "display_url": "pic.x.com/PDI0R1A7hB",
+          "end": 61,
+          "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+          "media_key": "3_1935681126158184448",
+          "start": 38,
+          "url": "https://t.co/PDI0R1A7hB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935681140314263961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能量产9分了，谁告诉我怎么满分\n\nI‘m Asian， not Bsian https://t.co/PDI0R1A7hB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_1935681126237888512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzruofWYAAzah0.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1880,
+        "media_key": "3_1935681126049484801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzrunybkAEvhvc.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1935681126158184448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzruoMWMAAhMw1.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935681126237888512",
+            "3_1935681126049484801",
+            "3_1935681126158184448"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1935681140314263961",
+        "created_at": "2025-06-19T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935681140314263961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDI0R1A7hB",
+              "end": 61,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+              "media_key": "3_1935681126237888512",
+              "start": 38,
+              "url": "https://t.co/PDI0R1A7hB"
+            },
+            {
+              "display_url": "pic.x.com/PDI0R1A7hB",
+              "end": 61,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+              "media_key": "3_1935681126049484801",
+              "start": 38,
+              "url": "https://t.co/PDI0R1A7hB"
+            },
+            {
+              "display_url": "pic.x.com/PDI0R1A7hB",
+              "end": 61,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1935681140314263961/photo/1",
+              "media_key": "3_1935681126158184448",
+              "start": 38,
+              "url": "https://t.co/PDI0R1A7hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935681140314263961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能量产9分了，谁告诉我怎么满分\n\nI‘m Asian， not Bsian https://t.co/PDI0R1A7hB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪88 单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1073,
+          "like_count": 5766,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 4026
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

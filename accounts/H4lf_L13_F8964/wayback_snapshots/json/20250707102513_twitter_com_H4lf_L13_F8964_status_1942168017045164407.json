@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1942168017045164407",
+    "created_at": "2025-07-07T10:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T11:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942168017045164407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505455084812980225",
+          "start": 3,
+          "username": "xianxia17812177"
+        },
+        {
+          "end": 33,
+          "id": "1462285623943966720",
+          "start": 21,
+          "username": "Ruiuiui2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942168017045164407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941944310662111287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xianxia17812177: @Ruiuiui2002 进字母群被踢了，没钱买封闭胶衣，用的蛇皮袋子，被m举报给群主了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1942168017045164407",
+        "created_at": "2025-07-07T10:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942168017045164407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505455084812980225",
+              "start": 3,
+              "username": "xianxia17812177"
+            },
+            {
+              "end": 33,
+              "id": "1462285623943966720",
+              "start": 21,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942168017045164407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941944310662111287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xianxia17812177: @Ruiuiui2002 进字母群被踢了，没钱买封闭胶衣，用的蛇皮袋子，被m举报给群主了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505455084812980225",
+        "conversation_id": "1941794764275569055",
+        "created_at": "2025-07-06T19:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T20:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941944310662111287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941944310662111287",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4960,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941794764275569055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 进字母群被踢了，没钱买封闭胶衣，用的蛇皮袋子，被m举报给群主了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1105,
+          "like_count": 6230,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4231
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T08:04:04.000Z",
+        "description": "做电子仪式，当赛博神棍",
+        "id": "1505455084812980225",
+        "location": "目兰度大教堂",
+        "name": "福兰度兰魔法师",
+        "pinned_tweet_id": "1595819967408386053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505455263955881984/orV4uCJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 1777,
+          "like_count": 24745,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 971
+        },
+        "username": "xianxia17812177",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用vpn高速安全，9.9一年https://t.co/qyfy1D0mLq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youxuan.wiki/#/register?cod…",
+                "end": 109,
+                "expanded_url": "https://www.youxuan.wiki/#/register?code=yubihd5O",
+                "start": 86,
+                "url": "https://t.co/qyfy1D0mLq"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941521320677658624/DQIFyt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21417,
+          "following_count": 295,
+          "like_count": 39552,
+          "listed_count": 21,
+          "media_count": 2550,
+          "tweet_count": 10282
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      }
+    ]
+  }
+}

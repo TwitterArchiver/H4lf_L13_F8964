@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987186101124222976",
+        "3_1987186101153636352"
+      ],
+      "media_source_tweet_id": [
+        "1987278961836171772",
+        "1987278961836171772"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1987432228444643431",
+    "created_at": "2025-11-09T08:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987432228444643431"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Desert elf",
+          "probability": 0.7294,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 33,
+          "normalized_text": "Wood elf",
+          "probability": 0.656,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1146774049986494470",
+          "start": 3,
+          "username": "SyAILz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXnE2LfvWG",
+          "end": 59,
+          "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+          "media_key": "3_1987186101124222976",
+          "start": 36,
+          "url": "https://t.co/QXnE2LfvWG"
+        },
+        {
+          "display_url": "pic.x.com/QXnE2LfvWG",
+          "end": 59,
+          "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+          "media_key": "3_1987186101153636352",
+          "start": 36,
+          "url": "https://t.co/QXnE2LfvWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987432228444643431",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987278961836171772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SyAILz: Desert elf or Wood elf? https://t.co/QXnE2LfvWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1987186101124222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PnOvwaUAAtzLA.jpg",
+        "width": 866
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1987186101153636352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PnOv3bIAATuyk.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987186101124222976",
+            "3_1987186101153636352"
+          ],
+          "media_source_tweet_id": [
+            "1987278961836171772",
+            "1987278961836171772"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "1987432228444643431",
+        "created_at": "2025-11-09T08:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987432228444643431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Desert elf",
+              "probability": 0.7294,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "Wood elf",
+              "probability": 0.656,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1146774049986494470",
+              "start": 3,
+              "username": "SyAILz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXnE2LfvWG",
+              "end": 59,
+              "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+              "media_key": "3_1987186101124222976",
+              "start": 36,
+              "url": "https://t.co/QXnE2LfvWG"
+            },
+            {
+              "display_url": "pic.x.com/QXnE2LfvWG",
+              "end": 59,
+              "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+              "media_key": "3_1987186101153636352",
+              "start": 36,
+              "url": "https://t.co/QXnE2LfvWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987432228444643431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987278961836171772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SyAILz: Desert elf or Wood elf? https://t.co/QXnE2LfvWG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987186101124222976",
+            "3_1987186101153636352"
+          ]
+        },
+        "author_id": "1146774049986494470",
+        "conversation_id": "1987278961836171772",
+        "created_at": "2025-11-08T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987278961836171772"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Desert elf",
+              "probability": 0.7466,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Wood elf",
+              "probability": 0.7219,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXnE2LfvWG",
+              "end": 47,
+              "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+              "media_key": "3_1987186101124222976",
+              "start": 24,
+              "url": "https://t.co/QXnE2LfvWG"
+            },
+            {
+              "display_url": "pic.x.com/QXnE2LfvWG",
+              "end": 47,
+              "expanded_url": "https://x.com/SyAILz/status/1987278961836171772/photo/1",
+              "media_key": "3_1987186101153636352",
+              "start": 24,
+              "url": "https://t.co/QXnE2LfvWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987278961836171772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 9975,
+          "like_count": 1078,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Desert elf or Wood elf? https://t.co/QXnE2LfvWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1277,
+          "like_count": 7601,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 4926
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T13:33:34.000Z",
+        "description": "ex) @CLOUD9 / @FearXBusan R6S Pro Player | Military & Cosplay🇰🇷🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "CLOUD9"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "FearXBusan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SyAILz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SyAILz",
+                "start": 0,
+                "url": "https://t.co/fhTg93sTMD"
+              }
+            ]
+          }
+        },
+        "id": "1146774049986494470",
+        "name": "SyAIL❄️",
+        "pinned_tweet_id": "1980604984560357386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802870183230590977/zg6nriSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10055,
+          "following_count": 685,
+          "like_count": 19404,
+          "listed_count": 34,
+          "media_count": 276,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/fhTg93sTMD",
+        "username": "SyAILz",
+        "verified": true
+      }
+    ]
+  }
+}

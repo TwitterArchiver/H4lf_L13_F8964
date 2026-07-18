@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1953016060426502226",
+    "created_at": "2025-08-06T21:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953202359754211820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397245389963546624",
+          "start": 0,
+          "username": "PTP_K_MySUN"
+        },
+        {
+          "end": 29,
+          "id": "1830129345899188224",
+          "start": 13,
+          "username": "xiaoyitongxueai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953202359754211820",
+    "in_reply_to_user_id": "1397245389963546624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953092189359358005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PTP_K_MySUN @xiaoyitongxueai 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1953016060426502226",
+        "created_at": "2025-08-06T21:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953202359754211820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397245389963546624",
+              "start": 0,
+              "username": "PTP_K_MySUN"
+            },
+            {
+              "end": 29,
+              "id": "1830129345899188224",
+              "start": 13,
+              "username": "xiaoyitongxueai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953202359754211820",
+        "in_reply_to_user_id": "1397245389963546624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953092189359358005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PTP_K_MySUN @xiaoyitongxueai 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397245389963546624",
+        "conversation_id": "1953016060426502226",
+        "created_at": "2025-08-06T13:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953092189359358005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830129345899188224",
+              "start": 0,
+              "username": "xiaoyitongxueai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953092189359358005",
+        "in_reply_to_user_id": "1830129345899188224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953016060426502226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyitongxueai 建议脱了丝袜让我来🥵🥵🥵👅💦💦💦🦶🏻🦶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946654252220248064/tgb-Bvva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1149,
+          "like_count": 6469,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 4384
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T17:37:30.000Z",
+        "description": "感谢来访/关注❤️这里是澜羽，一个顺其自然，对坏事物无所谓的人。性取向P【泛性恋】，超·足控【裸足万岁！】，独身&不婚主义，犬系男仆，会做的事很多，爱好是垂钓🎣、露营⛺️、骑行🚴🏻🏍、特摄🎥，以及下厨房🥘另外，是Pay money To my Pain的babyZ",
+        "id": "1397245389963546624",
+        "location": "Utopia",
+        "name": "尾刃 澜羽PTPbabyz🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947398498292535299/nkOKC07K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1190,
+          "like_count": 51888,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 11373
+        },
+        "username": "PTP_K_MySUN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "沒什麼可說的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%9B%9E%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%9B%9E%E5%BE%A9%E4%B8%AD%E3%81%AE%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8eJS8orLhn"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "name": "小翌同學✨🎊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927711337771335680/uJDE5ZBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 5482,
+          "like_count": 14374,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 4739
+        },
+        "url": "https://t.co/8eJS8orLhn",
+        "username": "xiaoyitongxueai",
+        "verified": false
+      }
+    ]
+  }
+}

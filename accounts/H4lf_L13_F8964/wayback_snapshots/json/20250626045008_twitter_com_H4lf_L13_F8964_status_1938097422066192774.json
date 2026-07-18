@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1938097422066192774",
+    "created_at": "2025-06-26T04:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938097422066192774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1778263854306205696",
+          "start": 3,
+          "username": "OrienteDawn"
+        },
+        {
+          "end": 33,
+          "id": "1249525383797456898",
+          "start": 17,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938097422066192774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938044652743234004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OrienteDawn: @jakobsonradical “如果你交给最热忱的革命者绝对权力，一年之内他就会比沙皇本人更糟糕。”\n——米哈伊尔·巴枯宁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1938097422066192774",
+        "created_at": "2025-06-26T04:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938097422066192774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1778263854306205696",
+              "start": 3,
+              "username": "OrienteDawn"
+            },
+            {
+              "end": 33,
+              "id": "1249525383797456898",
+              "start": 17,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938097422066192774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938044652743234004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OrienteDawn: @jakobsonradical “如果你交给最热忱的革命者绝对权力，一年之内他就会比沙皇本人更糟糕。”\n——米哈伊尔·巴枯宁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778263854306205696",
+        "conversation_id": "1938034163954987343",
+        "created_at": "2025-06-26T01:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T02:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938044652743234004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938044652743234004",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 772,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938034163954987343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical “如果你交给最热忱的革命者绝对权力，一年之内他就会比沙皇本人更糟糕。”\n——米哈伊尔·巴枯宁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1087,
+          "like_count": 5994,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 4114
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T03:30:23.000Z",
+        "description": "Creator of Triometism 三原主义.\n自由意志主义者(有别于自由主义者)。反对全球化和唯进。否定唯物主义和辩证法。对于历史和现实问题，我不管什么公义正义，不分左右对错，我只看公权力和个人自由的对比消涨，以此决定我的立场。严重支持小政府，反对以任何借口给政府送权送钱。\n插过队的资深美国华街码农。",
+        "id": "1778263854306205696",
+        "location": "United States",
+        "name": "Oriente Dawn (东华晨光)",
+        "pinned_tweet_id": "1792609897865240793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833668592946089984/mVhYyeEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 82,
+          "like_count": 8778,
+          "listed_count": 15,
+          "media_count": 1594,
+          "tweet_count": 12477
+        },
+        "username": "OrienteDawn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241528,
+          "following_count": 1474,
+          "like_count": 41396,
+          "listed_count": 974,
+          "media_count": 18610,
+          "tweet_count": 25801
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027859468088971264",
+        "3_2027859468084744192"
+      ],
+      "media_source_tweet_id": [
+        "2027859477400363012",
+        "2027859477400363012"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2028426320460284343",
+    "created_at": "2026-03-02T11:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028426320460284343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1222581241842630659",
+          "start": 3,
+          "username": "sugarV24744963"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1cxrqwHtR",
+          "end": 52,
+          "expanded_url": "https://x.com/sugarV24744963/status/2027859477400363012/photo/1",
+          "media_key": "3_2027859468088971264",
+          "start": 29,
+          "url": "https://t.co/L1cxrqwHtR"
+        },
+        {
+          "display_url": "pic.x.com/L1cxrqwHtR",
+          "end": 52,
+          "expanded_url": "https://x.com/sugarV24744963/status/2027859477400363012/photo/1",
+          "media_key": "3_2027859468084744192",
+          "start": 29,
+          "url": "https://t.co/L1cxrqwHtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028426320460284343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027859477400363012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sugarV24744963: 给我福！我要福！ https://t.co/L1cxrqwHtR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028426320460284343].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028426320460284343",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028426320460284343"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027859468088971264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRncTHbEAAHT6C.jpg",
+        "width": 1558
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027859468084744192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRncTGakAAFa-j.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027859468088971264",
+            "3_2027859468084744192"
+          ]
+        },
+        "author_id": "1222581241842630659",
+        "conversation_id": "2027859477400363012",
+        "created_at": "2026-02-28T21:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027859477400363012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1cxrqwHtR",
+              "end": 32,
+              "expanded_url": "https://x.com/sugarV24744963/status/2027859477400363012/photo/1",
+              "media_key": "3_2027859468088971264",
+              "start": 9,
+              "url": "https://t.co/L1cxrqwHtR"
+            },
+            {
+              "display_url": "pic.x.com/L1cxrqwHtR",
+              "end": 32,
+              "expanded_url": "https://x.com/sugarV24744963/status/2027859477400363012/photo/1",
+              "media_key": "3_2027859468084744192",
+              "start": 9,
+              "url": "https://t.co/L1cxrqwHtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027859477400363012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 30122,
+          "like_count": 863,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "给我福！我要福！ https://t.co/L1cxrqwHtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1424,
+          "like_count": 8645,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5460
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T18:04:26.000Z",
+        "description": "dy：萧炎V 是本人有认证 此帐号不商用随便发发。 任何关于我的所有收费行为均为冒充，不要上当受骗哦。无门槛，这边尺度会放松一点",
+        "id": "1222581241842630659",
+        "name": "萧炎V",
+        "pinned_tweet_id": "1773638575419953663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770485134363680768/vGzjBK6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14719,
+          "following_count": 991,
+          "like_count": 116,
+          "listed_count": 42,
+          "media_count": 11,
+          "tweet_count": 11
+        },
+        "username": "sugarV24744963",
+        "verified": false
+      }
+    ]
+  }
+}

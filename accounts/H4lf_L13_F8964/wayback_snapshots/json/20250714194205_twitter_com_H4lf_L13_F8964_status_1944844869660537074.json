@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1944844869660537074",
+    "created_at": "2025-07-14T19:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944844869660537074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 27,
+          "id": "1401733664682102786",
+          "start": 16,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944844869660537074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944699716954124786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @mukdengise 国格不该置于人格之上正如主权不该置于人权之上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1944844869660537074",
+        "created_at": "2025-07-14T19:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944844869660537074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 27,
+              "id": "1401733664682102786",
+              "start": 16,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944844869660537074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944699716954124786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @mukdengise 国格不该置于人格之上正如主权不该置于人权之上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "1944685110462472243",
+        "created_at": "2025-07-14T10:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944699716954124786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944699716954124786",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3696,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944685110462472243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 国格不该置于人格之上正如主权不该置于人权之上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1118,
+          "like_count": 6367,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 4302
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 一米九超大只\n左下的，混乱善良的，激跨的\n友左上，右下酌情，右上去似（粉红算右上）\n感性条拉满的理想主义者ENFP\n性征焦虑爆炸中\n不手术就会死所以大概什么时候就死了吧",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762825261480022016/UcauebSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1528,
+          "like_count": 85830,
+          "listed_count": 8,
+          "media_count": 125,
+          "tweet_count": 9913
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/满洲语bot：@manju_gisun/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8490,
+          "following_count": 742,
+          "like_count": 134360,
+          "listed_count": 50,
+          "media_count": 1595,
+          "tweet_count": 20473
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

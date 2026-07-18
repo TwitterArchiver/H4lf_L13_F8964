@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962350462977617920"
+      ],
+      "media_source_tweet_id": [
+        "1962350476009365920"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1962381250842272218",
+    "created_at": "2025-09-01T05:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962381250842272218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "784561242228789248",
+          "start": 3,
+          "username": "MissToluene"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yQNunCCjH2",
+          "end": 43,
+          "expanded_url": "https://x.com/MissToluene/status/1962350476009365920/photo/1",
+          "media_key": "3_1962350462977617920",
+          "start": 20,
+          "url": "https://t.co/yQNunCCjH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962381250842272218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962350476009365920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissToluene: 屌。 https://t.co/yQNunCCjH2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962381250842272218].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962381250842272218",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962381250842272218"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1962350462977617920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzurWV6asAA7jdZ.jpg",
+        "width": 3228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962350462977617920"
+          ]
+        },
+        "author_id": "784561242228789248",
+        "conversation_id": "1962350476009365920",
+        "created_at": "2025-09-01T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962350476009365920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQNunCCjH2",
+              "end": 26,
+              "expanded_url": "https://x.com/MissToluene/status/1962350476009365920/photo/1",
+              "media_key": "3_1962350462977617920",
+              "start": 3,
+              "url": "https://t.co/yQNunCCjH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962350476009365920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2032,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "屌。 https://t.co/yQNunCCjH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1187,
+          "like_count": 6953,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4608
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-08T01:09:11.000Z",
+        "description": "爱人@HanaSliver 🔞ISTP-a，男性下体裸露注意🚪50任意公益捐款/口令红包，随机掉落小视频。接受投喂，🧦/定制请私信，推广直接说内容，不回即婉拒；拒绝发情私信。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "HanaSliver"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+hyySQIM-RlIyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+hyySQIM-RlIyNWMx",
+                "start": 0,
+                "url": "https://t.co/cBaswH3gEH"
+              }
+            ]
+          }
+        },
+        "id": "784561242228789248",
+        "location": "距离你114514m",
+        "name": "对氯甲苯",
+        "pinned_tweet_id": "1934869377477955628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928262672950468608/KunswfEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35021,
+          "following_count": 2153,
+          "like_count": 9034,
+          "listed_count": 171,
+          "media_count": 414,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/cBaswH3gEH",
+        "username": "MissToluene",
+        "verified": false
+      }
+    ]
+  }
+}

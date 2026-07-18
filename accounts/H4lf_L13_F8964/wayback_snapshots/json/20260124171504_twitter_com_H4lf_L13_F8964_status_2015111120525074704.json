@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2014984098570523117",
+    "created_at": "2026-01-24T17:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015111120525074704"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "好美",
+          "probability": 0.5761,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015111120525074704",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014984098570523117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 好美(╥﹏╥)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2014984087719878657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_apWhiboAEaPIo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2014984098570523117",
+        "created_at": "2026-01-24T17:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015111120525074704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "好美",
+              "probability": 0.5761,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015111120525074704",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014984098570523117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 好美(╥﹏╥)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014984087719878657"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2014984098570523117",
+        "created_at": "2026-01-24T08:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014984098570523117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeJulZDEmM",
+              "end": 47,
+              "expanded_url": "https://x.com/Ted_yeet/status/2014984098570523117/photo/1",
+              "media_key": "3_2014984087719878657",
+              "start": 24,
+              "url": "https://t.co/XeJulZDEmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014984098570523117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1232,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要被尼康的亮度气死了😡\n和上一张一样只是提亮了 https://t.co/XeJulZDEmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 1336,
+          "like_count": 8315,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 5246
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "还活着",
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 1530,
+          "like_count": 39687,
+          "listed_count": 12,
+          "media_count": 394,
+          "tweet_count": 8210
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

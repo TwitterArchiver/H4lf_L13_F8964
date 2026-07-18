@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942303069125107716"
+      ],
+      "media_source_tweet_id": [
+        "1942303081213092226"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1943577976672596106",
+    "created_at": "2025-07-11T07:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T08:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943577976672596106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1524609946179964928",
+          "start": 3,
+          "username": "dichan_xyn"
+        },
+        {
+          "end": 27,
+          "id": "1767198260564041728",
+          "start": 16,
+          "username": "wudicaomei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBbK3PjV8j",
+          "end": 61,
+          "expanded_url": "https://x.com/dichan_xyn/status/1942303081213092226/photo/1",
+          "media_key": "3_1942303069125107716",
+          "start": 38,
+          "url": "https://t.co/hBbK3PjV8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943577976672596106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942303081213092226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dichan_xyn: @wudicaomei 好耶，大奈至贴贴🤤 https://t.co/hBbK3PjV8j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943577976672596106].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943577976672596106",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943577976672596106"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942303069125107716",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRyWcFaYAQt04a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942303069125107716"
+          ]
+        },
+        "author_id": "1524609946179964928",
+        "conversation_id": "1942165284116386001",
+        "created_at": "2025-07-07T19:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942303081213092226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767198260564041728",
+              "start": 0,
+              "username": "wudicaomei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBbK3PjV8j",
+              "end": 45,
+              "expanded_url": "https://x.com/dichan_xyn/status/1942303081213092226/photo/1",
+              "media_key": "3_1942303069125107716",
+              "start": 22,
+              "url": "https://t.co/hBbK3PjV8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942303081213092226",
+        "in_reply_to_user_id": "1767198260564041728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942165284116386001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudicaomei 好耶，大奈至贴贴🤤 https://t.co/hBbK3PjV8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1113,
+          "like_count": 6279,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 4265
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T04:38:50.000Z",
+        "description": "🍥Femboy无蛋｜🔞NSFW｜🚪39｜日本語/Eng｜可DM～",
+        "id": "1524609946179964928",
+        "location": "1.14km",
+        "name": "小迪🍥",
+        "pinned_tweet_id": "1941062879983317195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821988522062180353/wXQcfLg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 408,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 351
+        },
+        "username": "dichan_xyn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T14:37:56.000Z",
+        "description": "【🏳️‍⚧️MTX】【Based in 🇯🇵/🇦🇺】💐🥰謝謝你的欣賞和喜愛！！請不要把我搬進牆內！ 🌈無線下不可飛也沒有圖包視頻吶！在這裡只是藝術創作與記錄花期💐的自己嗚嗚！興趣所致🥹⚠️⚠️鏈接與其他推廣真假請自辨哦！！口令🚪咨詢好友位188",
+        "id": "1767198260564041728",
+        "location": "温暖的情欲巴巴波一小窝里",
+        "name": "Natu",
+        "pinned_tweet_id": "1941741974417178721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823003958132326400/SULQmkVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110526,
+          "following_count": 727,
+          "like_count": 11151,
+          "listed_count": 638,
+          "media_count": 394,
+          "tweet_count": 1766
+        },
+        "username": "wudicaomei",
+        "verified": false
+      }
+    ]
+  }
+}

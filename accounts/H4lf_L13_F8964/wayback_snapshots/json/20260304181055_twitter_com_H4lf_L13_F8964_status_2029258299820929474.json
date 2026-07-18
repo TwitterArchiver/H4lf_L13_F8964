@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2029258299820929474",
+    "created_at": "2026-03-04T18:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029258299820929474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1654908701772496896",
+          "start": 3,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029258299820929474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029167204864762136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsumetaiame514: 你国的跨性别临床实践在很多方面都停留在80年代流氓罪标准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2029258299820929474",
+        "created_at": "2026-03-04T18:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029258299820929474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1654908701772496896",
+              "start": 3,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029258299820929474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029167204864762136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsumetaiame514: 你国的跨性别临床实践在很多方面都停留在80年代流氓罪标准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "2029167204864762136",
+        "created_at": "2026-03-04T12:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029167204864762136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0x47653C1C_BE/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/0x47653C1C_BE/status/2028810539179335739",
+              "start": 29,
+              "url": "https://t.co/ehT8EGEOYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029167204864762136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2639,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028810539179335739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你国的跨性别临床实践在很多方面都停留在80年代流氓罪标准 https://t.co/ehT8EGEOYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1426,
+          "like_count": 8668,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 5474
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "无君无父，不学无术",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "pinned_tweet_id": "2025630257077006422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025649131738607616/I8Il_Ibg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5268,
+          "following_count": 1168,
+          "like_count": 20780,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 4025
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

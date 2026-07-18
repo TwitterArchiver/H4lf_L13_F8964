@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979896230130876416"
+      ],
+      "media_source_tweet_id": [
+        "1979896233826320737"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "1980737816846876788",
+    "created_at": "2025-10-21T20:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T21:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980737816846876788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I88tajuP00",
+          "end": 88,
+          "expanded_url": "https://x.com/jingzhny11/status/1979896233826320737/photo/1",
+          "media_key": "3_1979896230130876416",
+          "start": 65,
+          "url": "https://t.co/I88tajuP00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980737816846876788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979896233826320737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: 如果如果窝以后下海了，那么窝的小学同学就可以说“窝小学班里第一麦了”😡所以窝的扔子什么时候长大😭 https://t.co/I88tajuP00"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980737816846876788].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980737816846876788",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980737816846876788"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1979896230130876416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3oBIaEWAAABt7F.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979896230130876416"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "conversation_id": "1979896233826320737",
+        "created_at": "2025-10-19T13:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T14:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979896233826320737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I88tajuP00",
+              "end": 72,
+              "expanded_url": "https://x.com/jingzhny11/status/1979896233826320737/photo/1",
+              "media_key": "3_1979896230130876416",
+              "start": 49,
+              "url": "https://t.co/I88tajuP00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979896233826320737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2340,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果如果窝以后下海了，那么窝的小学同学就可以说“窝小学班里第一麦了”😡所以窝的扔子什么时候长大😭 https://t.co/I88tajuP00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1267,
+          "like_count": 7477,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 4852
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 一米九超大只\n左下的，混乱善良的，激跨的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/所以暴论很多/暴论时是残酷的天使",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 1885,
+          "like_count": 96591,
+          "listed_count": 12,
+          "media_count": 196,
+          "tweet_count": 12651
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

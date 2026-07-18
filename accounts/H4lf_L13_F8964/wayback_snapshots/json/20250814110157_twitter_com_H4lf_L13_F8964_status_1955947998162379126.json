@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1954990841107452407",
+    "created_at": "2025-08-14T11:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955947998162379126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683001001043984384",
+          "start": 0,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955947998162379126",
+    "in_reply_to_user_id": "1683001001043984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955931516388958483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TudouCn24795 更喜欢抱\n生日不能说，你丫给我盒了要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1954990841107452407",
+        "created_at": "2025-08-14T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955947998162379126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955947998162379126",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955931516388958483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 更喜欢抱\n生日不能说，你丫给我盒了要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683001001043984384",
+        "conversation_id": "1954990841107452407",
+        "created_at": "2025-08-14T09:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955931516388958483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790275346899554304",
+              "start": 0,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955931516388958483",
+        "in_reply_to_user_id": "1790275346899554304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954990841107452407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4lf_L13_F8964 1，32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1167,
+          "like_count": 6630,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 4470
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "井芹仁菜/日常推/郑州定居/Pansexuality/Transhumanism/I am a human being👋/This year's spring is warm，和爱人永不分开",
+        "id": "1683001001043984384",
+        "name": "三文鱼贩售中🐟🍻❄Warm Spring",
+        "pinned_tweet_id": "1936896365432594506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875437246762930176/eKcanueu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 410,
+          "like_count": 3411,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1455
+        },
+        "username": "TudouCn24795",
+        "verified": false
+      }
+    ]
+  }
+}

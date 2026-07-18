@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1998604723054870802",
+    "created_at": "2025-12-10T06:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T07:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998639878041690186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998639878041690186",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998604723054870802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 发生什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 960,
+        "media_key": "13_1998604665622343680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998604665622343680/img/kBRHK8LmZSYfKuSE.jpg",
+        "public_metrics": {
+          "view_count": 79
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998604665622343680/vid/avc1/320x426/DuBW5aECqdPL964T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998604665622343680/vid/avc1/480x640/aBZw8jpLYBtpzRZE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998604665622343680/vid/avc1/720x960/aC9m6FYd2EPrahK_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998604665622343680/pl/W20tfhwUrPsfBKdn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1998604723054870802",
+        "created_at": "2025-12-10T06:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998639878041690186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998639878041690186",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998604723054870802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 发生什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998604665622343680"
+          ]
+        },
+        "author_id": "1676572709742944259",
+        "conversation_id": "1998604723054870802",
+        "created_at": "2025-12-10T04:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998604723054870802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhkKPsL23v",
+              "end": 23,
+              "expanded_url": "https://x.com/Technology80420/status/1998604723054870802/video/1",
+              "media_key": "13_1998604665622343680",
+              "start": 0,
+              "url": "https://t.co/OhkKPsL23v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998604723054870802",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OhkKPsL23v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1318,
+          "like_count": 8014,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 5081
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 1148,
+          "like_count": 36681,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1963
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "1941505324726562879",
+    "created_at": "2025-07-05T14:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941505324726562879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1353206248057892864",
+          "start": 3,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941505324726562879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941013509552443797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thelastgreeks: 我最讨厌“屠龙少年终成恶龙”这句话，自以为很深刻，其实幼稚且弱智不堪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "1941505324726562879",
+        "created_at": "2025-07-05T14:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941505324726562879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1353206248057892864",
+              "start": 3,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941505324726562879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941013509552443797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thelastgreeks: 我最讨厌“屠龙少年终成恶龙”这句话，自以为很深刻，其实幼稚且弱智不堪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "conversation_id": "1941013509552443797",
+        "created_at": "2025-07-04T05:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941013509552443797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941013509552443797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 33010,
+          "like_count": 360,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我最讨厌“屠龙少年终成恶龙”这句话，自以为很深刻，其实幼稚且弱智不堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1103,
+          "like_count": 6182,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 4210
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝。希腊是我的家园。希望与孤独而有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中，请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 131,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 108,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1402499684476735490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24757,
+          "following_count": 830,
+          "like_count": 106135,
+          "listed_count": 82,
+          "media_count": 3299,
+          "tweet_count": 40390
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}
