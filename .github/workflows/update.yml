@@ -7,6 +7,10 @@ on:
         description: '是否由首次建档链式触发（true 时跑完会触发全量重试）'
         required: false
         default: 'false'
+      only_index:
+        description: '仅重建索引（true 时跳过所有抓取，只跑 build-index，用于改完置顶/资料后快速生效）'
+        required: false
+        default: 'false'
 
 jobs:
   update-html-image:
