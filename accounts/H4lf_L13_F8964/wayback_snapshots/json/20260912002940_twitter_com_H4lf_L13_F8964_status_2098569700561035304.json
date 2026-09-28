@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2097277912512929862",
+    "created_at": "2026-09-12T00:29:40.000Z",
+    "display_text_range": [
+      25,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098569700561035304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729029095659646976",
+          "start": 0,
+          "username": "FFR_31_MR"
+        },
+        {
+          "end": 24,
+          "id": "1434608964629639168",
+          "start": 11,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098569700561035304",
+    "in_reply_to_user_id": "1729029095659646976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097277912512929862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFR_31_MR @Sharkie_4005 不是……我……啊呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2097277912512929862",
+        "created_at": "2026-09-12T00:29:40.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098569700561035304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729029095659646976",
+              "start": 0,
+              "username": "FFR_31_MR"
+            },
+            {
+              "end": 24,
+              "id": "1434608964629639168",
+              "start": 11,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098569700561035304",
+        "in_reply_to_user_id": "1729029095659646976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097277912512929862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFR_31_MR @Sharkie_4005 不是……我……啊呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729029095659646976",
+        "conversation_id": "2097277912512929862",
+        "created_at": "2026-09-08T10:56:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097277912512929862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1434608964629639168",
+              "start": 11,
+              "username": "Sharkie_4005"
+            },
+            {
+              "end": 40,
+              "id": "1790275346899554304",
+              "start": 25,
+              "username": "H4lf_L13_F8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097277912512929862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有笨蛋在海岸线找不到路@Sharkie_4005 @H4lf_L13_F8964"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "is_identity_verified": false,
+        "location": "The pathway of no return",
+        "most_recent_tweet_id": "2098569700561035304",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1445,
+          "like_count": 8833,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5650
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-27T06:47:25.000Z",
+        "description": "id是战斗妖精雪风 ||  只是一个转喜欢的推和有时发发游戏和日常碎碎念的账号\n祝你开心:)\n可以找我打游戏（主要是wt和eft）和聊天\n有一只叫猫的橘猫",
+        "id": "1729029095659646976",
+        "is_identity_verified": false,
+        "location": "Banshee",
+        "most_recent_tweet_id": "2098399877545992363",
+        "name": "雪风",
+        "pinned_tweet_id": "1875231589388689744",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729029095659646976/1782679962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097757896792743936/JWFZcXqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 545,
+          "like_count": 42469,
+          "listed_count": 1,
+          "media_count": 1228,
+          "tweet_count": 5698
+        },
+        "url": "",
+        "username": "FFR_31_MR",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "｜The maple leaf forever🍁｜♚｜被主流世界拋棄的人｜",
+        "id": "1434608964629639168",
+        "is_identity_verified": false,
+        "location": "Montréal, Québec",
+        "most_recent_tweet_id": "2098559907897250066",
+        "name": "Atlantic_Sea Shark 🍃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434608964629639168/1763436203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 496,
+          "like_count": 35606,
+          "listed_count": 3,
+          "media_count": 946,
+          "tweet_count": 10355
+        },
+        "url": "",
+        "username": "Sharkie_4005",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
