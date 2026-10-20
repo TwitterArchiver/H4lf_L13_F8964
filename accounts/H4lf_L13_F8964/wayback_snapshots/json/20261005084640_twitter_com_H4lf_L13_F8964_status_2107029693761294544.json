@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2107029693761294544",
+    "created_at": "2026-10-05T08:46:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107029693761294544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1574734182156185600",
+          "start": 3,
+          "username": "MyCatCatSoCute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107029693761294544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106677513179328869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyCatCatSoCute: 昨天下午Commander D被警方突襲搜索，搜索過程還口出歧視身心障礙者及對同志羞辱性的言語。\n\n去年2025年台中同志聚會場所被搜索的時候，社群平台竟然還說「警方臥底很犧牲」？真正被犧牲掉的是同志群體的人權才對吧？\n\n2026年了，還…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2107029693761294544",
+        "created_at": "2026-10-05T08:46:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107029693761294544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1574734182156185600",
+              "start": 3,
+              "username": "MyCatCatSoCute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107029693761294544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106677513179328869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MyCatCatSoCute: 昨天下午Commander D被警方突襲搜索，搜索過程還口出歧視身心障礙者及對同志羞辱性的言語。\n\n去年2025年台中同志聚會場所被搜索的時候，社群平台竟然還說「警方臥底很犧牲」？真正被犧牲掉的是同志群體的人權才對吧？\n\n2026年了，還…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574734182156185600",
+        "conversation_id": "2106677513179328869",
+        "created_at": "2026-10-04T09:27:13.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106677513179328869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106677513179328869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 487,
+                "start": 484,
+                "tag": "同志"
+              },
+              {
+                "end": 494,
+                "start": 488,
+                "tag": "LGBTQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hotline.org.tw/news/3628",
+                "end": 482,
+                "expanded_url": "https://hotline.org.tw/news/3628",
+                "start": 459,
+                "url": "https://t.co/6FbaAmOz7w"
+              }
+            ]
+          },
+          "text": "昨天下午Commander D被警方突襲搜索，搜索過程還口出歧視身心障礙者及對同志羞辱性的言語。\n\n去年2025年台中同志聚會場所被搜索的時候，社群平台竟然還說「警方臥底很犧牲」？真正被犧牲掉的是同志群體的人權才對吧？\n\n2026年了，還以為夢回1997年常德街事件。\n\n台灣同志諮詢熱線協會聯合聲明引文：\n\n「二、三十年前，同志店家、同志聚會場所與同志社群長期處在警方監控、臨檢、突襲、騷擾與污名的陰影下。許多人曾因其性傾向、性別氣質、親密關係與情慾生活，被視為可疑、淫亂、不正當，甚至被剝奪安全聚會與自在生活的空間。如此透過警方的公權力壓迫與侵害，也並非遙遠的歷史記憶，去年（2025年）10月，也發生臺中市政府警察局第六分局持搜索票，進入男同志店家盤查與扣押的侵權事件，該店家最後也被迫歇業。\n\n今日，當一間長期提供特定性文化交流空間的店家，再次遭遇大規模搜索、現場顧客被集中盤查，且遭到警方歧視、羞辱與威嚇的經驗時，同志社群感受到的，不只是一次執法行動，而是過往被國家權力侵擾與壓迫的集體記憶被重新喚起。」\n\nhttps://t.co/6FbaAmOz7w\n\n#同志 #LGBTQ+"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6569,
+          "like_count": 186,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "昨天下午Commander D被警方突襲搜索，搜索過程還口出歧視身心障礙者及對同志羞辱性的言語。\n\n去年2025年台中同志聚會場所被搜索的時候，社群平台竟然還說「警方臥底很犧牲」？真正被犧牲掉的是同志群體的人權才對吧？\n\n2026年了，還以為夢回1997年常德街事件。\n\n台灣同志諮詢熱線協會聯合聲明引文："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "is_identity_verified": false,
+        "location": "The pathway of no return",
+        "most_recent_tweet_id": "2107029693761294544",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 1434,
+          "like_count": 8825,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5650
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-27T12:14:55.000Z",
+        "description": "Lesbian｜Librarian｜Literature Lover\n\n10月8日暗時8點初配信！\n性別開講 x 圖書館工作 x 文學閱讀\nhttps://t.co/B9DMLvna0U\n\nL2D：PRISM Customizable Model\n橫幅ㄉ圖書館by @TanHoeChih",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "TanHoeChih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@mycatcatsocut…",
+                "end": 93,
+                "expanded_url": "https://youtube.com/@mycatcatsocutech",
+                "start": 70,
+                "url": "https://t.co/B9DMLvna0U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mycatcatsocute",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mycatcatsocute",
+                "start": 0,
+                "url": "https://t.co/NHj3D6Nvtl"
+              }
+            ]
+          }
+        },
+        "id": "1574734182156185600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107027564288167981",
+        "name": "貓貓卡愛💖🐈女同志圖書館員VTuber📢10月8日暗時8點初配信",
+        "pinned_tweet_id": "2102032646746542209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574734182156185600/1749212735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102039089772105729/vN4qgaPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 2385,
+          "like_count": 33377,
+          "listed_count": 3,
+          "media_count": 642,
+          "tweet_count": 7638
+        },
+        "url": "https://t.co/NHj3D6Nvtl",
+        "username": "MyCatCatSoCute",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

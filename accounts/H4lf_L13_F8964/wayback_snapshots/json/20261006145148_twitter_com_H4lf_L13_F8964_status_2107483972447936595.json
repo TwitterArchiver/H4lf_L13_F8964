@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790275346899554304",
+    "conversation_id": "2107483972447936595",
+    "created_at": "2026-10-06T14:51:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107483972447936595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1132099720564887552",
+          "start": 3,
+          "username": "anyneko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107483972447936595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911805749992526059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anyneko_: 找了点旧闻（问过本人了，并不是很介意）\n\n当时是2020，一晃五年都过去了\n当时的我不想写政治卷子，现在去问ai，\n\n然后发现ai写的像作业帮。\n我当时好歹应该拍作业帮抄上去的。我纯粹是这种文字抄都拒绝抄罢了，所以说我从疫情开始被互联网杀了倒也没毛病…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1911805732237778944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogZLy2WoAAl7b7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790275346899554304",
+        "conversation_id": "2107483972447936595",
+        "created_at": "2026-10-06T14:51:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107483972447936595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1132099720564887552",
+              "start": 3,
+              "username": "anyneko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107483972447936595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911805749992526059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anyneko_: 找了点旧闻（问过本人了，并不是很介意）\n\n当时是2020，一晃五年都过去了\n当时的我不想写政治卷子，现在去问ai，\n\n然后发现ai写的像作业帮。\n我当时好歹应该拍作业帮抄上去的。我纯粹是这种文字抄都拒绝抄罢了，所以说我从疫情开始被互联网杀了倒也没毛病…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911805732237778944"
+          ]
+        },
+        "author_id": "1132099720564887552",
+        "conversation_id": "1911805749992526059",
+        "created_at": "2025-04-14T15:36:25.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2025-04-14T16:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911805749992526059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1bOW6jYoo",
+              "end": 168,
+              "expanded_url": "https://x.com/anyneko_/status/1911805749992526059/photo/1",
+              "media_key": "3_1911805732237778944",
+              "start": 145,
+              "url": "https://t.co/i1bOW6jYoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911805749992526059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1911805732237778944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1507,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找了点旧闻（问过本人了，并不是很介意）\n\n当时是2020，一晃五年都过去了\n当时的我不想写政治卷子，现在去问ai，\n\n然后发现ai写的像作业帮。\n我当时好歹应该拍作业帮抄上去的。我纯粹是这种文字抄都拒绝抄罢了，所以说我从疫情开始被互联网杀了倒也没毛病。\n\n或者说辅助，是我基因本来就不对（ https://t.co/i1bOW6jYoo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "is_identity_verified": false,
+        "location": "The pathway of no return",
+        "most_recent_tweet_id": "2107483972447936595",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1433,
+          "like_count": 8825,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5651
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-25T01:43:01.000Z",
+        "description": "任意猫,19,She/Her. // 去吧，走吧，先走了再说吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aneko.moe",
+                "end": 23,
+                "expanded_url": "https://aneko.moe",
+                "start": 0,
+                "url": "https://t.co/xGqV6P0iDw"
+              }
+            ]
+          }
+        },
+        "id": "1132099720564887552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106393639350087715",
+        "name": "雨山澪",
+        "pinned_tweet_id": "2101784005599465485",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132099720564887552/1748029227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933893203125805056/LlsffB9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9057,
+          "following_count": 2332,
+          "like_count": 107860,
+          "listed_count": 27,
+          "media_count": 762,
+          "tweet_count": 8344
+        },
+        "url": "https://t.co/xGqV6P0iDw",
+        "username": "anyneko_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

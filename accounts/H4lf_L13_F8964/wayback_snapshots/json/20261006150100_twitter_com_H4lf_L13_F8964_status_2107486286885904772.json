@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107466092490715136"
+      ],
+      "media_source_tweet_id": [
+        "2107466148111343780"
+      ]
+    },
+    "author_id": "1790275346899554304",
+    "conversation_id": "2107486286885904772",
+    "created_at": "2026-10-06T15:01:00.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T16:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107486286885904772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938969907548372992",
+          "start": 3,
+          "username": "beyondr3pairr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ElKbHDl56",
+          "end": 52,
+          "expanded_url": "https://x.com/beyondr3pairr/status/2107466148111343780/photo/1",
+          "media_key": "3_2107466092490715136",
+          "start": 29,
+          "url": "https://t.co/0ElKbHDl56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107486286885904772",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107466092490715136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107466148111343780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beyondr3pairr: 第二视角的号主出镜 https://t.co/0ElKbHDl56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2107466092490715136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT85PssW8AAj4MH.png",
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107466092490715136"
+          ],
+          "media_source_tweet_id": [
+            "2107466148111343780"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "conversation_id": "2107486286885904772",
+        "created_at": "2026-10-06T15:01:00.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107486286885904772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938969907548372992",
+              "start": 3,
+              "username": "beyondr3pairr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ElKbHDl56",
+              "end": 52,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2107466148111343780/photo/1",
+              "media_key": "3_2107466092490715136",
+              "start": 29,
+              "url": "https://t.co/0ElKbHDl56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107486286885904772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107466092490715136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107466148111343780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beyondr3pairr: 第二视角的号主出镜 https://t.co/0ElKbHDl56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107466092490715136"
+          ]
+        },
+        "author_id": "1938969907548372992",
+        "conversation_id": "2107466148111343780",
+        "created_at": "2026-10-06T13:40:59.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107466148111343780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ElKbHDl56",
+              "end": 33,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2107466148111343780/photo/1",
+              "media_key": "3_2107466092490715136",
+              "start": 10,
+              "url": "https://t.co/0ElKbHDl56"
+            },
+            {
+              "display_url": "x.com/Oyama_Mihari01…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2064369704698015951",
+              "start": 34,
+              "url": "https://t.co/uZ41ldklqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107466148111343780",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107466092490715136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064369704698015951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二视角的号主出镜 https://t.co/0ElKbHDl56 https://t.co/uZ41ldklqM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "is_identity_verified": false,
+        "location": "The pathway of no return",
+        "most_recent_tweet_id": "2107486286885904772",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1433,
+          "like_count": 8827,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5652
+        },
+        "url": "",
+        "username": "H4lf_L13_F8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nThe Woman Who Sold The World.\nYT/TikTok: @beyondr3pairr\nDiscord: https://t.co/bC8DKdsEdI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "beyondr3pairr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5NB4RN3TZk",
+                "end": 122,
+                "expanded_url": "https://discord.gg/5NB4RN3TZk",
+                "start": 99,
+                "url": "https://t.co/bC8DKdsEdI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7ml2"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "is_identity_verified": false,
+        "location": "Ottawa, Ontario",
+        "most_recent_tweet_id": "2107484716442046697",
+        "name": "拼接碎片 - BeyondR3pairr 🇨🇦",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938969907548372992/1783356999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 171,
+          "like_count": 559,
+          "listed_count": 2,
+          "media_count": 1848,
+          "tweet_count": 10721
+        },
+        "url": "https://t.co/kdPl4R7ml2",
+        "username": "beyondr3pairr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
